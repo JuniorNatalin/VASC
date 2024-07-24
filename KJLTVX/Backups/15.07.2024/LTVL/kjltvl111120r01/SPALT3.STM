@@ -1,0 +1,369 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 6.0">
+<title>Einstellungen Spaltvermessen</title>
+</head>
+<body bgcolor="#C0C0C0">
+<form action="../karel/arc" method="GET" name="arc">
+
+
+
+	
+	<input type="hidden" name="material" value="steel">
+	
+
+<table border="1" width="437" style="border-collapse: collapse" bgcolor="#FFFF99" bordercolor="#000000">
+	<tr>
+		<td width="187" bgcolor="#FFFFCC" bordercolor="#000000" height="75">
+		<font size="4" face="Arial">aktuelle Spaltbreite</font><p>
+		<font size="4" face="Arial">
+		<object classid="clsid:7106065C-0E45-11D3-81B6-0000E206D650" id="FRIPLabel4" width="60" height="30">
+			<param name="Caption" value>
+			<param name="FontName" value="Courier New">
+			<param name="FontSize" value="8">
+			<param name="DataType" value="103">
+			<param name="DataIndex" value="[usersdat]spalt_0">
+			<param name="Interval" value="250">
+			<param name="FastLoad" value="-1">
+			<param name="BackColor" value="65535">
+			<param name="FontBold" value="1">
+			<param name="FontWeight" value="700">
+		</object>
+		</font>
+		</td>
+		<td width="246" height="75" bgcolor="#FFFFCC"><font size="4" face="Arial">aktuelle Schweiﬂnummer</font><p>
+		<font size="4" face="Arial">
+		<object classid="clsid:7106065C-0E45-11D3-81B6-0000E206D650" id="FRIPLabel14" width="60" height="30">
+			<param name="Caption" value>
+			<param name="FontName" value="Courier New">
+			<param name="FontSize" value="8">
+			<param name="DataType" value="103">
+			<param name="DataIndex" value="[usersdat]schw_num_0">
+			<param name="Interval" value="250">
+			<param name="FastLoad" value="-1">
+			<param name="BackColor" value="65535">
+			<param name="FontBold" value="1">
+			<param name="FontWeight" value="700">
+		</object>
+		</font>
+		</td>
+	</tr>
+	<tr>
+		<td width="187" height="75" bgcolor="#FFFFCC" bordercolor="#000000">
+		<font size="4" face="Arial">letzte Spaltbreite</font><p>
+		<font size="4" face="Arial">
+		<object classid="clsid:7106065C-0E45-11D3-81B6-0000E206D650" id="FRIPLabel5" width="60" height="30">
+			<param name="Caption" value>
+			<param name="FontName" value="Courier New">
+			<param name="FontSize" value="8">
+			<param name="DataType" value="103">
+			<param name="DataIndex" value="[usersdat]spalt_1">
+			<param name="Interval" value="250">
+			<param name="FastLoad" value="-1">
+			<param name="BackColor" value="65535">
+			<param name="FontBold" value="1">
+			<param name="FontWeight" value="700">
+		</object>
+		</font>
+		</td>
+		<td height="75" width="246" bgcolor="#FFFFCC"><font size="4" face="Arial">letzte Schweiﬂnummer</font><p>
+		<font size="4" face="Arial">
+		<object classid="clsid:7106065C-0E45-11D3-81B6-0000E206D650" id="FRIPLabel15" width="60" height="30">
+			<param name="Caption" value>
+			<param name="FontName" value="Courier New">
+			<param name="FontSize" value="8">
+			<param name="DataType" value="103">
+			<param name="DataIndex" value="[usersdat]schw_num_1">
+			<param name="Interval" value="250">
+			<param name="FastLoad" value="-1">
+			<param name="BackColor" value="65535">
+			<param name="FontBold" value="1">
+			<param name="FontWeight" value="700">
+		</object>
+		</font>
+		</td>
+	</tr>
+	<tr>
+		<td width="187" bgcolor="#FFFFCC" bordercolor="#000000" height="75">
+		<font size="4" face="Arial">2.letzte Spaltbreite</font><p>
+		<font size="4" face="Arial">
+		<object classid="clsid:7106065C-0E45-11D3-81B6-0000E206D650" id="FRIPLabel6" width="60" height="30">
+			<param name="Caption" value>
+			<param name="FontName" value="Courier New">
+			<param name="FontSize" value="8">
+			<param name="DataType" value="103">
+			<param name="DataIndex" value="[usersdat]spalt_2">
+			<param name="Interval" value="250">
+			<param name="FastLoad" value="-1">
+			<param name="BackColor" value="65535">
+			<param name="FontBold" value="1">
+			<param name="FontWeight" value="700">
+		</object>
+		</font>
+		</td>
+		<td width="246" height="75" bgcolor="#FFFFCC"><font size="4" face="Arial">2.letzte Schweiﬂnummer</font><p>
+		<font size="4" face="Arial">
+		<object classid="clsid:7106065C-0E45-11D3-81B6-0000E206D650" id="FRIPLabel16" width="60" height="30">
+			<param name="Caption" value>
+			<param name="FontName" value="Courier New">
+			<param name="FontSize" value="8">
+			<param name="DataType" value="103">
+			<param name="DataIndex" value="[usersdat]schw_num_2">
+			<param name="Interval" value="250">
+			<param name="FastLoad" value="-1">
+			<param name="BackColor" value="65535">
+			<param name="FontBold" value="1">
+			<param name="FontWeight" value="700">
+		</object>
+		</font>
+		</td>
+	</tr>
+	<tr>
+		<td width="187" height="75" bgcolor="#FFFFCC"><font size="4" face="Arial">3.letzte Spaltbreite</font><p>
+		<font size="4" face="Arial">
+		<object classid="clsid:7106065C-0E45-11D3-81B6-0000E206D650" id="FRIPLabel7" width="60" height="30">
+			<param name="Caption" value>
+			<param name="FontName" value="Courier New">
+			<param name="FontSize" value="8">
+			<param name="DataType" value="103">
+			<param name="DataIndex" value="[usersdat]spalt_3">
+			<param name="Interval" value="250">
+			<param name="FastLoad" value="-1">
+			<param name="BackColor" value="65535">
+			<param name="FontBold" value="1">
+			<param name="FontWeight" value="700">
+		</object>
+		</font>
+		</td>
+		<td width="246" height="75" bgcolor="#FFFFCC"><font size="4" face="Arial">3.letzte Schweiﬂnummer</font><p>
+		<font size="4" face="Arial">
+		<object classid="clsid:7106065C-0E45-11D3-81B6-0000E206D650" id="FRIPLabel17" width="60" height="30">
+			<param name="Caption" value>
+			<param name="FontName" value="Courier New">
+			<param name="FontSize" value="8">
+			<param name="DataType" value="103">
+			<param name="DataIndex" value="[usersdat]schw_num_3">
+			<param name="Interval" value="250">
+			<param name="FastLoad" value="-1">
+			<param name="BackColor" value="65535">
+			<param name="FontBold" value="1">
+			<param name="FontWeight" value="700">
+		</object>
+		</font>
+		</td>
+	</tr>
+	<tr>
+		<td width="187" height="75" bgcolor="#FFFFCC"><font size="4" face="Arial">4.letzte Spaltbreite</font><p>
+		<font size="4" face="Arial">
+		<object classid="clsid:7106065C-0E45-11D3-81B6-0000E206D650" id="FRIPLabel8" width="60" height="30">
+			<param name="Caption" value>
+			<param name="FontName" value="Courier New">
+			<param name="FontSize" value="8">
+			<param name="DataType" value="103">
+			<param name="DataIndex" value="[usersdat]spalt_4">
+			<param name="Interval" value="250">
+			<param name="FastLoad" value="-1">
+			<param name="BackColor" value="65535">
+			<param name="FontBold" value="1">
+			<param name="FontWeight" value="700">
+		</object>
+		</font>
+		</td>
+		<td width="246" height="75" bgcolor="#FFFFCC"><font size="4" face="Arial">4.letzte Schweiﬂnummer</font><p>
+		<font size="4" face="Arial">
+		<object classid="clsid:7106065C-0E45-11D3-81B6-0000E206D650" id="FRIPLabel18" width="60" height="30">
+			<param name="Caption" value>
+			<param name="FontName" value="Courier New">
+			<param name="FontSize" value="8">
+			<param name="DataType" value="103">
+			<param name="DataIndex" value="[usersdat]schw_num_4">
+			<param name="Interval" value="250">
+			<param name="FastLoad" value="-1">
+			<param name="BackColor" value="65535">
+			<param name="FontBold" value="1">
+			<param name="FontWeight" value="700">
+		</object>
+		</font>
+		</td>
+	</tr>
+	<tr>
+		<td width="187" height="75" bgcolor="#FFFFCC"><font size="4" face="Arial">5.letzte Spaltbreite</font><p>
+		<font size="4" face="Arial">
+		<object classid="clsid:7106065C-0E45-11D3-81B6-0000E206D650" id="FRIPLabel9" width="60" height="30">
+			<param name="Caption" value>
+			<param name="FontName" value="Courier New">
+			<param name="FontSize" value="8">
+			<param name="DataType" value="103">
+			<param name="DataIndex" value="[usersdat]spalt_5">
+			<param name="Interval" value="250">
+			<param name="FastLoad" value="-1">
+			<param name="BackColor" value="65535">
+			<param name="FontBold" value="1">
+			<param name="FontWeight" value="700">
+		</object>
+		</font>
+		</td>
+		<td width="246" height="75" bgcolor="#FFFFCC"><font size="4" face="Arial">5.letzte Schweiﬂnummer</font><p>
+		<font size="4" face="Arial">
+		<object classid="clsid:7106065C-0E45-11D3-81B6-0000E206D650" id="FRIPLabel19" width="60" height="30">
+			<param name="Caption" value>
+			<param name="FontName" value="Courier New">
+			<param name="FontSize" value="8">
+			<param name="DataType" value="103">
+			<param name="DataIndex" value="[usersdat]schw_num_5">
+			<param name="Interval" value="250">
+			<param name="FastLoad" value="-1">
+			<param name="BackColor" value="65535">
+			<param name="FontBold" value="1">
+			<param name="FontWeight" value="700">
+		</object>
+		</font>
+		</td>
+	</tr>
+	<tr>
+		<td width="187" height="75" bgcolor="#FFFFCC"><font size="4" face="Arial">6.letzte Spaltbreite</font><p>
+		<font size="4" face="Arial">
+		<object classid="clsid:7106065C-0E45-11D3-81B6-0000E206D650" id="FRIPLabel10" width="60" height="30">
+			<param name="Caption" value>
+			<param name="FontName" value="Courier New">
+			<param name="FontSize" value="8">
+			<param name="DataType" value="103">
+			<param name="DataIndex" value="[usersdat]spalt_6">
+			<param name="Interval" value="250">
+			<param name="FastLoad" value="-1">
+			<param name="BackColor" value="65535">
+			<param name="FontBold" value="1">
+			<param name="FontWeight" value="700">
+		</object>
+		</font>
+		</td>
+		<td width="246" height="75" bgcolor="#FFFFCC"><font size="4" face="Arial">6.letzte Schweiﬂnummer</font><p>
+		<font size="4" face="Arial">
+		<object classid="clsid:7106065C-0E45-11D3-81B6-0000E206D650" id="FRIPLabel20" width="60" height="30">
+			<param name="Caption" value>
+			<param name="FontName" value="Courier New">
+			<param name="FontSize" value="8">
+			<param name="DataType" value="103">
+			<param name="DataIndex" value="[usersdat]schw_num_6">
+			<param name="Interval" value="250">
+			<param name="FastLoad" value="-1">
+			<param name="BackColor" value="65535">
+			<param name="FontBold" value="1">
+			<param name="FontWeight" value="700">
+		</object>
+		</font>
+		</td>
+	</tr>
+	<tr>
+		<td width="187" height="75" bgcolor="#FFFFCC"><font size="4" face="Arial">7.letzte Spaltbreite</font><p>
+		<font size="4" face="Arial">
+		<object classid="clsid:7106065C-0E45-11D3-81B6-0000E206D650" id="FRIPLabel11" width="60" height="30">
+			<param name="Caption" value>
+			<param name="FontName" value="Courier New">
+			<param name="FontSize" value="8">
+			<param name="DataType" value="103">
+			<param name="DataIndex" value="[usersdat]spalt_7">
+			<param name="Interval" value="250">
+			<param name="FastLoad" value="-1">
+			<param name="BackColor" value="65535">
+			<param name="FontBold" value="1">
+			<param name="FontWeight" value="700">
+		</object>
+		</font>
+		</td>
+		<td width="246" height="75" bgcolor="#FFFFCC"><font size="4" face="Arial">7.letzte Schweiﬂnummer</font><p>
+		<font size="4" face="Arial">
+		<object classid="clsid:7106065C-0E45-11D3-81B6-0000E206D650" id="FRIPLabel21" width="60" height="30">
+			<param name="Caption" value>
+			<param name="FontName" value="Courier New">
+			<param name="FontSize" value="8">
+			<param name="DataType" value="103">
+			<param name="DataIndex" value="[usersdat]schw_num_7">
+			<param name="Interval" value="250">
+			<param name="FastLoad" value="-1">
+			<param name="BackColor" value="65535">
+			<param name="FontBold" value="1">
+			<param name="FontWeight" value="700">
+		</object>
+		</font>
+		</td>
+	</tr>
+	<tr>
+		<td width="187" height="75" bgcolor="#FFFFCC"><font size="4" face="Arial">8.letzte Spaltbreite</font><p>
+		<font size="4" face="Arial">
+		<object classid="clsid:7106065C-0E45-11D3-81B6-0000E206D650" id="FRIPLabel12" width="60" height="30">
+			<param name="Caption" value>
+			<param name="FontName" value="Courier New">
+			<param name="FontSize" value="8">
+			<param name="DataType" value="103">
+			<param name="DataIndex" value="[usersdat]spalt_8">
+			<param name="Interval" value="250">
+			<param name="FastLoad" value="-1">
+			<param name="BackColor" value="65535">
+			<param name="FontBold" value="1">
+			<param name="FontWeight" value="700">
+		</object>
+		</font>
+		</td>
+		<td width="246" height="75" bgcolor="#FFFFCC"><font size="4" face="Arial">8.letzte Schweiﬂnummer</font><p>
+		<font size="4" face="Arial">
+		<object classid="clsid:7106065C-0E45-11D3-81B6-0000E206D650" id="FRIPLabel22" width="60" height="30">
+			<param name="Caption" value>
+			<param name="FontName" value="Courier New">
+			<param name="FontSize" value="8">
+			<param name="DataType" value="103">
+			<param name="DataIndex" value="[usersdat]schw_num_8">
+			<param name="Interval" value="250">
+			<param name="FastLoad" value="-1">
+			<param name="BackColor" value="65535">
+			<param name="FontBold" value="1">
+			<param name="FontWeight" value="700">
+		</object>
+		</font>
+		</td>
+	</tr>
+	<tr>
+		<td width="187" height="75" bgcolor="#FFFFCC"><font size="4" face="Arial">9.letzte Spaltbreite</font><p>
+		<font size="4" face="Arial">
+		<object classid="clsid:7106065C-0E45-11D3-81B6-0000E206D650" id="FRIPLabel13" width="60" height="30">
+			<param name="Caption" value>
+			<param name="FontName" value="Courier New">
+			<param name="FontSize" value="8">
+			<param name="DataType" value="103">
+			<param name="DataIndex" value="[usersdat]spalt_9">
+			<param name="Interval" value="250">
+			<param name="FastLoad" value="-1">
+			<param name="BackColor" value="65535">
+			<param name="FontBold" value="1">
+			<param name="FontWeight" value="700">
+		</object>
+		</font>
+		</td>
+		<td width="246" height="75" bgcolor="#FFFFCC"><font size="4" face="Arial">9.letzte Schweiﬂnummer</font><p>
+		<font size="4" face="Arial">
+		<object classid="clsid:7106065C-0E45-11D3-81B6-0000E206D650" id="FRIPLabel23" width="60" height="30">
+			<param name="Caption" value>
+			<param name="FontName" value="Courier New">
+			<param name="FontSize" value="8">
+			<param name="DataType" value="103">
+			<param name="DataIndex" value="[usersdat]schw_num_9">
+			<param name="Interval" value="250">
+			<param name="FastLoad" value="-1">
+			<param name="BackColor" value="65535">
+			<param name="FontBold" value="1">
+			<param name="FontWeight" value="700">
+		</object>
+		</font>
+		</td>
+	</tr>
+</table>
+	
+
+</p>
+</form>
+<p>&nbsp;</p>
+</body>
+</html>

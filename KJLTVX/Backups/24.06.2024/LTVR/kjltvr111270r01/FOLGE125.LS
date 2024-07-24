@@ -1,0 +1,71 @@
+/PROG  FOLGE125
+/ATTR
+OWNER		= AUROM;
+COMMENT		= "Pos. de Inicio";
+PROG_SIZE	= 1180;
+CREATE		= DATE 96-05-30  TIME 22:31:04;
+MODIFIED	= DATE 17-02-24  TIME 04:47:30;
+FILE_NAME	= FOLGE125;
+VERSION		= 0;
+LINE_COUNT	= 6;
+MEMORY_SIZE	= 2268;
+PROTECT		= READ_WRITE;
+TCD:  STACK_SIZE	= 500,
+      TASK_PRIORITY	= 50,
+      TIME_SLICE	= 0,
+      BUSY_LAMP_OFF	= 0,
+      ABORT_REQUEST	= 0,
+      PAUSE_REQUEST	= 0;
+DEFAULT_GROUP	= 1,1,1,1,*;
+CONTROL_CODE	= 00000000 00000000;
+/APPL
+/MN
+   1:  UFRAME_NUM=0 ;
+   2:  UTOOL_NUM=1 ;
+   3:  PAYLOAD[1] ;
+   4:J P[1] 10% CNT0 ACC100 TB   0.00sec,P-SPS    ;
+      1:  IF (DO[12]),CALL MAKRO998 ;
+      2:  DO[15]=ON ;
+      3:  DO[16]=ON ;
+      4:  CALL MAKRO000    ;
+      5:  WAIT (DI[9])    ;
+       ------ ;
+   5:  !Posicion de Inicio ;
+   6:J P[2] 100% CNT0 ACC100 TB   0.00sec,P-SPS    ;
+      1:  TC_ONLINE (ON) ;
+      2:  DO[15]=OFF ;
+      3:  DO[14]=ON ;
+      4:  DO[15]=ON ;
+       ------ ;
+/POS
+P[1]{
+   GP1:
+	UF : 0, UT : 1,		CONFIG : 'N U T, 0, 0, 0',
+	X =  -538.870  mm,	Y =  -938.852  mm,	Z =  1394.448  mm,
+	W =   -37.908 deg,	P =     4.557 deg,	R =  -120.101 deg
+   GP2:
+	UF : 0, UT : 1,	
+	J1=   100.000  mm
+   GP3:
+	UF : 0, UT : 1,	
+	J1=     0.000  mm
+   GP4:
+	UF : 0, UT : 1,	
+	J1=     0.000  mm
+};
+P[2]{
+   GP1:
+	UF : 0, UT : 1,		CONFIG : 'N U T, 0, 0, 0',
+	X =  -538.870  mm,	Y =  -938.852  mm,	Z =  1394.448  mm,
+	W =   -37.908 deg,	P =     4.557 deg,	R =  -120.101 deg
+   GP2:
+	UF : 0, UT : 1,	
+	J1=   100.000  mm
+   GP3:
+	UF : 0, UT : 1,	
+	J1=     0.000  mm
+   GP4:
+	UF : 0, UT : 1,	
+	J1=     0.000  mm
+};
+/END

@@ -1,0 +1,7 @@
+!
+! This file contains the information to set the extended axis without axis.
+! it must be loaded to the controller as ext1.dt for this to work.
+! if a ! is encountered the line is ignored, thus a question will be asked.
+!
+hw_strt 7        -- Hardware start axis
+ENDOFL           -- End of file

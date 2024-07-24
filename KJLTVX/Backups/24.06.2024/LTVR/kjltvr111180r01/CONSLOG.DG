@@ -1,0 +1,823 @@
+ sending ping packet to 1 171
+[rpcm] create TCP/IP RPC service
+[svctcp_create] RPCMAIN Server ready for connections on 3002
+[rpcm] call softparts to register service
+[rpcdaqs] register RPCDAQS service
+[rpcm] wait for connection
+[HTTPD] ready for connections
+[ETH] Quicc0 Host IP: ac1a1e57    [172.26.30.87]
+[ETH] Quicc0 Subnet Mask: ffffff00 [255.255.255.0]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[ETH] Router Name: ROUTER
+[ETH] Router IP: ac1a1e01   [172.26.30.1]
+[ENET] FCC1 throttle disabled
+Ethernet Address Quicc0: 00:e0:e4:33:13:32
+[ETH] switch to full duplex 0
+[PSMR] 0 14000080
+[QRINTR] sending 11000494 11000494
+[QKER] received isrcomm addr 0x11000494
+[ostksock_timeout] F_SHUTDOWN packet sent to MTSL
+[ETH] Quicc1 not configured 43006c
+[Quiccrcv] Error Quicc1 didn't come up 43006c
+Ethernet Address necd: 00:e0:e4:33:13:35
+ll_config : 0x0
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 291 Time 1732ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 9527800
+[dpsetlng] setting cur lang to ENGLISH     
+[tppascon_config] wait for EVB_SPINITDONE
+[SPRUNCMDF] status = 210003; "DELLNG "DEFAULT     "" : 
+[SYINISB0] Loading main system softparts please wait ...
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[DHCP] start, tid 305
+[RSEL] Ethernet event flag received.
+[TELNET] start
+[TELNET] debug address 10ff502c
+[TELNET] Ethernet event flag received.
+[FTP] FTP Interface V5.10
+[FTP] FTP debug addr = 10febb08
+[FTP] Ethernet event flag received.
+[SKMG] Socket Messaging Interface V5.22 @0x10327a3c
+[PRXY] Proxy Server Starting
+[RDM] Robot Discovery Method V6.2003 @0x102e0fd0
+[SMTP] Ethernet event flag received.
+[SNTP] V6.3126 @0x10324190
+[SMB] SMB Interface V7.50
+[SMB] Ethernet event flag received.
+[PRXY] HTTP Proxy Server ready for connections on 8080
+[PXPMON] PMON Proxy Server ready for connections on 60005
+[RDM] Robot Discovery Method ready on port 60007
+[PXRPCM] RPCM Proxy Server ready for connections on 60009
+[PXTLNT] rosip not initialized
+[SYSINISB0] spspload reference time 44355 ms, This Time 8443ms
+[vminit] Loading 3 temp 113838392 remaining of 118650880
+[vminit_loadctx] Loading all files (VMGR/PVAR Suspended)
+[fldevfcb_image] Read of _FRB:\ATCELLIO.PRV in 3 segments size = 87744
+[fldevfcb_image] Read of _FRB:\ATPRGADJ.IRV in 2 segments size = 50340
+[fldevfcb_image] Read of _FRB:\DATEIEN.PRV in 6 segments size = 191780
+[fldevfcb_image] Read of _FRB:\PNIO2BIT.PRV in 3 segments size = 69228
+[fldevfcb_image] Read of _FRB:\PNIO_MAP.PRV in 5 segments size = 132768
+[fldevfcb_image] Read of _FRB:\S-FDCS.IRV in 3 segments size = 68104
+[fldevfcb_image] Read of _FRB:\S-POSREG.PRV in 2 segments size = 35416
+[fldevfcb_image] Read of _FRB:\S-VERS.IRV in 2 segments size = 41788
+[fldevfcb_image] Read of _FRB:\TPFDEF.PRV in 2 segments size = 57984
+[fldevfcb_image] Read of _FRB:\USERSDAT.PRV in 2 segments size = 44964
+[VMINIT_LOADCTX] Resume VMGR/PVAR
+[vminit_loadctx] Done Loading Time = 1465933us
+[vminit] after 3 temp 111832008 remaining of 118650880, took 1466ms
+[SNTP] getsys temp_ip: 0xac14fecb
+[syin]status after spmktsk = 380001
+[Syin] Mobo start 0x380001
+[SYINISUB] Saving user device C1:
+[vcam] wake up
+[vcam] oschggrp(111, 4, 0) 0x00000000
+[vcamvstk_get_sysvars] vmgtsysv('$VSTK_TRIG') 0x00100006
+[SMB] wins server is 0x0
+[mtcomslv] Send BOOT_END
+[ostksock_create] Socket 15 binding to IP port # 60004
+[ostksock_create] T-X IP address <001.001.000.011>
+[ostkey] F_INIT from MTSL
+[SYINISB)] total time 15814
+[syinisub] FPGA config time = 580[ms]
+[syinit] : calling iosetup
+[syin]status after mktsk = 0
+[vcam] FPGA-Ver: 5, BoardRev: 5, BoardAtr: 0
+[vcam] MUX(0): 1ch-3DL NO SNSCHG
+[vcam] No LED Power Supply
+Loading... shipl.ld0 (address:0x94200000 size:0x2000)
+Loading... ps2o.ld0 (address:0x95000000 size:0x100000)
+[ostksock_recvfrom] starting TP watchdog
+[pnio] CP1604 board found : instance 1 base ad000000 isr b
+CMND_SET_GRPNUM_TO_SLV1
+[ionslc] Gp0/1, E, Cate:C2/3F, PCB:01/01
+IOBLDMLS: RSTT failed
+[ripini] Initializing
+[syinisub] Memory manager started
+[syinit] mosetvpr status <0>
+[dfmain] devio_read error
+[EMAIL] XML parse error (app)
+[SMTPXML] DRC option not loaded
+[ERLOG] continue stat = 0x0
+[rcmplg] RCMCFG_BASE $11fdd3f0, rcmcfg_p $11b53528
+[syinisub] VMGR called to register program with MEMO
+[VMotion_addpath] Aliasing independe to dummy
+[VMotion_addpath] Aliasing independent_axes to dummy
+[VMotion_addpath] Aliasing independe to dummy
+[VMotion_addpath] Aliasing independent_axes to dummy
+[VMotion_addpath] Aliasing independe to dummy
+[VMotion_addpath] Aliasing independent_axes to dummy
+[TPGL_InstID] allocated instance 0 1 0 255 
+[TPGL_InstID] allocated instance 1 2 0 255 
+[TPGL_InstID] allocated instance 2 3 0 255 
+[sytimque]: trigger loaded 0
+[CHND] Low Priority Condition Handler started.
+[CHND] init done. starting scanning
+sswrkset ****rspaceg_p is 845dd0a0
+[sswrkset] no cd installed
+[sswrkset] no cd installed
+[sswrkset] no cd installed
+[sswrkset] no cd installed
+[sswrkset] cp installed and enabled = 1
+[sswrkset] rtcp installed and compatibility = 1
+[SYINIT] OCTK started 380001
+"COLD1 for V8.20P/A2 (FD V8.20.70)"
+"MENU for V8.20P/A2 (FD V8.20.70)"
+"MENU complete"
+WEB Server starting
+"COLD1 complete"
+[KCL] failed to locate DEV_KCL_C but continuing
+[vdat] wake up
+[vexe] wake up
+[vlog] oschggrp(115, 4, 0) $00000000
+Web Enhancements installed
+[vtrn] wake up
+[vxmn] wake up
+[ASBN] started
+[vdat] oschggrp(112, 4, 0) 0x00000000
+[vexe] oschggrp(113, 4, 0) 0x00000000
+[vtrn] oschggrp(136, 4, 0) 0x00000000
+[SYINISUB] restored user device C1:
+[vxmn] oschggrp(114, 4, 0) 0x00000000
+[vdat] vision pool size = 0
+[SYINISUB] Saving user device C1:
+[HTTPD] ready for connections
+[DEBUG] Entering moinit
+     [file_ini]compress image creation time:0sec(curr_task:72)
+[sfmdest] null_flg_p:17afbe68
+[wvbefini] wrist weaving not installed
+[wvbefini] wvotf1_p =17AFAA14
+[wvbefini] *WVSCHEXTENB_P = 1
+[pspg_cold]tid = 1
+[pspg_cold]tid = 2
+[pspg_cold]tid = 3
+[pspg_cold]tid = 5
+[pspg_cold]tid = 6
+[pspg_cold]tid = 7
+[pspg_cold]tid = 8
+[pspg_cold]tid = 9
+[pspg_cold]tid = 10
+[pspg_cold]tid = 11
+[pspg_cold]tid = 12
+[pspg_cold]tid = 13
+[IBPGMAIN] Recover state 5 0
+[IBPGMAIN] Recover state 5 0
+[IBPGMAIN] Recover state 5 0
+[IBPGMAIN] Recover state 5 37
+[IBPGMAIN] Recover state 5 1
+[IBPGMAIN] Recover state 5 0
+[IBPGMAIN] Recover state 5 102
+[IBPGMAIN] Recover state 5 0
+[pmgr]shakehand px02, px_starting=8189
+[pmgr]shakehand px03, px_starting=8185
+[IBPGMAIN] Recover state 5 0
+[IBPGMAIN] Recover state 5 208
+[IBPGMAIN] Recover state 5 0
+[IBPGMAIN] Recover state 5 0
+[pmgr]shakehand px05, px_starting=8169
+[pmgr]shakehand px06, px_starting=8137
+[pmgr]shakehand px07, px_starting=8073
+[pmgr]shakehand px08, px_starting=7945
+[pmgr]shakehand px09, px_starting=7689
+[pmgr]shakehand px01, px_starting=7688
+[pspg_cold]tid = 4
+[pmgr]shakehand px010, px_starting=7176
+[pspg_cold]all px started, enable scan
+[pmgr]shakehand px011, px_starting=6152
+[pmgr]shakehand px012, px_starting=4104
+[pmgr]shakehand px013, px_starting=8
+[IBPGMAIN] Recover state 5 9
+[pmgr]shakehand px04, px_starting=0
+ tctasksp is calledi_0.
+ tctasksp is called.
+ tctasksp, inializations done.
+[miinit][1] posted init PKT <17AC8F44> to task<72> (0)
+[miinit][2] posted init PKT <17AC8F44> to task<72> (0)
+[miinit][3] posted init PKT <17AC8F44> to task<72> (0)
+[miinit][4] posted init PKT <17AC8F44> to task<72> (0)
+[mpinit] initialize mb_fp
+[mpinit] after mpdyinit
+[mpinit] ossndpkt <0>
+[mpinit] done mpinit
+[mpinit] initialize mb_fp
+[mpinit] after mpdyinit
+[mpinit] ossndpkt <0>
+[mpinit] done mpinit
+[mpinit] initialize mb_fp
+[mpinit] after mpdyinit
+[mpinit] ossndpkt <0>
+[mpinit] done mpinit
+[mpinit] initialize mb_fp
+[mpinit] after mpdyinit
+[mpinit] ossndpkt <0>
+[mpinit] done mpinit
+[mfinit] start
+[mfinit] normal main svcard mode
+[mfinit] brd=1: aux axis board not found
+[mfinit] brd=2: aux axis board not found
+[syin]status after mktsk = 0
+[tbjtkini] finish wake up stat = 0
+[nectkini] finish wake up  stat = 0
+[moinit] done
+[sfcgtp] ip 101000b, port ea65
+[PMON] Connecting to <001.001.000.011:60005>
+[pmon] client is iPendant
+[PMON] Sent iPendant socket 26 to TKEY
+[ostkey] recevied iPendant socket 26 from PMON
+[mfinidsp] --- enable FSSB ATR init ---
+USB Wireless Acc Recv Thread:Start
+USB Wireless Acc:Start
+[mfinidsp] --- start ITP ---
+[TXPROC] version of iPendant V8.2320
+[miinit] done 
+[miinit] done 
+[miinit] done 
+[miinit] done 
+[TXPROC] core version of iPendant V8.23P/04
+[mfinidsp] waiting for SSTB...
+[mfinidsp] all SSTB become 1
+[syinisub] TICK_OFFSET 11fdd374 to ffffff06
+[quiccrcv] TICK_OFFSET 117dc374 to ffffff06
+STRT_NSLC 0wait till config interrupt comes from FW...1
+wait till config interrupt comes from FW...2
+dprlib_init_channels complete
+FW version 2.6.1.0
+FW. mismatch : 2, 6, 1, 0, required 2, 6, 0, 3
+[pncmmain] ready : pri 152
+[pniomain] fw_version 2.6.1.0, length 7
+PNIO_AUTO_BU_XDB_CHECK
+[syinit] waiting for EVF_ENB_PWF...
+[syinit] osconflg(EVF_ENB_PWF) $16a
+[syinit] oswaiflg(EVF_ENB_PWF) $0
+[syinit] syrset(), status = $0
+ladder is started PMC_EXEC_PWRUP_C 0 
+[syinisub] Starting C shell 0x0
+[syinisub]starting shell $0
+[Shxsp] Ref positions in use
+[Shxsp] Initialize extension
+"COLD2 for V8.20P/A2 (FD V8.20.70)"
+PNIO_CEP_SET_MRP_ROLE_OFF
+"[VACOLD] VACOLD Start"
+"COLD2UPD for V7.20P/41 (FD V7.20.13)"
+" Lade Schnellmenue "
+[RPC] accepted sock 34 from <001.001.000.011>
+[tpmulti] timed wait for 1<15
+"VAG Load"
+"SHELLSTART ausfuehren"
+"[VACOLD] Startup Backup System"
+"[VAG] Device Set :C1:\KJLTVR111180R01\"
+"[VAG] NO UPDATE on C1:"
+"[VACOLD] Startup Password System"
+"COLD2 complete"
+[syinisub] Ready to run ATSHELL
+Ready to run SHELL
+[syinisub] Start Karel shell 0x0
+[SYINISUB] restored user device C1:
+[syinit] Setting VMGR for in-line calls
+[syinit] end
+[syinisub]setting $LOAD_DEVICE to UD1:
+[symonutl] Getting data (0, 1)
+SYINISUB TOTAL TIME 23486
+[SYINISUB] restored user device C1:
+[SPRUNCMDF] status = 210004; "TXPLOAD notused "TPUP" #5" : 
+[SPRUNCMDF] status = 210004; "TXPLOAD notused "TPCO" #5" : 
+[TPSPART] Found KAREL ATMSKCHG 200
+[TPSPART] Found KAREL ATPRGADJ 930
+[TPSPART] Found KAREL ATWAITRL 931
+[TPSPART] Found KAREL ATPRSCRN 932
+[TPSPART] Found KAREL ATPASWRD 935
+[TPKSINIT] dname -K943- not found devstat = 0 cfg $1135d804
+[TPSPART] Found KAREL ATCELLIO 955
+[TPKSINIT] dname -K972- not found devstat = 0 cfg $113329a0
+[TPKSINIT] dname -K973- not found devstat = 0 cfg $11964850
+[TPSPART] Found KAREL ATSOFTPA 992
+[tcspdini] tcsp_vpr_p 0x11320fec
+[syinmpc] received new password config
+[tpmains] Waiting at 39934ms
+[tpmulti] timed wait for 1<15
+[tpmains] ready at 12-JUN-24 19:08:14 
+[tpmains] Ready at 39972ms Total Startup Time ~ 47 seconds
+[tpmains] ready at 12-JUN-24 19:08:14 
+[syin]status after mktsk = 0
+"[VAGTIM] Warmstart !"
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+"[VAGBCKUP]BEGIN"
+[vmisavef] appending segment to MDS1:\SYSVARS.SV
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[syinmpc] received new password config
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to GERMAN      
+[dpimage_unload] Unloading ENGLISH      dictionaries pool_avail = 90750448
+[dpimage_unload] Dictionaries unloaded pool_avail = 91774868
+[dpimage_restctx] Loading GERMAN       dictionaries pool_avail = 91774976
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 289 Time 3440ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 90747620
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to gr
+[syinmpc] setting cur lang to GERMAN      
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to ENGLISH     
+[dpimage_unload] Unloading GERMAN       dictionaries pool_avail = 90746804
+[dpimage_unload] Dictionaries unloaded pool_avail = 91773464
+[dpimage_restctx] Loading ENGLISH      dictionaries pool_avail = 91773316
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 291 Time 3388ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 90748912
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] received new password config
+[syinmpc] received new password config
+[ZIP] INIT
+[ZIP] filstat 0x2000e FRA:\BACKUP\ENGLISH.
+[ZIP] filstat 0x2000e FRA:\BACKUP\GERMAN.
+"[VAGBCKUP]Save done"
+"[VAGBCKUP]END"
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[mcgtmctl] ct=100; pp=5; ppp=$11fdd050
+[mcgtmctl] ct=100; pp=2; ppp=$11fdd050
+[mcgtmctl] ct=100; pp=3; ppp=$11fdd050
+[mcgtmctl] ct=100; pp=1; ppp=$11fdd050
+this run req is detected before program is paused
+[mcgtmctl] ct=100; pp=1; ppp=$11fdd050
+[mcgtmctl] ct=100; pp=1; ppp=$11fdd050
+this run req is detected before program is paused
+[mcgtmctl] ct=100; pp=1; ppp=$11fdd050
+RTUCLASSDiskFindDrive(startpoint == 0,  MaxLUN == 0)
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[mcgtmctl] ct=100; pp=1; ppp=$11fdd050
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+[vmimage_bakfile] FRB:pnio_alm.PRV at 17-JUN-24 19:10:22  (52)
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+this run req is detected before program is paused
+[mcgtmctl] ct=100; pp=1; ppp=$11fdd050
+this run req is detected before program is paused
+[mcgtmctl] ct=100; pp=4; ppp=$11fdd050
+[mcgtmctl] ct=100; pp=1; ppp=$11fdd050
+this run req is detected before program is paused
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+RTUCLASSDiskFindDrive(startpoint == 0,  MaxLUN == 0)
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+RTUCLASSDiskFindDrive(startpoint == 0,  MaxLUN == 0)
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+"[VAGBCKUP]BEGIN"

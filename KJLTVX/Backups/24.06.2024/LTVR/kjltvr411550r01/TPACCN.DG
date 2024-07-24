@@ -1,0 +1,78 @@
+                       TP Accounting
+
+F Number: F173269
+VERSION : HandlingTool         
+$VERSION: V8.2306       4/24/2014
+DATE:     23-JUN-24 00:33 
+
+Menu                         Elapsed Time         #Sel       #Keys
+                     (YY-MM-DD HH:MM:SS)
+Id:  962, 1                    01:04:16           13          60
+Top Menu                             58           17           1
+DCS                         01 07:25:28           22         163
+USER                  06-01-17 22:56:04      1138420       42925
+Prog Select                          24            6          29
+General                              10            4           7
+Id:  381, 5                 10 02:08:12          499         242
+Browser                  01-22 21:56:12        21642       22575
+Id:  936, 1                       17:24            3          44
+Custom                               48           16          77
+Flag                              13:56           20         581
+Variables                   03 01:57:22           13         703
+Master/Cal                           42            5          30
+Hints                    01-28 03:45:16        56909        1143
+File                     02-00 03:17:12         8146        5051
+Alarm Log                   07 12:41:18           61         446
+USER2                       02 12:54:34          371        8872
+Registers                         06:38           22         167
+SELECT                      14 21:15:54         8045        8145
+KAREL Vars               04-27 01:22:36            7          19
+PROFINET                          10:02           15         160
+Position Display               08:40:06           21         577
+Clock                          09:02:30           17          80
+Frames                         23:32:28           23        2357
+Position Reg                04 21:44:28           14         270
+Motion                         11:59:48           19         957
+Passwords                01-25 04:13:32          258        1056
+Port Init                            12            2           0
+Host Comm                      19:18:08           21         504
+Group                       01 10:51:10            5         164
+Tool Offset                          00            1           0
+Digital                  02-18 23:40:28         8263       10458
+BG Logic                       01:02:16            8          90
+EDIT                  01-00-09 06:17:28      1026423       49263
+Id:  1110, 1                02 23:21:50        12791       18251
+System Log                        08:18            4          17
+Marker                      05 10:42:14          216        2470
+Config                         15:07:44            7         106
+Coll Guard                           02            1           0
+Log Book                          01:52            9         626
+Cfg Pwd                              08            1           3
+Motion Log                           20            1         118
+Appl Log                             06            1           8
+Axis                        01 07:55:22           21          35
+Axis Limits                          24            1           0
+Sys Timer                            04            1           0
+File Memory                          04            1           2
+Version ID                           48            2           2
+Analog                               04            1           0
+
+Full Menus:           08-06-23 23:17:20 
+Quick Menus:                         00 
+
+MENU Popup:                                      883
+[ TYPE ] Pullup:                                 103
+
+Functions at COLD start
+F 0                                              107
+F 1                                              410
+CHANGE GROUP                                       2
+F 5                                                6
+F 6                                                5
+TOGGLE REMOTE TCP                                  4
+UNSIM ALL I/O                                     43
+F16                                               55
+F17                                                1
+
+Functions at CTRL start
+START (COLD)                                       8

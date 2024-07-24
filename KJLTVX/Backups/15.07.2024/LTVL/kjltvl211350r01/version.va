@@ -1,0 +1,18 @@
+[VERSION]BACKDATE  Storage: DRAM  Access: RW  : STRING[32] = '15-JUL-24 17:31 '
+
+[VERSION]CONTROLID  Storage: DRAM  Access: RW  : STRING[32] = 'F174736'
+
+[VERSION]FREU_ID  Storage: DRAM  Access: RW  : STRING[32] = 'FDE3.014i'
+
+[VERSION]ROBOT_ID  Storage: DRAM  Access: RW  : STRING[32] = 'R-2000iB/210F'
+
+[VERSION]ROB_NAME  Storage: DRAM  Access: RW  : STRING[32] = 'KJLTVL211350R01'
+
+[VERSION]SW_SERIAL  Storage: DRAM  Access: RW  : STRING[32] = '88150     '
+
+[VERSION]SW_VERSION  Storage: DRAM  Access: RW  : STRING[32] = 'V8.2306       4/24/2014'
+
+[VERSION]TOOLSOFT  Storage: DRAM  Access: RW  : STRING[32] = 'HandlingTool         '
+
+[VERSION]VAG_UPDATE  Storage: DRAM  Access: RW  : STRING[32] = 'KS_24'
+

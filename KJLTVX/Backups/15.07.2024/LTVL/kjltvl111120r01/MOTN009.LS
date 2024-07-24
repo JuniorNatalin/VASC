@@ -1,0 +1,38 @@
+/PROG  MOTN009
+/ATTR
+EIGN.		= MNEDITOR;
+KOMMENTAR	= "WEG STAT EZSP";
+PROG_GRÖßE	= 502;
+ERSTELL		= TAG 10-06-14  ZEIT 12:00:00;
+GEÄNDERT	= TAG 17-03-27  ZEIT 17:04:14;
+DATEI_NAME	= ;
+VERSION		= 0;
+ZEILEN		= 15;
+SPEICHERGR.	= 854;
+SCHUTZ		= LESEN_SCHREIB;
+TCD:  STACK_GRÖßE	= 0,
+      TASK_PRIORITY	= 50,
+      ZEITSCHEIBE	= 0,
+      BUSY_LAMP_AUS	= 0,
+      ABORT_ANFRAGE	= 0,
+      HALT_ANFRAGE	= 0;
+DEFAULT_GRUP	= 1,*,*,*,*;
+KONTROLLCODE	= 00000000 00000000;
+/MN
+   1:  !Weg zurueck STAT EZSP ;
+   2:  !KS24 ;
+   3:  !Version: 01 ;
+   4:  !Stand: 001 ;
+   5:  !letzte  Aenderung  06.02.2015 LZ ;
+   6:  i[819]=($SSR.$SINGLESTEP) ;
+   7:  $SSR.$SINGLESTEP=0 ;
+   8:  FREIG. PREG ;
+   9:  PR[51]=LPOS    ;
+  10:  !PR[52] Ruecksetzen ;
+  11:  AUFRUF PRNULL(52) ;
+  12:  PR[52,1]=i[100]    ;
+  13:  SPERRE PR ;
+  14:J PR[51] 100% CNT100 ACC100 Offset,PR[52]    ;
+  15:  $SSR.$SINGLESTEP=i[819] ;
+/POS
+/END

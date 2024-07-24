@@ -1,0 +1,44 @@
+/PROG  MOTN021
+/ATTR
+OWNER		= MNEDITOR;
+COMMENT		= "EQ EZSP2 ZU";
+PROG_SIZE	= 779;
+CREATE		= DATE 10-07-09  TIME 16:38:02;
+MODIFIED	= DATE 16-06-12  TIME 06:58:04;
+FILE_NAME	= ;
+VERSION		= 0;
+LINE_COUNT	= 15;
+MEMORY_SIZE	= 1263;
+PROTECT		= READ_WRITE;
+TCD:  STACK_SIZE	= 0,
+      TASK_PRIORITY	= 50,
+      TIME_SLICE	= 0,
+      BUSY_LAMP_OFF	= 0,
+      ABORT_REQUEST	= 0,
+      PAUSE_REQUEST	= 0;
+DEFAULT_GROUP	= 1,*,*,*,*;
+CONTROL_CODE	= 00000000 00000000;
+/MN
+   1:  !EQ EZSP2 ZU ;
+   2:  !letzte  Aenderung  16.08.2011 ;
+   3:  SKIP CONDITION DI[878]=ON OR DO[22855]=ON    ;
+   4:  R[820]=($MCR.$GENOVERRIDE) ;
+   5:  OVERRIDE=100% ;
+   6:  $SSR.$SINGLESTEP=0 ;
+   7:  !EQ Start ;
+   8:  CALL EQSTART    ;
+   9:  DO[878]=ON ;
+  10:L P[1] 10mm/sec CNT0 ACC250 Skip,LBL[1]    ;
+  11:  LBL[1] ;
+  12:  OVERRIDE=R[820] ;
+  13:  R[819]=DO[22902]    ;
+  14:  $SSR.$SINGLESTEP=R[819] ;
+  15:  DO[22855]=OFF ;
+/POS
+P[1]{
+   GP1:
+	UF : 1, UT : 2,		CONFIG : 'N U T, 0, 0, -1',
+	X =     0.000  mm,	Y =     0.000  mm,	Z =     0.000  mm,
+	W =     0.000 deg,	P =     0.000 deg,	R =     0.000 deg
+};
+/END

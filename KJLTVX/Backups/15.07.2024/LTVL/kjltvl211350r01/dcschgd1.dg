@@ -1,0 +1,25 @@
+F Number: F174736
+VERSION : HandlingTool         
+$VERSION: V8.2306       4/24/2014
+DATE:     25-OCT-16 06:10 
+DCS Version: V3.3.2
+
+
+--- PROFINET Safety --------------------
+    Status:                       CHGD   
+  1 Enable/Bypass:              ENABLE  
+  2 Safety input size(byte):       8  
+  3 Safety output size(byte):      8  
+  4 F-Address                   1144
+
+--- Signature number (Dec) -------------
+                Current        Latch
+1 Total:         617082370            0
+  Time:25-OCT-16 06:10              None
+2 Base:         1934489856            0
+  Time:25-OCT-16 06:10              None
+3 Pos./Speed:  -1197446763            0
+  Time:01-JUN-16 00:22              None
+4 I/O connect:  1515755871            0
+  Time:01-JUN-16 00:22              None
+

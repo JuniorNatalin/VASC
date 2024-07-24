@@ -1,0 +1,56 @@
+/PROG  UP920
+/ATTR
+OWNER		= MNEDITOR;
+COMMENT		= "Mes.Deadtime E2";
+PROG_SIZE	= 1418;
+CREATE		= DATE 15-12-03  TIME 07:08:40;
+MODIFIED	= DATE 15-12-03  TIME 07:08:40;
+FILE_NAME	= ;
+VERSION		= 0;
+LINE_COUNT	= 20;
+MEMORY_SIZE	= 3110;
+PROTECT		= READ_WRITE;
+TCD:  STACK_SIZE	= 0,
+      TASK_PRIORITY	= 50,
+      TIME_SLICE	= 0,
+      BUSY_LAMP_OFF	= 0,
+      ABORT_REQUEST	= 0,
+      PAUSE_REQUEST	= 0;
+DEFAULT_GROUP	= 1,*,1,*,*;
+CONTROL_CODE	= 00000000 00000000;
+/MN
+   1:  !Measure.Deadtime EZ2 ;
+   2:  !Last Change 30.08.2010 ;
+   3:  !  Change Output Values for MQB ;
+   4:  PR[12]=LPOS    ;
+   5:  PR[13]=LPOS    ;
+   6:  PR[GP3:12,1]=($PARAM_GROUP[3].$LOWERLIMS[1]+20) ;
+   7:  PR[GP3:13,1]=($PARAM_GROUP[3].$UPPERLIMS[1]-10) ;
+   8:J PR[12] 100% CNT0 DB    0.0mm,P-SPS    ;
+      1:  DO[16]=ON ;
+      2:  DO[15]=OFF ;
+      3:  DO[11001]=OFF ;
+      4:  DO[11005]=ON ;
+      5:  DO[11006]=OFF ;
+       ------ ;
+   9:  LOCK PREG ;
+  10:   ;
+  11:  LBL[1] ;
+  12:J PR[12] 100% CNT0 DB    0.0mm,P-SPS    ;
+      1:  DO[11001]=OFF ;
+      2:  WAIT    .50(sec) ;
+      3:   ;
+      4:  DO[11001]=ON ;
+       ------ ;
+  13:J PR[13] 100% CNT0 DB    0.0mm,P-SPS    ;
+       ------ ;
+  14:J PR[12] 100% CNT0 DB    0.0mm,P-SPS    ;
+       ------ ;
+  15:  CALL FLTUNE1    ;
+  16:  WAIT    .50(sec) ;
+  17:  DO[16]=ON ;
+  18:  DO[15]=ON ;
+  19:  DO[11005]=OFF ;
+  20:   ;
+/POS
+/END

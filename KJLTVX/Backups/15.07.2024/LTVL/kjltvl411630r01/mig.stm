@@ -1,0 +1,40 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 6.0">
+<title>Einstellungen MIG</title>
+</head>
+<body bgcolor="#C0C0C0">
+<p align="center">
+<font size="7" face="Arial"><b>MIG TCP</b></font></p>
+<p align="center">
+<font size="5"><b>&nbsp;</b></p>
+<p align="center">
+<object classid="clsid:7106067C-0E45-11D3-81B6-0000E206D650" id="FRIPButtonChange2" width="140" height="40">
+	<param name="Caption" value="Einstellungen">
+	<param name="FontName" value="Arial">
+	<param name="FontSize" value="11">
+	<param name="FastLoad" value="-1">
+	<param name="PageName" value="general.stm">
+	<param name="FontBold" value="1">
+	<param name="FontWeight" value="700">
+	<param name="width" value="140">
+	<param name="height" value="40">
+</object>
+&nbsp;
+<object classid="clsid:7106067C-0E45-11D3-81B6-0000E206D650" id="FRIPButtonChange9" width="140" height="40">
+	<param name="Caption" value="Messdaten">
+	<param name="FontName" value="Arial">
+	<param name="FontSize" value="11">
+	<param name="FastLoad" value="-1">
+	<param name="PageName" value="mig1.stm">
+	<param name="FontBold" value="1">
+	<param name="FontWeight" value="700">
+	<param name="width" value="140">
+	<param name="height" value="40">
+</object>
+</p>
+</body>
+</html>

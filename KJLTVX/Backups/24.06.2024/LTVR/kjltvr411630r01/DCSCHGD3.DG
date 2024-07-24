@@ -1,0 +1,139 @@
+F Number: F173338
+VERSION : HandlingTool         
+$VERSION: V8.2306       4/24/2014
+DATE:     12-SEP-22 22:16 
+DCS Version: V3.3.2
+
+--- Joint Speed Check ------------------
+No.         G A Status    Comment
+  1 ENABLE  1  1 CHGD [BS HALT         ]
+  2 ENABLE  1  2 CHGD [BS HALT         ]
+  3 ENABLE  1  3 CHGD [BS HALT         ]
+  4 ENABLE  1  4 CHGD [BS HALT         ]
+  5 ENABLE  1  5 CHGD [BS HALT         ]
+  6 ENABLE  1  6 CHGD [BS HALT         ]
+  7 DISABLE 1  7 ---- [BS HALT         ]
+  8 DISABLE 1  8 ---- [BS HALT         ]
+  9 DISABLE 1  9 ---- [BS HALT         ]
+ 10 DISABLE 1  1 ---- [                ]
+ 11 DISABLE 1  1 ---- [                ]
+ 12 DISABLE 1  1 ---- [                ]
+ 13 DISABLE 1  1 ---- [                ]
+ 14 DISABLE 1  1 ---- [                ]
+ 15 DISABLE 1  1 ---- [                ]
+ 16 DISABLE 1  1 ---- [                ]
+ 17 DISABLE 1  1 ---- [                ]
+ 18 DISABLE 1  1 ---- [                ]
+ 19 DISABLE 1  1 ---- [                ]
+ 20 DISABLE 1  1 ---- [                ]
+ 21 DISABLE 1  1 ---- [                ]
+ 22 DISABLE 1  1 ---- [                ]
+ 23 DISABLE 1  1 ---- [                ]
+ 24 DISABLE 1  1 ---- [                ]
+ 25 DISABLE 1  1 ---- [                ]
+ 26 DISABLE 1  1 ---- [                ]
+ 27 DISABLE 1  1 ---- [                ]
+ 28 DISABLE 1  1 ---- [                ]
+ 29 DISABLE 1  1 ---- [                ]
+ 30 DISABLE 1  1 ---- [                ]
+ 31 DISABLE 1  1 ---- [                ]
+ 32 DISABLE 1  1 ---- [                ]
+ 33 DISABLE 1  1 ---- [                ]
+ 34 DISABLE 1  1 ---- [                ]
+ 35 DISABLE 1  1 ---- [                ]
+ 36 DISABLE 1  1 ---- [                ]
+ 37 DISABLE 1  1 ---- [                ]
+ 38 DISABLE 1  1 ---- [                ]
+ 39 DISABLE 1  1 ---- [                ]
+ 40 DISABLE 1  1 ---- [                ]
+
+    No.  1              Status:CHGD
+  1 Comment:   [BS HALT                ]
+  2 Enable/Disable:             ENABLE 
+  3 Direction:                      ALL
+  4 Group:                            1
+  5 Axis:                             1
+    Speed(deg/sec):
+      Current:                    0.000
+  6   Limit:                      0.000
+  7 Stop type:         Power-Off stop 
+  8 disabling input: SIR[  7:          ]
+  9 Permissible distance   (deg):    .1
+
+    No.  2              Status:CHGD
+  1 Comment:   [BS HALT                ]
+  2 Enable/Disable:             ENABLE 
+  3 Direction:                      ALL
+  4 Group:                            1
+  5 Axis:                             2
+    Speed(deg/sec):
+      Current:                    0.000
+  6   Limit:                      0.000
+  7 Stop type:         Power-Off stop 
+  8 disabling input: SIR[  7:          ]
+  9 Permissible distance   (deg):    .1
+
+    No.  3              Status:CHGD
+  1 Comment:   [BS HALT                ]
+  2 Enable/Disable:             ENABLE 
+  3 Direction:                      ALL
+  4 Group:                            1
+  5 Axis:                             3
+    Speed(deg/sec):
+      Current:                    0.000
+  6   Limit:                      0.000
+  7 Stop type:         Power-Off stop 
+  8 disabling input: SIR[  7:          ]
+  9 Permissible distance   (deg):    .1
+
+    No.  4              Status:CHGD
+  1 Comment:   [BS HALT                ]
+  2 Enable/Disable:             ENABLE 
+  3 Direction:                      ALL
+  4 Group:                            1
+  5 Axis:                             4
+    Speed(deg/sec):
+      Current:                    0.000
+  6   Limit:                      0.000
+  7 Stop type:         Power-Off stop 
+  8 disabling input: SIR[  7:          ]
+  9 Permissible distance   (deg):    .1
+
+    No.  5              Status:CHGD
+  1 Comment:   [BS HALT                ]
+  2 Enable/Disable:             ENABLE 
+  3 Direction:                      ALL
+  4 Group:                            1
+  5 Axis:                             5
+    Speed(deg/sec):
+      Current:                    0.000
+  6   Limit:                      0.000
+  7 Stop type:         Power-Off stop 
+  8 disabling input: SIR[  7:          ]
+  9 Permissible distance   (deg):    .1
+
+    No.  6              Status:CHGD
+  1 Comment:   [BS HALT                ]
+  2 Enable/Disable:             ENABLE 
+  3 Direction:                      ALL
+  4 Group:                            1
+  5 Axis:                             6
+    Speed(deg/sec):
+      Current:                    0.000
+  6   Limit:                      0.000
+  7 Stop type:         Power-Off stop 
+  8 disabling input: SIR[  7:          ]
+  9 Permissible distance   (deg):    .1
+
+
+--- Signature number (Dec) -------------
+                Current        Latch
+1 Total:       -1651941660            0
+  Time:12-SEP-22 22:16              None
+2 Base:          705224568            0
+  Time:21-JUL-16 00:47              None
+3 Pos./Speed:  -1197446763            0
+  Time:12-SEP-22 22:16              None
+4 I/O connect:  1515755871            0
+  Time:12-JAN-16 04:54              None
+

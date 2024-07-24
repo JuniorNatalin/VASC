@@ -1,0 +1,7 @@
+tb_cart 1           -- cartesian 1. cycle priority 2. path priority
+tb_jnt 1            -- joint 1. cycle priority 2. path priority
+flange_type 1       -- flange type:  1.standard  2:Insulated  3.solution arm
+sol_type 1          -- solution type:  1.standard  2:J3 connector plate
+payload 210         -- max payload
+mech_model 1        -- 1:R-2000iB/210F 2:R-2000iB/210WE
+ENDOFL              -- end of the file

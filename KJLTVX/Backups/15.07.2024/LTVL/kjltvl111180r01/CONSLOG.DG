@@ -1,0 +1,741 @@
+image_bakfile] FRB:pnio_alm.PRV at 12-JUL-24 19:40:58  (52)
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[vmimage_bakfile] FRB:pnio_alm.PRV at 12-JUL-24 20:58:36  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 12-JUL-24 21:09:22  (52)
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[vmimage_bakfile] FRB:pnio_alm.PRV at 13-JUL-24 00:01:36  (52)
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[vmimage_bakfile] FRB:pnio_alm.PRV at 13-JUL-24 00:59:04  (52)
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[vmimage_bakfile] FRB:pnio_alm.PRV at 13-JUL-24 10:30:22  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 13-JUL-24 11:05:18  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 13-JUL-24 11:06:54  (52)
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+"[VAGBCKUP]BEGIN"
+[vmisavef] appending segment to MDS6:\SYSVARS.SV
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[syinmpc] received new password config
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to GERMAN      
+[dpimage_unload] Unloading ENGLISH      dictionaries pool_avail = 90684272
+[dpimage_unload] Dictionaries unloaded pool_avail = 91709484
+[dpimage_restctx] Loading GERMAN       dictionaries pool_avail = 91709808
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 288 Time 3484ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 90682272
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to gr
+[syinmpc] setting cur lang to GERMAN      
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to ENGLISH     
+[dpimage_unload] Unloading GERMAN       dictionaries pool_avail = 90682288
+[dpimage_unload] Dictionaries unloaded pool_avail = 91709452
+[dpimage_restctx] Loading ENGLISH      dictionaries pool_avail = 91709560
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 290 Time 3424ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 90685068
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[syinmpc] received new password config
+[syinmpc] received new password config
+[ZIP] filstat 0x2000e FRA:\BACKUP\ENGLISH.
+[ZIP] filstat 0x2000e FRA:\BACKUP\GERMAN.
+"[VAGBCKUP]Save done"
+"[VAGBCKUP]END"
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[vmimage_bakfile] FRB:pnio_alm.PRV at 13-JUL-24 14:11:52  (52)
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[vmimage_bakfile] FRB:pnio_alm.PRV at 13-JUL-24 19:41:34  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 13-JUL-24 19:44:48  (52)
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+"[VAGBCKUP]BEGIN"
+[vmisavef] appending segment to MDS3:\SYSVARS.SV
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[syinmpc] received new password config
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to GERMAN      
+[dpimage_unload] Unloading ENGLISH      dictionaries pool_avail = 90676676
+[dpimage_unload] Dictionaries unloaded pool_avail = 91701532
+[dpimage_restctx] Loading GERMAN       dictionaries pool_avail = 91701384
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 289 Time 2936ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 90674384
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to gr
+[syinmpc] setting cur lang to GERMAN      
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to ENGLISH     
+[dpimage_unload] Unloading GERMAN       dictionaries pool_avail = 90674184
+[dpimage_unload] Dictionaries unloaded pool_avail = 91701164
+[dpimage_restctx] Loading ENGLISH      dictionaries pool_avail = 91701272
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 291 Time 2896ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 90676632
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[syinmpc] received new password config
+[syinmpc] received new password config
+[ZIP] filstat 0x2000e FRA:\BACKUP\ENGLISH.
+[ZIP] filstat 0x2000e FRA:\BACKUP\GERMAN.
+"[VAGBCKUP]Save done"
+"[VAGBCKUP]END"
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[mcgtmctl] ct=100; pp=1; ppp=$11fdd050
+[vmimage_bakfile] FRB:pnio_alm.PRV at 14-JUL-24 17:04:10  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 14-JUL-24 17:11:32  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 14-JUL-24 18:05:22  (52)
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+RTUCLASSDiskFindDrive(startpoint == 0,  MaxLUN == 0)
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[vmimage_bakfile] FRB:pnio_alm.PRV at 14-JUL-24 22:00:00  (52)
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 02:23:36  (52)
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 03:11:00  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 03:11:38  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 03:12:24  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 03:27:08  (52)
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 04:33:56  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 04:51:22  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 04:53:56  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 04:54:40  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 04:55:48  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 04:59:52  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 05:01:00  (52)
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 05:35:30  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 05:54:06  (52)
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 06:23:40  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 06:23:40  (52)
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 08:44:02  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 09:32:46  (52)
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 10:03:46  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 10:05:30  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 10:19:32  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 10:24:48  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 10:25:30  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 10:26:36  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 10:27:48  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 10:28:18  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 10:29:22  (52)
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 11:00:52  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 11:03:54  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 11:07:04  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 11:10:06  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 11:17:12  (52)
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 12:29:46  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 12:30:30  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 12:30:30  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 12:31:22  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 12:43:08  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 12:54:16  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 12:54:16  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 12:58:18  (52)
+"[VAGBCKUP]BEGIN"
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 13:01:08  (52)
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[vmisavef] appending segment to MDS5:\SYSVARS.SV
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[syinmpc] received new password config
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to GERMAN      
+[dpimage_unload] Unloading ENGLISH      dictionaries pool_avail = 90629912
+[dpimage_unload] Dictionaries unloaded pool_avail = 91654752
+[dpimage_restctx] Loading GERMAN       dictionaries pool_avail = 91654752
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 286 Time 3292ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 90628400
+[syinmpc] setting LANG_SUFFIX to gr
+[syinmpc] setting cur lang to GERMAN      
+[wdwmclng]
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to ENGLISH     
+[dpimage_unload] Unloading GERMAN       dictionaries pool_avail = 90628332
+[dpimage_unload] Dictionaries unloaded pool_avail = 91655368
+[dpimage_restctx] Loading ENGLISH      dictionaries pool_avail = 91654716
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 290 Time 4652ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 90629128
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[wdwmclng]
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[syinmpc] received new password config
+[syinmpc] received new password config
+[ZIP] filstat 0x2000e FRA:\BACKUP\ENGLISH.
+[ZIP] filstat 0x2000e FRA:\BACKUP\GERMAN.
+"[VAGBCKUP]Save done"
+"[VAGBCKUP]END"
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 13:24:16  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 13:26:40  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 13:41:18  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 13:42:26  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 13:45:24  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 13:45:54  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 13:48:12  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 13:55:18  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 13:55:58  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 14:06:14  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 14:10:14  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 14:21:46  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 14:22:34  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 14:22:34  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 14:28:56  (52)
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 14:34:20  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 14:55:52  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 14:59:16  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 15:08:54  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 15:19:38  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 15:19:38  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 15:24:12  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 15:28:40  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 15:29:26  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 15:33:32  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 15:34:16  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 15:35:10  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 15:35:32  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 15:35:32  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 15:36:22  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 15:36:42  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 15:36:42  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 15:37:58  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 15:41:10  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 15:42:10  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 15:42:40  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 15:43:02  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 15:43:14  (52)
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 15:44:20  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 15:49:02  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 15:49:30  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 15:51:24  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 15:51:36  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 16:15:12  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 16:15:44  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 16:16:14  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 16:16:48  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 16:20:34  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 16:25:16  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 16:25:30  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 16:26:36  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 16:27:44  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 16:29:00  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 16:30:08  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 16:30:08  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 16:31:34  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 16:32:26  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 16:32:48  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 16:34:00  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 16:35:34  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 16:37:28  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 16:40:30  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 16:45:12  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 16:45:24  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 16:48:00  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 16:52:46  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 16:53:26  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 16:55:26  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 16:55:48  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 16:55:48  (52)
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 16:59:48  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 17:01:00  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 17:09:06  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 17:15:44  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 17:18:48  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 17:19:20  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 17:21:54  (52)
+[vmimage_bakfile] FRB:pnio_alm.PRV at 15-JUL-24 17:27:04  (52)
+"[VAGBCKUP]BEGIN"

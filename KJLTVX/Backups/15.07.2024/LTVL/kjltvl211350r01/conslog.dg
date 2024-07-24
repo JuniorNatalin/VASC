@@ -1,0 +1,771 @@
+_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[vmisavef] appending segment to MDS6:\SYSVARS.SV
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] received new password config
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to GERMAN      
+[dpimage_unload] Unloading ENGLISH      dictionaries pool_avail = 91024068
+[dpimage_unload] Dictionaries unloaded pool_avail = 92047084
+[dpimage_restctx] Loading GERMAN       dictionaries pool_avail = 92047084
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 288 Time 2956ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 91020648
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to gr
+[syinmpc] setting cur lang to GERMAN      
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to ENGLISH     
+[dpimage_unload] Unloading GERMAN       dictionaries pool_avail = 91026388
+[dpimage_unload] Dictionaries unloaded pool_avail = 92052368
+[dpimage_restctx] Loading ENGLISH      dictionaries pool_avail = 92052368
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 290 Time 2976ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 91029776
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[syinmpc] received new password config
+[syinmpc] received new password config
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420037
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+RTUCLASSDiskFindDrive(startpoint == 0,  MaxLUN == 0)
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+[tpinfilt] No.- is not passed to SPI=190, SCI=1
+[tpinfilt] No.- is not passed to SPI=190, SCI=1
+[tpinfilt] No.- is not passed to SPI=190, SCI=1
+[tpinfilt] No.- is not passed to SPI=190, SCI=1
+[tpinfilt] No.- is not passed to SPI=190, SCI=1
+[tpinfilt] End is not passed to SPI=190, SCI=1
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[vmisavef] appending segment to MDS5:\SYSVARS.SV
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] received new password config
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to GERMAN      
+[dpimage_unload] Unloading ENGLISH      dictionaries pool_avail = 90707588
+[dpimage_unload] Dictionaries unloaded pool_avail = 91730372
+[dpimage_restctx] Loading GERMAN       dictionaries pool_avail = 91730372
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 288 Time 2996ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 90704264
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to gr
+[syinmpc] setting cur lang to GERMAN      
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to ENGLISH     
+[dpimage_unload] Unloading GERMAN       dictionaries pool_avail = 90709804
+[dpimage_unload] Dictionaries unloaded pool_avail = 91735880
+[dpimage_restctx] Loading ENGLISH      dictionaries pool_avail = 91735880
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 290 Time 3032ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 90713080
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[syinmpc] received new password config
+[syinmpc] received new password config
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+callback_for_alarm_indication called with wrong type e
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[vmisavef] appending segment to MDS5:\SYSVARS.SV
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] received new password config
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to GERMAN      
+[dpimage_unload] Unloading ENGLISH      dictionaries pool_avail = 90712724
+[dpimage_unload] Dictionaries unloaded pool_avail = 91735904
+[dpimage_restctx] Loading GERMAN       dictionaries pool_avail = 91735904
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 288 Time 3000ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 90708828
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to gr
+[syinmpc] setting cur lang to GERMAN      
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to ENGLISH     
+[dpimage_unload] Unloading GERMAN       dictionaries pool_avail = 90708688
+[dpimage_unload] Dictionaries unloaded pool_avail = 91735468
+[dpimage_restctx] Loading ENGLISH      dictionaries pool_avail = 91735692
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 290 Time 3024ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 90712108
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[syinmpc] received new password config
+[syinmpc] received new password config
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420037
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+RTUCLASSDiskFindDrive(startpoint == 0,  MaxLUN == 0)
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+[tpinfilt] No.- is not passed to SPI=190, SCI=1
+[tpinfilt] No.- is not passed to SPI=190, SCI=1
+[tpinfilt] No.- is not passed to SPI=190, SCI=1
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[vmisavef] appending segment to MDS3:\SYSVARS.SV
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[syinmpc] received new password config
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to GERMAN      
+[dpimage_unload] Unloading ENGLISH      dictionaries pool_avail = 90400952
+[dpimage_unload] Dictionaries unloaded pool_avail = 91424032
+[dpimage_restctx] Loading GERMAN       dictionaries pool_avail = 91424132
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 288 Time 3040ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 90397364
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to gr
+[syinmpc] setting cur lang to GERMAN      
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to ENGLISH     
+[dpimage_unload] Unloading GERMAN       dictionaries pool_avail = 90403248
+[dpimage_unload] Dictionaries unloaded pool_avail = 91429048
+[dpimage_restctx] Loading ENGLISH      dictionaries pool_avail = 91428940
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 290 Time 3028ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 90406228
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] received new password config
+[syinmpc] received new password config
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420037
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+callback_for_alarm_indication called with wrong type e
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[vmisavef] appending segment to MDS2:\SYSVARS.SV
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] received new password config
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to GERMAN      
+[dpimage_unload] Unloading ENGLISH      dictionaries pool_avail = 90406124
+[dpimage_unload] Dictionaries unloaded pool_avail = 91428716
+[dpimage_restctx] Loading GERMAN       dictionaries pool_avail = 91428716
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 288 Time 3052ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 90402612
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to gr
+[syinmpc] setting cur lang to GERMAN      
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to ENGLISH     
+[dpimage_unload] Unloading GERMAN       dictionaries pool_avail = 90402400
+[dpimage_unload] Dictionaries unloaded pool_avail = 91429116
+[dpimage_restctx] Loading ENGLISH      dictionaries pool_avail = 91429324
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 290 Time 3084ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 90405760
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[syinmpc] received new password config
+[syinmpc] received new password config
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039

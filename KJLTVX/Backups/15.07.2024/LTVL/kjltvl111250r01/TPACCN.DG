@@ -1,0 +1,80 @@
+                       TP Accounting
+
+F Number: F174734
+VERSION : HandlingTool         
+$VERSION: V8.2306       4/24/2014
+DATE:     15-JUL-24 17:31 
+
+Menu                         Elapsed Time         #Sel       #Keys
+                     (YY-MM-DD HH:MM:SS)
+Id:  962, 1                       20:38           13         110
+PROFINET                    03 20:24:22           26         201
+File                     02-18 10:55:18         2418        3833
+Top Menu                          01:16           24          13
+DCS                            04:56:02           33         602
+USER                  06-02-22 12:27:54      1079112       21303
+Alarm Log                   02 15:08:12          120         685
+Clock                          20:52:34           22         158
+Variables                   01 13:32:00           23         761
+Hints                    01-25 14:12:26        55802        1622
+Flag                        10 21:08:14          227        1257
+Custom                               46           12          54
+General                              14            3          11
+Id:  381, 5                 14 12:16:14          743         407
+Browser                  01-25 03:50:48         6618        6172
+Id:  936, 1                       15:48            4          67
+Prog Select                          30            8          43
+USER2                       04 01:06:16          326        2744
+Id:  35, 1                           20            4          28
+Axis                              03:02           10          47
+Version ID                        10:48            4          48
+Registers                         04:44           33         402
+SELECT                      25 11:36:34         2799        7061
+KAREL Vars                           42            3          76
+Digital                     22 05:00:18          476        3678
+Position Display         03-12 06:55:22          178        3377
+Position Reg                02 04:56:24          212         647
+Passwords                01-18 00:46:14          461        2361
+Host Comm                      17:27:02           20         255
+Frames                      04 22:08:20           38        1333
+BG Logic                          39:08           14          86
+Motion                         02:00:34           14         353
+EDIT                  01-02-14 06:09:54      1012411       40189
+Id:  1110, 1                02 09:05:42          865        6235
+Config                            02:20            9         289
+Group                          01:27:40           14         535
+Motion Log                        01:00            5          67
+Axis Limits                       05:08            3         195
+Macros                               02            1           0
+TCP Speed                            04            1           0
+Log Book                          39:28           11        4431
+Tool Offset                       07:30            6         272
+Marker                            01:38            7          58
+Prg Timer                         02:40           15          11
+4D Display                        01:34            1          77
+System Log                           42            2         127
+Cfg Pwd                              06            1           3
+Appl Log                             02            1           2
+Sys Timer                            26            1           0
+Coll Guard                           32            1           1
+
+Full Menus:           08-07-17 10:15:54 
+Quick Menus:                         00 
+
+MENU Popup:                                      937
+[ TYPE ] Pullup:                                 100
+
+Functions at COLD start
+F 0                                              155
+F 1                                              457
+F 5                                               65
+TOGGLE REMOTE TCP                                  6
+CHANGE RTCP FRAME                                  1
+PRINT                                              2
+Disable FWD/BWD                                    2
+UNSIM ALL I/O                                     45
+F16                                               76
+F17                                                3
+
+Functions at CTRL start
+START (COLD)                                      10

@@ -1,0 +1,935 @@
+[*SYSTEM*]$CELL_FLOOR  Storage: SHADOW  Access: RW  : POSITION = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+
+[*SYSTEM*]$CELL_GRP  Storage: SHADOW  Access: RW  : ARRAY[4] OF CELL_GRP_T
+     Field: $CELL_GRP[1].$CELL_FRAME Access: RW: POSITION = 
+  Group: 0   Config: 
+  X:     0.000   Y:     0.000   Z:   670.000
+  W:     0.000   P:     0.000   R:     0.000
+     Field: $CELL_GRP[1].$MOUNT_LOC Access: RW: POSITION = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:   670.000
+  W:     0.000   P:     0.000   R:     0.000
+     Field: $CELL_GRP[1].$CF_METHOD Access: RW: INTEGER = 1
+     Field: $CELL_GRP[1].$CPY_SRC_IDX Access: RW: INTEGER = Uninitialized
+     Field: $CELL_GRP[1].$PLATFRM_OFS Access: RW: POSITION = Uninitialized
+     Field: $CELL_GRP[1].$PLATFRM_DIM Access: RW: VECTOR = Uninitialized
+     Field: $CELL_GRP[1].$BASE_OFFSET Access: RW: POSITION = Uninitialized
+     Field: $CELL_GRP[1].$BASE_DIM Access: RW: VECTOR = Uninitialized
+     Field: $CELL_GRP[1].$AUX_ORDER  ARRAY[3] OF INTEGER
+      [1] = Uninitialized
+      [2] = Uninitialized
+      [3] = Uninitialized
+     Field: $CELL_GRP[1].$AUX_XYZ_MAP  ARRAY[3] OF INTEGER
+      [1] = Uninitialized
+      [2] = Uninitialized
+      [3] = Uninitialized
+     Field: $CELL_GRP[1].$AUX_OFFSET  ARRAY[3] OF REAL
+      [1] = Uninitialized
+      [2] = Uninitialized
+      [3] = Uninitialized
+     Field: $CELL_GRP[1].$AUX_LENGTH  ARRAY[3] OF REAL
+      [1] = Uninitialized
+      [2] = Uninitialized
+      [3] = Uninitialized
+     Field: $CELL_GRP[1].$ATTCH_GP_MS Access: RW: INTEGER = Uninitialized
+     Field: $CELL_GRP[1].$AUTORAIL Access: RW: INTEGER = Uninitialized
+     Field: $CELL_GRP[2].$CELL_FRAME Access: RW: POSITION = 
+  Group: 0   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+     Field: $CELL_GRP[2].$MOUNT_LOC Access: RW: POSITION = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+     Field: $CELL_GRP[2].$CF_METHOD Access: RW: INTEGER = 1
+     Field: $CELL_GRP[2].$CPY_SRC_IDX Access: RW: INTEGER = Uninitialized
+     Field: $CELL_GRP[2].$PLATFRM_OFS Access: RW: POSITION = Uninitialized
+     Field: $CELL_GRP[2].$PLATFRM_DIM Access: RW: VECTOR = Uninitialized
+     Field: $CELL_GRP[2].$BASE_OFFSET Access: RW: POSITION = Uninitialized
+     Field: $CELL_GRP[2].$BASE_DIM Access: RW: VECTOR = Uninitialized
+     Field: $CELL_GRP[2].$AUX_ORDER  ARRAY[3] OF INTEGER
+      [1] = Uninitialized
+      [2] = Uninitialized
+      [3] = Uninitialized
+     Field: $CELL_GRP[2].$AUX_XYZ_MAP  ARRAY[3] OF INTEGER
+      [1] = Uninitialized
+      [2] = Uninitialized
+      [3] = Uninitialized
+     Field: $CELL_GRP[2].$AUX_OFFSET  ARRAY[3] OF REAL
+      [1] = Uninitialized
+      [2] = Uninitialized
+      [3] = Uninitialized
+     Field: $CELL_GRP[2].$AUX_LENGTH  ARRAY[3] OF REAL
+      [1] = Uninitialized
+      [2] = Uninitialized
+      [3] = Uninitialized
+     Field: $CELL_GRP[2].$ATTCH_GP_MS Access: RW: INTEGER = Uninitialized
+     Field: $CELL_GRP[2].$AUTORAIL Access: RW: INTEGER = Uninitialized
+     Field: $CELL_GRP[3].$CELL_FRAME Access: RW: POSITION = 
+  Group: 0   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+     Field: $CELL_GRP[3].$MOUNT_LOC Access: RW: POSITION = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+     Field: $CELL_GRP[3].$CF_METHOD Access: RW: INTEGER = 1
+     Field: $CELL_GRP[3].$CPY_SRC_IDX Access: RW: INTEGER = Uninitialized
+     Field: $CELL_GRP[3].$PLATFRM_OFS Access: RW: POSITION = Uninitialized
+     Field: $CELL_GRP[3].$PLATFRM_DIM Access: RW: VECTOR = Uninitialized
+     Field: $CELL_GRP[3].$BASE_OFFSET Access: RW: POSITION = Uninitialized
+     Field: $CELL_GRP[3].$BASE_DIM Access: RW: VECTOR = Uninitialized
+     Field: $CELL_GRP[3].$AUX_ORDER  ARRAY[3] OF INTEGER
+      [1] = Uninitialized
+      [2] = Uninitialized
+      [3] = Uninitialized
+     Field: $CELL_GRP[3].$AUX_XYZ_MAP  ARRAY[3] OF INTEGER
+      [1] = Uninitialized
+      [2] = Uninitialized
+      [3] = Uninitialized
+     Field: $CELL_GRP[3].$AUX_OFFSET  ARRAY[3] OF REAL
+      [1] = Uninitialized
+      [2] = Uninitialized
+      [3] = Uninitialized
+     Field: $CELL_GRP[3].$AUX_LENGTH  ARRAY[3] OF REAL
+      [1] = Uninitialized
+      [2] = Uninitialized
+      [3] = Uninitialized
+     Field: $CELL_GRP[3].$ATTCH_GP_MS Access: RW: INTEGER = Uninitialized
+     Field: $CELL_GRP[3].$AUTORAIL Access: RW: INTEGER = Uninitialized
+     Field: $CELL_GRP[4].$CELL_FRAME Access: RW: POSITION = 
+  Group: 0   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+     Field: $CELL_GRP[4].$MOUNT_LOC Access: RW: POSITION = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+     Field: $CELL_GRP[4].$CF_METHOD Access: RW: INTEGER = 1
+     Field: $CELL_GRP[4].$CPY_SRC_IDX Access: RW: INTEGER = Uninitialized
+     Field: $CELL_GRP[4].$PLATFRM_OFS Access: RW: POSITION = Uninitialized
+     Field: $CELL_GRP[4].$PLATFRM_DIM Access: RW: VECTOR = Uninitialized
+     Field: $CELL_GRP[4].$BASE_OFFSET Access: RW: POSITION = Uninitialized
+     Field: $CELL_GRP[4].$BASE_DIM Access: RW: VECTOR = Uninitialized
+     Field: $CELL_GRP[4].$AUX_ORDER  ARRAY[3] OF INTEGER
+      [1] = Uninitialized
+      [2] = Uninitialized
+      [3] = Uninitialized
+     Field: $CELL_GRP[4].$AUX_XYZ_MAP  ARRAY[3] OF INTEGER
+      [1] = Uninitialized
+      [2] = Uninitialized
+      [3] = Uninitialized
+     Field: $CELL_GRP[4].$AUX_OFFSET  ARRAY[3] OF REAL
+      [1] = Uninitialized
+      [2] = Uninitialized
+      [3] = Uninitialized
+     Field: $CELL_GRP[4].$AUX_LENGTH  ARRAY[3] OF REAL
+      [1] = Uninitialized
+      [2] = Uninitialized
+      [3] = Uninitialized
+     Field: $CELL_GRP[4].$ATTCH_GP_MS Access: RW: INTEGER = Uninitialized
+     Field: $CELL_GRP[4].$AUTORAIL Access: RW: INTEGER = Uninitialized
+
+[*SYSTEM*]$MNUFRAME  Storage: SHADOW  Access: RW  : ARRAY[4,20] OF POSITION
+    [1,1] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:  -590.590   Y: -2188.900   Z:  -118.070
+  W:      .000   P:    45.000   R:    35.000
+    [1,2] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [1,3] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [1,4] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [1,5] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [1,6] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [1,7] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [1,8] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [1,9] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [1,10] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [1,11] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [1,12] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [1,13] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [1,14] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [1,15] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [1,16] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [1,17] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [1,18] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [1,19] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [1,20] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,1] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,2] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,3] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,4] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,5] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,6] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,7] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,8] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,9] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,10] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,11] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,12] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,13] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,14] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,15] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,16] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,17] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,18] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,19] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,20] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,1] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,2] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,3] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,4] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,5] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,6] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,7] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,8] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,9] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,10] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,11] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,12] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,13] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,14] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,15] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,16] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,17] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,18] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,19] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,20] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,1] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,2] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,3] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,4] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,5] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,6] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,7] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,8] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,9] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,10] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,11] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,12] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,13] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,14] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,15] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,16] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,17] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,18] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,19] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,20] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+
+[*SYSTEM*]$MNUFRAMENUM  Storage: SHADOW  Access: RW  : ARRAY[4] OF BYTE
+  [1] = 0
+  [2] = 0
+  [3] = 0
+  [4] = 0
+
+[*SYSTEM*]$MNUTOOL  Storage: SHADOW  Access: RW  : ARRAY[4,29] OF POSITION
+    [1,1] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:  -538.873   Y:   -39.908   Z:   170.787
+  W:   125.260   P:   -30.000   R:   125.260
+    [1,2] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:  -204.680   Y:   506.290   Z:   352.820
+  W:   135.000   P:   -45.000   R:     0.000
+    [1,3] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [1,4] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:  -204.680   Y:   506.290   Z:   352.820
+  W:   135.000   P:   -45.000   R:     0.000
+    [1,5] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [1,6] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [1,7] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [1,8] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [1,9] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [1,10] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [1,11] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [1,12] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [1,13] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [1,14] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [1,15] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [1,16] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [1,17] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [1,18] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [1,19] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [1,20] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [1,21] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [1,22] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [1,23] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [1,24] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [1,25] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [1,26] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [1,27] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [1,28] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [1,29] = 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,1] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,2] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,3] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,4] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,5] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,6] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,7] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,8] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,9] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,10] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,11] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,12] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,13] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,14] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,15] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,16] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,17] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,18] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,19] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,20] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,21] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,22] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,23] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,24] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,25] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,26] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,27] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,28] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [2,29] = 
+  Group: 2   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,1] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,2] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,3] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,4] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,5] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,6] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,7] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,8] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,9] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,10] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,11] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,12] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,13] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,14] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,15] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,16] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,17] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,18] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,19] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,20] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,21] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,22] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,23] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,24] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,25] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,26] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,27] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,28] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [3,29] = 
+  Group: 3   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,1] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,2] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,3] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,4] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,5] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,6] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,7] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,8] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,9] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,10] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,11] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,12] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,13] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,14] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,15] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,16] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,17] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,18] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,19] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,20] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,21] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,22] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,23] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,24] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,25] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,26] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,27] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,28] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+    [4,29] = 
+  Group: 4   Config: 
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+
+[*SYSTEM*]$MNUTOOLNUM  Storage: SHADOW  Access: RW  : ARRAY[4] OF BYTE
+  [1] = 1
+  [2] = 1
+  [3] = 1
+  [4] = 1
+

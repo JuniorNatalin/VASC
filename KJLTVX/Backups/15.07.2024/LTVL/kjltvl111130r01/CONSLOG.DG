@@ -1,0 +1,777 @@
+nn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+"[VAGBCKUP]BEGIN"
+[vmisavef] appending segment to MDS8:\SYSVARS.SV
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[syinmpc] received new password config
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to GERMAN      
+[dpimage_unload] Unloading ENGLISH      dictionaries pool_avail = 90628848
+[dpimage_unload] Dictionaries unloaded pool_avail = 91654368
+[dpimage_restctx] Loading GERMAN       dictionaries pool_avail = 91654680
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 288 Time 3384ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 90627528
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to gr
+[syinmpc] setting cur lang to GERMAN      
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to ENGLISH     
+[dpimage_unload] Unloading GERMAN       dictionaries pool_avail = 90626880
+[dpimage_unload] Dictionaries unloaded pool_avail = 91653908
+[dpimage_restctx] Loading ENGLISH      dictionaries pool_avail = 91654116
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 290 Time 3396ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 90629196
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[syinmpc] received new password config
+[syinmpc] received new password config
+[ZIP] filstat 0x2000e FRA:\BACKUP\ENGLISH.
+[ZIP] filstat 0x2000e FRA:\BACKUP\GERMAN.
+"[VAGBCKUP]Save done"
+"[VAGBCKUP]END"
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+"[VAGBCKUP]BEGIN"
+[vmisavef] appending segment to MDS7:\SYSVARS.SV
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[syinmpc] received new password config
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to GERMAN      
+[dpimage_unload] Unloading ENGLISH      dictionaries pool_avail = 90628448
+[dpimage_unload] Dictionaries unloaded pool_avail = 91654412
+[dpimage_restctx] Loading GERMAN       dictionaries pool_avail = 91654628
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 288 Time 3444ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 90627064
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to gr
+[syinmpc] setting cur lang to GERMAN      
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to ENGLISH     
+[dpimage_unload] Unloading GERMAN       dictionaries pool_avail = 90626764
+[dpimage_unload] Dictionaries unloaded pool_avail = 91653592
+[dpimage_restctx] Loading ENGLISH      dictionaries pool_avail = 91653592
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 290 Time 3360ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 90629336
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] received new password config
+[syinmpc] received new password config
+[ZIP] filstat 0x2000e FRA:\BACKUP\ENGLISH.
+[ZIP] filstat 0x2000e FRA:\BACKUP\GERMAN.
+"[VAGBCKUP]Save done"
+"[VAGBCKUP]END"
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+"[VAGBCKUP]BEGIN"
+[vmisavef] appending segment to MDS6:\SYSVARS.SV
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[syinmpc] received new password config
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to GERMAN      
+[dpimage_unload] Unloading ENGLISH      dictionaries pool_avail = 90690316
+[dpimage_unload] Dictionaries unloaded pool_avail = 91715432
+[dpimage_restctx] Loading GERMAN       dictionaries pool_avail = 91715540
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 288 Time 3256ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 90688324
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to gr
+[syinmpc] setting cur lang to GERMAN      
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to ENGLISH     
+[dpimage_unload] Unloading GERMAN       dictionaries pool_avail = 90688052
+[dpimage_unload] Dictionaries unloaded pool_avail = 91715064
+[dpimage_restctx] Loading ENGLISH      dictionaries pool_avail = 91715172
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 290 Time 3180ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 90690508
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[syinmpc] received new password config
+[syinmpc] received new password config
+[ZIP] filstat 0x2000e FRA:\BACKUP\ENGLISH.
+[ZIP] filstat 0x2000e FRA:\BACKUP\GERMAN.
+"[VAGBCKUP]Save done"
+"[VAGBCKUP]END"
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+"[VAGBCKUP]BEGIN"
+[vmisavef] appending segment to MDS1:\SYSVARS.SV
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[syinmpc] received new password config
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to GERMAN      
+[dpimage_unload] Unloading ENGLISH      dictionaries pool_avail = 90626908
+[dpimage_unload] Dictionaries unloaded pool_avail = 91651664
+[dpimage_restctx] Loading GERMAN       dictionaries pool_avail = 91651664
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 289 Time 3608ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 90624624
+[syinmpc] setting LANG_SUFFIX to gr
+[syinmpc] setting cur lang to GERMAN      
+[wdwmclng]
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to ENGLISH     
+[dpimage_unload] Unloading GERMAN       dictionaries pool_avail = 90624780
+[dpimage_unload] Dictionaries unloaded pool_avail = 91651720
+[dpimage_restctx] Loading ENGLISH      dictionaries pool_avail = 91651828
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 289 Time 3036ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 90627164
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[wdwmclng]
+[dpsetlng] setting cur lang to ENGLISH     
+[syinmpc] setting LANG_SUFFIX to eg
+[wdwmclng]
+[syinmpc] setting cur lang to ENGLISH     
+[syinmpc] received new password config
+[syinmpc] received new password config
+[ZIP] filstat 0x2000e FRA:\BACKUP\ENGLISH.
+[ZIP] filstat 0x2000e FRA:\BACKUP\GERMAN.
+"[VAGBCKUP]Save done"
+"[VAGBCKUP]END"
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+"[VAGBCKUP]BEGIN"
+[vmisavef] appending segment to MDS4:\SYSVARS.SV
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[syinmpc] received new password config
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to GERMAN      
+[dpimage_unload] Unloading ENGLISH      dictionaries pool_avail = 90626908
+[dpimage_unload] Dictionaries unloaded pool_avail = 91652116
+[dpimage_restctx] Loading GERMAN       dictionaries pool_avail = 91652116
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 288 Time 4092ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 90626428
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to gr
+[syinmpc] setting cur lang to GERMAN      
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to ENGLISH     
+[dpimage_unload] Unloading GERMAN       dictionaries pool_avail = 90627060
+[dpimage_unload] Dictionaries unloaded pool_avail = 91654564
+[dpimage_restctx] Loading ENGLISH      dictionaries pool_avail = 91654640
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 287 Time 3460ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 90628500
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[wdwmclng]
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[syinmpc] received new password config
+[syinmpc] received new password config
+[ZIP] filstat 0x2000e FRA:\BACKUP\ENGLISH.
+[ZIP] filstat 0x2000e FRA:\BACKUP\GERMAN.
+"[VAGBCKUP]Save done"
+"[VAGBCKUP]END"
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+"[VAGBCKUP]BEGIN"
+[vmisavef] appending segment to MDS1:\SYSVARS.SV
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[syinmpc] received new password config
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to GERMAN      
+[dpimage_unload] Unloading ENGLISH      dictionaries pool_avail = 90628304
+[dpimage_unload] Dictionaries unloaded pool_avail = 91653456
+[dpimage_restctx] Loading GERMAN       dictionaries pool_avail = 91653564
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 284 Time 3992ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 90626332
+[syinmpc] setting LANG_SUFFIX to gr
+[syinmpc] setting cur lang to GERMAN      
+[wdwmclng]
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to ENGLISH     
+[dpimage_unload] Unloading GERMAN       dictionaries pool_avail = 90625624
+[dpimage_unload] Dictionaries unloaded pool_avail = 91652580
+[dpimage_restctx] Loading ENGLISH      dictionaries pool_avail = 91653308
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 290 Time 3324ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 90628544
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] received new password config
+[syinmpc] received new password config
+[ZIP] filstat 0x2000e FRA:\BACKUP\ENGLISH.
+[ZIP] filstat 0x2000e FRA:\BACKUP\GERMAN.
+"[VAGBCKUP]Save done"
+"[VAGBCKUP]END"
+"[VAGBCKUP]BEGIN"
+[vmisavef] appending segment to MDS2:\SYSVARS.SV
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] received new password config
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to GERMAN      
+[dpimage_unload] Unloading ENGLISH      dictionaries pool_avail = 90629408
+[dpimage_unload] Dictionaries unloaded pool_avail = 91654184
+[dpimage_restctx] Loading GERMAN       dictionaries pool_avail = 91654184
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 285 Time 3464ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 90626476
+[syinmpc] setting LANG_SUFFIX to gr
+[syinmpc] setting cur lang to GERMAN      
+[wdwmclng]
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to ENGLISH     
+[dpimage_unload] Unloading GERMAN       dictionaries pool_avail = 90627008
+[dpimage_unload] Dictionaries unloaded pool_avail = 91654100
+[dpimage_restctx] Loading ENGLISH      dictionaries pool_avail = 91654208
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 290 Time 2988ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 90630980
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[wdwmclng]
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[syinmpc] received new password config
+[syinmpc] received new password config
+[ZIP] filstat 0x2000e FRA:\BACKUP\ENGLISH.
+[ZIP] filstat 0x2000e FRA:\BACKUP\GERMAN.
+"[VAGBCKUP]Save done"
+"[VAGBCKUP]END"
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+"[VAGBCKUP]BEGIN"
+[vmisavef] appending segment to MDS5:\SYSVARS.SV
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[syinmpc] received new password config
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to GERMAN      
+[dpimage_unload] Unloading ENGLISH      dictionaries pool_avail = 90627696
+[dpimage_unload] Dictionaries unloaded pool_avail = 91652540
+[dpimage_restctx] Loading GERMAN       dictionaries pool_avail = 91652576
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 289 Time 4140ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 90625352
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to gr
+[syinmpc] setting cur lang to GERMAN      
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to ENGLISH     
+[dpimage_unload] Unloading GERMAN       dictionaries pool_avail = 90626064
+[dpimage_unload] Dictionaries unloaded pool_avail = 91652948
+[dpimage_restctx] Loading ENGLISH      dictionaries pool_avail = 91652800
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 289 Time 4056ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 90627288
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[wdwmclng]
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[syinmpc] received new password config
+[syinmpc] received new password config
+[ZIP] filstat 0x2000e FRA:\BACKUP\ENGLISH.
+[ZIP] filstat 0x2000e FRA:\BACKUP\GERMAN.
+"[VAGBCKUP]Save done"
+"[VAGBCKUP]END"
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+"[VAGBCKUP]BEGIN"
+[vmisavef] appending segment to MDS0:\SYSVARS.SV
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[syinmpc] received new password config
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to GERMAN      
+[dpimage_unload] Unloading ENGLISH      dictionaries pool_avail = 90627260
+[dpimage_unload] Dictionaries unloaded pool_avail = 91652820
+[dpimage_restctx] Loading GERMAN       dictionaries pool_avail = 91652928
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 288 Time 3396ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 90625556
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to gr
+[syinmpc] setting cur lang to GERMAN      
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to ENGLISH     
+[dpimage_unload] Unloading GERMAN       dictionaries pool_avail = 90626332
+[dpimage_unload] Dictionaries unloaded pool_avail = 91654024
+[dpimage_restctx] Loading ENGLISH      dictionaries pool_avail = 91654132
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 289 Time 4324ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 90628568
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[wdwmclng]
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[syinmpc] received new password config
+[syinmpc] received new password config
+[ZIP] filstat 0x2000e FRA:\BACKUP\ENGLISH.
+[ZIP] filstat 0x2000e FRA:\BACKUP\GERMAN.
+"[VAGBCKUP]Save done"
+"[VAGBCKUP]END"
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+"[VAGBCKUP]BEGIN"
+[vmisavef] appending segment to MDS3:\SYSVARS.SV
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[syinmpc] received new password config
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to GERMAN      
+[dpimage_unload] Unloading ENGLISH      dictionaries pool_avail = 90689092
+[dpimage_unload] Dictionaries unloaded pool_avail = 91713932
+[dpimage_restctx] Loading GERMAN       dictionaries pool_avail = 91713932
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 289 Time 3156ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 90687044
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to gr
+[syinmpc] setting cur lang to GERMAN      
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to ENGLISH     
+[dpimage_unload] Unloading GERMAN       dictionaries pool_avail = 90687160
+[dpimage_unload] Dictionaries unloaded pool_avail = 91714160
+[dpimage_restctx] Loading ENGLISH      dictionaries pool_avail = 91714276
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 290 Time 3208ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 90689228
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[wdwmclng]
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[syinmpc] received new password config
+[syinmpc] received new password config
+[ZIP] filstat 0x2000e FRA:\BACKUP\ENGLISH.
+[ZIP] filstat 0x2000e FRA:\BACKUP\GERMAN.
+"[VAGBCKUP]Save done"
+"[VAGBCKUP]END"
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+"[VAGBCKUP]BEGIN"
+[vmisavef] appending segment to MDS2:\SYSVARS.SV
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] received new password config
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to GERMAN      
+[dpimage_unload] Unloading ENGLISH      dictionaries pool_avail = 90689120
+[dpimage_unload] Dictionaries unloaded pool_avail = 91714000
+[dpimage_restctx] Loading GERMAN       dictionaries pool_avail = 91713844
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 288 Time 3300ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 90686916
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to gr
+[syinmpc] setting cur lang to GERMAN      
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to ENGLISH     
+[dpimage_unload] Unloading GERMAN       dictionaries pool_avail = 90686984
+[dpimage_unload] Dictionaries unloaded pool_avail = 91713684
+[dpimage_restctx] Loading ENGLISH      dictionaries pool_avail = 91713684
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 290 Time 3284ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 90689048
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] received new password config
+[syinmpc] received new password config
+[ZIP] filstat 0x2000e FRA:\BACKUP\ENGLISH.
+[ZIP] filstat 0x2000e FRA:\BACKUP\GERMAN.
+"[VAGBCKUP]Save done"
+"[VAGBCKUP]END"
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+"[VAGBCKUP]BEGIN"
+[vmisavef] appending segment to MDS1:\SYSVARS.SV
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[syinmpc] received new password config
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to GERMAN      
+[dpimage_unload] Unloading ENGLISH      dictionaries pool_avail = 90627676
+[dpimage_unload] Dictionaries unloaded pool_avail = 91652872
+[dpimage_restctx] Loading GERMAN       dictionaries pool_avail = 91653096
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 289 Time 3948ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 90625344
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to gr
+[syinmpc] setting cur lang to GERMAN      
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to ENGLISH     
+[dpimage_unload] Unloading GERMAN       dictionaries pool_avail = 90623204
+[dpimage_unload] Dictionaries unloaded pool_avail = 91650604
+[dpimage_restctx] Loading ENGLISH      dictionaries pool_avail = 91650720
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 285 Time 4020ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 90627164
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] received new password config
+[syinmpc] received new password config
+[ZIP] filstat 0x2000e FRA:\BACKUP\ENGLISH.
+[ZIP] filstat 0x2000e FRA:\BACKUP\GERMAN.
+"[VAGBCKUP]Save done"
+"[VAGBCKUP]END"
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+"[VAGBCKUP]BEGIN"

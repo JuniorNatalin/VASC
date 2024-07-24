@@ -1,0 +1,338 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 6.0">
+<title>EXT 1 STATUS</title>
+</head>
+<body bgcolor="#C0C0C0">
+<center>
+<table border="1" bordercolor="#000000" width="35%">
+	<tr>
+		<td width="139" align="justify"><b><font face="Arial" size="2">
+		<object classid="clsid:7106065C-0E45-11D3-81B6-0000E206D650" id="FRIPLabel10" width="110" height="19">
+			<param name="Caption" value="!INDIRECT1">
+			<param name="FontName" value="Courier New">
+			<param name="FontSize" value="14">
+			<param name="width" value="110">
+			<param name="height" value="19">
+			<param name="DataType" value="100">
+			<param name="DataIndex" value>
+			<param name="Interval" value="250">
+			<param name="FastLoad" value="-1">
+			<param name="Border" value="1">
+			<param name="FontBold" value="1">
+			<param name="FontWeight" value="700">
+			<param name="Indirect1DataType" value="104">
+			<param name="Indirect1DataIndex" value="PLMN[101]">
+		</object>
+&nbsp;</b>
+  <object classid="clsid:7106065C-0E45-11D3-81B6-0000E206D650" id="FRIPLabel13" width="110" height="30" hspace="0" align="left">
+	<param name="Caption" value>
+	<param name="FontName" value="Courier New">
+	<param name="FontSize" value="14">
+	<param name="DataType" value="18">
+	<param name="DataIndex" value="47">
+	<param name="Interval" value="250">
+	<param name="FastLoad" value="-1">
+	<param name="FontBold" value="1">
+	<param name="FontWeight" value="700">
+	<param name="BackColor" value="65535">
+	<param name="width" value="110">
+	<param name="height" value="30">
+</object>
+		</font>
+		</td>
+		<td width="190" align="justify"><b><font face="Arial" size="2">
+		<object classid="clsid:71060668-0E45-11D3-81B6-0000E206D650" id="FRIPToggleLamp29" width="170" height="50" align="left">
+			<param name="Caption" value="!INDIRECT1">
+			<param name="FontName" value="Courier New">
+			<param name="FontSize" value="14">
+			<param name="width" value="170">
+			<param name="height" value="50">
+			<param name="DataType" value="2">
+			<param name="DataIndex" value="22041">
+			<param name="TrueColor" value="65280">
+			<param name="FalseColor" value="255">
+			<param name="Interval" value="250">
+			<param name="FastLoad" value="-1">
+			<param name="BackColor" value="14548991">
+			<param name="ViewType" value="2">
+			<param name="Indirect1DataType" value="104">
+			<param name="Indirect1DataIndex" value="PLMN[104]">
+		</object>
+		</font></b>
+		</td>
+		<td width="190" align="justify"><b><font face="Arial" size="2">
+		<object classid="clsid:71060668-0E45-11D3-81B6-0000E206D650" id="FRIPToggleLamp34" width="170" height="50" align="left">
+			<param name="Caption" value="!INDIRECT1">
+			<param name="FontName" value="Courier New">
+			<param name="FontSize" value="14">
+			<param name="width" value="170">
+			<param name="height" value="50">
+			<param name="DataType" value="2">
+			<param name="DataIndex" value="22132">
+			<param name="TrueColor" value="65280">
+			<param name="FalseColor" value="255">
+			<param name="Interval" value="250">
+			<param name="FastLoad" value="-1">
+			<param name="ViewType" value="2">
+			<param name="BackColor" value="14548991">
+			<param name="Indirect1DataType" value="104">
+			<param name="Indirect1DataIndex" value="PLMN[110]">
+		</object>
+		</font></b>
+		</td>
+		<td width="4" align="justify">&nbsp;</td>
+	</tr>
+	<tr>
+		<td width="139" align="justify"><b><font face="Arial" size="2">
+		<object classid="clsid:7106065C-0E45-11D3-81B6-0000E206D650" id="FRIPLabel11" width="110" height="19">
+			<param name="Caption" value="!INDIRECT1">
+			<param name="FontName" value="Courier New">
+			<param name="FontSize" value="14">
+			<param name="width" value="110">
+			<param name="height" value="19">
+			<param name="DataType" value="100">
+			<param name="DataIndex" value>
+			<param name="Interval" value="250">
+			<param name="FastLoad" value="-1">
+			<param name="Border" value="1">
+			<param name="FontBold" value="1">
+			<param name="FontWeight" value="700">
+			<param name="Indirect1DataType" value="104">
+			<param name="Indirect1DataIndex" value="PLMN[102]">
+		</object>
+&nbsp;</b>
+  <object classid="clsid:7106065C-0E45-11D3-81B6-0000E206D650" id="FRIPLabel8" width="110" height="30" hspace="0" align="left">
+	<param name="Caption" value>
+	<param name="FontName" value="Courier New">
+	<param name="FontSize" value="14">
+	<param name="DataType" value="19">
+	<param name="DataIndex" value="47">
+	<param name="Interval" value="250">
+	<param name="FastLoad" value="-1">
+	<param name="FontBold" value="1">
+	<param name="FontWeight" value="700">
+	<param name="BackColor" value="65535">
+	<param name="width" value="110">
+	<param name="height" value="30">
+</object>
+		</font>
+		</td>
+		<td width="190" align="justify"><b><font face="Arial" size="2">
+    <object classid="clsid:71060668-0E45-11D3-81B6-0000E206D650" id="FRIPToggleLamp30" width="170" height="50" align="left">
+	<param name="Caption" value="!INDIRECT1">
+	<param name="FontName" value="Courier New">
+	<param name="FontSize" value="14">
+	<param name="width" value="170">
+	<param name="height" value="50">
+	<param name="DataType" value="2">
+	<param name="DataIndex" value="22120">
+	<param name="TrueColor" value="255">
+	<param name="FalseColor" value="65280">
+	<param name="Interval" value="250">
+	<param name="FastLoad" value="-1">
+	<param name="ViewType" value="2">
+	<param name="BackColor" value="14548991">
+	<param name="Indirect1DataType" value="104">
+	<param name="Indirect1DataIndex" value="PLMN[105]">
+</object>
+</b>
+		</td>
+		<td width="190" align="justify"><b><font face="Arial" size="2">
+    <object classid="clsid:71060668-0E45-11D3-81B6-0000E206D650" id="FRIPToggleLamp35" width="170" height="50" align="left">
+	<param name="Caption" value="!INDIRECT1">
+	<param name="FontName" value="Courier New">
+	<param name="FontSize" value="14">
+	<param name="width" value="170">
+	<param name="height" value="50">
+	<param name="DataType" value="2">
+	<param name="DataIndex" value="22109">
+	<param name="TrueColor" value="255">
+	<param name="FalseColor" value="65280">
+	<param name="Interval" value="250">
+	<param name="FastLoad" value="-1">
+	<param name="ViewType" value="2">
+	<param name="BackColor" value="14548991">
+	<param name="Indirect1DataType" value="104">
+	<param name="Indirect1DataIndex" value="PLMN[111]">
+</object>
+</b>
+		</td>
+		<td width="4" align="justify">
+&nbsp;</td>
+	</tr>
+	<tr>
+		<td width="139" align="justify"><b><font face="Arial" size="2">
+		<object classid="clsid:7106065C-0E45-11D3-81B6-0000E206D650" id="FRIPLabel12" width="110" height="19">
+			<param name="Caption" value="!INDIRECT1">
+			<param name="FontName" value="Arial">
+			<param name="FontSize" value="14">
+			<param name="width" value="110">
+			<param name="height" value="19">
+			<param name="DataType" value="100">
+			<param name="DataIndex" value>
+			<param name="Interval" value="250">
+			<param name="FastLoad" value="-1">
+			<param name="Border" value="1">
+			<param name="FontBold" value="1">
+			<param name="FontWeight" value="700">
+			<param name="Indirect1DataType" value="104">
+			<param name="Indirect1DataIndex" value="PLMN[103]">
+		</object>
+		</b>
+  <object classid="clsid:7106065C-0E45-11D3-81B6-0000E206D650" id="FRIPLabel9" width="110" height="30" hspace="0" align="left">
+	<param name="Caption" value>
+	<param name="FontName" value="Courier New">
+	<param name="FontSize" value="14">
+	<param name="DataType" value="101">
+	<param name="DataIndex" value="321">
+	<param name="Interval" value="250">
+	<param name="FastLoad" value="-1">
+	<param name="FontBold" value="1">
+	<param name="FontWeight" value="700">
+	<param name="BackColor" value="65535">
+	<param name="width" value="110">
+	<param name="height" value="30">
+</object>
+	<td width="190" align="justify"><b><font face="Arial" size="2">
+    <object classid="clsid:71060668-0E45-11D3-81B6-0000E206D650" id="FRIPToggleLamp31" width="170" height="50" align="left">
+	<param name="Caption" value="!INDIRECT1">
+	<param name="FontName" value="Courier New">
+	<param name="FontSize" value="14">
+	<param name="width" value="170">
+	<param name="height" value="50">
+	<param name="DataType" value="2">
+	<param name="DataIndex" value="22131">
+	<param name="TrueColor" value="65280">
+	<param name="FalseColor" value="255">
+	<param name="Interval" value="250">
+	<param name="FastLoad" value="-1">
+	<param name="ViewType" value="2">
+	<param name="BackColor" value="14548991">
+	<param name="Indirect1DataType" value="104">
+	<param name="Indirect1DataIndex" value="PLMN[106]">
+</object>
+</b></td>
+		<td width="190" align="justify"><b><font face="Arial" size="2">
+    <object classid="clsid:71060668-0E45-11D3-81B6-0000E206D650" id="FRIPToggleLamp36" width="170" height="50" align="left">
+	<param name="Caption" value="!INDIRECT1">
+	<param name="FontName" value="Courier New">
+	<param name="FontSize" value="14">
+	<param name="width" value="170">
+	<param name="height" value="50">
+	<param name="DataType" value="2">
+	<param name="DataIndex" value="22043">
+	<param name="TrueColor" value="65280">
+	<param name="FalseColor" value="255">
+	<param name="Interval" value="250">
+	<param name="FastLoad" value="-1">
+	<param name="ViewType" value="2">
+	<param name="BackColor" value="14548991">
+	<param name="Indirect1DataType" value="104">
+	<param name="Indirect1DataIndex" value="PLMN[112]">
+</object>
+		</font></b>
+		</td>
+		<td width="4" align="justify">
+&nbsp;</td>
+	</tr>
+	<tr>
+		<td width="139" align="justify"><b><font face="Arial" size="2">
+		<object classid="clsid:7106065C-0E45-11D3-81B6-0000E206D650" id="FRIPLabel14" width="110" height="19">
+			<param name="Caption" value="!INDIRECT1">
+			<param name="FontName" value="Arial">
+			<param name="FontSize" value="14">
+			<param name="width" value="110">
+			<param name="height" value="19">
+			<param name="DataType" value="100">
+			<param name="DataIndex" value>
+			<param name="Interval" value="250">
+			<param name="FastLoad" value="-1">
+			<param name="Border" value="1">
+			<param name="FontBold" value="1">
+			<param name="FontWeight" value="700">
+			<param name="Indirect1DataType" value="104">
+			<param name="Indirect1DataIndex" value="PLMN[100]">
+		</object>
+		</b>
+<object classid="clsid:71060668-0E45-11D3-81B6-0000E206D650" id="FRIPToggleLamp26" width="110" height="30"  hspace="0" align="left">
+			<param name="Caption" value>
+			<param name="FontName" value="Courier New">
+			<param name="FontSize" value="14">
+			<param name="DataType" value="2">
+			<param name="DataIndex" value="22050">
+			<param name="TrueColor" value="65280">
+			<param name="FalseColor" value="255">
+			<param name="Interval" value="250">
+			<param name="FastLoad" value="-1">
+			<param name="BackColor" value="16777215">
+			<param name="width" value="110">
+			<param name="height" value="30">
+		</object>
+		</font>
+		</td>
+		<td width="190" align="justify"><b><font face="Arial" size="2">
+		<object classid="clsid:71060668-0E45-11D3-81B6-0000E206D650" id="FRIPToggleLamp32" width="170" height="50" align="left">
+			<param name="Caption" value="!INDIRECT1">
+			<param name="FontName" value="Courier New">
+			<param name="FontSize" value="14">
+			<param name="width" value="170">
+			<param name="height" value="50">
+			<param name="DataType" value="2">
+			<param name="DataIndex" value="22051">
+			<param name="TrueColor" value="65280">
+			<param name="FalseColor" value="255">
+			<param name="Interval" value="250">
+			<param name="FastLoad" value="-1">
+			<param name="ViewType" value="2">
+			<param name="BackColor" value="14548991">
+			<param name="Indirect1DataType" value="104">
+			<param name="Indirect1DataIndex" value="PLMN[107]">
+		</object>
+		</b>
+		</font>
+		</td>
+		<td width="190" align="justify"><b><font face="Arial" size="2">
+		<object classid="clsid:71060668-0E45-11D3-81B6-0000E206D650" id="FRIPToggleLamp37" width="170" height="50" align="left">
+			<param name="Caption" value="!INDIRECT1">
+			<param name="FontName" value="Courier New">
+			<param name="FontSize" value="14">
+			<param name="width" value="170">
+			<param name="height" value="50">
+			<param name="DataType" value="2">
+			<param name="DataIndex" value="22089">
+			<param name="TrueColor" value="65280">
+			<param name="FalseColor" value="255">
+			<param name="Interval" value="250">
+			<param name="FastLoad" value="-1">
+			<param name="ViewType" value="2">
+			<param name="BackColor" value="14548991">
+			<param name="Indirect1DataType" value="104">
+			<param name="Indirect1DataIndex" value="PLMN[113]">
+		</object>
+		</b>
+		</td>
+		<td width="4" height="76" align="justify">&nbsp;</td>
+	</tr>
+	<tr>
+		<td width="139" align="justify">&nbsp;</td>
+		<td align="justify">
+
+		&nbsp;</td>
+		<td width="190" align="justify">&nbsp;</td>
+		<td width="4" align="justify">&nbsp;</td>
+	</tr>
+	<tr>
+		<td width="139" align="justify">&nbsp;</td>
+		<td align="justify">
+
+		&nbsp;</td>
+		<td width="190" align="justify">&nbsp;</td>
+		<td width="4" align="justify">&nbsp;</td>
+	</tr>
+	</table></center>
+</body>
+</html>

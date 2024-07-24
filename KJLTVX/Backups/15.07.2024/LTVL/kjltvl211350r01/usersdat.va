@@ -1,0 +1,2328 @@
+[USERSDAT]AH_KOMP  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]AKTPOS_Z  Storage: CMOS  Access: RW  : XYZWPR = Uninitialized
+
+[USERSDAT]ALPHA  Storage: CMOS  Access: RW  : REAL = Uninitialized
+
+[USERSDAT]ANZAHL_AXEN  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]AVF_PRC_KORR  Storage: DRAM  Access: RW  : ARRAY[20] OF POSITION
+  [1] = Uninitialized
+  [2] = Uninitialized
+  [3] = Uninitialized
+  [4] = Uninitialized
+  [5] = Uninitialized
+  [6] = Uninitialized
+  [7] = Uninitialized
+  [8] = Uninitialized
+  [9] = Uninitialized
+  [10] = Uninitialized
+  [11] = Uninitialized
+  [12] = Uninitialized
+  [13] = Uninitialized
+  [14] = Uninitialized
+  [15] = Uninitialized
+  [16] = Uninitialized
+  [17] = Uninitialized
+  [18] = Uninitialized
+  [19] = Uninitialized
+  [20] = Uninitialized
+
+[USERSDAT]BAHNHOF_FEH  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]BASEVERS_AKT  Storage: CMOS  Access: RW  : XYZWPR = Uninitialized
+
+[USERSDAT]BBU_INITOK  Storage: DRAM  Access: RW  : BOOLEAN = Uninitialized
+
+[USERSDAT]BBU_REFFAHRT  Storage: DRAM  Access: RW  : BOOLEAN = Uninitialized
+
+[USERSDAT]BRAEUER_FRAE  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]BRAKE_STATUS  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]BU_M1_VERSCH  Storage: CMOS  Access: RW  : REAL = Uninitialized
+
+[USERSDAT]BU_M2_VERSCH  Storage: CMOS  Access: RW  : REAL = Uninitialized
+
+[USERSDAT]BU_MESSUNG  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]BU_NR  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]BU_RICHTUNG  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]BU_SUCHWEG  Storage: CMOS  Access: RW  : ARRAY[2] OF REAL
+  [1] = Uninitialized
+  [2] = Uninitialized
+
+[USERSDAT]BV_VM_X_MAX  Storage: CMOS  Access: RW  : REAL = Uninitialized
+
+[USERSDAT]BV_VM_Y_MAX  Storage: CMOS  Access: RW  : REAL = Uninitialized
+
+[USERSDAT]BV_VM_Z_MAX  Storage: CMOS  Access: RW  : REAL = Uninitialized
+
+[USERSDAT]BZ1_HM_BAW_1  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]BZ1_HM_BAW_2  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]BZ1_HM_BAW_3  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]BZ1_HM_BAW_4  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]BZ1_HM_BAW_5  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]BZ2_HM_BAW_1  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]BZ2_HM_BAW_2  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]BZ2_HM_BAW_3  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]BZ2_HM_BAW_4  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]BZ2_HM_BAW_5  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]BZ3_FD_ID  Storage: CMOS  Access: RW  : INTEGER = 0
+
+[USERSDAT]BZ3_HM_BAW_1  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]BZ3_ISTPOS  Storage: CMOS  Access: RW  : REAL = 0.000000e+00
+
+[USERSDAT]BZ3_P_NR  Storage: CMOS  Access: RW  : INTEGER = 0
+
+[USERSDAT]BZ3_SOLLPOS  Storage: CMOS  Access: RW  : REAL = 0.000000e+00
+
+[USERSDAT]BZ3_WNK_IST  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]BZ3_WNK_SOLL  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]B_E_MODE  Storage: DRAM  Access: RW  : BOOLEAN = TRUE
+
+[USERSDAT]B_I_BZR_LBIT  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]B_I_BZ_LBIT  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]B_I_CZP_LBIT  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]B_I_CZ_LBIT  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]B_I_FDS_LBIT  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]B_I_NZH_LBIT  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]B_I_NZ_LBIT  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]B_I_SM_LBIT  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]B_I_SZ_LBIT  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]B_MIT_ISR  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]B_MIT_PRC  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]B_SG_HILF  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]B_SZ1_N_REF  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]B_VZ_MELD  Storage: DRAM  Access: RW  : BOOLEAN = TRUE
+
+[USERSDAT]CL_FEHLER  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]CNT_CTRL_1  Storage: CMOS  Access: RW  : INTEGER = 0
+
+[USERSDAT]CZ1_AM_ROB  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]CZ_DOCK_1  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]CZ_DOCK_2  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]CZ_DOCK_3  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]CZ_DOCK_4  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]C_APPNR  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]C_BUNR  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]DEF_WEAVAMPL  Storage: CMOS  Access: RW  : ARRAY[7] OF REAL
+  [1] = Uninitialized
+  [2] = Uninitialized
+  [3] = Uninitialized
+  [4] = Uninitialized
+  [5] = Uninitialized
+  [6] = Uninitialized
+  [7] = Uninitialized
+
+[USERSDAT]DELTA_X  Storage: CMOS  Access: RW  : REAL = Uninitialized
+
+[USERSDAT]DELTA_XY  Storage: CMOS  Access: RW  : REAL = Uninitialized
+
+[USERSDAT]DELTA_XYZ  Storage: CMOS  Access: RW  : REAL = Uninitialized
+
+[USERSDAT]DELTA_X_TEMP  Storage: CMOS  Access: RW  : REAL = Uninitialized
+
+[USERSDAT]DELTA_Y  Storage: CMOS  Access: RW  : REAL = Uninitialized
+
+[USERSDAT]DELTA_Y_TEMP  Storage: CMOS  Access: RW  : REAL = Uninitialized
+
+[USERSDAT]DELTA_Z  Storage: CMOS  Access: RW  : REAL = Uninitialized
+
+[USERSDAT]DELTA_Z_TEMP  Storage: CMOS  Access: RW  : REAL = Uninitialized
+
+[USERSDAT]DMAX_DRAHT  Storage: CMOS  Access: RW  : REAL = Uninitialized
+
+[USERSDAT]DMAX_GAS  Storage: CMOS  Access: RW  : REAL = Uninitialized
+
+[USERSDAT]DM_AKT  Storage: CMOS  Access: RW  : ARRAY[2] OF REAL
+  [1] = Uninitialized
+  [2] = Uninitialized
+
+[USERSDAT]DM_MAX  Storage: CMOS  Access: RW  : ARRAY[2] OF REAL
+  [1] = Uninitialized
+  [2] = Uninitialized
+
+[USERSDAT]DM_MIN  Storage: CMOS  Access: RW  : ARRAY[2] OF REAL
+  [1] = Uninitialized
+  [2] = Uninitialized
+
+[USERSDAT]DX  Storage: CMOS  Access: RW  : REAL = Uninitialized
+
+[USERSDAT]DY  Storage: CMOS  Access: RW  : REAL = Uninitialized
+
+[USERSDAT]DZ  Storage: CMOS  Access: RW  : REAL = Uninitialized
+
+[USERSDAT]EINSCHALT  Storage: CMOS  Access: RW  : INTEGER = 3000
+
+[USERSDAT]ENDPOS  Storage: CMOS  Access: RW  : XYZWPR = Uninitialized
+
+[USERSDAT]ENDPOS_MP1  Storage: CMOS  Access: RW  : XYZWPR = Uninitialized
+
+[USERSDAT]ENDPOS_MP2  Storage: CMOS  Access: RW  : XYZWPR = Uninitialized
+
+[USERSDAT]ENDPOS_MP3  Storage: CMOS  Access: RW  : XYZWPR = Uninitialized
+
+[USERSDAT]ENDPOS_Z  Storage: CMOS  Access: RW  : XYZWPR = Uninitialized
+
+[USERSDAT]ENDVALTOTTM  Storage: DRAM  Access: RW  : INTEGER = 1426358525
+
+[USERSDAT]ENTRY_GETVAR  Storage: DRAM  Access: RW  : INTEGER = 2147418756
+
+[USERSDAT]ENTRY_SETVAR  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]ERRLBIT  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]ERR_CODE  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]ERR_FAC  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]EXT_S_ACHSEN  Storage: DRAM  Access: RW  : ARRAY[6] OF INTEGER
+  [1] = 1
+  [2] = 0
+  [3] = 0
+  [4] = 0
+  [5] = 0
+  [6] = 0
+
+[USERSDAT]EZ_DOCKING  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]E_MODE_HILF  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]E_MODE_HILF2  Storage: DRAM  Access: RW  : BOOLEAN = TRUE
+
+[USERSDAT]FACSTR  Storage: CMOS  Access: RW  : STRING[80] = ''
+
+[USERSDAT]FAIL_FLAG  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]FASTCLOCKVAL  Storage: DRAM  Access: RW  : INTEGER = 1426358526
+
+[USERSDAT]FDS1_AM_ROB  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]FEHLER_NR  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]FREDECOUNT  Storage: DRAM  Access: RW  : ARRAY[30] OF INTEGER
+  [1] = 0
+  [2] = 0
+  [3] = 0
+  [4] = 0
+  [5] = 0
+  [6] = 0
+  [7] = 0
+  [8] = 0
+  [9] = 0
+  [10] = 0
+  [11] = 0
+  [12] = 0
+  [13] = 0
+  [14] = 0
+  [15] = 0
+  [16] = 0
+  [17] = 0
+  [18] = 0
+  [19] = 0
+  [20] = 0
+  [21] = 0
+  [22] = 0
+  [23] = 0
+  [24] = 0
+  [25] = 0
+  [26] = 0
+  [27] = 0
+  [28] = 0
+  [29] = 0
+  [30] = 0
+
+[USERSDAT]FREDETIMER  Storage: DRAM  Access: RW  : ARRAY[30] OF INTEGER
+  [1] = 0
+  [2] = 0
+  [3] = 0
+  [4] = 0
+  [5] = 0
+  [6] = 0
+  [7] = 0
+  [8] = 0
+  [9] = 0
+  [10] = 0
+  [11] = 0
+  [12] = 0
+  [13] = 0
+  [14] = 0
+  [15] = 0
+  [16] = 0
+  [17] = 0
+  [18] = 0
+  [19] = 0
+  [20] = 0
+  [21] = 0
+  [22] = 0
+  [23] = 0
+  [24] = 0
+  [25] = 0
+  [26] = 0
+  [27] = 0
+  [28] = 0
+  [29] = 0
+  [30] = 0
+
+[USERSDAT]FRG_REF_1  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]FRG_REF_2  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]GAS_DAUER  Storage: CMOS  Access: RW  : INTEGER = 2000
+
+[USERSDAT]HILFSMERKER1  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]HILFSMERKER2  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]HILFSMERKER3  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]HILFSMERKER4  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]HILF_P_AKTI1  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]HILF_P_AKTI2  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]HILF_VERR  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]HILF_VERR1  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]HILF_VERR2  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]IS_BASE_OFFS  Storage: CMOS  Access: RW  : XYZWPR = Uninitialized
+
+[USERSDAT]IS_BUSTYPE  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]IS_COM_ON  Storage: CMOS  Access: RW  : BOOLEAN = Uninitialized
+
+[USERSDAT]IS_LANGUAGE  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]IS_MAXCORR  Storage: CMOS  Access: RW  : XYZWPR = Uninitialized
+
+[USERSDAT]IS_MODEL_RG  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]IS_SEND_AXIS  Storage: CMOS  Access: RW  : BOOLEAN = Uninitialized
+
+[USERSDAT]IS_SEND_BASE  Storage: CMOS  Access: RW  : BOOLEAN = Uninitialized
+
+[USERSDAT]IS_STRNAMES  Storage: CMOS  Access: RW  : BOOLEAN = Uninitialized
+
+[USERSDAT]IS_SUBPRG_RG  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]IS_SYSTYPE  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]IS_TIMEOUT  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]IS_TOOL_OFFS  Storage: CMOS  Access: RW  : XYZWPR = Uninitialized
+
+[USERSDAT]I_N_BU1  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]I_N_BU2  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]I_P_BU1  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]I_P_BU2  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]I_UABSMINBU1  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]I_UABSMINBU2  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]I_ZMESS_BU1  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]I_ZMESS_BU2  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]KL1_O_NACHTR  Storage: DRAM  Access: RW  : BOOLEAN = Uninitialized
+
+[USERSDAT]KL1_SPUE_AKT  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]KL1_STAT  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]KL2_O_NACHTR  Storage: DRAM  Access: RW  : BOOLEAN = Uninitialized
+
+[USERSDAT]KL2_SPUE_AKT  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]KL2_STAT  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]KL3_O_NACHTR  Storage: DRAM  Access: RW  : BOOLEAN = Uninitialized
+
+[USERSDAT]KL3_SPUE_AKT  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]KL3_STAT  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]KONFIG_FEH  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]KT_SCHWELLE  Storage: CMOS  Access: RW  : ARRAY[6,7] OF REAL
+    [1,1] = Uninitialized
+    [1,2] = Uninitialized
+    [1,3] = Uninitialized
+    [1,4] = Uninitialized
+    [1,5] = Uninitialized
+    [1,6] = Uninitialized
+    [1,7] = Uninitialized
+    [2,1] = Uninitialized
+    [2,2] = Uninitialized
+    [2,3] = Uninitialized
+    [2,4] = Uninitialized
+    [2,5] = Uninitialized
+    [2,6] = Uninitialized
+    [2,7] = Uninitialized
+    [3,1] = Uninitialized
+    [3,2] = Uninitialized
+    [3,3] = Uninitialized
+    [3,4] = Uninitialized
+    [3,5] = Uninitialized
+    [3,6] = Uninitialized
+    [3,7] = Uninitialized
+    [4,1] = Uninitialized
+    [4,2] = Uninitialized
+    [4,3] = Uninitialized
+    [4,4] = Uninitialized
+    [4,5] = Uninitialized
+    [4,6] = Uninitialized
+    [4,7] = Uninitialized
+    [5,1] = Uninitialized
+    [5,2] = Uninitialized
+    [5,3] = Uninitialized
+    [5,4] = Uninitialized
+    [5,5] = Uninitialized
+    [5,6] = Uninitialized
+    [5,7] = Uninitialized
+    [6,1] = Uninitialized
+    [6,2] = Uninitialized
+    [6,3] = Uninitialized
+    [6,4] = Uninitialized
+    [6,5] = Uninitialized
+    [6,6] = Uninitialized
+    [6,7] = Uninitialized
+
+[USERSDAT]KT_SCHW_NUM  Storage: CMOS  Access: RW  : ARRAY[6,7] OF INTEGER
+    [1,1] = Uninitialized
+    [1,2] = Uninitialized
+    [1,3] = Uninitialized
+    [1,4] = Uninitialized
+    [1,5] = Uninitialized
+    [1,6] = Uninitialized
+    [1,7] = Uninitialized
+    [2,1] = Uninitialized
+    [2,2] = Uninitialized
+    [2,3] = Uninitialized
+    [2,4] = Uninitialized
+    [2,5] = Uninitialized
+    [2,6] = Uninitialized
+    [2,7] = Uninitialized
+    [3,1] = Uninitialized
+    [3,2] = Uninitialized
+    [3,3] = Uninitialized
+    [3,4] = Uninitialized
+    [3,5] = Uninitialized
+    [3,6] = Uninitialized
+    [3,7] = Uninitialized
+    [4,1] = Uninitialized
+    [4,2] = Uninitialized
+    [4,3] = Uninitialized
+    [4,4] = Uninitialized
+    [4,5] = Uninitialized
+    [4,6] = Uninitialized
+    [4,7] = Uninitialized
+    [5,1] = Uninitialized
+    [5,2] = Uninitialized
+    [5,3] = Uninitialized
+    [5,4] = Uninitialized
+    [5,5] = Uninitialized
+    [5,6] = Uninitialized
+    [5,7] = Uninitialized
+    [6,1] = Uninitialized
+    [6,2] = Uninitialized
+    [6,3] = Uninitialized
+    [6,4] = Uninitialized
+    [6,5] = Uninitialized
+    [6,6] = Uninitialized
+    [6,7] = Uninitialized
+
+[USERSDAT]KT_SPLT_NORM  Storage: CMOS  Access: RW  : ARRAY[6] OF INTEGER
+  [1] = Uninitialized
+  [2] = Uninitialized
+  [3] = Uninitialized
+  [4] = Uninitialized
+  [5] = Uninitialized
+  [6] = Uninitialized
+
+[USERSDAT]LBITCNTBZ  Storage: DRAM  Access: RW  : ARRAY[2] OF INTEGER
+  [1] = 28571
+  [2] = 28571
+
+[USERSDAT]LBITCNTBZR  Storage: DRAM  Access: RW  : ARRAY[2] OF INTEGER
+  [1] = 28571
+  [2] = 28571
+
+[USERSDAT]LBITCNTCZ  Storage: DRAM  Access: RW  : ARRAY[2] OF INTEGER
+  [1] = 28571
+  [2] = 28571
+
+[USERSDAT]LBITCNTCZP  Storage: DRAM  Access: RW  : ARRAY[2] OF INTEGER
+  [1] = 28571
+  [2] = 28571
+
+[USERSDAT]LBITCNTEZ  Storage: DRAM  Access: RW  : ARRAY[4] OF INTEGER
+  [1] = 1426358562
+  [2] = 28571
+  [3] = 28571
+  [4] = 28571
+
+[USERSDAT]LBITCNTFDS  Storage: DRAM  Access: RW  : ARRAY[4] OF INTEGER
+  [1] = 28571
+  [2] = 28571
+  [3] = Uninitialized
+  [4] = Uninitialized
+
+[USERSDAT]LBITCNTNZ  Storage: DRAM  Access: RW  : ARRAY[2] OF INTEGER
+  [1] = 28571
+  [2] = 28571
+
+[USERSDAT]LBITCNTNZH  Storage: DRAM  Access: RW  : ARRAY[2] OF INTEGER
+  [1] = 28571
+  [2] = 28571
+
+[USERSDAT]LBITCNTSM  Storage: DRAM  Access: RW  : ARRAY[2] OF INTEGER
+  [1] = 28571
+  [2] = 28571
+
+[USERSDAT]LBITSTATEBZ  Storage: DRAM  Access: RW  : ARRAY[2] OF BOOLEAN
+  [1] = FALSE
+  [2] = FALSE
+
+[USERSDAT]LBITSTATEBZR  Storage: DRAM  Access: RW  : ARRAY[2] OF BOOLEAN
+  [1] = FALSE
+  [2] = FALSE
+
+[USERSDAT]LBITSTATECZ  Storage: DRAM  Access: RW  : ARRAY[2] OF BOOLEAN
+  [1] = FALSE
+  [2] = FALSE
+
+[USERSDAT]LBITSTATECZP  Storage: DRAM  Access: RW  : ARRAY[2] OF BOOLEAN
+  [1] = FALSE
+  [2] = FALSE
+
+[USERSDAT]LBITSTATEEZ  Storage: DRAM  Access: RW  : ARRAY[4] OF BOOLEAN
+  [1] = TRUE
+  [2] = FALSE
+  [3] = FALSE
+  [4] = FALSE
+
+[USERSDAT]LBITSTATEFDS  Storage: DRAM  Access: RW  : ARRAY[4] OF BOOLEAN
+  [1] = FALSE
+  [2] = FALSE
+  [3] = Uninitialized
+  [4] = Uninitialized
+
+[USERSDAT]LBITSTATENZ  Storage: DRAM  Access: RW  : ARRAY[2] OF BOOLEAN
+  [1] = FALSE
+  [2] = FALSE
+
+[USERSDAT]LBITSTATENZH  Storage: DRAM  Access: RW  : ARRAY[2] OF BOOLEAN
+  [1] = FALSE
+  [2] = FALSE
+
+[USERSDAT]LBITSTATESM  Storage: DRAM  Access: RW  : ARRAY[2] OF BOOLEAN
+  [1] = FALSE
+  [2] = FALSE
+
+[USERSDAT]LOG_UD_NAMES  Storage: CMOS  Access: RW  : ARRAY[10] OF STRING[30]
+  [1] = 'Update_Serientest_24_06_001'
+  [2] = ''
+  [3] = ''
+  [4] = ''
+  [5] = ''
+  [6] = ''
+  [7] = ''
+  [8] = ''
+  [9] = ''
+  [10] = ''
+
+[USERSDAT]LOG_UD_NUM  Storage: CMOS  Access: RW  : INTEGER = 1
+
+[USERSDAT]LOG_UD_TIMES  Storage: CMOS  Access: RW  : ARRAY[10] OF STRING[30]
+  [1] = '27-MAR-17 17:42 '
+  [2] = ''
+  [3] = ''
+  [4] = ''
+  [5] = ''
+  [6] = ''
+  [7] = ''
+  [8] = ''
+  [9] = ''
+  [10] = ''
+
+[USERSDAT]LS_X_FLAG  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]LS_Y_FLAG  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]LS_Z_FLAG  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]L_UEBW_FLAG  Storage: DRAM  Access: RW  : ARRAY[50] OF BOOLEAN
+  [1] = FALSE
+  [2] = FALSE
+  [3] = FALSE
+  [4] = FALSE
+  [5] = FALSE
+  [6] = FALSE
+  [7] = FALSE
+  [8] = FALSE
+  [9] = FALSE
+  [10] = FALSE
+  [11] = FALSE
+  [12] = FALSE
+  [13] = FALSE
+  [14] = FALSE
+  [15] = FALSE
+  [16] = FALSE
+  [17] = FALSE
+  [18] = FALSE
+  [19] = FALSE
+  [20] = FALSE
+  [21] = FALSE
+  [22] = FALSE
+  [23] = FALSE
+  [24] = FALSE
+  [25] = FALSE
+  [26] = FALSE
+  [27] = FALSE
+  [28] = FALSE
+  [29] = FALSE
+  [30] = FALSE
+  [31] = FALSE
+  [32] = FALSE
+  [33] = FALSE
+  [34] = FALSE
+  [35] = FALSE
+  [36] = FALSE
+  [37] = FALSE
+  [38] = FALSE
+  [39] = FALSE
+  [40] = FALSE
+  [41] = FALSE
+  [42] = FALSE
+  [43] = FALSE
+  [44] = FALSE
+  [45] = FALSE
+  [46] = FALSE
+  [47] = FALSE
+  [48] = FALSE
+  [49] = FALSE
+  [50] = FALSE
+
+[USERSDAT]MAXABNUTZUNG  Storage: CMOS  Access: RW  : REAL = Uninitialized
+
+[USERSDAT]MED_EXT_AUS  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MELD_HILF  Storage: DRAM  Access: RW  : ARRAY[20] OF BOOLEAN
+  [1] = FALSE
+  [2] = FALSE
+  [3] = FALSE
+  [4] = FALSE
+  [5] = FALSE
+  [6] = FALSE
+  [7] = FALSE
+  [8] = FALSE
+  [9] = FALSE
+  [10] = FALSE
+  [11] = FALSE
+  [12] = FALSE
+  [13] = FALSE
+  [14] = FALSE
+  [15] = FALSE
+  [16] = FALSE
+  [17] = FALSE
+  [18] = FALSE
+  [19] = FALSE
+  [20] = FALSE
+
+[USERSDAT]MESSUNG_BU  Storage: DRAM  Access: RW  : BOOLEAN = Uninitialized
+
+[USERSDAT]MESSWEG_BU  Storage: DRAM  Access: RW  : ARRAY[2] OF REAL
+  [1] = Uninitialized
+  [2] = Uninitialized
+
+[USERSDAT]MESS_DELTA  Storage: DRAM  Access: RW  : XYZWPR = Uninitialized
+
+[USERSDAT]MESS_POS  Storage: CMOS  Access: RW  : ARRAY[2] OF XYZWPR
+  [1] = Uninitialized
+  [2] = Uninitialized
+
+[USERSDAT]MESS_POS_DX  Storage: CMOS  Access: RW  : XYZWPR = Uninitialized
+
+[USERSDAT]MESS_POS_DY  Storage: CMOS  Access: RW  : XYZWPR = Uninitialized
+
+[USERSDAT]MESS_POS_DZ  Storage: CMOS  Access: RW  : XYZWPR = Uninitialized
+
+[USERSDAT]MIDVALTOTTM  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]MIG_UF_REF  Storage: CMOS  Access: RW  : ARRAY[9] OF XYZWPR
+  [1] = Uninitialized
+  [2] = Uninitialized
+  [3] = Uninitialized
+  [4] = Uninitialized
+  [5] = Uninitialized
+  [6] = Uninitialized
+  [7] = Uninitialized
+  [8] = Uninitialized
+  [9] = Uninitialized
+
+[USERSDAT]MIG_UT_REF  Storage: CMOS  Access: RW  : ARRAY[10] OF XYZWPR
+  [1] = Uninitialized
+  [2] = Uninitialized
+  [3] = Uninitialized
+  [4] = Uninitialized
+  [5] = Uninitialized
+  [6] = Uninitialized
+  [7] = Uninitialized
+  [8] = Uninitialized
+  [9] = Uninitialized
+  [10] = Uninitialized
+
+[USERSDAT]MIT_2SZ_SK1  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_BM1  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_BM2  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_BOLZEN_1  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_BOLZEN_2  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_BOLZEN_3  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_BU  Storage: CMOS  Access: RW  : BOOLEAN = Uninitialized
+
+[USERSDAT]MIT_CL  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_CZ1_PNEU  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_CZ1_SERV  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_CZ2_PNEU  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_CZ2_SERV  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_FDS1  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_FDS2  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_KL1_SPUE  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_KL2_SPUE  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_KL3_SPUE  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_KLEBEN_1  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_KLEBEN_2  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_KLEBEN_3  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_KW1  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_KW2  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_KW3  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_MB1  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_MB1_N  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_MB2  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_MB2_N  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_MIG1  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_MIG2  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_NZ1_HYDR  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_NZ1_SERV  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_NZ2_HYDR  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_NZ2_SERV  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_RE  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_RED_LIM  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_SK1  Storage: CMOS  Access: RW  : BOOLEAN = TRUE
+
+[USERSDAT]MIT_SK2  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_SK3  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_SM1  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_SM2  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_SR  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_STOSSP  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_SZ1_AUTO  Storage: DRAM  Access: RW  : BOOLEAN = TRUE
+
+[USERSDAT]MIT_SZ2_AUTO  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_SZ3_AUTO  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_SZ_1  Storage: CMOS  Access: RW  : BOOLEAN = TRUE
+
+[USERSDAT]MIT_SZ_2  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_SZ_3  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MIT_VW_WASS  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MP1_FLAG  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]MP2_FLAG  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]MPX_FLAG  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]MPY_FLAG  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]MPZ_FLAG  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]MS_FRG_SPERR  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MS_HSS_HILF  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MS_M_LIMIT1  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MS_M_LIMIT2  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MS_M_WIEDER  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]MS_TIME  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]MYPOS  Storage: DRAM  Access: RW  : REAL = Uninitialized
+
+[USERSDAT]MYPOS1  Storage: DRAM  Access: RW  : REAL = Uninitialized
+
+[USERSDAT]MYPOS2  Storage: DRAM  Access: RW  : REAL = Uninitialized
+
+[USERSDAT]MY_SG_TIMER  Storage: DRAM  Access: RW  : INTEGER = 1426300675
+
+[USERSDAT]M_BAHNH_FEH  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]M_KL1_2KST  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]M_KL2_2KST  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]M_KL3_2KST  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]M_KONFIG_FEH  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]M_POWERDOWN  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]M_POWERUP_1  Storage: DRAM  Access: RW  : BOOLEAN = TRUE
+
+[USERSDAT]M_POWERUP_2  Storage: DRAM  Access: RW  : BOOLEAN = TRUE
+
+[USERSDAT]M_POWERUP_3  Storage: DRAM  Access: RW  : BOOLEAN = TRUE
+
+[USERSDAT]M_RESETPRESS  Storage: DRAM  Access: RW  : BOOLEAN = TRUE
+
+[USERSDAT]M_STELLGLST  Storage: DRAM  Access: RW  : INTEGER = 1
+
+[USERSDAT]NULL_POS  Storage: CMOS  Access: RW  : XYZWPR = Uninitialized
+
+[USERSDAT]NZ1_AM_ROB  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]NZ_CZ_DOCK_1  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]NZ_DOCK_1  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]NZ_DOCK_2  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]NZ_DOCK_3  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]NZ_DOCK_4  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]N_PORTS  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]N_PRC_ERR  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]N_PRC_PKTERR  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]N_PRC_PKTFRM  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]N_PRC_PKTTMT  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]N_PRC_STATR  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]N_PRC_STATS  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]N_PRC_TMLIFE  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]N_PRC_TMSCNA  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]N_PRC_TMSCNE  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]N_PRC_TPSCRN  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]N_PRC_TPSP  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]OFFSETX_BV_N  Storage: CMOS  Access: RW  : ARRAY[6,6] OF REAL
+    [1,1] = Uninitialized
+    [1,2] = Uninitialized
+    [1,3] = Uninitialized
+    [1,4] = Uninitialized
+    [1,5] = Uninitialized
+    [1,6] = Uninitialized
+    [2,1] = Uninitialized
+    [2,2] = Uninitialized
+    [2,3] = Uninitialized
+    [2,4] = Uninitialized
+    [2,5] = Uninitialized
+    [2,6] = Uninitialized
+    [3,1] = Uninitialized
+    [3,2] = Uninitialized
+    [3,3] = Uninitialized
+    [3,4] = Uninitialized
+    [3,5] = Uninitialized
+    [3,6] = Uninitialized
+    [4,1] = Uninitialized
+    [4,2] = Uninitialized
+    [4,3] = Uninitialized
+    [4,4] = Uninitialized
+    [4,5] = Uninitialized
+    [4,6] = Uninitialized
+    [5,1] = Uninitialized
+    [5,2] = Uninitialized
+    [5,3] = Uninitialized
+    [5,4] = Uninitialized
+    [5,5] = Uninitialized
+    [5,6] = Uninitialized
+    [6,1] = Uninitialized
+    [6,2] = Uninitialized
+    [6,3] = Uninitialized
+    [6,4] = Uninitialized
+    [6,5] = Uninitialized
+    [6,6] = Uninitialized
+
+[USERSDAT]OFFSETX_KT_N  Storage: CMOS  Access: RW  : ARRAY[6,6] OF REAL
+    [1,1] = Uninitialized
+    [1,2] = Uninitialized
+    [1,3] = Uninitialized
+    [1,4] = Uninitialized
+    [1,5] = Uninitialized
+    [1,6] = Uninitialized
+    [2,1] = Uninitialized
+    [2,2] = Uninitialized
+    [2,3] = Uninitialized
+    [2,4] = Uninitialized
+    [2,5] = Uninitialized
+    [2,6] = Uninitialized
+    [3,1] = Uninitialized
+    [3,2] = Uninitialized
+    [3,3] = Uninitialized
+    [3,4] = Uninitialized
+    [3,5] = Uninitialized
+    [3,6] = Uninitialized
+    [4,1] = Uninitialized
+    [4,2] = Uninitialized
+    [4,3] = Uninitialized
+    [4,4] = Uninitialized
+    [4,5] = Uninitialized
+    [4,6] = Uninitialized
+    [5,1] = Uninitialized
+    [5,2] = Uninitialized
+    [5,3] = Uninitialized
+    [5,4] = Uninitialized
+    [5,5] = Uninitialized
+    [5,6] = Uninitialized
+    [6,1] = Uninitialized
+    [6,2] = Uninitialized
+    [6,3] = Uninitialized
+    [6,4] = Uninitialized
+    [6,5] = Uninitialized
+    [6,6] = Uninitialized
+
+[USERSDAT]OFFSETY_BV_N  Storage: CMOS  Access: RW  : ARRAY[6,6] OF REAL
+    [1,1] = Uninitialized
+    [1,2] = Uninitialized
+    [1,3] = Uninitialized
+    [1,4] = Uninitialized
+    [1,5] = Uninitialized
+    [1,6] = Uninitialized
+    [2,1] = Uninitialized
+    [2,2] = Uninitialized
+    [2,3] = Uninitialized
+    [2,4] = Uninitialized
+    [2,5] = Uninitialized
+    [2,6] = Uninitialized
+    [3,1] = Uninitialized
+    [3,2] = Uninitialized
+    [3,3] = Uninitialized
+    [3,4] = Uninitialized
+    [3,5] = Uninitialized
+    [3,6] = Uninitialized
+    [4,1] = Uninitialized
+    [4,2] = Uninitialized
+    [4,3] = Uninitialized
+    [4,4] = Uninitialized
+    [4,5] = Uninitialized
+    [4,6] = Uninitialized
+    [5,1] = Uninitialized
+    [5,2] = Uninitialized
+    [5,3] = Uninitialized
+    [5,4] = Uninitialized
+    [5,5] = Uninitialized
+    [5,6] = Uninitialized
+    [6,1] = Uninitialized
+    [6,2] = Uninitialized
+    [6,3] = Uninitialized
+    [6,4] = Uninitialized
+    [6,5] = Uninitialized
+    [6,6] = Uninitialized
+
+[USERSDAT]OFFSETY_KT_N  Storage: CMOS  Access: RW  : ARRAY[6,6] OF REAL
+    [1,1] = Uninitialized
+    [1,2] = Uninitialized
+    [1,3] = Uninitialized
+    [1,4] = Uninitialized
+    [1,5] = Uninitialized
+    [1,6] = Uninitialized
+    [2,1] = Uninitialized
+    [2,2] = Uninitialized
+    [2,3] = Uninitialized
+    [2,4] = Uninitialized
+    [2,5] = Uninitialized
+    [2,6] = Uninitialized
+    [3,1] = Uninitialized
+    [3,2] = Uninitialized
+    [3,3] = Uninitialized
+    [3,4] = Uninitialized
+    [3,5] = Uninitialized
+    [3,6] = Uninitialized
+    [4,1] = Uninitialized
+    [4,2] = Uninitialized
+    [4,3] = Uninitialized
+    [4,4] = Uninitialized
+    [4,5] = Uninitialized
+    [4,6] = Uninitialized
+    [5,1] = Uninitialized
+    [5,2] = Uninitialized
+    [5,3] = Uninitialized
+    [5,4] = Uninitialized
+    [5,5] = Uninitialized
+    [5,6] = Uninitialized
+    [6,1] = Uninitialized
+    [6,2] = Uninitialized
+    [6,3] = Uninitialized
+    [6,4] = Uninitialized
+    [6,5] = Uninitialized
+    [6,6] = Uninitialized
+
+[USERSDAT]OFFSETZ_BV_N  Storage: CMOS  Access: RW  : ARRAY[6,6] OF REAL
+    [1,1] = Uninitialized
+    [1,2] = Uninitialized
+    [1,3] = Uninitialized
+    [1,4] = Uninitialized
+    [1,5] = Uninitialized
+    [1,6] = Uninitialized
+    [2,1] = Uninitialized
+    [2,2] = Uninitialized
+    [2,3] = Uninitialized
+    [2,4] = Uninitialized
+    [2,5] = Uninitialized
+    [2,6] = Uninitialized
+    [3,1] = Uninitialized
+    [3,2] = Uninitialized
+    [3,3] = Uninitialized
+    [3,4] = Uninitialized
+    [3,5] = Uninitialized
+    [3,6] = Uninitialized
+    [4,1] = Uninitialized
+    [4,2] = Uninitialized
+    [4,3] = Uninitialized
+    [4,4] = Uninitialized
+    [4,5] = Uninitialized
+    [4,6] = Uninitialized
+    [5,1] = Uninitialized
+    [5,2] = Uninitialized
+    [5,3] = Uninitialized
+    [5,4] = Uninitialized
+    [5,5] = Uninitialized
+    [5,6] = Uninitialized
+    [6,1] = Uninitialized
+    [6,2] = Uninitialized
+    [6,3] = Uninitialized
+    [6,4] = Uninitialized
+    [6,5] = Uninitialized
+    [6,6] = Uninitialized
+
+[USERSDAT]OFFSETZ_KT_N  Storage: CMOS  Access: RW  : ARRAY[6,6] OF REAL
+    [1,1] = Uninitialized
+    [1,2] = Uninitialized
+    [1,3] = Uninitialized
+    [1,4] = Uninitialized
+    [1,5] = Uninitialized
+    [1,6] = Uninitialized
+    [2,1] = Uninitialized
+    [2,2] = Uninitialized
+    [2,3] = Uninitialized
+    [2,4] = Uninitialized
+    [2,5] = Uninitialized
+    [2,6] = Uninitialized
+    [3,1] = Uninitialized
+    [3,2] = Uninitialized
+    [3,3] = Uninitialized
+    [3,4] = Uninitialized
+    [3,5] = Uninitialized
+    [3,6] = Uninitialized
+    [4,1] = Uninitialized
+    [4,2] = Uninitialized
+    [4,3] = Uninitialized
+    [4,4] = Uninitialized
+    [4,5] = Uninitialized
+    [4,6] = Uninitialized
+    [5,1] = Uninitialized
+    [5,2] = Uninitialized
+    [5,3] = Uninitialized
+    [5,4] = Uninitialized
+    [5,5] = Uninitialized
+    [5,6] = Uninitialized
+    [6,1] = Uninitialized
+    [6,2] = Uninitialized
+    [6,3] = Uninitialized
+    [6,4] = Uninitialized
+    [6,5] = Uninitialized
+    [6,6] = Uninitialized
+
+[USERSDAT]OFFSET_BV_N  Storage: CMOS  Access: RW  : XYZWPREXT = Uninitialized
+
+[USERSDAT]OFFSET_SZ1  Storage: CMOS  Access: RW  : REAL = 0.000000e+00
+
+[USERSDAT]OFFSET_SZ2  Storage: CMOS  Access: RW  : REAL = 0.000000e+00
+
+[USERSDAT]OFFSET_SZ3  Storage: CMOS  Access: RW  : REAL = 0.000000e+00
+
+[USERSDAT]OFFSET_X  Storage: CMOS  Access: RW  : REAL = Uninitialized
+
+[USERSDAT]OFFSET_Y  Storage: CMOS  Access: RW  : REAL = Uninitialized
+
+[USERSDAT]OFFSET_Z  Storage: CMOS  Access: RW  : REAL = Uninitialized
+
+[USERSDAT]OFF_TCP_SZ1  Storage: CMOS  Access: RW  : REAL = 1.000000e+00
+
+[USERSDAT]OFF_TCP_SZ2  Storage: CMOS  Access: RW  : REAL = -1.000000e+00
+
+[USERSDAT]OFF_TCP_SZ3  Storage: CMOS  Access: RW  : REAL = -1.000000e+00
+
+[USERSDAT]OHNE_VW_WAS  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]O_AUSGLEICH  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]P1_SAVED  Storage: CMOS  Access: RW  : BOOLEAN = Uninitialized
+
+[USERSDAT]P2_SAVED  Storage: CMOS  Access: RW  : BOOLEAN = Uninitialized
+
+[USERSDAT]PARAM1  Storage: CMOS  Access: RW  : INTEGER = 1
+
+[USERSDAT]PARAM2  Storage: CMOS  Access: RW  : INTEGER = 1
+
+[USERSDAT]PARAM3  Storage: CMOS  Access: RW  : INTEGER = 11
+
+[USERSDAT]PARAM4  Storage: CMOS  Access: RW  : INTEGER = 31
+
+[USERSDAT]PARAM5  Storage: CMOS  Access: RW  : INTEGER = 0
+
+[USERSDAT]PARAM6  Storage: CMOS  Access: RW  : INTEGER = 0
+
+[USERSDAT]PARAM7  Storage: CMOS  Access: RW  : INTEGER = 31
+
+[USERSDAT]PARAM8  Storage: CMOS  Access: RW  : INTEGER = 0
+
+[USERSDAT]PARAM9  Storage: CMOS  Access: RW  : INTEGER = 1
+
+[USERSDAT]PHY_PORT_NO  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]PHY_PORT_TYP  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]POSITIONSTYP  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]PROG_ID  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]PROG_INDEX  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]PULS_DAUER  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]PX_SAVED  Storage: CMOS  Access: RW  : BOOLEAN = Uninitialized
+
+[USERSDAT]PY_SAVED  Storage: CMOS  Access: RW  : BOOLEAN = Uninitialized
+
+[USERSDAT]PZ_SAVED  Storage: CMOS  Access: RW  : BOOLEAN = Uninitialized
+
+[USERSDAT]P_PRC_FRMIST  Storage: DRAM  Access: RW  : POSITION = Uninitialized
+
+[USERSDAT]P_PRC_FRMKOR  Storage: DRAM  Access: RW  : POSITION = Uninitialized
+
+[USERSDAT]P_PRC_FRMNEU  Storage: DRAM  Access: RW  : POSITION = Uninitialized
+
+[USERSDAT]P_PRC_FRMTMP  Storage: DRAM  Access: RW  : POSITION = Uninitialized
+
+[USERSDAT]RACK_PXC_CMD  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]REAL_FLAG  Storage: DRAM  Access: RW  : BOOLEAN = Uninitialized
+
+[USERSDAT]REAL_VALUE  Storage: DRAM  Access: RW  : REAL = 0.000000e+00
+
+[USERSDAT]REF_BV_N_PX  Storage: CMOS  Access: RW  : ARRAY[6,6] OF XYZWPR
+    [1,1] = Uninitialized
+    [1,2] = Uninitialized
+    [1,3] = Uninitialized
+    [1,4] = Uninitialized
+    [1,5] = Uninitialized
+    [1,6] = Uninitialized
+    [2,1] = Uninitialized
+    [2,2] = Uninitialized
+    [2,3] = Uninitialized
+    [2,4] = Uninitialized
+    [2,5] = Uninitialized
+    [2,6] = Uninitialized
+    [3,1] = Uninitialized
+    [3,2] = Uninitialized
+    [3,3] = Uninitialized
+    [3,4] = Uninitialized
+    [3,5] = Uninitialized
+    [3,6] = Uninitialized
+    [4,1] = Uninitialized
+    [4,2] = Uninitialized
+    [4,3] = Uninitialized
+    [4,4] = Uninitialized
+    [4,5] = Uninitialized
+    [4,6] = Uninitialized
+    [5,1] = Uninitialized
+    [5,2] = Uninitialized
+    [5,3] = Uninitialized
+    [5,4] = Uninitialized
+    [5,5] = Uninitialized
+    [5,6] = Uninitialized
+    [6,1] = Uninitialized
+    [6,2] = Uninitialized
+    [6,3] = Uninitialized
+    [6,4] = Uninitialized
+    [6,5] = Uninitialized
+    [6,6] = Uninitialized
+
+[USERSDAT]REF_BV_N_PY  Storage: CMOS  Access: RW  : ARRAY[6,6] OF XYZWPR
+    [1,1] = Uninitialized
+    [1,2] = Uninitialized
+    [1,3] = Uninitialized
+    [1,4] = Uninitialized
+    [1,5] = Uninitialized
+    [1,6] = Uninitialized
+    [2,1] = Uninitialized
+    [2,2] = Uninitialized
+    [2,3] = Uninitialized
+    [2,4] = Uninitialized
+    [2,5] = Uninitialized
+    [2,6] = Uninitialized
+    [3,1] = Uninitialized
+    [3,2] = Uninitialized
+    [3,3] = Uninitialized
+    [3,4] = Uninitialized
+    [3,5] = Uninitialized
+    [3,6] = Uninitialized
+    [4,1] = Uninitialized
+    [4,2] = Uninitialized
+    [4,3] = Uninitialized
+    [4,4] = Uninitialized
+    [4,5] = Uninitialized
+    [4,6] = Uninitialized
+    [5,1] = Uninitialized
+    [5,2] = Uninitialized
+    [5,3] = Uninitialized
+    [5,4] = Uninitialized
+    [5,5] = Uninitialized
+    [5,6] = Uninitialized
+    [6,1] = Uninitialized
+    [6,2] = Uninitialized
+    [6,3] = Uninitialized
+    [6,4] = Uninitialized
+    [6,5] = Uninitialized
+    [6,6] = Uninitialized
+
+[USERSDAT]REF_BV_N_PZ  Storage: CMOS  Access: RW  : ARRAY[6,6] OF XYZWPR
+    [1,1] = Uninitialized
+    [1,2] = Uninitialized
+    [1,3] = Uninitialized
+    [1,4] = Uninitialized
+    [1,5] = Uninitialized
+    [1,6] = Uninitialized
+    [2,1] = Uninitialized
+    [2,2] = Uninitialized
+    [2,3] = Uninitialized
+    [2,4] = Uninitialized
+    [2,5] = Uninitialized
+    [2,6] = Uninitialized
+    [3,1] = Uninitialized
+    [3,2] = Uninitialized
+    [3,3] = Uninitialized
+    [3,4] = Uninitialized
+    [3,5] = Uninitialized
+    [3,6] = Uninitialized
+    [4,1] = Uninitialized
+    [4,2] = Uninitialized
+    [4,3] = Uninitialized
+    [4,4] = Uninitialized
+    [4,5] = Uninitialized
+    [4,6] = Uninitialized
+    [5,1] = Uninitialized
+    [5,2] = Uninitialized
+    [5,3] = Uninitialized
+    [5,4] = Uninitialized
+    [5,5] = Uninitialized
+    [5,6] = Uninitialized
+    [6,1] = Uninitialized
+    [6,2] = Uninitialized
+    [6,3] = Uninitialized
+    [6,4] = Uninitialized
+    [6,5] = Uninitialized
+    [6,6] = Uninitialized
+
+[USERSDAT]REF_KT_N_P1  Storage: CMOS  Access: RW  : ARRAY[6,6] OF XYZWPR
+    [1,1] = Uninitialized
+    [1,2] = Uninitialized
+    [1,3] = Uninitialized
+    [1,4] = Uninitialized
+    [1,5] = Uninitialized
+    [1,6] = Uninitialized
+    [2,1] = Uninitialized
+    [2,2] = Uninitialized
+    [2,3] = Uninitialized
+    [2,4] = Uninitialized
+    [2,5] = Uninitialized
+    [2,6] = Uninitialized
+    [3,1] = Uninitialized
+    [3,2] = Uninitialized
+    [3,3] = Uninitialized
+    [3,4] = Uninitialized
+    [3,5] = Uninitialized
+    [3,6] = Uninitialized
+    [4,1] = Uninitialized
+    [4,2] = Uninitialized
+    [4,3] = Uninitialized
+    [4,4] = Uninitialized
+    [4,5] = Uninitialized
+    [4,6] = Uninitialized
+    [5,1] = Uninitialized
+    [5,2] = Uninitialized
+    [5,3] = Uninitialized
+    [5,4] = Uninitialized
+    [5,5] = Uninitialized
+    [5,6] = Uninitialized
+    [6,1] = Uninitialized
+    [6,2] = Uninitialized
+    [6,3] = Uninitialized
+    [6,4] = Uninitialized
+    [6,5] = Uninitialized
+    [6,6] = Uninitialized
+
+[USERSDAT]REF_KT_N_P2  Storage: CMOS  Access: RW  : ARRAY[6,6] OF XYZWPR
+    [1,1] = Uninitialized
+    [1,2] = Uninitialized
+    [1,3] = Uninitialized
+    [1,4] = Uninitialized
+    [1,5] = Uninitialized
+    [1,6] = Uninitialized
+    [2,1] = Uninitialized
+    [2,2] = Uninitialized
+    [2,3] = Uninitialized
+    [2,4] = Uninitialized
+    [2,5] = Uninitialized
+    [2,6] = Uninitialized
+    [3,1] = Uninitialized
+    [3,2] = Uninitialized
+    [3,3] = Uninitialized
+    [3,4] = Uninitialized
+    [3,5] = Uninitialized
+    [3,6] = Uninitialized
+    [4,1] = Uninitialized
+    [4,2] = Uninitialized
+    [4,3] = Uninitialized
+    [4,4] = Uninitialized
+    [4,5] = Uninitialized
+    [4,6] = Uninitialized
+    [5,1] = Uninitialized
+    [5,2] = Uninitialized
+    [5,3] = Uninitialized
+    [5,4] = Uninitialized
+    [5,5] = Uninitialized
+    [5,6] = Uninitialized
+    [6,1] = Uninitialized
+    [6,2] = Uninitialized
+    [6,3] = Uninitialized
+    [6,4] = Uninitialized
+    [6,5] = Uninitialized
+    [6,6] = Uninitialized
+
+[USERSDAT]REF_KT_N_SBR  Storage: CMOS  Access: RW  : ARRAY[6,6] OF REAL
+    [1,1] = Uninitialized
+    [1,2] = Uninitialized
+    [1,3] = Uninitialized
+    [1,4] = Uninitialized
+    [1,5] = Uninitialized
+    [1,6] = Uninitialized
+    [2,1] = Uninitialized
+    [2,2] = Uninitialized
+    [2,3] = Uninitialized
+    [2,4] = Uninitialized
+    [2,5] = Uninitialized
+    [2,6] = Uninitialized
+    [3,1] = Uninitialized
+    [3,2] = Uninitialized
+    [3,3] = Uninitialized
+    [3,4] = Uninitialized
+    [3,5] = Uninitialized
+    [3,6] = Uninitialized
+    [4,1] = Uninitialized
+    [4,2] = Uninitialized
+    [4,3] = Uninitialized
+    [4,4] = Uninitialized
+    [4,5] = Uninitialized
+    [4,6] = Uninitialized
+    [5,1] = Uninitialized
+    [5,2] = Uninitialized
+    [5,3] = Uninitialized
+    [5,4] = Uninitialized
+    [5,5] = Uninitialized
+    [5,6] = Uninitialized
+    [6,1] = Uninitialized
+    [6,2] = Uninitialized
+    [6,3] = Uninitialized
+    [6,4] = Uninitialized
+    [6,5] = Uninitialized
+    [6,6] = Uninitialized
+
+[USERSDAT]REF_KT_N_SM  Storage: CMOS  Access: RW  : ARRAY[6,6] OF XYZWPR
+    [1,1] = Uninitialized
+    [1,2] = Uninitialized
+    [1,3] = Uninitialized
+    [1,4] = Uninitialized
+    [1,5] = Uninitialized
+    [1,6] = Uninitialized
+    [2,1] = Uninitialized
+    [2,2] = Uninitialized
+    [2,3] = Uninitialized
+    [2,4] = Uninitialized
+    [2,5] = Uninitialized
+    [2,6] = Uninitialized
+    [3,1] = Uninitialized
+    [3,2] = Uninitialized
+    [3,3] = Uninitialized
+    [3,4] = Uninitialized
+    [3,5] = Uninitialized
+    [3,6] = Uninitialized
+    [4,1] = Uninitialized
+    [4,2] = Uninitialized
+    [4,3] = Uninitialized
+    [4,4] = Uninitialized
+    [4,5] = Uninitialized
+    [4,6] = Uninitialized
+    [5,1] = Uninitialized
+    [5,2] = Uninitialized
+    [5,3] = Uninitialized
+    [5,4] = Uninitialized
+    [5,5] = Uninitialized
+    [5,6] = Uninitialized
+    [6,1] = Uninitialized
+    [6,2] = Uninitialized
+    [6,3] = Uninitialized
+    [6,4] = Uninitialized
+    [6,5] = Uninitialized
+    [6,6] = Uninitialized
+
+[USERSDAT]REF_POS  Storage: CMOS  Access: RW  : ARRAY[2] OF XYZWPR
+  [1] = Uninitialized
+  [2] = Uninitialized
+
+[USERSDAT]REF_POS_DX  Storage: CMOS  Access: RW  : XYZWPR = Uninitialized
+
+[USERSDAT]REF_POS_DY  Storage: CMOS  Access: RW  : XYZWPR = Uninitialized
+
+[USERSDAT]REF_POS_DZ  Storage: CMOS  Access: RW  : XYZWPR = Uninitialized
+
+[USERSDAT]REF_UF_BV  Storage: CMOS  Access: RW  : ARRAY[6] OF XYZWPR
+  [1] = Uninitialized
+  [2] = Uninitialized
+  [3] = Uninitialized
+  [4] = Uninitialized
+  [5] = Uninitialized
+  [6] = Uninitialized
+
+[USERSDAT]REF_UF_KT  Storage: CMOS  Access: RW  : ARRAY[6] OF XYZWPR
+  [1] = Uninitialized
+  [2] = Uninitialized
+  [3] = Uninitialized
+  [4] = Uninitialized
+  [5] = Uninitialized
+  [6] = Uninitialized
+
+[USERSDAT]REF_UT_1  Storage: CMOS  Access: RW  : XYZWPR = Uninitialized
+
+[USERSDAT]RESET_OK  Storage: DRAM  Access: RW  : BOOLEAN = TRUE
+
+[USERSDAT]SCHWBER_KT_N  Storage: CMOS  Access: RW  : ARRAY[6,6] OF INTEGER
+    [1,1] = Uninitialized
+    [1,2] = Uninitialized
+    [1,3] = Uninitialized
+    [1,4] = Uninitialized
+    [1,5] = Uninitialized
+    [1,6] = Uninitialized
+    [2,1] = Uninitialized
+    [2,2] = Uninitialized
+    [2,3] = Uninitialized
+    [2,4] = Uninitialized
+    [2,5] = Uninitialized
+    [2,6] = Uninitialized
+    [3,1] = Uninitialized
+    [3,2] = Uninitialized
+    [3,3] = Uninitialized
+    [3,4] = Uninitialized
+    [3,5] = Uninitialized
+    [3,6] = Uninitialized
+    [4,1] = Uninitialized
+    [4,2] = Uninitialized
+    [4,3] = Uninitialized
+    [4,4] = Uninitialized
+    [4,5] = Uninitialized
+    [4,6] = Uninitialized
+    [5,1] = Uninitialized
+    [5,2] = Uninitialized
+    [5,3] = Uninitialized
+    [5,4] = Uninitialized
+    [5,5] = Uninitialized
+    [5,6] = Uninitialized
+    [6,1] = Uninitialized
+    [6,2] = Uninitialized
+    [6,3] = Uninitialized
+    [6,4] = Uninitialized
+    [6,5] = Uninitialized
+    [6,6] = Uninitialized
+
+[USERSDAT]SCHWNUM_KT_N  Storage: CMOS  Access: RW  : ARRAY[6,6] OF INTEGER
+    [1,1] = Uninitialized
+    [1,2] = Uninitialized
+    [1,3] = Uninitialized
+    [1,4] = Uninitialized
+    [1,5] = Uninitialized
+    [1,6] = Uninitialized
+    [2,1] = Uninitialized
+    [2,2] = Uninitialized
+    [2,3] = Uninitialized
+    [2,4] = Uninitialized
+    [2,5] = Uninitialized
+    [2,6] = Uninitialized
+    [3,1] = Uninitialized
+    [3,2] = Uninitialized
+    [3,3] = Uninitialized
+    [3,4] = Uninitialized
+    [3,5] = Uninitialized
+    [3,6] = Uninitialized
+    [4,1] = Uninitialized
+    [4,2] = Uninitialized
+    [4,3] = Uninitialized
+    [4,4] = Uninitialized
+    [4,5] = Uninitialized
+    [4,6] = Uninitialized
+    [5,1] = Uninitialized
+    [5,2] = Uninitialized
+    [5,3] = Uninitialized
+    [5,4] = Uninitialized
+    [5,5] = Uninitialized
+    [5,6] = Uninitialized
+    [6,1] = Uninitialized
+    [6,2] = Uninitialized
+    [6,3] = Uninitialized
+    [6,4] = Uninitialized
+    [6,5] = Uninitialized
+    [6,6] = Uninitialized
+
+[USERSDAT]SCHW_NUM_0  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]SCHW_NUM_1  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]SCHW_NUM_2  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]SCHW_NUM_3  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]SCHW_NUM_4  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]SCHW_NUM_5  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]SCHW_NUM_6  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]SCHW_NUM_7  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]SCHW_NUM_8  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]SCHW_NUM_9  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]SERVO_HILF1  Storage: DRAM  Access: RW  : BOOLEAN = Uninitialized
+
+[USERSDAT]SERVO_HILF10  Storage: DRAM  Access: RW  : BOOLEAN = Uninitialized
+
+[USERSDAT]SERVO_HILF11  Storage: DRAM  Access: RW  : BOOLEAN = Uninitialized
+
+[USERSDAT]SERVO_HILF12  Storage: DRAM  Access: RW  : BOOLEAN = Uninitialized
+
+[USERSDAT]SERVO_HILF2  Storage: DRAM  Access: RW  : BOOLEAN = Uninitialized
+
+[USERSDAT]SERVO_HILF3  Storage: DRAM  Access: RW  : BOOLEAN = Uninitialized
+
+[USERSDAT]SERVO_HILF4  Storage: DRAM  Access: RW  : BOOLEAN = Uninitialized
+
+[USERSDAT]SERVO_HILF5  Storage: DRAM  Access: RW  : BOOLEAN = Uninitialized
+
+[USERSDAT]SERVO_HILF6  Storage: DRAM  Access: RW  : BOOLEAN = Uninitialized
+
+[USERSDAT]SERVO_HILF7  Storage: DRAM  Access: RW  : BOOLEAN = Uninitialized
+
+[USERSDAT]SERVO_HILF8  Storage: DRAM  Access: RW  : BOOLEAN = Uninitialized
+
+[USERSDAT]SERVO_HILF9  Storage: DRAM  Access: RW  : BOOLEAN = Uninitialized
+
+[USERSDAT]SLOT_NO  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]SM1_AM_ROB  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]SM2_AM_ROB  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]SM_DOCK_1  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]SM_DOCK_2  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]SPALT_0  Storage: CMOS  Access: RW  : REAL = Uninitialized
+
+[USERSDAT]SPALT_1  Storage: CMOS  Access: RW  : REAL = Uninitialized
+
+[USERSDAT]SPALT_2  Storage: CMOS  Access: RW  : REAL = Uninitialized
+
+[USERSDAT]SPALT_3  Storage: CMOS  Access: RW  : REAL = Uninitialized
+
+[USERSDAT]SPALT_4  Storage: CMOS  Access: RW  : REAL = Uninitialized
+
+[USERSDAT]SPALT_5  Storage: CMOS  Access: RW  : REAL = Uninitialized
+
+[USERSDAT]SPALT_6  Storage: CMOS  Access: RW  : REAL = Uninitialized
+
+[USERSDAT]SPALT_7  Storage: CMOS  Access: RW  : REAL = Uninitialized
+
+[USERSDAT]SPALT_8  Storage: CMOS  Access: RW  : REAL = Uninitialized
+
+[USERSDAT]SPALT_9  Storage: CMOS  Access: RW  : REAL = Uninitialized
+
+[USERSDAT]SPALT_BREITE  Storage: CMOS  Access: RW  : REAL = Uninitialized
+
+[USERSDAT]SPALT_MIPKT  Storage: CMOS  Access: RW  : XYZWPR = Uninitialized
+
+[USERSDAT]SPR_CHKAUSGL  Storage: DRAM  Access: RW  : BOOLEAN = Uninitialized
+
+[USERSDAT]SP_VM_OS_MAX  Storage: CMOS  Access: RW  : REAL = Uninitialized
+
+[USERSDAT]SP_VM_SB_MAX  Storage: CMOS  Access: RW  : REAL = Uninitialized
+
+[USERSDAT]STARTPOS  Storage: CMOS  Access: RW  : XYZWPR = Uninitialized
+
+[USERSDAT]STARTPOS_UF  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]STARTPOS_UT  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]STARTVLTOTTM  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]START_BU_POS  Storage: DRAM  Access: RW  : XYZWPR = Uninitialized
+
+[USERSDAT]START_MP1  Storage: CMOS  Access: RW  : XYZWPR = Uninitialized
+
+[USERSDAT]START_MP2  Storage: CMOS  Access: RW  : XYZWPR = Uninitialized
+
+[USERSDAT]START_MP3  Storage: CMOS  Access: RW  : XYZWPR = Uninitialized
+
+[USERSDAT]START_POS  Storage: CMOS  Access: RW  : XYZWPREXT = Uninitialized
+
+[USERSDAT]STATGETPORTV  Storage: DRAM  Access: RW  : INTEGER = 13002
+
+[USERSDAT]STATSETPORTV  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]STAT_GET_VAR  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]STAT_SET_VAR  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]STR_VALUE  Storage: CMOS  Access: RW  : STRING[12] = ''
+
+[USERSDAT]STUETZPOS  Storage: CMOS  Access: RW  : XYZWPR = Uninitialized
+
+[USERSDAT]SUCHWEG  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]SUCH_OS  Storage: CMOS  Access: RW  : XYZWPR = Uninitialized
+
+[USERSDAT]SZ1_AM_ROB  Storage: CMOS  Access: RW  : BOOLEAN = TRUE
+
+[USERSDAT]SZ1_Z1_AHV  Storage: CMOS  Access: RW  : REAL = 2.000000e+00
+
+[USERSDAT]SZ1_Z2_AHV  Storage: CMOS  Access: RW  : REAL = 2.000000e+00
+
+[USERSDAT]SZ1_Z3_AHV  Storage: CMOS  Access: RW  : REAL = 2.000000e+00
+
+[USERSDAT]SZ1_Z4_AHV  Storage: CMOS  Access: RW  : REAL = 2.000000e+00
+
+[USERSDAT]SZ2_AHV  Storage: CMOS  Access: RW  : REAL = 2.000000e+00
+
+[USERSDAT]SZ3_AHV  Storage: CMOS  Access: RW  : REAL = 2.000000e+00
+
+[USERSDAT]SZ_AKTIV_NR  Storage: DRAM  Access: RW  : INTEGER = 1
+
+[USERSDAT]SZ_CZ_DOCK_1  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]SZ_DOCK_1  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]SZ_DOCK_2  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]SZ_DOCK_3  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]SZ_DOCK_4  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]SZ_NZ_DOCK_1  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]TEMP_UTOOL  Storage: CMOS  Access: RW  : XYZWPR = Uninitialized
+
+[USERSDAT]TEST_IBN  Storage: CMOS  Access: RW  : XYZWPR = Uninitialized
+
+[USERSDAT]TIMERVAL  Storage: DRAM  Access: RW  : INTEGER = 1426316178
+
+[USERSDAT]TIMERVAL1  Storage: DRAM  Access: RW  : INTEGER = 1423840816
+
+[USERSDAT]TIMERVAL2  Storage: DRAM  Access: RW  : INTEGER = 1414770133
+
+[USERSDAT]TIMER_ABGE  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]TIMER_RUN_2  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]TOTALTMULOOP  Storage: DRAM  Access: RW  : INTEGER = 1426358603
+
+[USERSDAT]TOUT  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]TOUT_1  Storage: CMOS  Access: RW  : INTEGER = 2000
+
+[USERSDAT]TOUT_2  Storage: CMOS  Access: RW  : INTEGER = 1800000
+
+[USERSDAT]TUCK_TUCK_23  Storage: CMOS  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]T_MESS_POS  Storage: DRAM  Access: RW  : XYZWPR = Uninitialized
+
+[USERSDAT]T_RET_VAL  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]T_SG_ABGEL  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]T_STELLGLIE  Storage: DRAM  Access: RW  : INTEGER = 24
+
+[USERSDAT]T_WASSER_EIN  Storage: DRAM  Access: RW  : INTEGER = 119196
+
+[USERSDAT]T_WASSER_STO  Storage: DRAM  Access: RW  : INTEGER = 24
+
+[USERSDAT]UFRAME_KT  Storage: CMOS  Access: RW  : ARRAY[6] OF XYZWPR
+  [1] = Uninitialized
+  [2] = Uninitialized
+  [3] = Uninitialized
+  [4] = Uninitialized
+  [5] = Uninitialized
+  [6] = Uninitialized
+
+[USERSDAT]USER_AKTIV  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]USER_PULS  Storage: DRAM  Access: RW  : BOOLEAN = TRUE
+
+[USERSDAT]UTOOL_SHFT  Storage: CMOS  Access: RW  : XYZWPR = Uninitialized
+
+[USERSDAT]UT_XYZ_SHFT  Storage: CMOS  Access: RW  : XYZWPR = Uninitialized
+
+[USERSDAT]UT_XY_SHFT  Storage: CMOS  Access: RW  : XYZWPR = Uninitialized
+
+[USERSDAT]U_DMAX  Storage: CMOS  Access: RW  : ARRAY[2] OF REAL
+  [1] = Uninitialized
+  [2] = Uninitialized
+
+[USERSDAT]U_DMIN  Storage: CMOS  Access: RW  : ARRAY[2] OF REAL
+  [1] = Uninitialized
+  [2] = Uninitialized
+
+[USERSDAT]VGI_FDS1_PNR  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]VGI_FDS2_PNR  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]VGI_MS1_P_NR  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]VGI_MS2_P_NR  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]VGI_SM1_P_NR  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]VGI_SM2_P_NR  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]VGO_BZ3_P_NR  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]VGO_FDS1_PNR  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]VGO_FDS2_PNR  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]VGO_MB1_P_NR  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]VGO_MB2_P_NR  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]VGO_SM1_P_NR  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]VGO_SM2_P_NR  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]VORPOS  Storage: CMOS  Access: RW  : XYZWPR = Uninitialized
+
+[USERSDAT]VORPOS_Z  Storage: CMOS  Access: RW  : XYZWPR = Uninitialized
+
+[USERSDAT]VW_FEH_NR  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_2SZ_A_SK1  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_ARBPKT_NR  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_BZ1_SAMMEL  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_BZ2_SAMMEL  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_BZ3_SAMMEL  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_CFG_CRI_SW  Storage: DRAM  Access: RW  : INTEGER = 3
+
+[USERSDAT]V_CL_L_LEIST  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]V_CL_P_NR  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]V_CL_UEB_EIN  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_CZ1_DEF  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_CZ1_DOCK_1  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_CZ1_DOCK_2  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_CZ1_DOCK_3  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_CZ1_DOCK_4  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_CZ1_NIO  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_CZ1_SAMMEL  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_CZ2_DEF  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_CZ2_NIO  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_CZ2_SAMMEL  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_D_MAX  Storage: CMOS  Access: RW  : ARRAY[2] OF REAL
+  [1] = Uninitialized
+  [2] = Uninitialized
+
+[USERSDAT]V_D_MIN  Storage: CMOS  Access: RW  : ARRAY[2] OF REAL
+  [1] = Uninitialized
+  [2] = Uninitialized
+
+[USERSDAT]V_FB_PSPS  Storage: DRAM  Access: RW  : INTEGER = 1
+
+[USERSDAT]V_FDS1_Z_DEF  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_FDS2_Z_DEF  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_FRG_LB_EIN  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_FRG_SG  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_F_INTERNT1  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_F_INTERNT2  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_F_INTERNT3  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_F_INTERNT4  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_F_INTERNT5  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_F_INTERNT6  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_F_INTERNT7  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_IBS_ALTERN  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_KL1_SAMMEL  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_KL2_SAMMEL  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_KL3_SAMMEL  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_LASER_N_NR  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_LB_EIN_FEH  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_L_NAHT_NIO  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_L_NAHT_PRU  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_MB1_NIO  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_MB1_SAMMEL  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_MB2_NIO  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_MB2_SAMMEL  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_MELD_DELAY  Storage: CMOS  Access: RW  : INTEGER = 4000
+
+[USERSDAT]V_MIT_DOCK  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_MS1_LB_EIN  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]V_MS1_P_NR  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_MS1_RE_ERF  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]V_MS1_SAMMEL  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]V_MS2_LB_EIN  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]V_MS2_P_NR  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_MS2_RE_ERF  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]V_MS2_SAMMEL  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]V_MS_AUFZ_ST  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_MS_EIN_VER  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_MS_FB_EIN  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_MS_FB_WIED  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_MS_FE_MERK  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_MS_LB_EIN  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_MS_N_NIO  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_MS_N_WIED  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_MS_TOUT_NA  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_ALTERNAT  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_BM1_DOPP  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_BM1_EINZ  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_BM2_DOPP  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_BM2_EINZ  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_BZ1  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_BZ2  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_BZ3  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_CL  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_CZ1_AM_R  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_CZ1_PNEU  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_CZ1_SERV  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_CZ2_PNEU  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_CZ2_SERV  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_E_MODE  Storage: DRAM  Access: RW  : INTEGER = 1
+
+[USERSDAT]V_M_FDS1  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_FDS1_A_R  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_FDS2  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_ISR  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_KL1  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_KL1_SPUE  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_KL1_STAT  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_KL2  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_KL2_SPUE  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_KL2_STAT  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_KL3  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_KL3_SPUE  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_KL3_STAT  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_KW  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_MB1  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_MB1_N  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_MB2  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_MB2_N  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_MIG1  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_MIG2  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_NZ1_AM_R  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_NZ1_HYDR  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_NZ1_SERV  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_NZ2_HYDR  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_NZ2_SERV  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_PRC  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_PROFINET  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_RE  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_RED_LIM  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_SK1  Storage: DRAM  Access: RW  : INTEGER = 1
+
+[USERSDAT]V_M_SK2  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_SK3  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_SM1  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_SM1_AM_R  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_SM2  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_SR  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_STOSSP  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_M_SZ1_AM_R  Storage: DRAM  Access: RW  : INTEGER = 1
+
+[USERSDAT]V_NENN  Storage: CMOS  Access: RW  : ARRAY[2] OF REAL
+  [1] = Uninitialized
+  [2] = Uninitialized
+
+[USERSDAT]V_NZ1_DEF  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_NZ1_DOCK_1  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_NZ1_DOCK_2  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_NZ1_DOCK_3  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_NZ1_DOCK_4  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_NZ1_NIO  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_NZ1_SAMMEL  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_NZ2_DEF  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_NZ2_NIO  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_NZ2_SAMMEL  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_OV_100  Storage: DRAM  Access: RW  : INTEGER = 1
+
+[USERSDAT]V_O_AUSGL  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_O_KL1_TRIG  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]V_O_KL2_TRIG  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]V_O_KL3_TRIG  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]V_O_PROZESS  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_PROG_N_SZ1  Storage: DRAM  Access: RW  : INTEGER = 31
+
+[USERSDAT]V_PROG_N_SZ2  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_PROG_N_SZ3  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_RE_SAMMEL  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]V_RSK_GST  Storage: DRAM  Access: RW  : INTEGER = 1
+
+[USERSDAT]V_RSK_KF  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_RSK_KRAFT  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_RSK_KS_ARB  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_RSK_KS_RUH  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_RSK_KURZ  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_RSK_MESS  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_RSK_SAMMEL  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_RSK_VERS  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_R_BLEND_1  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_R_BLEND_2  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_R_KLEBEN_E  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_R_KLEBEN_S  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_R_NOTAUS1  Storage: DRAM  Access: RW  : INTEGER = 1
+
+[USERSDAT]V_R_NOTAUS2  Storage: DRAM  Access: RW  : INTEGER = 1
+
+[USERSDAT]V_R_PRGRUN  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_R_ROBMOVE  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SK1_FZ_TYP  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SK1_MA_SZ1  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SK1_MA_SZ2  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SK1_MA_SZ3  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SK1_MA_SZ4  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SK1_P_NR  Storage: DRAM  Access: RW  : INTEGER = 31
+
+[USERSDAT]V_SK1_SAMMEL  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SK2_FZ_TYP  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SK2_P_NR  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SK2_SAMMEL  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SK3_FZ_TYP  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SK3_P_NR  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SK3_SAMMEL  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SM1_DOCK_1  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SM1_DOCK_2  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SPA_MP1_FE  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]V_SPA_MP2_FE  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]V_SPA_MP3_FE  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]V_SPA_MP4_FE  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]V_SPA_SE_BEL  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]V_SPA_VW_GRO  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]V_SPA_ZU_GRO  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]V_SR1_AKTIV  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SR2_AKTIV  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SR3_AKTIV  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SR4_AKTIV  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_ST_ISTPOS  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]V_ST_SOLLPOS  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SUCHLAUF  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]V_SZ1_ANW_NF  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SZ1_ANW_SF  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SZ1_DOCK_1  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SZ1_DOCK_2  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SZ1_DOCK_3  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SZ1_DOCK_4  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SZ1_FRG_FR  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SZ1_KAPP1  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SZ1_KAPP2  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SZ1_KAPP3  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SZ1_KAPP4  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SZ1_M_KOMP  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SZ1_SAMMEL  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SZ2_ANW_NF  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SZ2_ANW_SF  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SZ2_FRG_FR  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SZ2_KAPP  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SZ2_M_KOMP  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SZ2_SAMMEL  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SZ3_ANW_NF  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SZ3_ANW_SF  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SZ3_FRG_FR  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SZ3_KAPP  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SZ3_M_KOMP  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SZ3_SAMMEL  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SZ_AUTOREF  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]V_SZ_KR_SKAL  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]V_SZ_ST_SKAL  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]V_TCP_KW_GRO  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]V_TCP_LS_BEL  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]V_TCP_LS_X_F  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]V_TCP_LS_Y_F  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]V_TCP_LS_Z_F  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[USERSDAT]V_USE_TBCART  Storage: DRAM  Access: RW  : BOOLEAN = TRUE
+
+[USERSDAT]V_VERR_BMS  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[USERSDAT]WASSERSTOE  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]WASSER_EIN  Storage: DRAM  Access: RW  : BOOLEAN = TRUE
+
+[USERSDAT]WA_HIFU_REST  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]WA_ZUSTAND  Storage: DRAM  Access: RW  : INTEGER = 1
+
+[USERSDAT]WEAV_AMPL  Storage: CMOS  Access: RW  : ARRAY[6,7] OF REAL
+    [1,1] = Uninitialized
+    [1,2] = Uninitialized
+    [1,3] = Uninitialized
+    [1,4] = Uninitialized
+    [1,5] = Uninitialized
+    [1,6] = Uninitialized
+    [1,7] = Uninitialized
+    [2,1] = Uninitialized
+    [2,2] = Uninitialized
+    [2,3] = Uninitialized
+    [2,4] = Uninitialized
+    [2,5] = Uninitialized
+    [2,6] = Uninitialized
+    [2,7] = Uninitialized
+    [3,1] = Uninitialized
+    [3,2] = Uninitialized
+    [3,3] = Uninitialized
+    [3,4] = Uninitialized
+    [3,5] = Uninitialized
+    [3,6] = Uninitialized
+    [3,7] = Uninitialized
+    [4,1] = Uninitialized
+    [4,2] = Uninitialized
+    [4,3] = Uninitialized
+    [4,4] = Uninitialized
+    [4,5] = Uninitialized
+    [4,6] = Uninitialized
+    [4,7] = Uninitialized
+    [5,1] = Uninitialized
+    [5,2] = Uninitialized
+    [5,3] = Uninitialized
+    [5,4] = Uninitialized
+    [5,5] = Uninitialized
+    [5,6] = Uninitialized
+    [5,7] = Uninitialized
+    [6,1] = Uninitialized
+    [6,2] = Uninitialized
+    [6,3] = Uninitialized
+    [6,4] = Uninitialized
+    [6,5] = Uninitialized
+    [6,6] = Uninitialized
+    [6,7] = Uninitialized
+
+[USERSDAT]W_MAX_RIP1  Storage: DRAM  Access: RW  : BOOLEAN = TRUE
+
+[USERSDAT]W_MAX_RIP2  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]W_MAX_RIP3  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[USERSDAT]Z_OFFSET  Storage: CMOS  Access: RW  : REAL = Uninitialized
+

@@ -1,0 +1,800 @@
+[VAGBCKUP]Save done"
+"[VAGBCKUP]END"
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420037
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+"[VAGBCKUP]BEGIN"
+[vmisavef] appending segment to MDS5:\SYSVARS.SV
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[syinmpc] received new password config
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to GERMAN      
+[dpimage_unload] Unloading ENGLISH      dictionaries pool_avail = 91241636
+[dpimage_unload] Dictionaries unloaded pool_avail = 92266388
+[dpimage_restctx] Loading GERMAN       dictionaries pool_avail = 92266604
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 284 Time 3920ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 91238488
+[syinmpc] setting LANG_SUFFIX to gr
+[syinmpc] setting cur lang to GERMAN      
+[wdwmclng]
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to ENGLISH     
+[dpimage_unload] Unloading GERMAN       dictionaries pool_avail = 91238640
+[dpimage_unload] Dictionaries unloaded pool_avail = 92265060
+[dpimage_restctx] Loading ENGLISH      dictionaries pool_avail = 92265060
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 286 Time 4292ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 91240652
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[wdwmclng]
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[syinmpc] received new password config
+[syinmpc] received new password config
+[ZIP] filstat 0x2000e FRA:\BACKUP\ENGLISH.
+[ZIP] filstat 0x2000e FRA:\BACKUP\GERMAN.
+"[VAGBCKUP]Save done"
+"[VAGBCKUP]END"
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[ostksock_recvfrom] Ignoring message from <172.020.254.203>
+"[VAGBCKUP]BEGIN"
+[vmisavef] appending segment to MDS4:\SYSVARS.SV
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] received new password config
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to GERMAN      
+[dpimage_unload] Unloading ENGLISH      dictionaries pool_avail = 91241776
+[dpimage_unload] Dictionaries unloaded pool_avail = 92266728
+[dpimage_restctx] Loading GERMAN       dictionaries pool_avail = 92266952
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 281 Time 3684ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 91238524
+[syinmpc] setting LANG_SUFFIX to gr
+[syinmpc] setting cur lang to GERMAN      
+[wdwmclng]
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to ENGLISH     
+[dpimage_unload] Unloading GERMAN       dictionaries pool_avail = 91238152
+[dpimage_unload] Dictionaries unloaded pool_avail = 92264456
+[dpimage_restctx] Loading ENGLISH      dictionaries pool_avail = 92264456
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 287 Time 4376ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 91240024
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[syinmpc] received new password config
+[syinmpc] received new password config
+[ZIP] filstat 0x2000e FRA:\BACKUP\ENGLISH.
+[ZIP] filstat 0x2000e FRA:\BACKUP\GERMAN.
+"[VAGBCKUP]Save done"
+"[VAGBCKUP]END"
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+"[VAGBCKUP]BEGIN"
+[vmisavef] appending segment to MDS7:\SYSVARS.SV
+[dpsetlng] setting cur lang to ENGLISH     
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[wdwmclng]
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[syinmpc] received new password config
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to GERMAN      
+[dpimage_unload] Unloading ENGLISH      dictionaries pool_avail = 91235088
+[dpimage_unload] Dictionaries unloaded pool_avail = 92259444
+[dpimage_restctx] Loading GERMAN       dictionaries pool_avail = 92259412
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 284 Time 5552ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 91231876
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to gr
+[syinmpc] setting cur lang to GERMAN      
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to ENGLISH     
+[dpimage_unload] Unloading GERMAN       dictionaries pool_avail = 91233128
+[dpimage_unload] Dictionaries unloaded pool_avail = 92260124
+[dpimage_restctx] Loading ENGLISH      dictionaries pool_avail = 92260124
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 290 Time 5756ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 91235004
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[wdwmclng]
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[syinmpc] received new password config
+[syinmpc] received new password config
+[ZIP] filstat 0x2000e FRA:\BACKUP\ENGLISH.
+[ZIP] filstat 0x2000e FRA:\BACKUP\GERMAN.
+"[VAGBCKUP]Save done"
+"[VAGBCKUP]END"
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+"[VAGBCKUP]BEGIN"
+[vmisavef] appending segment to MDS0:\SYSVARS.SV
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[syinmpc] received new password config
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to GERMAN      
+[dpimage_unload] Unloading ENGLISH      dictionaries pool_avail = 91227872
+[dpimage_unload] Dictionaries unloaded pool_avail = 92252808
+[dpimage_restctx] Loading GERMAN       dictionaries pool_avail = 92250160
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 288 Time 4276ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 91226044
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to gr
+[syinmpc] setting cur lang to GERMAN      
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to ENGLISH     
+[dpimage_unload] Unloading GERMAN       dictionaries pool_avail = 91226864
+[dpimage_unload] Dictionaries unloaded pool_avail = 92252872
+[dpimage_restctx] Loading ENGLISH      dictionaries pool_avail = 92252872
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 290 Time 5956ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 91228252
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[wdwmclng]
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[syinmpc] received new password config
+[syinmpc] received new password config
+[ZIP] filstat 0x2000e FRA:\BACKUP\ENGLISH.
+[ZIP] filstat 0x2000e FRA:\BACKUP\GERMAN.
+"[VAGBCKUP]Save done"
+"[VAGBCKUP]END"
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420037
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+"[VAGBCKUP]BEGIN"
+[vmisavef] appending segment to MDS1:\SYSVARS.SV
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[syinmpc] received new password config
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to GERMAN      
+[dpimage_unload] Unloading ENGLISH      dictionaries pool_avail = 91278076
+[dpimage_unload] Dictionaries unloaded pool_avail = 92302960
+[dpimage_restctx] Loading GERMAN       dictionaries pool_avail = 92302672
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 288 Time 4064ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 91276528
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to gr
+[syinmpc] setting cur lang to GERMAN      
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to ENGLISH     
+[dpimage_unload] Unloading GERMAN       dictionaries pool_avail = 91276612
+[dpimage_unload] Dictionaries unloaded pool_avail = 92303380
+[dpimage_restctx] Loading ENGLISH      dictionaries pool_avail = 92303240
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 291 Time 4040ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 91279040
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[syinmpc] received new password config
+[syinmpc] received new password config
+[ZIP] filstat 0x2000e FRA:\BACKUP\ENGLISH.
+[ZIP] filstat 0x2000e FRA:\BACKUP\GERMAN.
+"[VAGBCKUP]Save done"
+"[VAGBCKUP]END"
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+"[VAGBCKUP]BEGIN"
+[vmisavef] appending segment to MDS8:\SYSVARS.SV
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] received new password config
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to GERMAN      
+[dpimage_unload] Unloading ENGLISH      dictionaries pool_avail = 91279068
+[dpimage_unload] Dictionaries unloaded pool_avail = 92303204
+[dpimage_restctx] Loading GERMAN       dictionaries pool_avail = 92303204
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 288 Time 4200ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 91276928
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to gr
+[syinmpc] setting cur lang to GERMAN      
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to ENGLISH     
+[dpimage_unload] Unloading GERMAN       dictionaries pool_avail = 91276928
+[dpimage_unload] Dictionaries unloaded pool_avail = 92303496
+[dpimage_restctx] Loading ENGLISH      dictionaries pool_avail = 92303464
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 290 Time 4068ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 91278660
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[syinmpc] received new password config
+[syinmpc] received new password config
+[ZIP] filstat 0x2000e FRA:\BACKUP\ENGLISH.
+[ZIP] filstat 0x2000e FRA:\BACKUP\GERMAN.
+"[VAGBCKUP]Save done"
+"[VAGBCKUP]END"
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+RTUCLASSDiskFindDrive(startpoint == 0,  MaxLUN == 0)
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+this run req is detected before program is paused
+this run req is detected before program is paused
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[mndaulin] mmpropen $70049 -UNDOBUFFER
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+"[VAGBCKUP]BEGIN"
+[vmisavef] appending segment to MDS7:\SYSVARS.SV
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[syinmpc] received new password config
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to GERMAN      
+[dpimage_unload] Unloading ENGLISH      dictionaries pool_avail = 91231972
+[dpimage_unload] Dictionaries unloaded pool_avail = 92255900
+[dpimage_restctx] Loading GERMAN       dictionaries pool_avail = 92256116
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 282 Time 4752ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 91227360
+[syinmpc] setting LANG_SUFFIX to gr
+[syinmpc] setting cur lang to GERMAN      
+[wdwmclng]
+[syinmpc] received new password config
+[dpsetlng] setting cur lang to ENGLISH     
+[dpimage_unload] Unloading GERMAN       dictionaries pool_avail = 91284452
+[dpimage_unload] Dictionaries unloaded pool_avail = 92310564
+[dpimage_restctx] Loading ENGLISH      dictionaries pool_avail = 92310680
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 290 Time 3312ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 91286672
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[dpsetlng] setting cur lang to ENGLISH     
+[wdwmclng]
+[syinmpc] setting LANG_SUFFIX to eg
+[syinmpc] setting cur lang to ENGLISH     
+[syinmpc] received new password config
+[syinmpc] received new password config
+[ZIP] filstat 0x2000e FRA:\BACKUP\ENGLISH.
+[ZIP] filstat 0x2000e FRA:\BACKUP\GERMAN.
+"[VAGBCKUP]Save done"
+"[VAGBCKUP]END"
+[sinn] send, ret_bytes 0, status $420036
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+[sinn] send, ret_bytes 0, status $420039
+"[VAGBCKUP]BEGIN"

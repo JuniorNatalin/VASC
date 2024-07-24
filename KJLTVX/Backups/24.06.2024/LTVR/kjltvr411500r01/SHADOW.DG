@@ -1,0 +1,1883 @@
+
+Variable Change Summary:
+Catalog records in use 1337  of 6000
+Shadow in use 798720  of 6584736
+88745 scans with 12044048 updates max=695 mean=135  Last poweroff = 9439 uS
+
+[*SYSTEM*] saved 57 times with 382 entries:
+[    *SYSTEM*]    $DMR_GRP  778781 updates 
+2 occurances
+[    *SYSTEM*] $MOR_GRP_SV  309621 updates 
+1 occurances
+[    *SYSTEM*] $FILE_DGBCK  12 updates 
+6 occurances
+[    *SYSTEM*]      $CPDBG  465859 updates 
+8 occurances
+[    *SYSTEM*]        $MCR  79874 updates 
+1 occurances
+[    *SYSTEM*]  $UI_CONFIG  6 updates 
+1 occurances
+[    *SYSTEM*]    $DMR_GRP  778781 updates 
+1 occurances
+[    *SYSTEM*]    $MCR_GRP  174861 updates 
+4 occurances
+[    *SYSTEM*] $MOR_GRP_SV  309621 updates 
+1 occurances
+[    *SYSTEM*]  $HOSTC_CFG  7 updates 
+1 occurances
+[    *SYSTEM*]  $HOSTS_CFG  2 updates 
+1 occurances
+[    *SYSTEM*] $MACROTABLE  3 updates 
+3 occurances
+[    *SYSTEM*]    $SCR_GRP  981855 updates 
+1 occurances
+[    *SYSTEM*]  $UI_CONFIG  6 updates 
+2 occurances
+[    *SYSTEM*]   $DMSW_CFG  16 updates 
+1 occurances
+[    *SYSTEM*]    $DMR_GRP  778781 updates 
+1 occurances
+[    *SYSTEM*]        $MCR  79874 updates 
+2 occurances
+[    *SYSTEM*] $MOR_GRP_SV  309621 updates 
+1 occurances
+[    *SYSTEM*]     $DTDIAG  6 updates 
+1 occurances
+[    *SYSTEM*]   $TORQCTRL  0 updates 
+1 occurances
+[    *SYSTEM*]    $MCR_GRP  174861 updates 
+3 occurances
+[    *SYSTEM*]    $DMR_GRP  778781 updates 
+1 occurances
+[    *SYSTEM*] $MOR_GRP_SV  309621 updates 
+1 occurances
+[    *SYSTEM*]    $DMR_GRP  778781 updates 
+1 occurances
+[    *SYSTEM*]  $UI_CONFIG  6 updates 
+1 occurances
+[    *SYSTEM*]    $DMR_GRP  778781 updates 
+4 occurances
+[    *SYSTEM*] $MOR_GRP_SV  309621 updates 
+2 occurances
+[    *SYSTEM*]    $DMR_GRP  778781 updates 
+1 occurances
+[    *SYSTEM*]   $RDCR_GRP  291418 updates 
+3 occurances
+[    *SYSTEM*]    $FMS_GRP  757865 updates 
+6 occurances
+[    *SYSTEM*]        $MCR  79874 updates 
+1 occurances
+[    *SYSTEM*]    $SCR_GRP  981855 updates 
+6 occurances
+[    *SYSTEM*]    $MCR_GRP  174861 updates 
+1 occurances
+[    *SYSTEM*]   $RDCR_GRP  291418 updates 
+8 occurances
+[    *SYSTEM*]  $CP_MORGRP  159995 updates 
+1 occurances
+[    *SYSTEM*]   $DIAG_GRP  865401 updates 
+20 occurances
+[    *SYSTEM*]    $DMR_GRP  778781 updates 
+4 occurances
+[    *SYSTEM*]        $MCR  79874 updates 
+1 occurances
+[    *SYSTEM*]    $MCR_GRP  174861 updates 
+2 occurances
+[    *SYSTEM*] $MOR_GRP_SV  309621 updates 
+1 occurances
+[    *SYSTEM*]    $FMS_GRP  757865 updates 
+1 occurances
+[    *SYSTEM*]        $MCR  79874 updates 
+1 occurances
+[    *SYSTEM*]      $CPDBG  465859 updates 
+1 occurances
+[    *SYSTEM*]    $DMR_GRP  778781 updates 
+5 occurances
+[    *SYSTEM*]    $FMS_GRP  757865 updates 
+1 occurances
+[    *SYSTEM*]      $CPDBG  465859 updates 
+1 occurances
+[    *SYSTEM*]    $FMS_GRP  757865 updates 
+1 occurances
+[    *SYSTEM*]    $DMR_GRP  778781 updates 
+2 occurances
+[    *SYSTEM*]    $MCR_GRP  174861 updates 
+1 occurances
+[    *SYSTEM*]       $MCSP  0 updates 
+1 occurances
+[    *SYSTEM*]   $MCSP_GRP  0 updates 
+1 occurances
+[    *SYSTEM*]        $SBR  0 updates 
+3 occurances
+[    *SYSTEM*]        $SCR  0 updates 
+1 occurances
+[    *SYSTEM*]        $MCR  79874 updates 
+4 occurances
+[    *SYSTEM*]  $CP_MORGRP  159995 updates 
+5 occurances
+[    *SYSTEM*]    $DMR_GRP  778781 updates 
+2 occurances
+[    *SYSTEM*]    $MCR_GRP  174861 updates 
+9 occurances
+[    *SYSTEM*]   $PLID_GRP  179153 updates 
+13 occurances
+[    *SYSTEM*]    $SCR_GRP  981855 updates 
+15 occurances
+[    *SYSTEM*]        $SSR  12 updates 
+1 occurances
+[    *SYSTEM*]      $UEGRP  379868 updates 
+11 occurances
+[    *SYSTEM*]    $DMR_GRP  778781 updates 
+1 occurances
+[    *SYSTEM*]    $MCR_GRP  174861 updates 
+1 occurances
+[    *SYSTEM*]        $SSR  12 updates 
+2 occurances
+[    *SYSTEM*]    $DMR_GRP  778781 updates 
+1 occurances
+[    *SYSTEM*]    $MIX_MKR  589798 updates 
+106 occurances
+[    *SYSTEM*]  $UI_CONFIG  6 updates 
+1 occurances
+[    *SYSTEM*]    $MIX_MKR  589798 updates 
+15 occurances
+[    *SYSTEM*]  $CP_MORGRP  159995 updates 
+3 occurances
+[    *SYSTEM*]    $FMS_GRP  757865 updates 
+2 occurances
+[    *SYSTEM*] $MNUTOOLNUM  35296 updates 
+1 occurances
+[    *SYSTEM*]        $SSR  12 updates 
+1 occurances
+[    *SYSTEM*]        $SCR  0 updates 
+1 occurances
+[    *SYSTEM*]    $MCR_GRP  174861 updates 
+1 occurances
+[    *SYSTEM*]    $FMS_GRP  757865 updates 
+2 occurances
+[    *SYSTEM*]    $SCR_GRP  981855 updates 
+1 occurances
+[    *SYSTEM*]$MNUFRAMENUM  13782 updates 
+1 occurances
+[    *SYSTEM*]    $FMS_GRP  757865 updates 
+1 occurances
+[    *SYSTEM*]  $CP_MORGRP  159995 updates 
+4 occurances
+[    *SYSTEM*]    $MCR_GRP  174861 updates 
+1 occurances
+[    *SYSTEM*]    $FMS_GRP  757865 updates 
+4 occurances
+[    *SYSTEM*]  $CP_MORGRP  159995 updates 
+2 occurances
+[    *SYSTEM*]      $UECFG  4 updates 
+4 occurances
+[    *SYSTEM*]      $UEGRP  379868 updates 
+1 occurances
+[    *SYSTEM*]    $FMS_GRP  757865 updates 
+14 occurances
+[    *SYSTEM*]  $UI_CONFIG  6 updates 
+1 occurances
+[    *SYSTEM*]        $SSR  12 updates 
+1 occurances
+[    *SYSTEM*]  $CP_MORGRP  159995 updates 
+1 occurances
+[    *SYSTEM*]        $MCR  79874 updates 
+1 occurances
+[    *SYSTEM*]        $SSR  12 updates 
+1 occurances
+[    *SYSTEM*]    $MIX_MKR  589798 updates 
+14 occurances
+[    *SYSTEM*]  $UI_CONFIG  6 updates 
+1 occurances
+[    *SYSTEM*]      $UECFG  4 updates 
+3 occurances
+[*PROGRAM*] saved 65 times with 910 entries:
+[   *PROGRAM*]     PG_BMMB  217760 updates 
+7 occurances
+[   *PROGRAM*]     PG_BTCD  1906491 updates 
+46 occurances
+[   *PROGRAM*]  PG_TCD_MMB  3847030 updates 
+635 occurances
+[   *PROGRAM*]     PG_BMMB  217760 updates 
+1 occurances
+[   *PROGRAM*]     PG_BTCD  1906491 updates 
+27 occurances
+[   *PROGRAM*]  PG_TCD_MMB  3847030 updates 
+13 occurances
+[   *PROGRAM*]     PG_BTCD  1906491 updates 
+1 occurances
+[   *PROGRAM*]  PG_TCD_MMB  3847030 updates 
+9 occurances
+[   *PROGRAM*]     PG_BTCD  1906491 updates 
+2 occurances
+[   *PROGRAM*]  PG_TCD_MMB  3847030 updates 
+1 occurances
+[   *PROGRAM*]     PG_BMMB  217760 updates 
+13 occurances
+[   *PROGRAM*]     PG_BTCD  1906491 updates 
+4 occurances
+[   *PROGRAM*]  PG_TCD_MMB  3847030 updates 
+21 occurances
+[   *PROGRAM*]     PG_BTCD  1906491 updates 
+23 occurances
+[   *PROGRAM*]  PG_TCD_MMB  3847030 updates 
+19 occurances
+[   *PROGRAM*]     PG_BTCD  1906491 updates 
+2 occurances
+[   *PROGRAM*]  PG_TCD_MMB  3847030 updates 
+4 occurances
+[   *PROGRAM*]     PG_BTCD  1906491 updates 
+2 occurances
+[   *PROGRAM*]  PG_TCD_MMB  3847030 updates 
+2 occurances
+[   *PROGRAM*]     PG_BTCD  1906491 updates 
+4 occurances
+[   *PROGRAM*]  PG_TCD_MMB  3847030 updates 
+4 occurances
+[   *PROGRAM*]     PG_BTCD  1906491 updates 
+1 occurances
+[   *PROGRAM*]  PG_TCD_MMB  3847030 updates 
+2 occurances
+[   *PROGRAM*]     PG_BTCD  1906491 updates 
+1 occurances
+[   *PROGRAM*]  PG_TCD_MMB  3847030 updates 
+5 occurances
+[   *PROGRAM*]     PG_BTCD  1906491 updates 
+4 occurances
+[   *PROGRAM*]  PG_TCD_MMB  3847030 updates 
+1 occurances
+[   *PROGRAM*]     PG_BTCD  1906491 updates 
+1 occurances
+[   *PROGRAM*]  PG_TCD_MMB  3847030 updates 
+4 occurances
+[   *PROGRAM*]     PG_BTCD  1906491 updates 
+1 occurances
+[   *PROGRAM*]  PG_TCD_MMB  3847030 updates 
+2 occurances
+[   *PROGRAM*]     PG_BTCD  1906491 updates 
+1 occurances
+[   *PROGRAM*]  PG_TCD_MMB  3847030 updates 
+3 occurances
+[   *PROGRAM*]     PG_BTCD  1906491 updates 
+1 occurances
+[   *PROGRAM*]  PG_TCD_MMB  3847030 updates 
+9 occurances
+[   *PROGRAM*]     PG_BTCD  1906491 updates 
+2 occurances
+[   *PROGRAM*]  PG_TCD_MMB  3847030 updates 
+8 occurances
+[   *PROGRAM*]     PG_BTCD  1906491 updates 
+1 occurances
+[   *PROGRAM*]  PG_TCD_MMB  3847030 updates 
+5 occurances
+[   *PROGRAM*]     PG_BTCD  1906491 updates 
+1 occurances
+[   *PROGRAM*]  PG_TCD_MMB  3847030 updates 
+12 occurances
+[   *PROGRAM*]     PG_BTCD  1906491 updates 
+4 occurances
+[   *PROGRAM*]  PG_TCD_MMB  3847030 updates 
+1 occurances
+[VAGBCKUP] saved 8 times with 10 entries:
+[    VAGBCKUP]  CONNECT_ID  0 updates 
+1 occurances
+[    VAGBCKUP] DEVICE_TYPE  0 updates 
+1 occurances
+[    VAGBCKUP]      DEV_ID  0 updates 
+1 occurances
+[    VAGBCKUP]      MANZIP  0 updates 
+1 occurances
+[    VAGBCKUP]     PANE_ID  0 updates 
+1 occurances
+[    VAGBCKUP]    BACKDATE  2 updates 
+5 occurances
+[*POSREG*] saved 7 times with 18 entries:
+[    *POSREG*]     $POSREG  6966 updates 
+18 occurances
+[*NUMREG*] saved 9 times with 8 entries:
+[    *NUMREG*]     $NUMREG  2300 updates 
+8 occurances
+[MSK_STAT] saved 5 times with 1 entries:
+[    MSK_STAT]     MSK_RUN  4 updates 
+1 occurances
+[ATSOFTPA] saved 2 times with 8 entries:
+[    ATSOFTPA] DESCRPT_STR  0 updates 
+7 occurances
+[    ATSOFTPA]     IO_PORT  0 updates 
+1 occurances
+
+Detailed Change Listing:
+Catalog records in use 1337  of 6000
+Shadow in use 798720  of 6584736
+88745 scans with 12044048 updates max=695 mean=135  Last poweroff = 9439 uS
+
+[*SYSTEM*] saved 57 times with 382 entries:
+[    *SYSTEM*]    $DMR_GRP  778781 updates               $DMR_GRP[1].$SPC_COUNT[6],56,79,0x10ba58c
+              $DMR_GRP[1].$SPC_COUNT[2],56,75,0xb73039
+[    *SYSTEM*] $MOR_GRP_SV  309621 updates               $MOR_GRP_SV[1].$CUR_SV_ANG[6],89,7,0x3f860a7a
+[    *SYSTEM*] $FILE_DGBCK  12 updates               $FILE_DGBCK[9].$FUNC_PTR,67,297,0x10907ae8
+              $FILE_DGBCK[10].$FUNC_PTR,67,330,0x10907ae8
+              $FILE_DGBCK[11].$FUNC_PTR,67,363,0x10904f2c
+              $FILE_DGBCK[12].$FUNC_PTR,67,396,0x10904f2c
+              $FILE_DGBCK[13].$FUNC_PTR,67,429,0x10904f2c
+              $FILE_DGBCK[16].$FUNC_PTR,67,528,0x10af2dbc
+[    *SYSTEM*]      $CPDBG  465859 updates               $CPDBG.$CPIDEBUG.$COUNT,11,16,0x3265
+              $CPDBG.$CPPDEBUG.$COUNT,11,34,0x23b
+              $CPDBG.$MIDEBUG.$COUNT,11,52,0x18f
+              $CPDBG.$MIDEBUG.$TAIL,11,53,0x190
+              $CPDBG.$MPDEBUG.$COUNT,11,70,0x54
+              $CPDBG.$MPDEBUG.$TAIL,11,71,0x55
+              $CPDBG.$MGDEBUG.$COUNT,11,88,0x1d8
+              $CPDBG.$MGDEBUG.$TAIL,11,89,0x1d9
+[    *SYSTEM*]        $MCR  79874 updates               $MCR.$SFSPD,79,1,0x0
+[    *SYSTEM*]  $UI_CONFIG  6 updates               $UI_CONFIG.$CONFIG_CHAN[1],125,12,0x2
+[    *SYSTEM*]    $DMR_GRP  778781 updates               $DMR_GRP[1].$SPC_COUNT[5],56,78,0xfea4f29a
+[    *SYSTEM*]    $MCR_GRP  174861 updates               $MCR_GRP[1].$HARD_HOLD,80,4,0x0
+              $MCR_GRP[2].$HARD_HOLD,80,153,0x0
+              $MCR_GRP[3].$HARD_HOLD,80,302,0x0
+              $MCR_GRP[4].$HARD_HOLD,80,451,0x0
+[    *SYSTEM*] $MOR_GRP_SV  309621 updates               $MOR_GRP_SV[2].$CUR_SV_ANG[1],89,12,0x42c80004
+[    *SYSTEM*]  $HOSTC_CFG  7 updates               $HOSTC_CFG[1].$STATE,74,12,0x3
+[    *SYSTEM*]  $HOSTS_CFG  2 updates               $HOSTS_CFG[2].$STATE,75,126,0x3
+[    *SYSTEM*] $MACROTABLE  3 updates               $MACROTABLE[1].$MON_NO,78,24,0x11464b0c
+              $MACROTABLE[3].$MON_NO,78,74,0x178de190
+              $MACROTABLE[4].$MON_NO,78,99,0x13741268
+[    *SYSTEM*]    $SCR_GRP  981855 updates               $SCR_GRP[2].$MCH_ANG[1],102,694,0x42c6fffc
+[    *SYSTEM*]  $UI_CONFIG  6 updates               $UI_CONFIG.$PANEMAP[1],125,19,0x20001
+              $UI_CONFIG.$PANEMAP[2],125,20,0x20000
+[    *SYSTEM*]   $DMSW_CFG  16 updates               $DMSW_CFG.$KEYIMAGE,57,0,0xc
+[    *SYSTEM*]    $DMR_GRP  778781 updates               $DMR_GRP[1].$SPC_COUNT[1],56,74,0x313af3
+[    *SYSTEM*]        $MCR  79874 updates               $MCR.$CLD_RELEASE,79,47,0x0
+              $MCR.$SHFT_RST_PR,79,54,0x0
+[    *SYSTEM*] $MOR_GRP_SV  309621 updates               $MOR_GRP_SV[1].$CUR_SV_ANG[1],89,2,0x3e32b852
+[    *SYSTEM*]     $DTDIAG  6 updates               $DTDIAG.$DTREC_ON,62,12,0x1
+[    *SYSTEM*]   $TORQCTRL  0 updates               $TORQCTRL.$ACTION,114,113,0x0
+[    *SYSTEM*]    $MCR_GRP  174861 updates               $MCR_GRP[2].$TURN_ON_SRV,80,167,0x0
+              $MCR_GRP[3].$TURN_ON_SRV,80,316,0x0
+              $MCR_GRP[4].$TURN_ON_SRV,80,465,0x0
+[    *SYSTEM*]    $DMR_GRP  778781 updates               $DMR_GRP[1].$SPC_COUNT[3],56,76,0xff29ba9f
+[    *SYSTEM*] $MOR_GRP_SV  309621 updates               $MOR_GRP_SV[1].$CUR_SV_ANG[3],89,4,0x3f1c61e6
+[    *SYSTEM*]    $DMR_GRP  778781 updates               $DMR_GRP[1].$SPC_MOVE[5],56,88,0x0
+[    *SYSTEM*]  $UI_CONFIG  6 updates               $UI_CONFIG.$FOCUS[1],125,9,0x0
+[    *SYSTEM*]    $DMR_GRP  778781 updates               $DMR_GRP[1].$SPC_MOVE[1],56,84,0x0
+              $DMR_GRP[1].$MASTER_DONE,56,1,0x1
+              $DMR_GRP[1].$EACHMST_DON[4],56,67,0x2
+              $DMR_GRP[1].$SPC_ST_HIST[4],56,123,0x81a40120
+[    *SYSTEM*] $MOR_GRP_SV  309621 updates               $MOR_GRP_SV[1].$CUR_SV_ANG[4],89,5,0xbfc90fdb
+              $MOR_GRP_SV[1].$CUR_SV_ANG[5],89,6,0xbfb2b8cd
+[    *SYSTEM*]    $DMR_GRP  778781 updates               $DMR_GRP[1].$SPC_MOVE[6],56,89,0x0
+[    *SYSTEM*]   $RDCR_GRP  291418 updates               $RDCR_GRP[1].$RMIN_TORQUE[1],98,12,0xc58708ca
+              $RDCR_GRP[1].$RMIN_TORQUE[4],98,15,0xc42c92b2
+              $RDCR_GRP[1].$RMIN_TORQUE[6],98,17,0xc380c559
+[    *SYSTEM*]    $FMS_GRP  757865 updates               $FMS_GRP[1].$T_LIFE_TEMP[1],70,62,0x41d09605
+              $FMS_GRP[1].$T_LIFE_TEMP[2],70,63,0x41d09605
+              $FMS_GRP[1].$T_LIFE_TEMP[3],70,64,0x41d09605
+              $FMS_GRP[1].$T_LIFE_TEMP[4],70,65,0x41d09605
+              $FMS_GRP[1].$T_LIFE_TEMP[5],70,66,0x41d09605
+              $FMS_GRP[1].$T_LIFE_TEMP[6],70,67,0x41d09605
+[    *SYSTEM*]        $MCR  79874 updates               $MCR.$ENBL,79,0,0x1
+[    *SYSTEM*]    $SCR_GRP  981855 updates               $SCR_GRP[1].$MCH_ANG[1],102,153,0x411fff9e
+              $SCR_GRP[1].$MCH_ANG[2],102,154,0xc20c0373
+              $SCR_GRP[1].$MCH_ANG[3],102,155,0x420bff25
+              $SCR_GRP[1].$MCH_ANG[4],102,156,0xc2b3ffd4
+              $SCR_GRP[1].$MCH_ANG[5],102,157,0xc2a0001c
+              $SCR_GRP[1].$MCH_ANG[6],102,158,0x42700004
+[    *SYSTEM*]    $MCR_GRP  174861 updates               $MCR_GRP[1].$HOLD,80,3,0x0
+[    *SYSTEM*]   $RDCR_GRP  291418 updates               $RDCR_GRP[1].$RMAX_TORQUE[1],98,2,0x457cc212
+              $RDCR_GRP[1].$RMAX_TORQUE[2],98,3,0x45c2e85d
+              $RDCR_GRP[1].$RMAX_TORQUE[4],98,5,0x443b1685
+              $RDCR_GRP[1].$RMAX_TORQUE[5],98,6,0x440998d5
+              $RDCR_GRP[1].$RMAX_TORQUE[6],98,7,0x4374197c
+              $RDCR_GRP[1].$RMIN_TORQUE[2],98,13,0xc5bcbc83
+              $RDCR_GRP[1].$RMIN_TORQUE[3],98,14,0xc5e65747
+              $RDCR_GRP[1].$RMIN_TORQUE[5],98,16,0xc3ce6668
+[    *SYSTEM*]  $CP_MORGRP  159995 updates               $CP_MORGRP[1].$SEGFRACTION,15,39,0x3f800000
+[    *SYSTEM*]   $DIAG_GRP  865401 updates               $DIAG_GRP[1].$CUR_TCP,55,518,0xbcfd56d2
+              $DIAG_GRP[1].$CUR_TCP,55,519,0x3f7e9aa0
+              $DIAG_GRP[1].$CUR_TCP,55,520,0x3dcbfb5a
+              $DIAG_GRP[1].$CUR_TCP,55,521,0x3f7f1ea3
+              $DIAG_GRP[1].$CUR_TCP,55,522,0x3cbc8c6f
+              $DIAG_GRP[1].$CUR_TCP,55,523,0x3da3052a
+              $DIAG_GRP[1].$CUR_TCP,55,524,0x3d9d6fab
+              $DIAG_GRP[1].$CUR_TCP,55,525,0x3dd05261
+              $DIAG_GRP[1].$CUR_TCP,55,526,0xbf7de921
+              $DIAG_GRP[1].$CUR_TCP,55,527,0x448a3125
+              $DIAG_GRP[1].$CUR_TCP,55,528,0x447256b8
+              $DIAG_GRP[1].$CUR_TCP,55,529,0x45193092
+              $DIAG_GRP[1].$CUR_TCP,55,530,0x30
+              $DIAG_GRP[1].$MOTN_STYLE,55,531,0x0
+              $DIAG_GRP[1].$CUR_TCP_X,55,564,0x448a3125
+              $DIAG_GRP[1].$CUR_TCP_Y,55,565,0x447256b8
+              $DIAG_GRP[1].$CUR_TCP_Z,55,566,0x45193092
+              $DIAG_GRP[1].$CUR_TCP_W,55,567,0x432f695d
+              $DIAG_GRP[1].$CUR_TCP_P,55,568,0xc0b6ead5
+              $DIAG_GRP[1].$CUR_TCP_R,55,569,0x42b78fe2
+[    *SYSTEM*]    $DMR_GRP  778781 updates               $DMR_GRP[1].$SPC_MOVE[2],56,85,0x0
+              $DMR_GRP[1].$ADAPT_GRAV[1],56,116,0xffd1f5ed
+              $DMR_GRP[1].$ADAPT_GRAV[3],56,117,0xf8effcf5
+              $DMR_GRP[1].$ADAPT_GRAV[5],56,118,0x132fef7
+[    *SYSTEM*]        $MCR  79874 updates               $MCR.$OTF_LIN_NO,79,43,0x23
+[    *SYSTEM*]    $MCR_GRP  174861 updates               $MCR_GRP[1].$OTF_SPEED,80,53,0x0
+              $MCR_GRP[1].$OTF_ORG_SPD,80,54,0x44fa0000
+[    *SYSTEM*] $MOR_GRP_SV  309621 updates               $MOR_GRP_SV[1].$CUR_SV_ANG[2],89,3,0xbf1c61ae
+[    *SYSTEM*]    $FMS_GRP  757865 updates               $FMS_GRP[1].$NT_LIFE[2],70,13,0x4f53fa16
+[    *SYSTEM*]        $MCR  79874 updates               $MCR.$JOGOVERRIDE,79,58,0xa
+[    *SYSTEM*]      $CPDBG  465859 updates               $CPDBG.$CPPDEBUG.$TAIL,11,35,0x23c
+[    *SYSTEM*]    $DMR_GRP  778781 updates               $DMR_GRP[1].$BCKLSH_SIGN[4],56,57,0x1
+              $DMR_GRP[1].$BCKLSH_SIGN[5],56,58,0x1
+              $DMR_GRP[1].$SPC_COUNT[4],56,77,0xffa304a8
+              $DMR_GRP[1].$SPC_MOVE[3],56,86,0x0
+              $DMR_GRP[1].$SPC_MOVE[4],56,87,0x0
+[    *SYSTEM*]    $FMS_GRP  757865 updates               $FMS_GRP[1].$NT_LIFE[4],70,15,0x49ee243a
+[    *SYSTEM*]      $CPDBG  465859 updates               $CPDBG.$CPIDEBUG.$TAIL,11,17,0x3266
+[    *SYSTEM*]    $FMS_GRP  757865 updates               $FMS_GRP[1].$NT_LIFE[5],70,16,0x4a603c79
+[    *SYSTEM*]    $DMR_GRP  778781 updates               $DMR_GRP[1].$MASTER_COUN[4],56,26,0x134bb20
+              $DMR_GRP[1].$GRAV_MAST,56,392,0x0
+[    *SYSTEM*]    $MCR_GRP  174861 updates               $MCR_GRP[1].$MASTER_TYPE,80,21,0x37fff
+[    *SYSTEM*]       $MCSP  0 updates               $MCSP.$JOGLIM_FLG,81,7,0x0
+[    *SYSTEM*]   $MCSP_GRP  0 updates               $MCSP_GRP[1].$TRQLIM_FLG,82,2,0x0
+[    *SYSTEM*]        $SBR  0 updates               $SBR[1].$PARAM[25],99,36,0x1c720e39
+              $SBR[2].$PARAM[25],99,210,0x1c720e39
+              $SBR[3].$PARAM[25],99,384,0x1c720e39
+[    *SYSTEM*]        $SCR  0 updates               $SCR.$JOGOVLIM,101,87,0x64
+[    *SYSTEM*]        $MCR  79874 updates               $MCR.$ACTOVERRIDE,79,57,0x1
+              $MCR.$GENOVERRIDE,79,38,0x64
+              $MCR.$OTF_PRG_ID,79,42,0x992
+              $MCR.$OTF_OFST,79,44,0x0
+[    *SYSTEM*]  $CP_MORGRP  159995 updates               $CP_MORGRP[1].$T1_TCPSPD,15,5,0x0
+              $CP_MORGRP[1].$SPEED,15,6,0x41a699f5
+              $CP_MORGRP[2].$SEGFRACTION,15,80,0x3f800000
+              $CP_MORGRP[3].$SEGFRACTION,15,121,0x3f800000
+              $CP_MORGRP[4].$SEGFRACTION,15,162,0x3f800000
+[    *SYSTEM*]    $DMR_GRP  778781 updates               $DMR_GRP[1].$BCKLSH_SIGN[3],56,56,0x0
+              $DMR_GRP[1].$BCKLSH_SIGN[6],56,59,0x1
+[    *SYSTEM*]    $MCR_GRP  174861 updates               $MCR_GRP[2].$HOLD,80,152,0x0
+              $MCR_GRP[2].$OTF_SPEED,80,202,0x0
+              $MCR_GRP[2].$OTF_ORG_SPD,80,203,0x44fa0000
+              $MCR_GRP[3].$HOLD,80,301,0x0
+              $MCR_GRP[3].$OTF_SPEED,80,351,0x0
+              $MCR_GRP[3].$OTF_ORG_SPD,80,352,0x44fa0000
+              $MCR_GRP[4].$HOLD,80,450,0x0
+              $MCR_GRP[4].$OTF_SPEED,80,500,0x0
+              $MCR_GRP[4].$OTF_ORG_SPD,80,501,0x44fa0000
+[    *SYSTEM*]   $PLID_GRP  179153 updates               $PLID_GRP[1].$CALC_RESULT.$PAYLOAD,94,303,0x42950000
+              $PLID_GRP[1].$CALC_RESULT.$INERTIA4,94,305,0x4189999a
+              $PLID_GRP[1].$CALC_RESULT.$INERTIA5,94,306,0x41866666
+              $PLID_GRP[1].$CALC_RESULT.$INERTIA6,94,307,0x420c0000
+              $PLID_GRP[1].$CALC_RESULT.$MOMENT4,94,308,0x42000000
+              $PLID_GRP[1].$CALC_RESULT.$MOMENT5,94,309,0x42000000
+              $PLID_GRP[1].$CALC_RESULT.$MOMENT6,94,310,0x40e00000
+              $PLID_GRP[1].$CALC_RESULT.$COMB_LOAD4,94,311,0x41f9999a
+              $PLID_GRP[1].$CALC_RESULT.$COMB_LOAD5,94,312,0x41fc0000
+              $PLID_GRP[1].$CALC_RESULT.$COMB_LOAD6,94,313,0x418c0000
+              $PLID_GRP[1].$CALC_RESULT.$PUB_INRT4,94,314,0xc3086b10
+              $PLID_GRP[1].$CALC_RESULT.$PUB_INRT5,94,315,0xc308a59a
+              $PLID_GRP[1].$CALC_RESULT.$PUB_INRT6,94,316,0xc29678d0
+[    *SYSTEM*]    $SCR_GRP  981855 updates               $SCR_GRP[1].$MCH_POS_X,102,146,0x448a3123
+              $SCR_GRP[1].$MCH_POS_Y,102,147,0x44725696
+              $SCR_GRP[1].$MCH_POS_Z,102,148,0x45193095
+              $SCR_GRP[1].$MCH_POS_W,102,149,0x432f6958
+              $SCR_GRP[1].$MCH_POS_P,102,150,0xc0b6ead2
+              $SCR_GRP[1].$MCH_POS_R,102,151,0x42b78fd8
+              $SCR_GRP[1].$MCH_SPD,102,162,0x0
+              $SCR_GRP[1].$DST_MIR_P,102,163,0x0
+              $SCR_GRP[1].$DPOS_DST,102,164,0x3cd996f2
+              $SCR_GRP[1].$DST_POS_X,102,165,0x448a304a
+              $SCR_GRP[1].$DST_POS_Y,102,166,0x44725677
+              $SCR_GRP[1].$DST_POS_Z,102,167,0x45193093
+              $SCR_GRP[2].$DST_MIR_P,102,704,0x0
+              $SCR_GRP[3].$DST_MIR_P,102,1245,0x0
+              $SCR_GRP[4].$DST_MIR_P,102,1786,0x0
+[    *SYSTEM*]        $SSR  12 updates               $SSR.$STEPTASKNUM,111,11,0x4010000
+[    *SYSTEM*]      $UEGRP  379868 updates               $UEGRP[1].$PROGMTN_FLG,124,2,0x1
+              $UEGRP[1].$CURR_POS[1],124,4,0x3e32b852
+              $UEGRP[1].$CURR_POS[2],124,5,0xbf1c61ae
+              $UEGRP[1].$CURR_POS[3],124,6,0x3f1c61e6
+              $UEGRP[1].$CURR_POS[4],124,7,0xbfc90fdb
+              $UEGRP[1].$CURR_POS[5],124,8,0xbfb2b8cd
+              $UEGRP[1].$CURR_POS[6],124,9,0x3f860a7a
+              $UEGRP[2].$PROGMTN_FLG,124,14,0x0
+              $UEGRP[2].$CURR_POS[1],124,16,0x42c80004
+              $UEGRP[3].$PROGMTN_FLG,124,26,0x0
+              $UEGRP[4].$PROGMTN_FLG,124,38,0x0
+[    *SYSTEM*]    $DMR_GRP  778781 updates               $DMR_GRP[1].$BCKLSH_SIGN[1],56,54,0x1
+[    *SYSTEM*]    $MCR_GRP  174861 updates               $MCR_GRP[1].$TSMOD_ON,80,57,0x0
+[    *SYSTEM*]        $SSR  12 updates               $SSR.$SGLSTEPTASK[1],111,1,0x1464f
+              $SSR.$SGLSTEPTASK[3],111,2,0x4c474531
+[    *SYSTEM*]    $DMR_GRP  778781 updates               $DMR_GRP[1].$BCKLSH_SIGN[2],56,55,0x1
+[    *SYSTEM*]    $MIX_MKR  589798 updates               $MIX_MKR[1].$LINE[1],83,2,0x2a020001
+              $MIX_MKR[1].$LINE_SIZE,83,66,0x1c
+              $MIX_MKR[2].$LINE[1],83,68,0x2a020002
+              $MIX_MKR[2].$LINE_SIZE,83,132,0x18
+              $MIX_MKR[3].$LINE[1],83,134,0x2a020003
+              $MIX_MKR[3].$LINE_SIZE,83,198,0x1e
+              $MIX_MKR[5].$LINE[1],83,266,0x2a020005
+              $MIX_MKR[5].$LINE_SIZE,83,330,0x1d
+              $MIX_MKR[10].$LINE[1],83,596,0x2a02000a
+              $MIX_MKR[10].$LINE_SIZE,83,660,0x24
+              $MIX_MKR[11].$LINE[1],83,662,0x2a02000b
+              $MIX_MKR[11].$LINE_SIZE,83,726,0x24
+              $MIX_MKR[12].$LINE[1],83,728,0x2a02000c
+              $MIX_MKR[12].$LINE_SIZE,83,792,0x24
+              $MIX_MKR[13].$LINE[1],83,794,0x2a02000d
+              $MIX_MKR[13].$LINE_SIZE,83,858,0x24
+              $MIX_MKR[14].$LINE[1],83,860,0x2a02000e
+              $MIX_MKR[14].$LINE_SIZE,83,924,0x24
+              $MIX_MKR[15].$LINE[1],83,926,0x2a02000f
+              $MIX_MKR[15].$LINE_SIZE,83,990,0x24
+              $MIX_MKR[16].$LINE[1],83,992,0x2a020010
+              $MIX_MKR[16].$LINE_SIZE,83,1056,0x1c
+              $MIX_MKR[17].$LINE[1],83,1058,0x2a020011
+              $MIX_MKR[17].$LINE_SIZE,83,1122,0x1c
+              $MIX_MKR[18].$LINE[1],83,1124,0x2a020012
+              $MIX_MKR[18].$LINE_SIZE,83,1188,0x1c
+              $MIX_MKR[30].$LINE[1],83,1916,0x2a02001e
+              $MIX_MKR[30].$LINE_SIZE,83,1980,0x15
+              $MIX_MKR[31].$LINE[1],83,1982,0x2a02001f
+              $MIX_MKR[31].$LINE_SIZE,83,2046,0x27
+              $MIX_MKR[32].$LINE[1],83,2048,0x2a020020
+              $MIX_MKR[32].$LINE_SIZE,83,2112,0x27
+              $MIX_MKR[35].$LINE[1],83,2246,0x2a020023
+              $MIX_MKR[35].$LINE_SIZE,83,2310,0x11
+              $MIX_MKR[36].$LINE[1],83,2312,0x2a020024
+              $MIX_MKR[36].$LINE_SIZE,83,2376,0x11
+              $MIX_MKR[37].$LINE[1],83,2378,0x2a020025
+              $MIX_MKR[37].$LINE_SIZE,83,2442,0x11
+              $MIX_MKR[38].$LINE[1],83,2444,0x2a020026
+              $MIX_MKR[38].$LINE_SIZE,83,2508,0x11
+              $MIX_MKR[39].$LINE[1],83,2510,0x2a020027
+              $MIX_MKR[39].$LINE_SIZE,83,2574,0x11
+              $MIX_MKR[40].$LINE[1],83,2576,0x2a020028
+              $MIX_MKR[40].$LINE_SIZE,83,2640,0x11
+              $MIX_MKR[41].$LINE[1],83,2642,0x2a020029
+              $MIX_MKR[41].$LINE_SIZE,83,2706,0x11
+              $MIX_MKR[42].$LINE[1],83,2708,0x2a02002a
+              $MIX_MKR[42].$LINE_SIZE,83,2772,0x11
+              $MIX_MKR[43].$LINE[1],83,2774,0x2a02002b
+              $MIX_MKR[43].$LINE_SIZE,83,2838,0x9
+              $MIX_MKR[44].$LINE[1],83,2840,0x2a02002c
+              $MIX_MKR[44].$LINE_SIZE,83,2904,0x9
+              $MIX_MKR[45].$LINE[1],83,2906,0x2a02002d
+              $MIX_MKR[45].$LINE_SIZE,83,2970,0x9
+              $MIX_MKR[46].$LINE[1],83,2972,0x2a02002e
+              $MIX_MKR[46].$LINE_SIZE,83,3036,0x9
+              $MIX_MKR[47].$LINE[1],83,3038,0x2a02002f
+              $MIX_MKR[47].$LINE_SIZE,83,3102,0x9
+              $MIX_MKR[48].$LINE[1],83,3104,0x2a020030
+              $MIX_MKR[48].$LINE_SIZE,83,3168,0x9
+              $MIX_MKR[49].$LINE[1],83,3170,0x2a020031
+              $MIX_MKR[49].$LINE_SIZE,83,3234,0x9
+              $MIX_MKR[50].$LINE[1],83,3236,0x2a020032
+              $MIX_MKR[50].$LINE_SIZE,83,3300,0x9
+              $MIX_MKR[51].$LINE[1],83,3302,0x2a020033
+              $MIX_MKR[51].$LINE_SIZE,83,3366,0x9
+              $MIX_MKR[52].$LINE[1],83,3368,0x2a020034
+              $MIX_MKR[52].$LINE_SIZE,83,3432,0x9
+              $MIX_MKR[53].$LINE[1],83,3434,0x2a020035
+              $MIX_MKR[53].$LINE_SIZE,83,3498,0x9
+              $MIX_MKR[54].$LINE[1],83,3500,0x2a020036
+              $MIX_MKR[54].$LINE_SIZE,83,3564,0x9
+              $MIX_MKR[55].$LINE[1],83,3566,0x2a020037
+              $MIX_MKR[55].$LINE_SIZE,83,3630,0x9
+              $MIX_MKR[56].$LINE[1],83,3632,0x2a020038
+              $MIX_MKR[56].$LINE_SIZE,83,3696,0x9
+              $MIX_MKR[57].$LINE[1],83,3698,0x2a020039
+              $MIX_MKR[57].$LINE_SIZE,83,3762,0x9
+              $MIX_MKR[58].$LINE[1],83,3764,0x2a02003a
+              $MIX_MKR[58].$LINE_SIZE,83,3828,0x9
+              $MIX_MKR[59].$LINE[1],83,3830,0x2a02003b
+              $MIX_MKR[59].$LINE_SIZE,83,3894,0x9
+              $MIX_MKR[60].$LINE[1],83,3896,0x2a02003c
+              $MIX_MKR[60].$LINE_SIZE,83,3960,0x9
+              $MIX_MKR[61].$LINE[1],83,3962,0x2a02003d
+              $MIX_MKR[61].$LINE_SIZE,83,4026,0x9
+              $MIX_MKR[62].$LINE[1],83,4028,0x2a02003e
+              $MIX_MKR[62].$LINE_SIZE,83,4092,0x9
+              $MIX_MKR[63].$LINE[1],83,4094,0x2a02003f
+              $MIX_MKR[63].$LINE_SIZE,83,4158,0x9
+              $MIX_MKR[64].$LINE[1],83,4160,0x2a020040
+              $MIX_MKR[64].$LINE_SIZE,83,4224,0x9
+              $MIX_MKR[65].$LINE[1],83,4226,0x2a020041
+              $MIX_MKR[65].$LINE_SIZE,83,4290,0x9
+              $MIX_MKR[66].$LINE[1],83,4292,0x2a020042
+              $MIX_MKR[66].$LINE_SIZE,83,4356,0x9
+              $MIX_MKR[67].$LINE[1],83,4358,0x2a020043
+              $MIX_MKR[67].$LINE_SIZE,83,4422,0x9
+              $MIX_MKR[68].$LINE[1],83,4424,0x2a020044
+              $MIX_MKR[68].$LINE_SIZE,83,4488,0x9
+              $MIX_MKR[95].$LINE[1],83,6206,0x2a02005f
+              $MIX_MKR[95].$LINE_SIZE,83,6270,0x40
+              $MIX_MKR[96].$LINE[1],83,6272,0x2a020060
+              $MIX_MKR[96].$LINE_SIZE,83,6336,0x41
+              $MIX_MKR[97].$LINE[1],83,6338,0x2a020061
+              $MIX_MKR[97].$LINE_SIZE,83,6402,0x39
+[    *SYSTEM*]  $UI_CONFIG  6 updates               $UI_CONFIG.$FILVEW_MASK,125,585,0x7fff
+[    *SYSTEM*]    $MIX_MKR  589798 updates               $MIX_MKR[10].$LINE[13],83,599,0x2002171
+              $MIX_MKR[11].$LINE[13],83,665,0x2002171
+              $MIX_MKR[12].$LINE[13],83,731,0x2002171
+              $MIX_MKR[33].$LINE[1],83,2114,0x2a020021
+              $MIX_MKR[33].$LINE_SIZE,83,2178,0x11
+              $MIX_MKR[34].$LINE[1],83,2180,0x2a020022
+              $MIX_MKR[34].$LINE_SIZE,83,2244,0x11
+              $MIX_MKR[10].$LINE[29],83,603,0x27712a
+              $MIX_MKR[11].$LINE[29],83,669,0x27712a
+              $MIX_MKR[12].$LINE[29],83,735,0x27712a
+              $MIX_MKR[13].$LINE[29],83,801,0x27712a
+              $MIX_MKR[14].$LINE[29],83,867,0x27712a
+              $MIX_MKR[14].$LINE[33],83,868,0x2002974
+              $MIX_MKR[15].$LINE[29],83,933,0x27712a
+              $MIX_MKR[15].$LINE[33],83,934,0x2002974
+[    *SYSTEM*]  $CP_MORGRP  159995 updates               $CP_MORGRP[1].$CHNS_EMPTY,15,1,0x1
+              $CP_MORGRP[2].$CHNS_EMPTY,15,42,0x1
+              $CP_MORGRP[2].$T1_FPSPD,15,45,0x0
+[    *SYSTEM*]    $FMS_GRP  757865 updates               $FMS_GRP[1].$NT_LIFE[3],70,14,0x4fbe3c80
+              $FMS_GRP[1].$REM_LIFE[3],70,4,0x480ac0b0
+[    *SYSTEM*] $MNUTOOLNUM  35296 updates               $MNUTOOLNUM[1],87,1,0x1010101
+[    *SYSTEM*]        $SSR  12 updates               $SSR.$SINGLESTEP,111,0,0xff0026
+[    *SYSTEM*]        $SCR  0 updates               $SCR.$CHAIN_RSDN,101,1066,0x1
+[    *SYSTEM*]    $MCR_GRP  174861 updates               $MCR_GRP[1].$SOFT_ALARM,80,15,0x0
+[    *SYSTEM*]    $FMS_GRP  757865 updates               $FMS_GRP[1].$NT_LIFE[1],70,12,0x4c4b5a19
+              $FMS_GRP[1].$NT_LIFE[6],70,17,0x49a7f036
+[    *SYSTEM*]    $SCR_GRP  981855 updates               $SCR_GRP[1].$MOVE_DST,102,145,0x4f74fcc6
+[    *SYSTEM*]$MNUFRAMENUM  13782 updates               $MNUFRAMENUM[1],85,1,0x0
+[    *SYSTEM*]    $FMS_GRP  757865 updates               $FMS_GRP[1].$REM_LIFE[2],70,3,0x4887d911
+[    *SYSTEM*]  $CP_MORGRP  159995 updates               $CP_MORGRP[1].$RSTRT_LINE,15,40,0x11
+              $CP_MORGRP[2].$RSTRT_LINE,15,81,0x11
+              $CP_MORGRP[3].$RSTRT_LINE,15,122,0x11
+              $CP_MORGRP[4].$RSTRT_LINE,15,163,0x11
+[    *SYSTEM*]    $MCR_GRP  174861 updates               $MCR_GRP[1].$TURN_ON_SRV,80,18,0x0
+[    *SYSTEM*]    $FMS_GRP  757865 updates               $FMS_GRP[1].$REM_LIFE[5],70,6,0x4a9d8509
+              $FMS_GRP[1].$REM_LIFE[6],70,7,0x49a1aeeb
+              $FMS_GRP[1].$REM_LIFE[1],70,2,0x4b6b46f3
+              $FMS_GRP[1].$REM_LIFE[4],70,5,0x4b0f8eee
+[    *SYSTEM*]  $CP_MORGRP  159995 updates               $CP_MORGRP[3].$CHNS_EMPTY,15,83,0x1
+              $CP_MORGRP[4].$CHNS_EMPTY,15,124,0x1
+[    *SYSTEM*]      $UECFG  4 updates               $UECFG.$REQ_COUNT,123,7,0x24
+              $UECFG.$REQ_DATA[5].$ERR_AXIS,123,35,0x1
+              $UECFG.$REQ_DATA[5].$ERROR_DIST,123,37,0x4117d6af
+              $UECFG.$REQ_DATA[5].$ERR_TIME,123,38,0x587b1f12
+[    *SYSTEM*]      $UEGRP  379868 updates               $UEGRP[1].$ERR_COUNT,124,1,0x1f
+[    *SYSTEM*]    $FMS_GRP  757865 updates               $FMS_GRP[1].$NT_LIFE_0[1],70,52,0x4d89bec8
+              $FMS_GRP[1].$NT_LIFE_0[2],70,53,0x5092f89d
+              $FMS_GRP[1].$NT_LIFE_0[3],70,54,0x5103954a
+              $FMS_GRP[1].$NT_LIFE_0[4],70,55,0x4b21c039
+              $FMS_GRP[1].$NT_LIFE_0[5],70,56,0x4b92f99e
+              $FMS_GRP[1].$NT_LIFE_0[6],70,57,0x4addc71f
+              $FMS_GRP[1].$REM_LIFE_0[1],70,72,0x4b6b46fc
+              $FMS_GRP[1].$REM_LIFE_0[2],70,73,0x4887da31
+              $FMS_GRP[1].$REM_LIFE_0[3],70,74,0x480ac2f2
+              $FMS_GRP[1].$REM_LIFE_0[4],70,75,0x4b0f8ef7
+              $FMS_GRP[1].$REM_LIFE_0[5],70,76,0x4a9d851c
+              $FMS_GRP[1].$REM_LIFE_0[6],70,77,0x49a1af37
+              $FMS_GRP[1].$DTY_STR_T,70,145,0x58d3ad94
+              $FMS_GRP[1].$DTY_END_T,70,146,0x58d5b08a
+[    *SYSTEM*]  $UI_CONFIG  6 updates               $UI_CONFIG.$MODE[1],125,6,0x10503
+[    *SYSTEM*]        $SSR  12 updates               $SSR.$SGLSTEPTASK[7],111,3,0x3235002e
+[    *SYSTEM*]  $CP_MORGRP  159995 updates               $CP_MORGRP[1].$JNT_JRK[5],15,34,0x4619c873
+[    *SYSTEM*]        $MCR  79874 updates               $MCR.$OT_RELEASE,79,36,0x0
+[    *SYSTEM*]        $SSR  12 updates               $SSR.$SGLSTEPTASK[35],111,10,0x30340000
+[    *SYSTEM*]    $MIX_MKR  589798 updates               $MIX_MKR[41].$LINE[5],83,2643,0x6473750a
+              $MIX_MKR[41].$LINE[9],83,2644,0x2024f71
+              $MIX_MKR[41].$LINE[13],83,2645,0xa020250
+              $MIX_MKR[41].$LINE[17],83,2646,0x74750a02
+              $MIX_MKR[42].$LINE[5],83,2709,0x64730a02
+              $MIX_MKR[42].$LINE[9],83,2710,0x24f7175
+              $MIX_MKR[42].$LINE[13],83,2711,0xa020250
+              $MIX_MKR[42].$LINE[17],83,2712,0x740a0202
+              $MIX_MKR[39].$LINE[9],83,2512,0x2025171
+              $MIX_MKR[39].$LINE[13],83,2513,0xa020252
+              $MIX_MKR[39].$LINE[17],83,2514,0x74750a02
+              $MIX_MKR[40].$LINE[9],83,2578,0x2517175
+              $MIX_MKR[40].$LINE[13],83,2579,0xa020252
+              $MIX_MKR[40].$LINE[17],83,2580,0x740a0202
+[    *SYSTEM*]  $UI_CONFIG  6 updates               $UI_CONFIG.$NUM_MENUS,125,0,0x9050600
+[    *SYSTEM*]      $UECFG  4 updates               $UECFG.$REQ_DATA[6].$ERR_AXIS,123,41,0x1
+              $UECFG.$REQ_DATA[6].$ERROR_DIST,123,43,0x411fffef
+              $UECFG.$REQ_DATA[6].$ERR_TIME,123,44,0x58cc9a9d
+[*PROGRAM*] saved 65 times with 910 entries:
+[   *PROGRAM*]     PG_BMMB  217760 updates               PG_BMMB[445],0,112,0x0
+              PG_BMMB[449],0,113,0x0
+              PG_BMMB[453],0,114,0x0
+              PG_BMMB[457],0,115,0x1188e2c4
+              PG_BMMB[533],0,134,0x0
+              PG_BMMB[537],0,135,0x0
+              PG_BMMB[541],0,136,0x0
+[   *PROGRAM*]     PG_BTCD  1906491 updates               PG_BTCD[2837],1,710,0x7000000
+              PG_BTCD[2845],1,712,0xf0f00
+              PG_BTCD[2853],1,714,0xc0000
+              PG_BTCD[2869],1,718,0x11db7d60
+              PG_BTCD[2897],1,725,0x0
+              PG_BTCD[2901],1,726,0x10d2dc10
+              PG_BTCD[2905],1,727,0x10d2dc42
+              PG_BTCD[2913],1,729,0x0
+              PG_BTCD[2993],1,749,0x1188e298
+              PG_BTCD[3001],1,751,0x137a6d08
+              PG_BTCD[3009],1,753,0xffff0992
+              PG_BTCD[3017],1,755,0x230000
+              PG_BTCD[3021],1,756,0x17973820
+              PG_BTCD[3029],1,758,0x0
+              PG_BTCD[3033],1,759,0xfe0001
+              PG_BTCD[3057],1,765,0x3000
+              PG_BTCD[3061],1,766,0x10d2fb30
+              PG_BTCD[3065],1,767,0x10d2fb55
+              PG_BTCD[3081],1,771,0xf000f
+              PG_BTCD[3113],1,779,0x17972bd8
+              PG_BTCD[3157],1,790,0x137a66e8
+              PG_BTCD[3197],1,800,0x10000
+              PG_BTCD[3229],1,808,0x845e4e64
+              PG_BTCD[3241],1,811,0x18a8c3ae
+              PG_BTCD[3261],1,816,0x10de1f14
+              PG_BTCD[3265],1,817,0x10e9e428
+              PG_BTCD[3301],1,826,0x1000000
+              PG_BTCD[3305],1,827,0xffffffff
+              PG_BTCD[3313],1,829,0x100
+              PG_BTCD[3337],1,835,0x1
+              PG_BTCD[3349],1,838,0x10ddcc1c
+              PG_BTCD[3389],1,848,0x10000
+              PG_BTCD[3393],1,849,0x11569134
+              PG_BTCD[3425],1,857,0x115524c8
+              PG_BTCD[3449],1,863,0x8446dad8
+              PG_BTCD[3453],1,864,0x2
+              PG_BTCD[3493],1,874,0x100
+              PG_BTCD[3505],1,877,0x100
+              PG_BTCD[3509],1,878,0x8240011
+              PG_BTCD[3529],1,883,0x7fff0000
+              PG_BTCD[3549],1,888,0x7fff0000
+              PG_BTCD[3565],1,892,0x7fff
+              PG_BTCD[4617],1,1155,0x0
+              PG_BTCD[4737],1,1185,0x0
+              PG_BTCD[5049],1,1263,0x0
+              PG_BTCD[9085],1,2272,0x0
+[   *PROGRAM*]  PG_TCD_MMB  3847030 updates               PG_TCD_MMB[113],2,29,0x32
+              PG_TCD_MMB[117],2,30,0x1000206
+              PG_TCD_MMB[121],2,31,0x200040d
+              PG_TCD_MMB[125],2,32,0x0
+              PG_TCD_MMB[129],2,33,0x40
+              PG_TCD_MMB[137],2,35,0x8000307
+              PG_TCD_MMB[141],2,36,0x1000000
+              PG_TCD_MMB[149],2,38,0x10100
+              PG_TCD_MMB[165],2,42,0x40000
+              PG_TCD_MMB[177],2,45,0x10f3d178
+              PG_TCD_MMB[181],2,46,0x11db7c20
+              PG_TCD_MMB[185],2,47,0x310100
+              PG_TCD_MMB[189],2,48,0x178e28ac
+              PG_TCD_MMB[213],2,54,0x10f2e083
+              PG_TCD_MMB[237],2,60,0x1000000
+              PG_TCD_MMB[241],2,61,0x********
+              PG_TCD_MMB[245],2,62,0xe8000000
+              PG_TCD_MMB[257],2,65,0x178e3064
+              PG_TCD_MMB[261],2,66,0x178e3060
+              PG_TCD_MMB[265],2,67,0x178e5054
+              PG_TCD_MMB[273],2,69,0x178e5064
+              PG_TCD_MMB[305],2,77,0x1188d680
+              PG_TCD_MMB[313],2,79,0x137a6f0c
+              PG_TCD_MMB[333],2,84,0x17973a48
+              PG_TCD_MMB[417],2,105,0x1000a
+              PG_TCD_MMB[425],2,107,0x11dba55c
+              PG_TCD_MMB[433],2,109,0x7fff
+              PG_TCD_MMB[469],2,118,0x1374683c
+              PG_TCD_MMB[489],2,123,0x206040d
+              PG_TCD_MMB[521],2,131,0x7fff0000
+              PG_TCD_MMB[553],2,139,0x4936
+              PG_TCD_MMB[573],2,144,0x10f2d96c
+              PG_TCD_MMB[613],2,154,0x1000000
+              PG_TCD_MMB[617],2,155,0xffffffff
+              PG_TCD_MMB[625],2,157,0x100
+              PG_TCD_MMB[653],2,164,0x3
+              PG_TCD_MMB[661],2,166,0x10f2c1e4
+              PG_TCD_MMB[665],2,167,0x1ff
+              PG_TCD_MMB[677],2,170,0xff0000
+              PG_TCD_MMB[701],2,176,0x10000
+              PG_TCD_MMB[705],2,177,0x1156f164
+              PG_TCD_MMB[737],2,185,0x17972110
+              PG_TCD_MMB[765],2,192,0x1
+              PG_TCD_MMB[769],2,193,0x7fff0000
+              PG_TCD_MMB[945],2,237,0x1188d6ac
+              PG_TCD_MMB[1145],2,287,0x50
+              PG_TCD_MMB[1149],2,288,0xc80599
+              PG_TCD_MMB[1153],2,289,0x200014a
+              PG_TCD_MMB[1157],2,290,0x0
+              PG_TCD_MMB[1161],2,291,0x400
+              PG_TCD_MMB[1169],2,293,0xfa00307
+              PG_TCD_MMB[1173],2,294,0x1000000
+              PG_TCD_MMB[1181],2,296,0x100
+              PG_TCD_MMB[1197],2,300,0x100000
+              PG_TCD_MMB[1209],2,303,0x10ef1eac
+              PG_TCD_MMB[1213],2,304,0x11db7d4c
+              PG_TCD_MMB[1217],2,305,0x310100
+              PG_TCD_MMB[1221],2,306,0x1139decc
+              PG_TCD_MMB[1245],2,312,0x10eebf85
+              PG_TCD_MMB[1257],2,315,0x11a1add8
+              PG_TCD_MMB[1269],2,318,0x1000000
+              PG_TCD_MMB[1273],2,319,0x********
+              PG_TCD_MMB[1277],2,320,0xe8000000
+              PG_TCD_MMB[1289],2,323,0x1372ab94
+              PG_TCD_MMB[1293],2,324,0x1372ab90
+              PG_TCD_MMB[1297],2,325,0x1372e96c
+              PG_TCD_MMB[1301],2,326,0x1372e9d0
+              PG_TCD_MMB[1305],2,327,0x1372e97c
+              PG_TCD_MMB[1337],2,335,0x1188da88
+              PG_TCD_MMB[1345],2,337,0x137a6e60
+              PG_TCD_MMB[1365],2,342,0x17973990
+              PG_TCD_MMB[1449],2,363,0x1000a
+              PG_TCD_MMB[1457],2,365,0x137451f0
+              PG_TCD_MMB[1465],2,367,0x7fff
+              PG_TCD_MMB[1501],2,376,0x11474988
+              PG_TCD_MMB[1521],2,381,0x599014a
+              PG_TCD_MMB[1525],2,382,0x40000
+              PG_TCD_MMB[1553],2,389,0x7fff0000
+              PG_TCD_MMB[1585],2,397,0x4dde
+              PG_TCD_MMB[1605],2,402,0x10eebd05
+              PG_TCD_MMB[1645],2,412,0x1000000
+              PG_TCD_MMB[1649],2,413,0xffffffff
+              PG_TCD_MMB[1657],2,415,0x100
+              PG_TCD_MMB[1685],2,422,0x3
+              PG_TCD_MMB[1693],2,424,0x10eeb8c0
+              PG_TCD_MMB[1697],2,425,0x1ff
+              PG_TCD_MMB[1709],2,428,0xff0000
+              PG_TCD_MMB[1733],2,434,0x10000
+              PG_TCD_MMB[1737],2,435,0x1156d154
+              PG_TCD_MMB[1769],2,443,0x1155628c
+              PG_TCD_MMB[1797],2,450,0x1
+              PG_TCD_MMB[1801],2,451,0x7fff0000
+              PG_TCD_MMB[1977],2,495,0x1188dab4
+              PG_TCD_MMB[2177],2,545,0x48
+              PG_TCD_MMB[2181],2,546,0x1000344
+              PG_TCD_MMB[2185],2,547,0x2000939
+              PG_TCD_MMB[2189],2,548,0x0
+              PG_TCD_MMB[2193],2,549,0x40
+              PG_TCD_MMB[2201],2,551,0x8000307
+              PG_TCD_MMB[2205],2,552,0x1000000
+              PG_TCD_MMB[2213],2,554,0x100
+              PG_TCD_MMB[2229],2,558,0x50000
+              PG_TCD_MMB[2237],2,560,0x100
+              PG_TCD_MMB[2241],2,561,0x10dfb958
+              PG_TCD_MMB[2245],2,562,0x11db7c34
+              PG_TCD_MMB[2249],2,563,0x110001
+              PG_TCD_MMB[2277],2,570,0x10df88a9
+              PG_TCD_MMB[2281],2,571,0x137ec4e4
+              PG_TCD_MMB[2301],2,576,0x1000000
+              PG_TCD_MMB[2305],2,577,0x********
+              PG_TCD_MMB[2309],2,578,0xe8000000
+              PG_TCD_MMB[2321],2,581,0x13753d08
+              PG_TCD_MMB[2325],2,582,0x13753d04
+              PG_TCD_MMB[2329],2,583,0x13755d08
+              PG_TCD_MMB[2333],2,584,0x0
+              PG_TCD_MMB[2337],2,585,0x13755d08
+              PG_TCD_MMB[2369],2,593,0x1188de90
+              PG_TCD_MMB[2377],2,595,0x137a6db4
+              PG_TCD_MMB[2397],2,600,0x179738d8
+              PG_TCD_MMB[2481],2,621,0x1000a
+              PG_TCD_MMB[2489],2,623,0x10fc17ac
+              PG_TCD_MMB[2497],2,625,0x7fff7fff
+              PG_TCD_MMB[2533],2,634,0x178ebe00
+              PG_TCD_MMB[2553],2,639,0x3440939
+              PG_TCD_MMB[2557],2,640,0x40000
+              PG_TCD_MMB[2573],2,644,0x0
+              PG_TCD_MMB[2585],2,647,0x7fff0000
+              PG_TCD_MMB[2617],2,655,0x3571
+              PG_TCD_MMB[2637],2,660,0x10df82eb
+              PG_TCD_MMB[2677],2,670,0x1000000
+              PG_TCD_MMB[2681],2,671,0xffffffff
+              PG_TCD_MMB[2689],2,673,0x100
+              PG_TCD_MMB[2717],2,680,0x3
+              PG_TCD_MMB[2725],2,682,0x10df0bb8
+              PG_TCD_MMB[2729],2,683,0x1ff
+              PG_TCD_MMB[2741],2,686,0xff0000
+              PG_TCD_MMB[2761],2,691,0x10fd461c
+              PG_TCD_MMB[2765],2,692,0x10000
+              PG_TCD_MMB[2769],2,693,0x1156b144
+              PG_TCD_MMB[2801],2,701,0x179716c8
+              PG_TCD_MMB[2825],2,707,0x13755c30
+              PG_TCD_MMB[2829],2,708,0x2
+              PG_TCD_MMB[2833],2,709,0x7fff0000
+              PG_TCD_MMB[3009],2,753,0x1188debc
+              PG_TCD_MMB[3245],2,812,0x7000000
+              PG_TCD_MMB[3253],2,814,0xf0f00
+              PG_TCD_MMB[3261],2,816,0xc0000
+              PG_TCD_MMB[3277],2,820,0x11db7d60
+              PG_TCD_MMB[3305],2,827,0x0
+              PG_TCD_MMB[3309],2,828,0x10d2dc10
+              PG_TCD_MMB[3313],2,829,0x10d2dc42
+              PG_TCD_MMB[3321],2,831,0x0
+              PG_TCD_MMB[3401],2,851,0x1188e298
+              PG_TCD_MMB[3409],2,853,0x137a6d08
+              PG_TCD_MMB[3417],2,855,0xffff0992
+              PG_TCD_MMB[3425],2,857,0x230000
+              PG_TCD_MMB[3429],2,858,0x17973820
+              PG_TCD_MMB[3437],2,860,0x0
+              PG_TCD_MMB[3441],2,861,0xfe0001
+              PG_TCD_MMB[3465],2,867,0x3000
+              PG_TCD_MMB[3469],2,868,0x10d2fb30
+              PG_TCD_MMB[3473],2,869,0x10d2fb55
+              PG_TCD_MMB[3489],2,873,0xf000f
+              PG_TCD_MMB[3521],2,881,0x17972bd8
+              PG_TCD_MMB[3565],2,892,0x137a66e8
+              PG_TCD_MMB[3637],2,910,0x845e4e64
+              PG_TCD_MMB[3649],2,913,0x18a8c3ae
+              PG_TCD_MMB[3669],2,918,0x10de1f14
+              PG_TCD_MMB[3673],2,919,0x10e9e428
+              PG_TCD_MMB[3709],2,928,0x1000000
+              PG_TCD_MMB[3713],2,929,0xffffffff
+              PG_TCD_MMB[3721],2,931,0x100
+              PG_TCD_MMB[3745],2,937,0x1
+              PG_TCD_MMB[3757],2,940,0x10ddcc1c
+              PG_TCD_MMB[3797],2,950,0x10000
+              PG_TCD_MMB[3801],2,951,0x11569134
+              PG_TCD_MMB[3833],2,959,0x115524c8
+              PG_TCD_MMB[3857],2,965,0x8446dad8
+              PG_TCD_MMB[3861],2,966,0x2
+              PG_TCD_MMB[3901],2,976,0x100
+              PG_TCD_MMB[3913],2,979,0x100
+              PG_TCD_MMB[3917],2,980,0x8240011
+              PG_TCD_MMB[3937],2,985,0x7fff0000
+              PG_TCD_MMB[3957],2,990,0x7fff0000
+              PG_TCD_MMB[3973],2,994,0x7fff
+              PG_TCD_MMB[4029],2,1008,0x0
+              PG_TCD_MMB[4033],2,1009,0x0
+              PG_TCD_MMB[4037],2,1010,0x0
+              PG_TCD_MMB[4041],2,1011,0x1188e2c4
+              PG_TCD_MMB[4117],2,1030,0x0
+              PG_TCD_MMB[4121],2,1031,0x0
+              PG_TCD_MMB[4125],2,1032,0x0
+              PG_TCD_MMB[4241],2,1061,0x5a
+              PG_TCD_MMB[4245],2,1062,0x10003a4
+              PG_TCD_MMB[4249],2,1063,0x2000812
+              PG_TCD_MMB[4253],2,1064,0x0
+              PG_TCD_MMB[4257],2,1065,0x40
+              PG_TCD_MMB[4265],2,1067,0x11940307
+              PG_TCD_MMB[4269],2,1068,0x1000000
+              PG_TCD_MMB[4277],2,1070,0x10000
+              PG_TCD_MMB[4293],2,1074,0x70000
+              PG_TCD_MMB[4301],2,1076,0x0
+              PG_TCD_MMB[4305],2,1077,0x10e83d04
+              PG_TCD_MMB[4309],2,1078,0x11db7c5c
+              PG_TCD_MMB[4313],2,1079,0x110000
+              PG_TCD_MMB[4341],2,1086,0x10e8cb97
+              PG_TCD_MMB[4365],2,1092,0x1000000
+              PG_TCD_MMB[4369],2,1093,0x********
+              PG_TCD_MMB[4373],2,1094,0xe8000000
+              PG_TCD_MMB[4385],2,1097,0x1146dbf0
+              PG_TCD_MMB[4389],2,1098,0x1146dbec
+              PG_TCD_MMB[4393],2,1099,0x11472240
+              PG_TCD_MMB[4397],2,1100,0x0
+              PG_TCD_MMB[4401],2,1101,0x11472240
+              PG_TCD_MMB[4433],2,1109,0x1188e6a0
+              PG_TCD_MMB[4441],2,1111,0x17973774
+              PG_TCD_MMB[4461],2,1116,0x137a652c
+              PG_TCD_MMB[4545],2,1137,0x1000a
+              PG_TCD_MMB[4553],2,1139,0x13744fd4
+              PG_TCD_MMB[4561],2,1141,0x7fff
+              PG_TCD_MMB[4597],2,1150,0x178ebae8
+              PG_TCD_MMB[4617],2,1155,0x3a40812
+              PG_TCD_MMB[4621],2,1156,0x40000
+              PG_TCD_MMB[4637],2,1160,0x0
+              PG_TCD_MMB[4649],2,1163,0x7fff0000
+              PG_TCD_MMB[4681],2,1171,0x3571
+              PG_TCD_MMB[4701],2,1176,0x10e8bd27
+              PG_TCD_MMB[4741],2,1186,0x1000000
+              PG_TCD_MMB[4745],2,1187,0xffffffff
+              PG_TCD_MMB[4753],2,1189,0x100
+              PG_TCD_MMB[4781],2,1196,0x3
+              PG_TCD_MMB[4789],2,1198,0x10e856c4
+              PG_TCD_MMB[4793],2,1199,0x1ff
+              PG_TCD_MMB[4805],2,1202,0xff0000
+              PG_TCD_MMB[4829],2,1208,0x10000
+              PG_TCD_MMB[4833],2,1209,0x11567124
+              PG_TCD_MMB[4865],2,1217,0x11555844
+              PG_TCD_MMB[4893],2,1224,0x1
+              PG_TCD_MMB[4897],2,1225,0x7fff0000
+              PG_TCD_MMB[5073],2,1269,0x1188e6cc
+              PG_TCD_MMB[5273],2,1319,0x63
+              PG_TCD_MMB[5277],2,1320,0x1000532
+              PG_TCD_MMB[5281],2,1321,0x200044e
+              PG_TCD_MMB[5297],2,1325,0x7d00307
+              PG_TCD_MMB[5301],2,1326,0x1000000
+              PG_TCD_MMB[5309],2,1328,0xa010000
+              PG_TCD_MMB[5325],2,1332,0x110000
+              PG_TCD_MMB[5333],2,1334,0x0
+              PG_TCD_MMB[5337],2,1335,0x10e497b0
+              PG_TCD_MMB[5341],2,1336,0x11db7d88
+              PG_TCD_MMB[5345],2,1337,0x110000
+              PG_TCD_MMB[5369],2,1343,0x0
+              PG_TCD_MMB[5373],2,1344,0x10e0e5c0
+              PG_TCD_MMB[5377],2,1345,0x0
+              PG_TCD_MMB[5385],2,1347,0x11950950
+              PG_TCD_MMB[5393],2,1349,0x0
+              PG_TCD_MMB[5397],2,1350,0x1000000
+              PG_TCD_MMB[5401],2,1351,0x********
+              PG_TCD_MMB[5405],2,1352,0xe8000000
+              PG_TCD_MMB[5409],2,1353,0x0
+              PG_TCD_MMB[5417],2,1355,0x1131a590
+              PG_TCD_MMB[5421],2,1356,0x1131a58c
+              PG_TCD_MMB[5425],2,1357,0x1131c34c
+              PG_TCD_MMB[5433],2,1359,0x1131c34c
+              PG_TCD_MMB[5465],2,1367,0x1188eaa8
+              PG_TCD_MMB[5473],2,1369,0x137a6c5c
+              PG_TCD_MMB[5493],2,1374,0x179736bc
+              PG_TCD_MMB[5505],2,1377,0x0
+              PG_TCD_MMB[5529],2,1383,0x0
+              PG_TCD_MMB[5533],2,1384,0x0
+              PG_TCD_MMB[5537],2,1385,0x0
+              PG_TCD_MMB[5553],2,1389,0x0
+              PG_TCD_MMB[5573],2,1394,0x0
+              PG_TCD_MMB[5577],2,1395,0x1000a
+              PG_TCD_MMB[5585],2,1397,0x13744be0
+              PG_TCD_MMB[5593],2,1399,0x7fff
+              PG_TCD_MMB[5629],2,1408,0x13745ad8
+              PG_TCD_MMB[5649],2,1413,0x532044e
+              PG_TCD_MMB[5653],2,1414,0x40000
+              PG_TCD_MMB[5661],2,1416,0x0
+              PG_TCD_MMB[5673],2,1419,0x0
+              PG_TCD_MMB[5681],2,1421,0x7fff0000
+              PG_TCD_MMB[5713],2,1429,0x18a8c485
+              PG_TCD_MMB[5733],2,1434,0x10e0e479
+              PG_TCD_MMB[5773],2,1444,0x1000000
+              PG_TCD_MMB[5777],2,1445,0xffffffff
+              PG_TCD_MMB[5785],2,1447,0x100
+              PG_TCD_MMB[5813],2,1454,0x3
+              PG_TCD_MMB[5821],2,1456,0x10e0c738
+              PG_TCD_MMB[5825],2,1457,0x1ff
+              PG_TCD_MMB[5837],2,1460,0xff0000
+              PG_TCD_MMB[5861],2,1466,0x10000
+              PG_TCD_MMB[5865],2,1467,0x11565114
+              PG_TCD_MMB[5897],2,1475,0x17970c80
+              PG_TCD_MMB[5921],2,1481,0x0
+              PG_TCD_MMB[5925],2,1482,0x1
+              PG_TCD_MMB[5929],2,1483,0x7fff0000
+              PG_TCD_MMB[5965],2,1492,0x0
+              PG_TCD_MMB[5981],2,1496,0x0
+              PG_TCD_MMB[6001],2,1501,0x0
+              PG_TCD_MMB[6021],2,1506,0x0
+              PG_TCD_MMB[6037],2,1510,0x0
+              PG_TCD_MMB[6105],2,1527,0x1188ead4
+              PG_TCD_MMB[6305],2,1577,0x42
+              PG_TCD_MMB[6309],2,1578,0x1000358
+              PG_TCD_MMB[6313],2,1579,0x2000d18
+              PG_TCD_MMB[6317],2,1580,0x0
+              PG_TCD_MMB[6321],2,1581,0x40
+              PG_TCD_MMB[6329],2,1583,0x7d00307
+              PG_TCD_MMB[6333],2,1584,0x1000000
+              PG_TCD_MMB[6337],2,1585,0x1000a
+              PG_TCD_MMB[6341],2,1586,0x100
+              PG_TCD_MMB[6357],2,1590,0x80000
+              PG_TCD_MMB[6369],2,1593,0x10ea3ac0
+              PG_TCD_MMB[6373],2,1594,0x11db7c70
+              PG_TCD_MMB[6377],2,1595,0x110000
+              PG_TCD_MMB[6405],2,1602,0x10e9d01d
+              PG_TCD_MMB[6417],2,1605,0x13726928
+              PG_TCD_MMB[6429],2,1608,0x1000000
+              PG_TCD_MMB[6433],2,1609,0x********
+              PG_TCD_MMB[6437],2,1610,0xe8000000
+              PG_TCD_MMB[6449],2,1613,0x1146b924
+              PG_TCD_MMB[6453],2,1614,0x1146b920
+              PG_TCD_MMB[6457],2,1615,0x1146d864
+              PG_TCD_MMB[6465],2,1617,0x1146d864
+              PG_TCD_MMB[6497],2,1625,0x1188eeb0
+              PG_TCD_MMB[6505],2,1627,0x137a6bb0
+              PG_TCD_MMB[6525],2,1632,0x17973604
+              PG_TCD_MMB[6609],2,1653,0x1000a
+              PG_TCD_MMB[6617],2,1655,0x13744e48
+              PG_TCD_MMB[6625],2,1657,0x7fff
+              PG_TCD_MMB[6661],2,1666,0x11474d14
+              PG_TCD_MMB[6681],2,1671,0x3580d18
+              PG_TCD_MMB[6685],2,1672,0x40000
+              PG_TCD_MMB[6701],2,1676,0x0
+              PG_TCD_MMB[6713],2,1679,0x7fff0000
+              PG_TCD_MMB[6745],2,1687,0x3572
+              PG_TCD_MMB[6765],2,1692,0x10e99a0a
+              PG_TCD_MMB[6805],2,1702,0x1000000
+              PG_TCD_MMB[6809],2,1703,0xffffffff
+              PG_TCD_MMB[6817],2,1705,0x100
+              PG_TCD_MMB[6845],2,1712,0x3
+              PG_TCD_MMB[6853],2,1714,0x10e95930
+              PG_TCD_MMB[6857],2,1715,0x1ff
+              PG_TCD_MMB[6869],2,1718,0xff0000
+              PG_TCD_MMB[6893],2,1724,0x10000
+              PG_TCD_MMB[6897],2,1725,0x11563104
+              PG_TCD_MMB[6929],2,1733,0x11554dfc
+              PG_TCD_MMB[6957],2,1740,0x1
+              PG_TCD_MMB[6961],2,1741,0x7fff0000
+              PG_TCD_MMB[7137],2,1785,0x1188eedc
+              PG_TCD_MMB[7337],2,1835,0x64
+              PG_TCD_MMB[7341],2,1836,0x1000284
+              PG_TCD_MMB[7345],2,1837,0x2000489
+              PG_TCD_MMB[7361],2,1841,0x1f40307
+              PG_TCD_MMB[7365],2,1842,0x1000000
+              PG_TCD_MMB[7373],2,1844,0x10100
+              PG_TCD_MMB[7389],2,1848,0xffff0000
+              PG_TCD_MMB[7397],2,1850,0x1
+              PG_TCD_MMB[7401],2,1851,0x10edbfb4
+              PG_TCD_MMB[7405],2,1852,0x11db7db0
+              PG_TCD_MMB[7409],2,1853,0x7f0000
+              PG_TCD_MMB[7437],2,1860,0x10ebc74c
+              PG_TCD_MMB[7449],2,1863,0x1136ca44
+              PG_TCD_MMB[7461],2,1866,0x1000000
+              PG_TCD_MMB[7465],2,1867,0x********
+              PG_TCD_MMB[7469],2,1868,0xe8000000
+              PG_TCD_MMB[7481],2,1871,0x1139df88
+              PG_TCD_MMB[7485],2,1872,0x1139df84
+              PG_TCD_MMB[7489],2,1873,0x1139e758
+              PG_TCD_MMB[7497],2,1875,0x1139e758
+              PG_TCD_MMB[7529],2,1883,0x1188f2b8
+              PG_TCD_MMB[7537],2,1885,0x137a6b04
+              PG_TCD_MMB[7557],2,1890,0x1797354c
+              PG_TCD_MMB[7641],2,1911,0x1000a
+              PG_TCD_MMB[7649],2,1913,0x1372eb44
+              PG_TCD_MMB[7657],2,1915,0x7fff
+              PG_TCD_MMB[7693],2,1924,0x178d59f4
+              PG_TCD_MMB[7713],2,1929,0x2840489
+              PG_TCD_MMB[7717],2,1930,0x40000
+              PG_TCD_MMB[7745],2,1937,0x7fff0000
+              PG_TCD_MMB[7777],2,1945,0x8892e48
+              PG_TCD_MMB[7797],2,1950,0x10ebc382
+              PG_TCD_MMB[7837],2,1960,0x1000000
+              PG_TCD_MMB[7841],2,1961,0xffffffff
+              PG_TCD_MMB[7849],2,1963,0x100
+              PG_TCD_MMB[7877],2,1970,0x3
+              PG_TCD_MMB[7885],2,1972,0x10eb7928
+              PG_TCD_MMB[7889],2,1973,0x1ff
+              PG_TCD_MMB[7901],2,1976,0xff0000
+              PG_TCD_MMB[7925],2,1982,0x10000
+              PG_TCD_MMB[7929],2,1983,0x115610f4
+              PG_TCD_MMB[7961],2,1991,0x17970238
+              PG_TCD_MMB[7989],2,1998,0x1
+              PG_TCD_MMB[7993],2,1999,0x7fff0000
+              PG_TCD_MMB[8169],2,2043,0x1188f2e4
+              PG_TCD_MMB[8369],2,2093,0x58
+              PG_TCD_MMB[8373],2,2094,0x1000836
+              PG_TCD_MMB[8377],2,2095,0x2000774
+              PG_TCD_MMB[8381],2,2096,0x0
+              PG_TCD_MMB[8385],2,2097,0x40
+              PG_TCD_MMB[8393],2,2099,0x10000307
+              PG_TCD_MMB[8397],2,2100,0x1000000
+              PG_TCD_MMB[8405],2,2102,0x10000
+              PG_TCD_MMB[8421],2,2106,0xa0000
+              PG_TCD_MMB[8433],2,2109,0x10edb874
+              PG_TCD_MMB[8437],2,2110,0x11db7e00
+              PG_TCD_MMB[8441],2,2111,0x110000
+              PG_TCD_MMB[8469],2,2118,0x10eb315e
+              PG_TCD_MMB[8477],2,2120,0x70000
+              PG_TCD_MMB[8481],2,2121,0x11009130
+              PG_TCD_MMB[8493],2,2124,0x1000000
+              PG_TCD_MMB[8497],2,2125,0x********
+              PG_TCD_MMB[8501],2,2126,0xe8000000
+              PG_TCD_MMB[8513],2,2129,0x11464c60
+              PG_TCD_MMB[8517],2,2130,0x11464c5c
+              PG_TCD_MMB[8521],2,2131,0x11468bcc
+              PG_TCD_MMB[8525],2,2132,0x11468be0
+              PG_TCD_MMB[8529],2,2133,0x11468bcc
+              PG_TCD_MMB[8561],2,2141,0x1188f6c0
+              PG_TCD_MMB[8569],2,2143,0x137a6a58
+              PG_TCD_MMB[8589],2,2148,0x17973494
+              PG_TCD_MMB[8673],2,2169,0x1000a
+              PG_TCD_MMB[8681],2,2171,0x137448b4
+              PG_TCD_MMB[8689],2,2173,0x7fff
+              PG_TCD_MMB[8725],2,2182,0x137516d8
+              PG_TCD_MMB[8745],2,2187,0x8360774
+              PG_TCD_MMB[8749],2,2188,0x40000
+              PG_TCD_MMB[8765],2,2192,0x0
+              PG_TCD_MMB[8777],2,2195,0x7fff0000
+              PG_TCD_MMB[8809],2,2203,0x3572
+              PG_TCD_MMB[8829],2,2208,0x10eb2dc2
+              PG_TCD_MMB[8869],2,2218,0x1000000
+              PG_TCD_MMB[8873],2,2219,0xffffffff
+              PG_TCD_MMB[8881],2,2221,0x100
+              PG_TCD_MMB[8909],2,2228,0x3
+              PG_TCD_MMB[8917],2,2230,0x10ead724
+              PG_TCD_MMB[8921],2,2231,0x1ff
+              PG_TCD_MMB[8933],2,2234,0xff0000
+              PG_TCD_MMB[8957],2,2240,0x10000
+              PG_TCD_MMB[8961],2,2241,0x1155f0e4
+              PG_TCD_MMB[8993],2,2249,0x115543b4
+              PG_TCD_MMB[9021],2,2256,0x1
+              PG_TCD_MMB[9025],2,2257,0x7fff0000
+              PG_TCD_MMB[9201],2,2301,0x1188f6ec
+              PG_TCD_MMB[9401],2,2351,0x4b
+              PG_TCD_MMB[9405],2,2352,0x100035c
+              PG_TCD_MMB[9409],2,2353,0x2000461
+              PG_TCD_MMB[9413],2,2354,0x0
+              PG_TCD_MMB[9417],2,2355,0x40
+              PG_TCD_MMB[9425],2,2357,0xbb80307
+              PG_TCD_MMB[9429],2,2358,0x1000000
+              PG_TCD_MMB[9437],2,2360,0x10000
+              PG_TCD_MMB[9453],2,2364,0xb0000
+              PG_TCD_MMB[9461],2,2366,0x100
+              PG_TCD_MMB[9465],2,2367,0x10def954
+              PG_TCD_MMB[9469],2,2368,0x11db7cfc
+              PG_TCD_MMB[9473],2,2369,0x110001
+              PG_TCD_MMB[9501],2,2376,0x10dfaf58
+              PG_TCD_MMB[9505],2,2377,0x137c08b4
+              PG_TCD_MMB[9513],2,2379,0x0
+              PG_TCD_MMB[9525],2,2382,0x1000000
+              PG_TCD_MMB[9529],2,2383,0x********
+              PG_TCD_MMB[9533],2,2384,0xe8000000
+              PG_TCD_MMB[9545],2,2387,0x178e5124
+              PG_TCD_MMB[9549],2,2388,0x178e5120
+              PG_TCD_MMB[9553],2,2389,0x178e8004
+              PG_TCD_MMB[9557],2,2390,0x0
+              PG_TCD_MMB[9561],2,2391,0x178e8004
+              PG_TCD_MMB[9593],2,2399,0x1188fac8
+              PG_TCD_MMB[9601],2,2401,0x137a69ac
+              PG_TCD_MMB[9621],2,2406,0x179733dc
+              PG_TCD_MMB[9705],2,2427,0x1000a
+              PG_TCD_MMB[9713],2,2429,0x11460fe8
+              PG_TCD_MMB[9721],2,2431,0x7fff7fff
+              PG_TCD_MMB[9757],2,2440,0x178e8210
+              PG_TCD_MMB[9777],2,2445,0x35c0461
+              PG_TCD_MMB[9781],2,2446,0x40000
+              PG_TCD_MMB[9797],2,2450,0x0
+              PG_TCD_MMB[9809],2,2453,0x7fff0000
+              PG_TCD_MMB[9841],2,2461,0x3572
+              PG_TCD_MMB[9861],2,2466,0x10dfac4c
+              PG_TCD_MMB[9901],2,2476,0x1000000
+              PG_TCD_MMB[9905],2,2477,0xffffffff
+              PG_TCD_MMB[9913],2,2479,0x100
+              PG_TCD_MMB[9941],2,2486,0x3
+              PG_TCD_MMB[9949],2,2488,0x10df90f4
+              PG_TCD_MMB[9953],2,2489,0x1ff
+              PG_TCD_MMB[9965],2,2492,0xff0000
+              PG_TCD_MMB[9989],2,2498,0x10000
+              PG_TCD_MMB[9993],2,2499,0x1155d0d4
+              PG_TCD_MMB[10025],2,2507,0x1796f7f0
+              PG_TCD_MMB[10049],2,2513,0x178e7e70
+              PG_TCD_MMB[10053],2,2514,0x2
+              PG_TCD_MMB[10057],2,2515,0x7fff0000
+              PG_TCD_MMB[10233],2,2559,0x1188faf4
+              PG_TCD_MMB[10433],2,2609,0x58
+              PG_TCD_MMB[10437],2,2610,0x1000878
+              PG_TCD_MMB[10445],2,2612,0x0
+              PG_TCD_MMB[10449],2,2613,0x0
+              PG_TCD_MMB[10457],2,2615,0x1f40703
+              PG_TCD_MMB[10461],2,2616,0x1000000
+              PG_TCD_MMB[10485],2,2622,0x90000
+              PG_TCD_MMB[10501],2,2626,0x1a8
+              PG_TCD_MMB[10505],2,2627,0x7f0033
+              PG_TCD_MMB[10509],2,2628,0x0
+              PG_TCD_MMB[10533],2,2634,0x10d99b0c
+              PG_TCD_MMB[10537],2,2635,0x10d99b16
+              PG_TCD_MMB[10541],2,2636,0x0
+              PG_TCD_MMB[10557],2,2640,0x1000000
+              PG_TCD_MMB[10561],2,2641,0x********
+              PG_TCD_MMB[10565],2,2642,0xe8000000
+              PG_TCD_MMB[10581],2,2646,0x8446eb64
+              PG_TCD_MMB[10585],2,2647,0x8446f31c
+              PG_TCD_MMB[10593],2,2649,0x8446f334
+              PG_TCD_MMB[10625],2,2657,0x1188fed0
+              PG_TCD_MMB[10633],2,2659,0x137a6900
+              PG_TCD_MMB[10637],2,2660,0x100
+              PG_TCD_MMB[10641],2,2661,0x878
+              PG_TCD_MMB[10649],2,2663,0xd30000
+              PG_TCD_MMB[10653],2,2664,0x17973324
+              PG_TCD_MMB[10665],2,2667,0x7e0001
+              PG_TCD_MMB[10689],2,2673,0xffff3000
+              PG_TCD_MMB[10693],2,2674,0x10d99b0c
+              PG_TCD_MMB[10697],2,2675,0x10d99b16
+              PG_TCD_MMB[10733],2,2684,0xff000000
+              PG_TCD_MMB[10737],2,2685,0x1000a
+              PG_TCD_MMB[10745],2,2687,0x13746468
+              PG_TCD_MMB[10753],2,2689,0x7fff7fff
+              PG_TCD_MMB[10789],2,2698,0x137585bc
+              PG_TCD_MMB[10841],2,2711,0x7fff0000
+              PG_TCD_MMB[10873],2,2719,0xd2de6d8
+              PG_TCD_MMB[10933],2,2734,0x1000000
+              PG_TCD_MMB[10937],2,2735,0xffffffff
+              PG_TCD_MMB[10945],2,2737,0x100
+              PG_TCD_MMB[10973],2,2744,0x3
+              PG_TCD_MMB[10985],2,2747,0x1ff
+              PG_TCD_MMB[10997],2,2750,0xff0001
+              PG_TCD_MMB[11021],2,2756,0x10000
+              PG_TCD_MMB[11025],2,2757,0x1155b0c4
+              PG_TCD_MMB[11057],2,2765,0x1155396c
+              PG_TCD_MMB[11081],2,2771,0x8446f31c
+              PG_TCD_MMB[11085],2,2772,0x2
+              PG_TCD_MMB[11089],2,2773,0x7fff0000
+              PG_TCD_MMB[11121],2,2781,0x1a8db1fa
+              PG_TCD_MMB[11161],2,2791,0x7fff0000
+              PG_TCD_MMB[11181],2,2796,0x7fff0000
+              PG_TCD_MMB[11197],2,2800,0x7fff
+              PG_TCD_MMB[11265],2,2817,0x1188fefc
+              PG_TCD_MMB[11465],2,2867,0x58
+              PG_TCD_MMB[11469],2,2868,0x1000504
+              PG_TCD_MMB[11473],2,2869,0x2000035
+              PG_TCD_MMB[11489],2,2873,0x1f40307
+              PG_TCD_MMB[11493],2,2874,0x1000000
+              PG_TCD_MMB[11501],2,2876,0x10000
+              PG_TCD_MMB[11517],2,2880,0xffff0000
+              PG_TCD_MMB[11529],2,2883,0x10e9ed40
+              PG_TCD_MMB[11533],2,2884,0x11db7d74
+              PG_TCD_MMB[11537],2,2885,0x7f0000
+              PG_TCD_MMB[11565],2,2892,0x10e920a2
+              PG_TCD_MMB[11589],2,2898,0x1000000
+              PG_TCD_MMB[11593],2,2899,0x********
+              PG_TCD_MMB[11597],2,2900,0xe8000000
+              PG_TCD_MMB[11609],2,2903,0x11368a70
+              PG_TCD_MMB[11613],2,2904,0x11368a6c
+              PG_TCD_MMB[11617],2,2905,0x11369240
+              PG_TCD_MMB[11625],2,2907,0x11369240
+              PG_TCD_MMB[11657],2,2915,0x118902d8
+              PG_TCD_MMB[11665],2,2917,0x137a6854
+              PG_TCD_MMB[11685],2,2922,0x1797326c
+              PG_TCD_MMB[11769],2,2943,0x1000a
+              PG_TCD_MMB[11777],2,2945,0x137265e4
+              PG_TCD_MMB[11785],2,2947,0x7fff
+              PG_TCD_MMB[11821],2,2956,0x11469834
+              PG_TCD_MMB[11841],2,2961,0x5040035
+              PG_TCD_MMB[11845],2,2962,0x40000
+              PG_TCD_MMB[11873],2,2969,0x7fff0000
+              PG_TCD_MMB[11905],2,2977,0x16fbfcf5
+              PG_TCD_MMB[11925],2,2982,0x10e92098
+              PG_TCD_MMB[11965],2,2992,0x1000000
+              PG_TCD_MMB[11969],2,2993,0xffffffff
+              PG_TCD_MMB[11977],2,2995,0x100
+              PG_TCD_MMB[12005],2,3002,0x3
+              PG_TCD_MMB[12013],2,3004,0x10e92098
+              PG_TCD_MMB[12017],2,3005,0x1ff
+              PG_TCD_MMB[12029],2,3008,0xff0000
+              PG_TCD_MMB[12053],2,3014,0x10000
+              PG_TCD_MMB[12057],2,3015,0x115590b4
+              PG_TCD_MMB[12089],2,3023,0x1796eda8
+              PG_TCD_MMB[12117],2,3030,0x1
+              PG_TCD_MMB[12121],2,3031,0x7fff0000
+              PG_TCD_MMB[12297],2,3075,0x11890304
+              PG_TCD_MMB[12497],2,3125,0x32
+              PG_TCD_MMB[12501],2,3126,0x1000682
+              PG_TCD_MMB[12505],2,3127,0x200003f
+              PG_TCD_MMB[12521],2,3131,0x1f40307
+              PG_TCD_MMB[12525],2,3132,0x1000000
+              PG_TCD_MMB[12533],2,3134,0x10000
+              PG_TCD_MMB[12549],2,3138,0xffff0000
+              PG_TCD_MMB[12561],2,3141,0x10e9f9e8
+              PG_TCD_MMB[12565],2,3142,0x11db7cd4
+              PG_TCD_MMB[12569],2,3143,0x7f0000
+              PG_TCD_MMB[12597],2,3150,0x10e9faea
+              PG_TCD_MMB[12621],2,3156,0x1000000
+              PG_TCD_MMB[12625],2,3157,0x********
+              PG_TCD_MMB[12629],2,3158,0xe8000000
+              PG_TCD_MMB[12641],2,3161,0x1145f908
+              PG_TCD_MMB[12645],2,3162,0x1145f904
+              PG_TCD_MMB[12649],2,3163,0x114600d8
+              PG_TCD_MMB[12657],2,3165,0x114600d8
+              PG_TCD_MMB[12689],2,3173,0x118906e0
+              PG_TCD_MMB[12697],2,3175,0x137a67a8
+              PG_TCD_MMB[12717],2,3180,0x179731b4
+              PG_TCD_MMB[12801],2,3201,0x1000a
+              PG_TCD_MMB[12809],2,3203,0x11460be4
+              PG_TCD_MMB[12817],2,3205,0x7fff
+              PG_TCD_MMB[12853],2,3214,0x114608f4
+              PG_TCD_MMB[12873],2,3219,0x682003f
+              PG_TCD_MMB[12877],2,3220,0x40000
+              PG_TCD_MMB[12905],2,3227,0x7fff0000
+              PG_TCD_MMB[12937],2,3235,0x493c
+              PG_TCD_MMB[12957],2,3240,0x10e9fa90
+              PG_TCD_MMB[12997],2,3250,0x1000000
+              PG_TCD_MMB[13001],2,3251,0xffffffff
+              PG_TCD_MMB[13009],2,3253,0x100
+              PG_TCD_MMB[13037],2,3260,0x3
+              PG_TCD_MMB[13045],2,3262,0x10e9fa90
+              PG_TCD_MMB[13049],2,3263,0x1ff
+              PG_TCD_MMB[13061],2,3266,0xff0000
+              PG_TCD_MMB[13085],2,3272,0x10000
+              PG_TCD_MMB[13089],2,3273,0x115570a4
+              PG_TCD_MMB[13121],2,3281,0x11552f24
+              PG_TCD_MMB[13149],2,3288,0x1
+              PG_TCD_MMB[13153],2,3289,0x7fff0000
+              PG_TCD_MMB[13329],2,3333,0x1189070c
+[   *PROGRAM*]     PG_BMMB  217760 updates               PG_BMMB[1409],0,353,0x1188fefc
+[   *PROGRAM*]     PG_BTCD  1906491 updates               PG_BTCD[897],1,225,0x4942534f
+              PG_BTCD[901],1,226,0x434b5356
+              PG_BTCD[4485],1,1122,0x434b5550
+              PG_BTCD[9081],1,2271,0x10000d2
+              PG_BTCD[9089],1,2273,0x0
+              PG_BTCD[9125],1,2282,0x90000
+              PG_BTCD[9141],1,2286,0x1a8
+              PG_BTCD[9145],1,2287,0x30001
+              PG_BTCD[9149],1,2288,0x0
+              PG_BTCD[9173],1,2294,0x10d99b20
+              PG_BTCD[9177],1,2295,0x10d99b2b
+              PG_BTCD[9181],1,2296,0x0
+              PG_BTCD[9265],1,2317,0x1188fed0
+              PG_BTCD[9273],1,2319,0x137a6900
+              PG_BTCD[9281],1,2321,0x878
+              PG_BTCD[9293],1,2324,0x17973324
+              PG_BTCD[9333],1,2334,0x10d99b0c
+              PG_BTCD[9337],1,2335,0x10d99b16
+              PG_BTCD[9373],1,2344,0x0
+              PG_BTCD[9385],1,2347,0x13746468
+              PG_BTCD[9429],1,2358,0x137585bc
+              PG_BTCD[9449],1,2363,0x87800d2
+              PG_BTCD[9513],1,2379,0xd2de6d8
+              PG_BTCD[9525],1,2382,0xd2
+              PG_BTCD[9665],1,2417,0x1155b0c4
+              PG_BTCD[9697],1,2425,0x1155396c
+              PG_BTCD[9761],1,2441,0x1a8db1fa
+[   *PROGRAM*]  PG_TCD_MMB  3847030 updates               PG_TCD_MMB[1033],2,259,0x4942534f
+              PG_TCD_MMB[1037],2,260,0x434b5356
+              PG_TCD_MMB[1637],2,410,0x58c0000
+              PG_TCD_MMB[2253],2,564,0x0
+              PG_TCD_MMB[2629],2,658,0x33
+              PG_TCD_MMB[2669],2,668,0x3740000
+              PG_TCD_MMB[5165],2,1292,0x434b5550
+              PG_TCD_MMB[5285],2,1322,0x0
+              PG_TCD_MMB[5289],2,1323,0x40
+              PG_TCD_MMB[5669],2,1418,0x0
+              PG_TCD_MMB[5765],2,1442,0x3d90000
+              PG_TCD_MMB[9853],2,2464,0x17
+              PG_TCD_MMB[9893],2,2474,0x6cc0000
+[   *PROGRAM*]     PG_BTCD  1906491 updates               PG_BTCD[9277],1,2320,0x100
+[   *PROGRAM*]  PG_TCD_MMB  3847030 updates               PG_TCD_MMB[10441],2,2611,0x1000092
+              PG_TCD_MMB[10493],2,2624,0x0
+              PG_TCD_MMB[10809],2,2703,0x8780092
+              PG_TCD_MMB[10885],2,2722,0xd2
+              PG_TCD_MMB[6401],2,1601,0x0
+              PG_TCD_MMB[6461],2,1616,0x0
+              PG_TCD_MMB[6481],2,1621,0x0
+              PG_TCD_MMB[6485],2,1622,0x0
+              PG_TCD_MMB[10529],2,2633,0x3001
+[   *PROGRAM*]     PG_BTCD  1906491 updates               PG_BTCD[9133],1,2284,0x100
+              PG_BTCD[9169],1,2293,0x0
+[   *PROGRAM*]  PG_TCD_MMB  3847030 updates               PG_TCD_MMB[6489],2,1623,0x0
+[   *PROGRAM*]     PG_BMMB  217760 updates               PG_BMMB[433],0,109,0x0
+              PG_BMMB[437],0,110,0x0
+              PG_BMMB[441],0,111,0x0
+              PG_BMMB[461],0,116,0x0
+              PG_BMMB[465],0,117,0x0
+              PG_BMMB[469],0,118,0x0
+              PG_BMMB[473],0,119,0x0
+              PG_BMMB[477],0,120,0x0
+              PG_BMMB[481],0,121,0x0
+              PG_BMMB[485],0,122,0x0
+              PG_BMMB[489],0,123,0x0
+              PG_BMMB[525],0,132,0x0
+              PG_BMMB[529],0,133,0x0
+[   *PROGRAM*]     PG_BTCD  1906491 updates               PG_BTCD[2813],1,704,0x0
+              PG_BTCD[3105],1,777,0x1b000a
+              PG_BTCD[3245],1,812,0x0
+              PG_BTCD[3513],1,879,0xf
+[   *PROGRAM*]  PG_TCD_MMB  3847030 updates               PG_TCD_MMB[3221],2,806,0x0
+              PG_TCD_MMB[3413],2,854,0x100
+              PG_TCD_MMB[3509],2,878,0xff000000
+              PG_TCD_MMB[3513],2,879,0x1b000a
+              PG_TCD_MMB[3597],2,900,0x27910000
+              PG_TCD_MMB[3653],2,914,0x0
+              PG_TCD_MMB[3813],2,954,0x36
+              PG_TCD_MMB[3921],2,981,0xf
+              PG_TCD_MMB[4017],2,1005,0x0
+              PG_TCD_MMB[4021],2,1006,0x0
+              PG_TCD_MMB[4025],2,1007,0x0
+              PG_TCD_MMB[4045],2,1012,0x0
+              PG_TCD_MMB[4049],2,1013,0x0
+              PG_TCD_MMB[4053],2,1014,0x0
+              PG_TCD_MMB[4057],2,1015,0x0
+              PG_TCD_MMB[4061],2,1016,0x0
+              PG_TCD_MMB[4065],2,1017,0x0
+              PG_TCD_MMB[4069],2,1018,0x0
+              PG_TCD_MMB[4073],2,1019,0x0
+              PG_TCD_MMB[4109],2,1028,0x0
+              PG_TCD_MMB[4113],2,1029,0x0
+[   *PROGRAM*]     PG_BTCD  1906491 updates               PG_BTCD[2805],1,702,0x1000999
+              PG_BTCD[2809],1,703,0x1000005
+              PG_BTCD[2817],1,705,0x40
+              PG_BTCD[2873],1,719,0x7c0101
+              PG_BTCD[2877],1,720,0x179039dc
+              PG_BTCD[2921],1,731,0x0
+              PG_BTCD[2937],1,735,0x0
+              PG_BTCD[2953],1,739,0x8446daf0
+              PG_BTCD[2957],1,740,0x8446daf0
+              PG_BTCD[2977],1,745,0x800000
+              PG_BTCD[2981],1,746,0x8446daf0
+              PG_BTCD[3005],1,752,0x100
+              PG_BTCD[3101],1,776,0xff000000
+              PG_BTCD[3177],1,795,0x9990005
+              PG_BTCD[3189],1,798,0x27910000
+              PG_BTCD[3201],1,801,0x8457af70
+              PG_BTCD[3253],1,814,0x5
+              PG_BTCD[3293],1,824,0x9990000
+              PG_BTCD[3405],1,852,0x36
+              PG_BTCD[3429],1,858,0x8457af70
+              PG_BTCD[3433],1,859,0x230992
+              PG_BTCD[3485],1,872,0x0
+              PG_BTCD[3517],1,880,0x35
+[   *PROGRAM*]  PG_TCD_MMB  3847030 updates               PG_TCD_MMB[3213],2,804,0x1000999
+              PG_TCD_MMB[3217],2,805,0x1000005
+              PG_TCD_MMB[3225],2,807,0x40
+              PG_TCD_MMB[3281],2,821,0x7c0101
+              PG_TCD_MMB[3285],2,822,0x179039dc
+              PG_TCD_MMB[3329],2,833,0x0
+              PG_TCD_MMB[3345],2,837,0x0
+              PG_TCD_MMB[3361],2,841,0x8446daf0
+              PG_TCD_MMB[3365],2,842,0x8446daf0
+              PG_TCD_MMB[3385],2,847,0x800000
+              PG_TCD_MMB[3389],2,848,0x8446daf0
+              PG_TCD_MMB[3585],2,897,0x9990005
+              PG_TCD_MMB[3609],2,903,0x8457af70
+              PG_TCD_MMB[3661],2,916,0x5
+              PG_TCD_MMB[3701],2,926,0x9990000
+              PG_TCD_MMB[3837],2,960,0x8457af70
+              PG_TCD_MMB[3841],2,961,0x230992
+              PG_TCD_MMB[3893],2,974,0x0
+              PG_TCD_MMB[3925],2,982,0x35
+[   *PROGRAM*]     PG_BTCD  1906491 updates               PG_BTCD[2861],1,716,0x100
+              PG_BTCD[3345],1,837,0x0
+[   *PROGRAM*]  PG_TCD_MMB  3847030 updates               PG_TCD_MMB[3269],2,818,0x100
+              PG_TCD_MMB[3641],2,911,0x8453675c
+              PG_TCD_MMB[3645],2,912,0x844797f4
+              PG_TCD_MMB[3829],2,958,0x3
+[   *PROGRAM*]     PG_BTCD  1906491 updates               PG_BTCD[2693],1,674,0x45303131
+              PG_BTCD[2841],1,711,0x0
+[   *PROGRAM*]  PG_TCD_MMB  3847030 updates               PG_TCD_MMB[3101],2,776,0x45303131
+              PG_TCD_MMB[3249],2,813,0x0
+[   *PROGRAM*]     PG_BTCD  1906491 updates               PG_BTCD[2829],1,708,0x0
+              PG_BTCD[2865],1,717,0x0
+              PG_BTCD[2949],1,738,0x8446d408
+              PG_BTCD[3097],1,775,0xfffffffe
+[   *PROGRAM*]  PG_TCD_MMB  3847030 updates               PG_TCD_MMB[3237],2,810,0x0
+              PG_TCD_MMB[3273],2,819,0x0
+              PG_TCD_MMB[3357],2,840,0x8446d408
+              PG_TCD_MMB[3505],2,877,0xfffffffe
+[   *PROGRAM*]     PG_BTCD  1906491 updates               PG_BTCD[3445],1,862,0x0
+[   *PROGRAM*]  PG_TCD_MMB  3847030 updates               PG_TCD_MMB[3853],2,964,0x0
+              PG_TCD_MMB[4317],2,1080,0x0
+[   *PROGRAM*]     PG_BTCD  1906491 updates               PG_BTCD[3365],1,842,0xff0000
+[   *PROGRAM*]  PG_TCD_MMB  3847030 updates               PG_TCD_MMB[3773],2,944,0xff0000
+              PG_TCD_MMB[2273],2,569,0x0
+              PG_TCD_MMB[2353],2,589,0x0
+              PG_TCD_MMB[2357],2,590,0x0
+              PG_TCD_MMB[2361],2,591,0x0
+[   *PROGRAM*]     PG_BTCD  1906491 updates               PG_BTCD[9289],1,2323,0xd30000
+              PG_BTCD[9305],1,2327,0x7e0001
+              PG_BTCD[9329],1,2333,0xffff3000
+              PG_BTCD[2909],1,728,0x0
+[   *PROGRAM*]  PG_TCD_MMB  3847030 updates               PG_TCD_MMB[3317],2,830,0x0
+[   *PROGRAM*]     PG_BTCD  1906491 updates               PG_BTCD[3309],1,828,0x0
+[   *PROGRAM*]  PG_TCD_MMB  3847030 updates               PG_TCD_MMB[3717],2,930,0x0
+              PG_TCD_MMB[4337],2,1085,0x0
+              PG_TCD_MMB[4417],2,1105,0x0
+              PG_TCD_MMB[4421],2,1106,0x0
+[   *PROGRAM*]     PG_BTCD  1906491 updates               PG_BTCD[3317],1,830,0x0
+[   *PROGRAM*]  PG_TCD_MMB  3847030 updates               PG_TCD_MMB[3725],2,932,0x0
+              PG_TCD_MMB[4425],2,1107,0x0
+[   *PROGRAM*]     PG_BTCD  1906491 updates               PG_BTCD[3489],1,873,0x0
+[   *PROGRAM*]  PG_TCD_MMB  3847030 updates               PG_TCD_MMB[3897],2,975,0x0
+              PG_TCD_MMB[3977],2,995,0x1000000
+              PG_TCD_MMB[5329],2,1333,0x0
+[   *PROGRAM*]     PG_BTCD  1906491 updates               PG_BTCD[4481],1,1121,0x56414742
+[   *PROGRAM*]  PG_TCD_MMB  3847030 updates               PG_TCD_MMB[4273],2,1069,0xa
+              PG_TCD_MMB[5161],2,1291,0x56414742
+              PG_TCD_MMB[5429],2,1358,0x1131c440
+              PG_TCD_MMB[5449],2,1363,0x0
+              PG_TCD_MMB[5453],2,1364,0x0
+              PG_TCD_MMB[5457],2,1365,0x0
+              PG_TCD_MMB[5857],2,1465,0x17f73608
+              PG_TCD_MMB[9433],2,2359,0x1000a
+              PG_TCD_MMB[5349],2,1338,0x0
+[   *PROGRAM*]     PG_BTCD  1906491 updates               PG_BTCD[6273],1,1569,0x50454552
+              PG_BTCD[6277],1,1570,0x49545000
+[   *PROGRAM*]  PG_TCD_MMB  3847030 updates               PG_TCD_MMB[7225],2,1807,0x50454552
+              PG_TCD_MMB[7229],2,1808,0x49545000
+              PG_TCD_MMB[7829],2,1958,0x2840000
+              PG_TCD_MMB[9577],2,2395,0x0
+              PG_TCD_MMB[9581],2,2396,0x0
+              PG_TCD_MMB[9585],2,2397,0x0
+              PG_TCD_MMB[4349],2,1088,0x0
+              PG_TCD_MMB[4353],2,1089,0x0
+[   *PROGRAM*]     PG_BTCD  1906491 updates               PG_BTCD[3341],1,836,0x3
+[   *PROGRAM*]  PG_TCD_MMB  3847030 updates               PG_TCD_MMB[3749],2,938,0x3
+              PG_TCD_MMB[5381],2,1346,0x0
+              PG_TCD_MMB[5721],2,1431,0x0
+              PG_TCD_MMB[5729],2,1433,0x0
+              PG_TCD_MMB[9497],2,2375,0x0
+[   *PROGRAM*]     PG_BTCD  1906491 updates               PG_BTCD[9153],1,2289,0x0
+[   *PROGRAM*]  PG_TCD_MMB  3847030 updates               PG_TCD_MMB[7349],2,1838,0x20000
+              PG_TCD_MMB[7353],2,1839,0x0
+              PG_TCD_MMB[7433],2,1859,0x0
+              PG_TCD_MMB[7445],2,1862,0x0
+              PG_TCD_MMB[7493],2,1874,0x0
+              PG_TCD_MMB[7513],2,1879,0x0
+              PG_TCD_MMB[7517],2,1880,0x0
+              PG_TCD_MMB[7733],2,1934,0x10000
+              PG_TCD_MMB[7785],2,1947,0x0
+              PG_TCD_MMB[7793],2,1949,0x0
+              PG_TCD_MMB[7921],2,1981,0x0
+              PG_TCD_MMB[7521],2,1881,0x0
+[   *PROGRAM*]     PG_BTCD  1906491 updates               PG_BTCD[9073],1,2269,0x58
+              PG_BTCD[3421],1,856,0x3
+              PG_BTCD[3569],1,893,0x1000000
+              PG_BTCD[9433],1,2359,0x0
+[   *PROGRAM*]  PG_TCD_MMB  3847030 updates               PG_TCD_MMB[10793],2,2699,0x0
+[VAGBCKUP] saved 8 times with 10 entries:
+[    VAGBCKUP]  CONNECT_ID  0 updates               CONNECT_ID,3,0,0x1
+[    VAGBCKUP] DEVICE_TYPE  0 updates               DEVICE_TYPE,4,0,0x2
+[    VAGBCKUP]      DEV_ID  0 updates               DEV_ID,5,0,0x1
+[    VAGBCKUP]      MANZIP  0 updates               MANZIP,8,0,0x0
+[    VAGBCKUP]     PANE_ID  0 updates               PANE_ID,10,0,0x1
+[    VAGBCKUP]    BACKDATE  2 updates               BACKDATE,0,3,0x30303a33
+              BACKDATE,0,4,0x37200000
+              BACKDATE,0,2,0x2d323420
+              BACKDATE,0,0,0x20103136
+              BACKDATE,0,1,0x2d4a554e
+[*POSREG*] saved 7 times with 18 entries:
+[    *POSREG*]     $POSREG  6966 updates               $POSREG[1,11],0,228,0xbfe66666
+              $POSREG[1,11],0,238,0x137e5e20
+              $POSREG[1,11],0,239,0x137e5d80
+              $POSREG[1,11],0,242,0x8446d914
+              $POSREG[1,11],0,243,0x137e5d80
+              $POSREG[2,11],0,2429,0xc0666666
+              $POSREG[2,11],0,2439,0x137e5e20
+              $POSREG[2,11],0,2440,0x137e5d80
+              $POSREG[2,11],0,2443,0x8446d914
+              $POSREG[2,11],0,2444,0x137e5d80
+              $POSREG[3,11],0,4640,0x137e5e20
+              $POSREG[3,11],0,4641,0x137e5d80
+              $POSREG[3,11],0,4644,0x8446d914
+              $POSREG[3,11],0,4645,0x137e5d80
+              $POSREG[4,11],0,6841,0x137e5e20
+              $POSREG[4,11],0,6842,0x137e5d80
+              $POSREG[4,11],0,6845,0x8446d914
+              $POSREG[4,11],0,6846,0x137e5d80
+[*NUMREG*] saved 9 times with 8 entries:
+[    *NUMREG*]     $NUMREG  2300 updates               $NUMREG[41],0,286,0x2
+              $NUMREG[500],0,3499,0x1
+              $NUMREG[42],0,293,0x2
+              $NUMREG[1],0,6,0x0
+              $NUMREG[2],0,13,0x5
+              $NUMREG[3],0,20,0x5
+              $NUMREG[4],0,27,0x6
+              $NUMREG[45],0,314,0x6
+[MSK_STAT] saved 5 times with 1 entries:
+[    MSK_STAT]     MSK_RUN  4 updates               MSK_RUN,4,0,0x1
+[ATSOFTPA] saved 2 times with 8 entries:
+[    ATSOFTPA] DESCRPT_STR  0 updates               DESCRPT_STR[1],0,1,0x18175761
+              DESCRPT_STR[1],0,2,0x726e6269
+              DESCRPT_STR[1],0,3,0x7420496e
+              DESCRPT_STR[1],0,4,0x74657262
+              DESCRPT_STR[1],0,5,0x7573204d
+              DESCRPT_STR[1],0,6,0x61737465
+              DESCRPT_STR[1],0,7,0x72000000
+[    ATSOFTPA]     IO_PORT  0 updates               IO_PORT[1],8,2,0x55545b30
+
+Variables Scan List:
+     Program     Variable   Size   Shadow         VDB Data        Status
+[    *SYSTEM*]   $AAVM_GRP  3556 0x11c4e20c, 0x11b7b50c-0x11b7c2f0  OK     OK
+[    *SYSTEM*]   $AAVM_WRK  1220 0x11c4e254, 0x11c8ef6c-0x11c8f430  OK     OK
+[    *SYSTEM*]      $ALMDG    16 0x11c4e494, 0x11b803cc-0x11b803dc  OK     OK
+[    *SYSTEM*]     $ALM_IF   260 0x11c4e4dc, 0x11b7b3f0-0x11b7b4f4  OK     OK
+[    *SYSTEM*]   $AP_CUREQ  2692 0x11c4e6d4, 0x11c8e4d0-0x11c8ef54  OK     OK
+[    *SYSTEM*]  $AXSCRDCFG   508 0x11c4efd4, 0x11b801b8-0x11b803b4  OK     OK
+[    *SYSTEM*] $CELL_FLOOR    56 0x11c4f334, 0x11c906dc-0x11c90714  OK     OK
+[    *SYSTEM*]   $CELL_GRP  1316 0x11c4f37c, 0x11b7aeb4-0x11b7b3d8  OK     OK
+[    *SYSTEM*] $CELL_SETUP   860 0x11c4f40c, 0x11c8e15c-0x11c8e4b8  OK     OK
+[    *SYSTEM*]     $CLMLIO    68 0x11c4f64c, 0x11b8015c-0x11b801a0  OK     OK
+[    *SYSTEM*]      $CPCFG   216 0x11c4f76c, 0x11b7adc4-0x11b7ae9c  OK     OK
+[    *SYSTEM*]      $CPDBG   496 0x11c4f7b4, 0x11c8df54-0x11c8e144  OK     OK
+[    *SYSTEM*]   $CPDBGDEF    72 0x11c4f7fc, 0x11b800fc-0x11b80144  OK     OK
+[    *SYSTEM*]  $CP_L64FIX   448 0x11c4f844, 0x11b7abec-0x11b7adac  OK     OK
+[    *SYSTEM*]  $CP_MCRGRP    52 0x11c4f88c, 0x11c8df08-0x11c8df3c  OK     OK
+[    *SYSTEM*]  $CP_MORGRP   660 0x11c4f8d4, 0x11b7fe50-0x11b800e4  OK     OK
+[    *SYSTEM*]$CP_PARAMGRP  1268 0x11c4f91c, 0x11b7a6e0-0x11b7abd4  OK     OK
+[    *SYSTEM*] $CP_RSMOFST    16 0x11c4f964, 0x11c8dee0-0x11c8def0  OK     OK
+[    *SYSTEM*] $CP_T1_MODE    76 0x11c4f9ac, 0x11b7fdec-0x11b7fe38  OK     OK
+[    *SYSTEM*] $CP_TESTDEF     8 0x11c4f9f4, 0x11c906b8-0x11c906c0  OK     OK
+[    *SYSTEM*]$CRT_KEY_TBL   260 0x11c4fb5c, 0x11b7a5c4-0x11b7a6c8  OK     OK
+[    *SYSTEM*] $CSXC_PARAM   564 0x11c4fd9c, 0x11c8dc94-0x11c8dec8  OK     OK
+[    *SYSTEM*] $CUSTOMMENU  1864 0x11c4ff94, 0x11b79e64-0x11b7a5ac  OK     OK
+[    *SYSTEM*]   $DCSS_CPC  5124 0x11c50534, 0x11c8c878-0x11c8dc7c  OK     OK
+[    *SYSTEM*]   $DCSS_CSC  1092 0x11c5057c, 0x11b79a08-0x11b79e4c  OK     OK
+[    *SYSTEM*]$DCSS_DEVICE   228 0x11c505c4, 0x11c8c77c-0x11c8c860  OK     OK
+[    *SYSTEM*]   $DCSS_GRP  1828 0x11c5060c, 0x11b792cc-0x11b799f0  OK     OK
+[    *SYSTEM*]   $DCSS_IOC  1796 0x11c5069c, 0x11c8c060-0x11c8c764  OK     OK
+[    *SYSTEM*]   $DCSS_JPC  2724 0x11c506e4, 0x11b78810-0x11b792b4  OK     OK
+[    *SYSTEM*]   $DCSS_JSC  2564 0x11c5072c, 0x11c8b644-0x11c8c048  OK     OK
+[    *SYSTEM*]    $DCSS_LS   164 0x11c50774, 0x11b7fd30-0x11b7fdd4  OK     OK
+[    *SYSTEM*] $DCSS_MODEL 10116 0x11c507bc, 0x11b76074-0x11b787f8  OK     OK
+[    *SYSTEM*] $DCSS_PARAM    20 0x11c50804, 0x11c8b618-0x11c8b62c  OK     OK
+[    *SYSTEM*]   $DCSS_RBT  6596 0x11c50894, 0x11b74698-0x11b7605c  OK     OK
+[    *SYSTEM*] $DCSS_SETUP    32 0x11c508dc, 0x11c8b5e0-0x11c8b600  OK     OK
+[    *SYSTEM*]  $DCSS_T1SC    68 0x11c50924, 0x11b7fcd4-0x11b7fd18  OK     OK
+[    *SYSTEM*]   $DCSS_TCP  5476 0x11c5096c, 0x11b7311c-0x11b74680  OK     OK
+[    *SYSTEM*]$DCSS_TCPMAP   260 0x11c509b4, 0x11c8b4c4-0x11c8b5c8  OK     OK
+[    *SYSTEM*] $DCSS_TUIRO  1572 0x11c509fc, 0x11b72ae0-0x11b73104  OK     OK
+[    *SYSTEM*] $DCSS_TUIZN  1336 0x11c50a44, 0x11c8af74-0x11c8b4ac  OK     OK
+[    *SYSTEM*]  $DCSS_UFRM  4068 0x11c50a8c, 0x11b71ae4-0x11b72ac8  OK     OK
+[    *SYSTEM*]  $DCS_C_CCL   100 0x11c50c3c, 0x11c8aef8-0x11c8af5c  OK     OK
+[    *SYSTEM*]  $DCS_C_CCR   100 0x11c50c84, 0x11b7fc58-0x11b7fcbc  OK     OK
+[    *SYSTEM*]  $DCS_C_CSI  1540 0x11c50ccc, 0x11b714c8-0x11b71acc  OK     OK
+[    *SYSTEM*]  $DCS_C_CSO  1540 0x11c50d14, 0x11c8a8dc-0x11c8aee0  OK     OK
+[    *SYSTEM*]  $DCS_C_FSI  6532 0x11c50d5c, 0x11b6fb2c-0x11b714b0  OK     OK
+[    *SYSTEM*]  $DCS_C_FSO  1924 0x11c50da4, 0x11c8a140-0x11c8a8c4  OK     OK
+[    *SYSTEM*]  $DCS_C_NSI   772 0x11c50dec, 0x11b6f810-0x11b6fb14  OK     OK
+[    *SYSTEM*]  $DCS_C_RPI   100 0x11c50e34, 0x11c8a0c4-0x11c8a128  OK     OK
+[    *SYSTEM*]  $DCS_C_RPO   100 0x11c50e7c, 0x11b7fbdc-0x11b7fc40  OK     OK
+[    *SYSTEM*]  $DCS_C_SIR  1540 0x11c50ec4, 0x11b6f1f4-0x11b6f7f8  OK     OK
+[    *SYSTEM*]  $DCS_C_SPI  1540 0x11c50f0c, 0x11c89aa8-0x11c8a0ac  OK     OK
+[    *SYSTEM*]  $DCS_C_SPO  1540 0x11c50f54, 0x11b6ebd8-0x11b6f1dc  OK     OK
+[    *SYSTEM*]  $DCS_C_SSI   268 0x11c50f9c, 0x11c89984-0x11c89a90  OK     OK
+[    *SYSTEM*]  $DCS_C_SSO   172 0x11c50fe4, 0x11b7fb18-0x11b7fbc4  OK     OK
+[    *SYSTEM*]   $DIAG_GRP  9108 0x11c5153c, 0x11b6c82c-0x11b6ebc0  OK     OK
+[    *SYSTEM*]    $DMR_GRP  6276 0x11c516ec, 0x11c880e8-0x11c8996c  OK     OK
+[    *SYSTEM*]   $DMSW_CFG    16 0x11c51734, 0x11b7faf0-0x11b7fb00  OK     OK
+[    *SYSTEM*]  $DOCVIEWER  1196 0x11c51854, 0x11b6c368-0x11b6c814  OK     OK
+[    *SYSTEM*]    $DPM_CFG    40 0x11c5189c, 0x11c880a8-0x11c880d0  OK     OK
+[    *SYSTEM*]    $DPM_SCH 34884 0x11c518e4, 0x11b63b0c-0x11b6c350  OK     OK
+[    *SYSTEM*]    $DPM_SIM   164 0x11c5192c, 0x11c87fec-0x11c88090  OK     OK
+[    *SYSTEM*]     $DTDIAG   424 0x11c51b24, 0x11b6394c-0x11b63af4  OK     OK
+[    *SYSTEM*]     $DTRECP   424 0x11c51b6c, 0x11c87e2c-0x11c87fd4  OK     OK
+[    *SYSTEM*]   $ENC_STAT 16260 0x11c51e3c, 0x11b5f9b0-0x11b63934  OK     OK
+[    *SYSTEM*]$FILE_AP2BCK  2644 0x11c527cc, 0x11c873c0-0x11c87e14  OK     OK
+[    *SYSTEM*]$FILE_APPBCK  6604 0x11c52814, 0x11b5dfcc-0x11b5f998  OK     OK
+[    *SYSTEM*] $FILE_DGBCK  5284 0x11c528a4, 0x11c85f04-0x11c873a8  OK     OK
+[    *SYSTEM*]$FILE_MDONLY  1324 0x11c529c4, 0x11b5da88-0x11b5dfb4  OK     OK
+[    *SYSTEM*]$FILE_VISBCK  1324 0x11c52a54, 0x11c859c0-0x11c85eec  OK     OK
+[    *SYSTEM*]    $FMS_GRP 13428 0x11c52b2c, 0x11b5a5fc-0x11b5da70  OK     OK
+[    *SYSTEM*]  $FSAC_LIST  1284 0x11c52cdc, 0x11c854a4-0x11c859a8  OK     OK
+[    *SYSTEM*]   $FSSB_CFG    84 0x11c52d24, 0x11b7fa7c-0x11b7fad0  OK     OK
+[    *SYSTEM*]  $GRAVC_GRP   596 0x11c52ff4, 0x11b5a390-0x11b5a5e4  OK     OK
+[    *SYSTEM*]  $HOSTC_CFG  3652 0x11c530cc, 0x11c84648-0x11c8548c  OK     OK
+[    *SYSTEM*]  $HOSTS_CFG  3652 0x11c531a4, 0x11b59534-0x11b5a378  OK     OK
+[    *SYSTEM*]$HOST_SHARED  1604 0x11c532c4, 0x11c83fec-0x11c84630  OK     OK
+[    *SYSTEM*] $HSCD_GROUP    84 0x11c53354, 0x11b594c8-0x11b5951c  OK     OK
+[    *SYSTEM*] $MACROTABLE 15004 0x11c54704, 0x11c80538-0x11c83fd4  OK     OK
+[    *SYSTEM*]        $MCR   236 0x11c549d4, 0x11b593c4-0x11b594b0  OK     OK
+[    *SYSTEM*]    $MCR_GRP  2388 0x11c54a1c, 0x11c7fbcc-0x11c80520  OK     OK
+[    *SYSTEM*]       $MCSP    52 0x11c54a64, 0x11b59378-0x11b593ac  OK     OK
+[    *SYSTEM*]   $MCSP_GRP  1732 0x11c54aac, 0x11c7f4f0-0x11c7fbb4  OK     OK
+[    *SYSTEM*]    $MIX_MKR 52804 0x11c54d34, 0x11b4c51c-0x11b59360  OK     OK
+[    *SYSTEM*]   $MNUFRAME  4500 0x11c5504c, 0x11c7e344-0x11c7f4d8  OK     OK
+[    *SYSTEM*]$MNUFRAMENUM     8 0x11c55094, 0x11b4c4fc-0x11b4c504  OK     OK
+[    *SYSTEM*]    $MNUTOOL  6516 0x11c550dc, 0x11c7c9b8-0x11c7e32c  OK     OK
+[    *SYSTEM*] $MNUTOOLNUM     8 0x11c55124, 0x11b4c4dc-0x11b4c4e4  OK     OK
+[    *SYSTEM*]  $MODEM_INF  2116 0x11c5531c, 0x11c7c15c-0x11c7c9a0  OK     OK
+[    *SYSTEM*] $MOR_GRP_SV   164 0x11c55484, 0x11b4c420-0x11b4c4c4  OK     OK
+[    *SYSTEM*] $OUT_SIM_DO     4 0x11c55e5c, 0x11c7c140-0x11c7c144  OK     OK
+[    *SYSTEM*] $PARAM2_GRP  9252 0x11c5600c, 0x11b49fe4-0x11b4c408  OK     OK
+[    *SYSTEM*]$PARAM_GROUP 28036 0x11c56054, 0x11c753a4-0x11c7c128  OK     OK
+[    *SYSTEM*] $PGINP_TYPE   724 0x11c5651c, 0x11b49cf8-0x11b49fcc  OK     OK
+[    *SYSTEM*]   $PLID_GRP  5092 0x11c568c4, 0x11c73fa8-0x11c7538c  OK     OK
+[    *SYSTEM*]     $PM_GRP    56 0x11c57524, 0x11b49ca8-0x11b49ce0  OK     OK
+[    *SYSTEM*] $PRGADJ_SCH  1484 0x11c57e24, 0x11c739c4-0x11c73f90  OK     OK
+[    *SYSTEM*]     $RCMCFG   956 0x11c58724, 0x11b498d4-0x11b49c90  OK     OK
+[    *SYSTEM*]   $RDCR_GRP  1860 0x11c587b4, 0x11c73268-0x11c739ac  OK     OK
+[    *SYSTEM*]        $SBR 58468 0x11c5960c, 0x11b3b458-0x11b498bc  OK     OK
+[    *SYSTEM*]       $SBR2 25540 0x11c59654, 0x11c6ce8c-0x11c73250  OK     OK
+[    *SYSTEM*]        $SCR  8800 0x11c596e4, 0x11b391e0-0x11b3b440  OK     OK
+[    *SYSTEM*]    $SCR_GRP  8660 0x11c5972c, 0x11c6aca0-0x11c6ce74  OK     OK
+[    *SYSTEM*]    $SERVENT  1524 0x11c5984c, 0x11b38bd4-0x11b391c8  OK     OK
+[    *SYSTEM*] $SERVICE_KL  1204 0x11c59894, 0x11c6a7d4-0x11c6ac88  OK     OK
+[    *SYSTEM*]$SERVICE_PRG  1204 0x11c598dc, 0x11b38708-0x11b38bbc  OK     OK
+[    *SYSTEM*]        $SMB    88 0x11c59e7c, 0x11c6a764-0x11c6a7bc  OK     OK
+[    *SYSTEM*]   $SMB_CLNT   420 0x11c59ec4, 0x11b3854c-0x11b386f0  OK     OK
+[    *SYSTEM*] $SMON_ALIAS  4164 0x11c59f9c, 0x11c69708-0x11c6a74c  OK     OK
+[    *SYSTEM*]$SMON_RECALL  5124 0x11c5a02c, 0x11b37130-0x11b38534  OK     OK
+[    *SYSTEM*]  $SMTP_CTRL   180 0x11c5a074, 0x11c6963c-0x11c696f0  OK     OK
+[    *SYSTEM*]        $SSR    52 0x11c5a2fc, 0x11b370e4-0x11b37118  OK     OK
+[    *SYSTEM*]   $STOP_PTN     4 0x11c5a4ac, 0x11c69620-0x11c69624  OK     OK
+[    *SYSTEM*]  $SVPRM_UPD  2020 0x11c5a7c4, 0x11b368e8-0x11b370cc  OK     OK
+[    *SYSTEM*]   $TORQCTRL   456 0x11c5b5d4, 0x11c69440-0x11c69608  OK     OK
+[    *SYSTEM*]$TPGL_CONFIG 17452 0x11c5b6ac, 0x11b324a4-0x11b368d0  OK     OK
+[    *SYSTEM*]  $TRACE_CFG    24 0x11c5bbbc, 0x11c69410-0x11c69428  OK     OK
+[    *SYSTEM*] $TRACE_CHNL   184 0x11c5bc04, 0x11b323d4-0x11b3248c  OK     OK
+[    *SYSTEM*] $TRACE_ITEM  3684 0x11c5bc4c, 0x11c68594-0x11c693f8  OK     OK
+[    *SYSTEM*]      $TSCFG   188 0x11c5bc94, 0x11b32300-0x11b323bc  OK     OK
+[    *SYSTEM*]    $TSR_GRP  2916 0x11c5bcdc, 0x11c67a18-0x11c6857c  OK     OK
+[    *SYSTEM*]      $TSSCB   196 0x11c5bd24, 0x11b32224-0x11b322e8  OK     OK
+[    *SYSTEM*]  $TX_SCREEN  1564 0x11c5bdb4, 0x11c673e4-0x11c67a00  OK     OK
+[    *SYSTEM*]      $UECFG   276 0x11c5be8c, 0x11b320f8-0x11b3220c  OK     OK
+[    *SYSTEM*]      $UEGRP   196 0x11c5bed4, 0x11c67308-0x11c673cc  OK     OK
+[    *SYSTEM*]  $UI_CONFIG  2536 0x11c5bf1c, 0x11b316f8-0x11b320e0  OK     OK
+[    *SYSTEM*]  $UI_CUSTOM  5584 0x11c5bfac, 0x11c65d20-0x11c672f0  OK     OK
+[    *SYSTEM*] $UI_TOPMENU 16244 0x11c5c2c4, 0x11b2d76c-0x11b316e0  OK     OK
+[    *SYSTEM*]$UI_USERVIEW  4084 0x11c5c354, 0x11c64d14-0x11c65d08  OK     OK
+[    *SYSTEM*]   $VCAX_CFG   928 0x11c5c6fc, 0x11b2d3b4-0x11b2d754  OK     OK
+[    *SYSTEM*]   $VCAX_GRP  2788 0x11c5c744, 0x11c64218-0x11c64cfc  OK     OK
+[    *SYSTEM*]$VCAX_REF_GR  7636 0x11c5c78c, 0x11b2b5c8-0x11b2d39c  OK     OK
+[    *SYSTEM*]   $VCMR_GRP  3076 0x11c5c81c, 0x11c635fc-0x11c64200  OK     OK
+[    *SYSTEM*]   $VCWM_CFG     4 0x11c5c864, 0x11b2b5ac-0x11b2b5b0  OK     OK
+[    *SYSTEM*]   $VCWM_GRP  3524 0x11c5c8ac, 0x11c62820-0x11c635e4  OK     OK
+[    *SYSTEM*] $VISION_CFG   340 0x11c5c9cc, 0x11b2b440-0x11b2b594  OK     OK
+[    *SYSTEM*] $VISION_GRP   324 0x11c5ca14, 0x11c626c4-0x11c62808  OK     OK
+[    *SYSTEM*]  $VLEXE_CFG    20 0x11c5ca5c, 0x11b2b414-0x11b2b428  OK     OK
+[    *SYSTEM*] $VSHIFTMENU   604 0x11c5caec, 0x11c62450-0x11c626ac  OK     OK
+[    *SYSTEM*]   $VSMO_CFG     8 0x11c5cbc4, 0x11b2b3f4-0x11b2b3fc  OK     OK
+[    *SYSTEM*]   $ZABC_GRP   180 0x11c5d4c4, 0x11c62384-0x11c62438  OK     OK
+[    *NUMREG*]     $NUMREG 22964 0x118cf770, 0x1189912c-0x1189eae0  OK     OK
+[    *POSREG*]     $POSREG 35220 0x17f9be18, 0x11890780-0x11899114  OK     OK
+[   *PROGRAM*]     PG_BMMB  1772 0x13bdbf44, 0x13bbe4ec-0x13bbebd8  OK     OK
+[   *PROGRAM*]     PG_BTCD 11652 0x13bdbf80, 0x17f6f970-0x17f726f4  OK     OK
+[   *PROGRAM*]  PG_TCD_MMB 13420 0x13bdbfbc, 0x1188d2fc-0x11890768  OK     OK
+[    *STRREG*]     $STRREG  6804 0x118b887c, 0x1188b698-0x1188d12c  OK     OK
+[    *STRREG*] $MAXSREGNUM     4 0x118b88b8, 0x1196098c-0x11960990  OK     OK
+[       ACSET]    SRV_DATA   644 0x13bfce8c, 0x10fc9430-0x10fc96b4  OK     OK
+[       ACSET]      DEF_CF     4 0x13bfcec8, 0x13bbdd14-0x13bbdd18  OK     OK
+[       ACSET]      DEF_BA     4 0x13bfcf04, 0x17f6f198-0x17f6f19c  OK     OK
+[       ACSET]   SCHD_INIT     4 0x13bfcf40, 0x13bffe7c-0x13bffe80  OK     OK
+[     ATSHELL] SHELL_CHECK   708 0x11910da8, 0x13bbd5ec-0x13bbd8b0  OK     OK
+[    ATSOFTPA] DESCRPT_STR  1124 0x17ff2a64, 0x10fc8a8c-0x10fc8ef0  OK     OK
+[    ATSOFTPA]    TYPE_STR   244 0x17ff2aa0, 0x13bbd4e0-0x13bbd5d4  OK     OK
+[    ATSOFTPA] PORT_SELECT   164 0x17ff2adc, 0x17f6ec7c-0x17f6ed20  OK     OK
+[    ATSOFTPA]   PORT_TYPE   164 0x17ff2b18, 0x118a0b20-0x118a0bc4  OK     OK
+[    ATSOFTPA]    IO_INDEX   164 0x17ff2b54, 0x1192ab34-0x1192abd8  OK     OK
+[    ATSOFTPA]      IO_SIM   164 0x17ff2b90, 0x1188a1a8-0x1188a24c  OK     OK
+[    ATSOFTPA]    IO_STATE   164 0x17ff2bcc, 0x10fc89d0-0x10fc8a74  OK     OK
+[    ATSOFTPA]    IO_VALUE   164 0x17ff2c08, 0x13bbd424-0x13bbd4c8  OK     OK
+[    ATSOFTPA]     IO_PORT   724 0x17ff2c44, 0x17f6e990-0x17f6ec64  OK     OK
+[    ATSOFTPA] INIT_ARRAYS     4 0x17ff2c80, 0x13bffe60-0x13bffe64  OK     OK
+[    ATSOFTPA]NO_FORM_LINE     4 0x17ff2cbc, 0x13bfef68-0x13bfef6c  OK     OK
+[    EXTSERVO]   DEV_GROUP    16 0x10ff86b8, 0x13bbcdf8-0x13bbce08  OK     OK
+[    EXTSERVO]   DEV_START    44 0x10ff86f4, 0x17f6e348-0x17f6e374  OK     OK
+[    EXTSERVO]     ENA_PMC     4 0x10ff8730, 0x13bffe40-0x13bffe44  OK     OK
+[    EXTSERVO]  EXT_DEVICE    12 0x10ff87a8, 0x13bfef44-0x13bfef50  OK     OK
+[    EXTSERVO]   EXT_SERVO    28 0x10ff87e4, 0x13bfd344-0x13bfd360  OK     OK
+[    EXTSERVO]  EXT_SERVO2    28 0x10ff8820, 0x10fff840-0x10fff85c  OK     OK
+[    EXTSERVO]     FLEXDEV     4 0x10ff885c, 0x1190bfc0-0x1190bfc4  OK     OK
+[    EXTSERVO]  NUM_OF_DEV     4 0x10ff894c, 0x11931ab8-0x11931abc  OK     OK
+[    MSK_STAT]    CURRSTEP     4 0x10ff1e84, 0x13bfd938-0x13bfd93c  OK     OK
+[    MSK_STAT]    DISPMODE     4 0x10ff1f74, 0x13bfd320-0x13bfd324  OK     OK
+[    MSK_STAT]    LASTSTEP     4 0x10ff22bc, 0x10fff824-0x10fff828  OK     OK
+[    MSK_STAT]    MSK_NAME    16 0x10ff26b8, 0x1190bf98-0x1190bfa8  OK     OK
+[    MSK_STAT]     MSK_RUN     4 0x10ff26f4, 0x13bfc7d8-0x13bfc7dc  OK     OK
+[    PNIO_MAP]        AUSG 65444 0x17fd5368, 0x17f5d93c-0x17f6d8e0  OK     OK
+[    PNIO_MAP]        EING 65444 0x17fd54d0, 0x11878fe0-0x11888f84  OK     OK
+[    PNIO_MAP]     READ_IN     4 0x17fd5728, 0x11960968-0x1196096c  OK     OK
+[   PWD_MAINT]  PWDOWN_ACK     4 0x13bead10, 0x17f5d768-0x17f5d76c  OK     OK
+[   PWD_MAINT]  PWDOWN_REQ     4 0x13bead4c, 0x10fff7f8-0x10fff7fc  OK     OK
+[      TPFDEF]   JOGFRAMES  2276 0x17f87150, 0x11878004-0x118788e8  OK     OK
+[      TPFDEF]  JOGFRAMNUM    12 0x17f8718c, 0x1192d454-0x1192d460  OK     OK
+[      TPFDEF]  SETUP_DATA 52836 0x17f873a8, 0x13bae1d4-0x13bbb038  OK     OK
+[      TPFDEF]  CELL_SETUP   292 0x17f873e4, 0x17f5bd3c-0x17f5be60  OK     OK
+[      TPFDEF] FLOOR_SETUP    36 0x17f87420, 0x1190f814-0x1190f838  OK     OK
+[     TPGLMCP] APP_CU1_ENB     4 0x118ae91c, 0x13bae1b8-0x13bae1bc  OK     OK
+[     TPGLMCP]APP_PICK_ENB     4 0x118ae958, 0x17f5bd20-0x17f5bd24  OK     OK
+[     TPGLMCP]  APP_TP_ENB     4 0x118ae994, 0x11a164e0-0x11a164e4  OK     OK
+[     TPGLMCP]       DEBUG     4 0x118aea0c, 0x118d5604-0x118d5608  OK     OK
+[     TPGLMCP]      DEBUG2     4 0x118aea48, 0x1190fae8-0x1190faec  OK     OK
+[     TPGLMCP]      DEBUG3     4 0x118aea84, 0x1190e7f4-0x1190e7f8  OK     OK
+[     TPGLMCP]  LOOP_DELAY     4 0x118aeca0, 0x1193b258-0x1193b25c  OK     OK
+[     TPGLMCP]    PIPESIZE     4 0x118aed54, 0x11990ba4-0x11990ba8  OK     OK
+[     TPGLMCP]         TAB     8 0x118aee44, 0x10ffcfc4-0x10ffcfcc  OK     OK
+[    VAGBCKUP]    BACKDATE    36 0x17f74dac, 0x1192d414-0x1192d438  OK     OK
+[    VAGBCKUP]    BKOPTION    68 0x17f74e60, 0x11930e14-0x11930e58  OK     OK
+[    VAGBCKUP]       BKZIP     4 0x17f74e9c, 0x1192e15c-0x1192e160  OK     OK
+[    VAGBCKUP]  CONNECT_ID     4 0x17f75004, 0x1192d640-0x1192d644  OK     OK
+[    VAGBCKUP] DEVICE_TYPE     4 0x17f750b8, 0x119950e4-0x119950e8  OK     OK
+[    VAGBCKUP]      DEV_ID     4 0x17f75130, 0x119bf520-0x119bf524  OK     OK
+[    VAGBCKUP]     ERR_OUT     4 0x17f75220, 0x1197348c-0x11973490  OK     OK
+[    VAGBCKUP]       LSZIP     4 0x17f755a4, 0x11a28364-0x11a28368  OK     OK
+[    VAGBCKUP]      MANZIP     4 0x17f7561c, 0x11971ad0-0x11971ad4  OK     OK
+[    VAGBCKUP]      OK_OUT     4 0x17f75748, 0x119bf23c-0x119bf240  OK     OK
+[    VAGBCKUP]     PANE_ID     4 0x17f75838, 0x119a3e10-0x119a3e14  OK     OK
+[    VAGBCKUP]      RUN_IN     4 0x17f759a0, 0x11965518-0x1196551c  OK     OK
+[    VAGBCKUP]     RUN_OUT     4 0x17f759dc, 0x1194cbe4-0x1194cbe8  OK     OK
+[    VAGBCKUP]    UPD_NAME    20 0x17f75d24, 0x11a29b84-0x11a29b98  OK     OK
+[    VAZIPUTL]IFILELISTNUM     4 0x13bc056c, 0x13bad904-0x13bad908  OK     OK
+[    VAZIPUTL]       ISTAT     4 0x13bc05a8, 0x17f5b46c-0x17f5b470  OK     OK
+[    VAZIPUTL]    ITASKNUM     4 0x13bc05e4, 0x1193b23c-0x1193b240  OK     OK
+[    VAZIPUTL]     IVALINT     4 0x13bc0620, 0x10ff9928-0x10ff992c  OK     OK
+[    VAZIPUTL]   SFILENAME    56 0x13bc065c, 0x118cf7cc-0x118cf804  OK     OK
+[    VAZIPUTL]   SFILEPATH   104 0x13bc0698, 0x10fd39f4-0x10fd3a5c  OK     OK
+[    VAZIPUTL]  SFILEQUERY    56 0x13bc06d4, 0x10fcd440-0x10fcd478  OK     OK
+[    VAZIPUTL] SFILEQUERY2    56 0x13bc0710, 0x10fcc8f4-0x10fcc92c  OK     OK
+[    VAZIPUTL]   SFULLPATH   104 0x13bc074c, 0x1187616c-0x118761d4  OK     OK
+[    VAZIPUTL] SMYPROGNAME    40 0x13bc0788, 0x1192e734-0x1192e75c  OK     OK
+[    VAZIPUTL]     SVALSTR    24 0x13bc07c4, 0x1192e12c-0x1192e144  OK     OK
+[     VWUSEMZ]    CURR_DEV    24 0x10fd5140, 0x11945ca0-0x11945cb8  OK     OK
+[     VWUSEMZ]    STARTBIT    24 0x10fd5e24, 0x11942b60-0x11942b78  OK     OK

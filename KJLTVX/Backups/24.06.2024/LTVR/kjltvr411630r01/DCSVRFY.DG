@@ -1,0 +1,925 @@
+F Number: F173338
+VERSION : HandlingTool         
+$VERSION: V8.2306       4/24/2014
+DATE:     23-JUN-24 00:30 
+DCS Version: V3.3.2
+
+--- Joint Speed Check ------------------
+No.         G A Status    Comment
+  1 ENABLE  1  1 DSBL [BS HALT         ]
+  2 ENABLE  1  2 DSBL [BS HALT         ]
+  3 ENABLE  1  3 DSBL [BS HALT         ]
+  4 ENABLE  1  4 DSBL [BS HALT         ]
+  5 ENABLE  1  5 DSBL [BS HALT         ]
+  6 ENABLE  1  6 DSBL [BS HALT         ]
+  7 DISABLE 1  7 ---- [BS HALT         ]
+  8 DISABLE 1  8 ---- [BS HALT         ]
+  9 DISABLE 1  9 ---- [BS HALT         ]
+ 10 DISABLE 1  1 ---- [                ]
+ 11 DISABLE 1  1 ---- [                ]
+ 12 DISABLE 1  1 ---- [                ]
+ 13 DISABLE 1  1 ---- [                ]
+ 14 DISABLE 1  1 ---- [                ]
+ 15 DISABLE 1  1 ---- [                ]
+ 16 DISABLE 1  1 ---- [                ]
+ 17 DISABLE 1  1 ---- [                ]
+ 18 DISABLE 1  1 ---- [                ]
+ 19 DISABLE 1  1 ---- [                ]
+ 20 DISABLE 1  1 ---- [                ]
+ 21 DISABLE 1  1 ---- [                ]
+ 22 DISABLE 1  1 ---- [                ]
+ 23 DISABLE 1  1 ---- [                ]
+ 24 DISABLE 1  1 ---- [                ]
+ 25 DISABLE 1  1 ---- [                ]
+ 26 DISABLE 1  1 ---- [                ]
+ 27 DISABLE 1  1 ---- [                ]
+ 28 DISABLE 1  1 ---- [                ]
+ 29 DISABLE 1  1 ---- [                ]
+ 30 DISABLE 1  1 ---- [                ]
+ 31 DISABLE 1  1 ---- [                ]
+ 32 DISABLE 1  1 ---- [                ]
+ 33 DISABLE 1  1 ---- [                ]
+ 34 DISABLE 1  1 ---- [                ]
+ 35 DISABLE 1  1 ---- [                ]
+ 36 DISABLE 1  1 ---- [                ]
+ 37 DISABLE 1  1 ---- [                ]
+ 38 DISABLE 1  1 ---- [                ]
+ 39 DISABLE 1  1 ---- [                ]
+ 40 DISABLE 1  1 ---- [                ]
+
+    No.  1              Status:DSBL
+  1 Comment:   [BS HALT                ]
+  2 Enable/Disable:             ENABLE 
+  3 Direction:                      ALL
+  4 Group:                            1
+  5 Axis:                             1
+    Speed(deg/sec):
+      Current:                    0.000
+  6   Limit:                      0.000
+  7 Stop type:         Power-Off stop 
+  8 disabling input: SIR[  7:          ]
+  9 Permissible distance   (deg):    .1
+
+    No.  2              Status:DSBL
+  1 Comment:   [BS HALT                ]
+  2 Enable/Disable:             ENABLE 
+  3 Direction:                      ALL
+  4 Group:                            1
+  5 Axis:                             2
+    Speed(deg/sec):
+      Current:                    0.000
+  6   Limit:                      0.000
+  7 Stop type:         Power-Off stop 
+  8 disabling input: SIR[  7:          ]
+  9 Permissible distance   (deg):    .1
+
+    No.  3              Status:DSBL
+  1 Comment:   [BS HALT                ]
+  2 Enable/Disable:             ENABLE 
+  3 Direction:                      ALL
+  4 Group:                            1
+  5 Axis:                             3
+    Speed(deg/sec):
+      Current:                    0.000
+  6   Limit:                      0.000
+  7 Stop type:         Power-Off stop 
+  8 disabling input: SIR[  7:          ]
+  9 Permissible distance   (deg):    .1
+
+    No.  4              Status:DSBL
+  1 Comment:   [BS HALT                ]
+  2 Enable/Disable:             ENABLE 
+  3 Direction:                      ALL
+  4 Group:                            1
+  5 Axis:                             4
+    Speed(deg/sec):
+      Current:                    0.000
+  6   Limit:                      0.000
+  7 Stop type:         Power-Off stop 
+  8 disabling input: SIR[  7:          ]
+  9 Permissible distance   (deg):    .1
+
+    No.  5              Status:DSBL
+  1 Comment:   [BS HALT                ]
+  2 Enable/Disable:             ENABLE 
+  3 Direction:                      ALL
+  4 Group:                            1
+  5 Axis:                             5
+    Speed(deg/sec):
+      Current:                    0.000
+  6   Limit:                      0.000
+  7 Stop type:         Power-Off stop 
+  8 disabling input: SIR[  7:          ]
+  9 Permissible distance   (deg):    .1
+
+    No.  6              Status:DSBL
+  1 Comment:   [BS HALT                ]
+  2 Enable/Disable:             ENABLE 
+  3 Direction:                      ALL
+  4 Group:                            1
+  5 Axis:                             6
+    Speed(deg/sec):
+      Current:                    0.000
+  6   Limit:                      0.000
+  7 Stop type:         Power-Off stop 
+  8 disabling input: SIR[  7:          ]
+  9 Permissible distance   (deg):    .1
+
+--- Tool frame -------------------------
+Group: 1                          Status
+Tool select:                     0   OK 
+(0:FacePlate,-1:Tool change)
+Current Tool:                    0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+
+Group: 2                          Status
+Tool select:                     0   OK 
+(0:FacePlate,-1:Tool change)
+Current Tool:                    0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+
+Group: 3                          Status
+Tool select:                     0   OK 
+(0:FacePlate,-1:Tool change)
+Current Tool:                    0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+
+Group: 4                          Status
+Tool select:                     0   OK 
+(0:FacePlate,-1:Tool change)
+Current Tool:                    0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+
+--- User frame -------------------------
+Group: 1
+  No.     XYZ(mm)     WPR(deg)    Status
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+
+Group: 2
+  No.     XYZ(mm)     WPR(deg)    Status
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+
+Group: 3
+  No.     XYZ(mm)     WPR(deg)    Status
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+
+Group: 4
+  No.     XYZ(mm)     WPR(deg)    Status
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+
+--- Stop position prediction -----------
+Group: 1                          Status
+Cartesian
+  1 Mode:                   DISABLE  OK 
+    Power-Off stop
+  2   Stopping distance (mm):   0.0  OK 
+  3   Speed (mm/sec):           0.0  OK 
+    Controlled stop
+  4   Stopping distance (mm):   0.0  OK 
+  5   Speed (mm/sec):           0.0  OK 
+Joint J1
+  6 Mode:                   DISABLE  OK 
+    Power-Off stop
+  7   Stopping distance(deg):   0.0  OK 
+  8   Speed(deg/sec):           0.0  OK 
+    Controlled stop
+  9   Stopping distance(deg):   0.0  OK 
+ 10   Speed(deg/sec):           0.0  OK 
+Joint J2
+ 11 Mode:                   DISABLE  OK 
+    Power-Off stop
+ 12   Stopping distance(deg):   0.0  OK 
+ 13   Speed(deg/sec):           0.0  OK 
+    Controlled stop
+ 14   Stopping distance(deg):   0.0  OK 
+ 15   Speed(deg/sec):           0.0  OK 
+Joint J3
+ 16 Mode:                   DISABLE  OK 
+    Power-Off stop
+ 17   Stopping distance(deg):   0.0  OK 
+ 18   Speed(deg/sec):           0.0  OK 
+    Controlled stop
+ 19   Stopping distance(deg):   0.0  OK 
+ 20   Speed(deg/sec):           0.0  OK 
+Joint J4
+ 21 Mode:                   DISABLE  OK 
+    Power-Off stop
+ 22   Stopping distance(deg):   0.0  OK 
+ 23   Speed(deg/sec):           0.0  OK 
+    Controlled stop
+ 24   Stopping distance(deg):   0.0  OK 
+ 25   Speed(deg/sec):           0.0  OK 
+Joint J5
+ 26 Mode:                   DISABLE  OK 
+    Power-Off stop
+ 27   Stopping distance(deg):   0.0  OK 
+ 28   Speed(deg/sec):           0.0  OK 
+    Controlled stop
+ 29   Stopping distance(deg):   0.0  OK 
+ 30   Speed(deg/sec):           0.0  OK 
+Joint J6
+ 31 Mode:                   DISABLE  OK 
+    Power-Off stop
+ 32   Stopping distance(deg):   0.0  OK 
+ 33   Speed(deg/sec):           0.0  OK 
+    Controlled stop
+ 34   Stopping distance(deg):   0.0  OK 
+ 35   Speed(deg/sec):           0.0  OK 
+Joint J7
+ 36 Mode:                   DISABLE  OK 
+    Power-Off stop
+ 37   Stopping distance(deg):   0.0  OK 
+ 38   Speed(deg/sec):           0.0  OK 
+    Controlled stop
+ 39   Stopping distance(deg):   0.0  OK 
+ 40   Speed(deg/sec):           0.0  OK 
+Joint J8
+ 41 Mode:                   DISABLE  OK 
+    Power-Off stop
+ 42   Stopping distance(deg):   0.0  OK 
+ 43   Speed(deg/sec):           0.0  OK 
+    Controlled stop
+ 44   Stopping distance(deg):   0.0  OK 
+ 45   Speed(deg/sec):           0.0  OK 
+Joint J9
+ 46 Mode:                   DISABLE  OK 
+    Power-Off stop
+ 47   Stopping distance(deg):   0.0  OK 
+ 48   Speed(deg/sec):           0.0  OK 
+    Controlled stop
+ 49   Stopping distance(deg):   0.0  OK 
+ 50   Speed(deg/sec):           0.0  OK 
+
+Group: 2                          Status
+Cartesian
+  1 Mode:                   DISABLE  OK 
+    Power-Off stop
+  2   Stopping distance (mm):   0.0  OK 
+  3   Speed (mm/sec):           0.0  OK 
+    Controlled stop
+  4   Stopping distance (mm):   0.0  OK 
+  5   Speed (mm/sec):           0.0  OK 
+Joint J1
+  6 Mode:                   DISABLE  OK 
+    Power-Off stop
+  7   Stopping distance(mm ):   0.0  OK 
+  8   Speed(mm/sec ):           0.0  OK 
+    Controlled stop
+  9   Stopping distance(mm ):   0.0  OK 
+ 10   Speed(mm/sec ):           0.0  OK 
+Joint J2
+ 11 Mode:                   DISABLE  OK 
+    Power-Off stop
+ 12   Stopping distance(deg):   0.0  OK 
+ 13   Speed(deg/sec):           0.0  OK 
+    Controlled stop
+ 14   Stopping distance(deg):   0.0  OK 
+ 15   Speed(deg/sec):           0.0  OK 
+Joint J3
+ 16 Mode:                   DISABLE  OK 
+    Power-Off stop
+ 17   Stopping distance(deg):   0.0  OK 
+ 18   Speed(deg/sec):           0.0  OK 
+    Controlled stop
+ 19   Stopping distance(deg):   0.0  OK 
+ 20   Speed(deg/sec):           0.0  OK 
+Joint J4
+ 21 Mode:                   DISABLE  OK 
+    Power-Off stop
+ 22   Stopping distance(deg):   0.0  OK 
+ 23   Speed(deg/sec):           0.0  OK 
+    Controlled stop
+ 24   Stopping distance(deg):   0.0  OK 
+ 25   Speed(deg/sec):           0.0  OK 
+Joint J5
+ 26 Mode:                   DISABLE  OK 
+    Power-Off stop
+ 27   Stopping distance(deg):   0.0  OK 
+ 28   Speed(deg/sec):           0.0  OK 
+    Controlled stop
+ 29   Stopping distance(deg):   0.0  OK 
+ 30   Speed(deg/sec):           0.0  OK 
+Joint J6
+ 31 Mode:                   DISABLE  OK 
+    Power-Off stop
+ 32   Stopping distance(deg):   0.0  OK 
+ 33   Speed(deg/sec):           0.0  OK 
+    Controlled stop
+ 34   Stopping distance(deg):   0.0  OK 
+ 35   Speed(deg/sec):           0.0  OK 
+Joint J7
+ 36 Mode:                   DISABLE  OK 
+    Power-Off stop
+ 37   Stopping distance(deg):   0.0  OK 
+ 38   Speed(deg/sec):           0.0  OK 
+    Controlled stop
+ 39   Stopping distance(deg):   0.0  OK 
+ 40   Speed(deg/sec):           0.0  OK 
+Joint J8
+ 41 Mode:                   DISABLE  OK 
+    Power-Off stop
+ 42   Stopping distance(deg):   0.0  OK 
+ 43   Speed(deg/sec):           0.0  OK 
+    Controlled stop
+ 44   Stopping distance(deg):   0.0  OK 
+ 45   Speed(deg/sec):           0.0  OK 
+Joint J9
+ 46 Mode:                   DISABLE  OK 
+    Power-Off stop
+ 47   Stopping distance(deg):   0.0  OK 
+ 48   Speed(deg/sec):           0.0  OK 
+    Controlled stop
+ 49   Stopping distance(deg):   0.0  OK 
+ 50   Speed(deg/sec):           0.0  OK 
+
+Group: 3                          Status
+Cartesian
+  1 Mode:                   DISABLE  OK 
+    Power-Off stop
+  2   Stopping distance (mm):   0.0  OK 
+  3   Speed (mm/sec):           0.0  OK 
+    Controlled stop
+  4   Stopping distance (mm):   0.0  OK 
+  5   Speed (mm/sec):           0.0  OK 
+Joint J1
+  6 Mode:                   DISABLE  OK 
+    Power-Off stop
+  7   Stopping distance(mm ):   0.0  OK 
+  8   Speed(mm/sec ):           0.0  OK 
+    Controlled stop
+  9   Stopping distance(mm ):   0.0  OK 
+ 10   Speed(mm/sec ):           0.0  OK 
+Joint J2
+ 11 Mode:                   DISABLE  OK 
+    Power-Off stop
+ 12   Stopping distance(deg):   0.0  OK 
+ 13   Speed(deg/sec):           0.0  OK 
+    Controlled stop
+ 14   Stopping distance(deg):   0.0  OK 
+ 15   Speed(deg/sec):           0.0  OK 
+Joint J3
+ 16 Mode:                   DISABLE  OK 
+    Power-Off stop
+ 17   Stopping distance(deg):   0.0  OK 
+ 18   Speed(deg/sec):           0.0  OK 
+    Controlled stop
+ 19   Stopping distance(deg):   0.0  OK 
+ 20   Speed(deg/sec):           0.0  OK 
+Joint J4
+ 21 Mode:                   DISABLE  OK 
+    Power-Off stop
+ 22   Stopping distance(deg):   0.0  OK 
+ 23   Speed(deg/sec):           0.0  OK 
+    Controlled stop
+ 24   Stopping distance(deg):   0.0  OK 
+ 25   Speed(deg/sec):           0.0  OK 
+Joint J5
+ 26 Mode:                   DISABLE  OK 
+    Power-Off stop
+ 27   Stopping distance(deg):   0.0  OK 
+ 28   Speed(deg/sec):           0.0  OK 
+    Controlled stop
+ 29   Stopping distance(deg):   0.0  OK 
+ 30   Speed(deg/sec):           0.0  OK 
+Joint J6
+ 31 Mode:                   DISABLE  OK 
+    Power-Off stop
+ 32   Stopping distance(deg):   0.0  OK 
+ 33   Speed(deg/sec):           0.0  OK 
+    Controlled stop
+ 34   Stopping distance(deg):   0.0  OK 
+ 35   Speed(deg/sec):           0.0  OK 
+Joint J7
+ 36 Mode:                   DISABLE  OK 
+    Power-Off stop
+ 37   Stopping distance(deg):   0.0  OK 
+ 38   Speed(deg/sec):           0.0  OK 
+    Controlled stop
+ 39   Stopping distance(deg):   0.0  OK 
+ 40   Speed(deg/sec):           0.0  OK 
+Joint J8
+ 41 Mode:                   DISABLE  OK 
+    Power-Off stop
+ 42   Stopping distance(deg):   0.0  OK 
+ 43   Speed(deg/sec):           0.0  OK 
+    Controlled stop
+ 44   Stopping distance(deg):   0.0  OK 
+ 45   Speed(deg/sec):           0.0  OK 
+Joint J9
+ 46 Mode:                   DISABLE  OK 
+    Power-Off stop
+ 47   Stopping distance(deg):   0.0  OK 
+ 48   Speed(deg/sec):           0.0  OK 
+    Controlled stop
+ 49   Stopping distance(deg):   0.0  OK 
+ 50   Speed(deg/sec):           0.0  OK 
+
+Group: 4                          Status
+Cartesian
+  1 Mode:                   DISABLE  OK 
+    Power-Off stop
+  2   Stopping distance (mm):   0.0  OK 
+  3   Speed (mm/sec):           0.0  OK 
+    Controlled stop
+  4   Stopping distance (mm):   0.0  OK 
+  5   Speed (mm/sec):           0.0  OK 
+Joint J1
+  6 Mode:                   DISABLE  OK 
+    Power-Off stop
+  7   Stopping distance(mm ):   0.0  OK 
+  8   Speed(mm/sec ):           0.0  OK 
+    Controlled stop
+  9   Stopping distance(mm ):   0.0  OK 
+ 10   Speed(mm/sec ):           0.0  OK 
+Joint J2
+ 11 Mode:                   DISABLE  OK 
+    Power-Off stop
+ 12   Stopping distance(deg):   0.0  OK 
+ 13   Speed(deg/sec):           0.0  OK 
+    Controlled stop
+ 14   Stopping distance(deg):   0.0  OK 
+ 15   Speed(deg/sec):           0.0  OK 
+Joint J3
+ 16 Mode:                   DISABLE  OK 
+    Power-Off stop
+ 17   Stopping distance(deg):   0.0  OK 
+ 18   Speed(deg/sec):           0.0  OK 
+    Controlled stop
+ 19   Stopping distance(deg):   0.0  OK 
+ 20   Speed(deg/sec):           0.0  OK 
+Joint J4
+ 21 Mode:                   DISABLE  OK 
+    Power-Off stop
+ 22   Stopping distance(deg):   0.0  OK 
+ 23   Speed(deg/sec):           0.0  OK 
+    Controlled stop
+ 24   Stopping distance(deg):   0.0  OK 
+ 25   Speed(deg/sec):           0.0  OK 
+Joint J5
+ 26 Mode:                   DISABLE  OK 
+    Power-Off stop
+ 27   Stopping distance(deg):   0.0  OK 
+ 28   Speed(deg/sec):           0.0  OK 
+    Controlled stop
+ 29   Stopping distance(deg):   0.0  OK 
+ 30   Speed(deg/sec):           0.0  OK 
+Joint J6
+ 31 Mode:                   DISABLE  OK 
+    Power-Off stop
+ 32   Stopping distance(deg):   0.0  OK 
+ 33   Speed(deg/sec):           0.0  OK 
+    Controlled stop
+ 34   Stopping distance(deg):   0.0  OK 
+ 35   Speed(deg/sec):           0.0  OK 
+Joint J7
+ 36 Mode:                   DISABLE  OK 
+    Power-Off stop
+ 37   Stopping distance(deg):   0.0  OK 
+ 38   Speed(deg/sec):           0.0  OK 
+    Controlled stop
+ 39   Stopping distance(deg):   0.0  OK 
+ 40   Speed(deg/sec):           0.0  OK 
+Joint J8
+ 41 Mode:                   DISABLE  OK 
+    Power-Off stop
+ 42   Stopping distance(deg):   0.0  OK 
+ 43   Speed(deg/sec):           0.0  OK 
+    Controlled stop
+ 44   Stopping distance(deg):   0.0  OK 
+ 45   Speed(deg/sec):           0.0  OK 
+Joint J9
+ 46 Mode:                   DISABLE  OK 
+    Power-Off stop
+ 47   Stopping distance(deg):   0.0  OK 
+ 48   Speed(deg/sec):           0.0  OK 
+    Controlled stop
+ 49   Stopping distance(deg):   0.0  OK 
+ 50   Speed(deg/sec):           0.0  OK 
+
+--- Robot setup ------------------------
+                                  Status
+Number of groups: 4                  OK 
+Scan time: 12 msec                   OK 
+---------- Group 1 ----------       
+Robot: R-2000iB/210F                 OK 
+Number of axes: 6                    OK 
+J1: Servo card - Axis 1              OK 
+J2: Servo card - Axis 2              OK 
+J3: Servo card - Axis 3              OK 
+J4: Servo card - Axis 4              OK 
+J5: Servo card - Axis 5              OK 
+J6: Servo card - Axis 6              OK 
+---------- Group 2 ----------       
+Robot: Excluded!                     OK 
+Number of axes: 0                    OK 
+---------- Group 3 ----------       
+Robot: Excluded!                     OK 
+Number of axes: 0                    OK 
+---------- Group 4 ----------       
+Robot: Excluded!                     OK 
+Number of axes: 0                    OK 
+
+
+--- Mastering parameter ----------------
+    Axis  Position  Master count  Status
+---------- Group 1 ----------       
+J1      90.001 deg     -292898       OK 
+J2     -34.998 deg    17895775       OK 
+J3      64.998 deg    16245124       OK 
+J4     180.002 deg    26177803       OK 
+J5      80.000 deg      193069       OK 
+J6     -89.999 deg   -47387512       OK 
+---------- Group 2 ----------       
+---------- Group 3 ----------       
+---------- Group 4 ----------       
+
+--- PROFINET Safety --------------------
+    Status:                        OK    
+  1 Enable/Bypass:              ENABLE  
+  2 Safety input size(byte):       8  
+  3 Safety output size(byte):      8  
+  4 F-Address                   1276
+
+--- Safe I/O connect -------------------
+ Output     Input1         Input2 Status
+  SSO[  3]=  CSI[  2] OR   SSI[ 11] OK 
+  SSO[  2]=  CSI[  3]      ---[  0] OK 
+  SSO[  1]=  CSI[  5] OR   SSI[ 11] OK 
+  SSO[  6]=  CSI[  7] OR   SSI[ 11] OK 
+  SSO[  7]=  CSI[  8]      ---[  0] OK 
+  CSO[  1]=  SSI[  6]      ---[  0] OK 
+  CSO[  2]=  SSI[ 10]      ---[  0] OK 
+  CSO[  3]=  ON [  0]      ---[  0] OK 
+  CSO[  4]=  SSI[  5]      ---[  0] OK 
+  CSO[  5]=  OFF[  0]      ---[  0] OK 
+  CSO[  6]=  SSI[  7]      ---[  0] OK 
+  CSO[  7]=  SSI[  8]      ---[  0] OK 
+  CSO[  8]=  SSI[  9]      ---[  0] OK 
+  CSO[  9]=  CSI[  2]      ---[  0] OK 
+  CSO[ 10]=  CSI[  3]      ---[  0] OK 
+  CSO[ 11]=! SSI[  1]      ---[  0] OK 
+  CSO[ 12]=  NSI[  2]      ---[  0] OK 
+  CSO[ 13]=  OFF[  0]      ---[  0] OK 
+  CSO[ 14]=  OFF[  0]      ---[  0] OK 
+  CSO[ 15]=  NSI[  3]      ---[  0] OK 
+  CSO[ 16]=  NSI[  1] OR   NSI[  9] OK 
+  SIR[  1]=  ON [  0]      ---[  0] OK 
+  SPO[  1]=  CSI[  9] AND  SIR[  5] OK 
+  SPO[  2]=  CSI[  9] AND  SIR[  5] OK 
+  SIR[  5]=  SSI[ 10]      ---[  0] OK 
+  SIR[  6]=  CSI[  6] OR   SSI[ 11] OK 
+  SIR[  7]=  CSI[ 10] OR   SSI[ 11] OK 
+  SIR[  2]=  OFF[  0]      ---[  0] OK 
+  ---[  0]=  ---[  0]      ---[  0] OK 
+  ---[  0]=  ---[  0]      ---[  0] OK 
+  ---[  0]=  ---[  0]      ---[  0] OK 
+  ---[  0]=  ---[  0]      ---[  0] OK 
+  ---[  0]=  ---[  0]      ---[  0] OK 
+  ---[  0]=  ---[  0]      ---[  0] OK 
+  ---[  0]=  ---[  0]      ---[  0] OK 
+  ---[  0]=  ---[  0]      ---[  0] OK 
+  ---[  0]=  ---[  0]      ---[  0] OK 
+  ---[  0]=  ---[  0]      ---[  0] OK 
+  ---[  0]=  ---[  0]      ---[  0] OK 
+  ---[  0]=  ---[  0]      ---[  0] OK 
+  ---[  0]=  ---[  0]      ---[  0] OK 
+  ---[  0]=  ---[  0]      ---[  0] OK 
+  ---[  0]=  ---[  0]      ---[  0] OK 
+  ---[  0]=  ---[  0]      ---[  0] OK 
+  ---[  0]=  ---[  0]      ---[  0] OK 
+  ---[  0]=  ---[  0]      ---[  0] OK 
+  ---[  0]=  ---[  0]      ---[  0] OK 
+  ---[  0]=  ---[  0]      ---[  0] OK 
+  ---[  0]=  ---[  0]      ---[  0] OK 
+  ---[  0]=  ---[  0]      ---[  0] OK 
+  ---[  0]=  ---[  0]      ---[  0] OK 
+  ---[  0]=  ---[  0]      ---[  0] OK 
+  ---[  0]=  ---[  0]      ---[  0] OK 
+  ---[  0]=  ---[  0]      ---[  0] OK 
+  ---[  0]=  ---[  0]      ---[  0] OK 
+  ---[  0]=  ---[  0]      ---[  0] OK 
+  ---[  0]=  ---[  0]      ---[  0] OK 
+  ---[  0]=  ---[  0]      ---[  0] OK 
+  ---[  0]=  ---[  0]      ---[  0] OK 
+  ---[  0]=  ---[  0]      ---[  0] OK 
+  ---[  0]=  ---[  0]      ---[  0] OK 
+  ---[  0]=  ---[  0]      ---[  0] OK 
+  ---[  0]=  ---[  0]      ---[  0] OK 
+  ---[  0]=  ---[  0]      ---[  0] OK 
+
+--- Safe I/O device --------------------
+  1 Safe I/O process: I/O connect   OK 
+  2 SFDO Pulse check: ENABLE(PL e)  OK 
+ Configuration                    status
+   ---- Device 1 -------------
+  3 Type: E-stop board              OK 
+  4 Robot number: 1                 OK 
+  5 Input:  SPI[  1 -   8](PL e)    OK 
+  6 Output: SPO[  1 -   8](PL e)    OK 
+   ---- Device 2 -------------
+  7 Type: No device                 OK 
+  8 Robot number: 0                 OK 
+  9 Input:  SPI[  0 -   0](PL e)    OK 
+ 10 Output: SPO[  0 -   0](PL e)    OK 
+   ---- Device 3 -------------
+ 11 Type: No device                 OK 
+ 12 Robot number: 0                 OK 
+ 13 Input:  SPI[  0 -   0](PL e)    OK 
+ 14 Output: SPO[  0 -   0](PL e)    OK 
+   ---- Device 4 -------------
+ 15 Type: No device                 OK 
+ 16 Robot number: 0                 OK 
+ 17 Input:  SPI[  0 -   0](PL e)    OK 
+ 18 Output: SPO[  0 -   0](PL e)    OK 
+   ---- Device 5 -------------
+ 19 Type: No device                 OK 
+ 20 Robot number: 0                 OK 
+ 21 Input:  SPI[  0 -   0](PL e)    OK 
+ 22 Output: SPO[  0 -   0](PL e)    OK 
+   ---- Device 6 -------------
+ 23 Type: No device                 OK 
+ 24 Robot number: 0                 OK 
+ 25 Input:  SPI[  0 -   0](PL e)    OK 
+ 26 Output: SPO[  0 -   0](PL e)    OK 
+   ---- Device 7 -------------
+ 27 Type: No device                 OK 
+ 28 Robot number: 0                 OK 
+ 29 Input:  SPI[  0 -   0](PL e)    OK 
+ 30 Output: SPO[  0 -   0](PL e)    OK 
+   ---- Device 8 -------------
+ 31 Type: No device                 OK 
+ 32 Robot number: 0                 OK 
+ 33 Input:  SPI[  0 -   0](PL e)    OK 
+ 34 Output: SPO[  0 -   0](PL e)    OK 
+
+--- Signature number (Dec) -------------
+                Current        Latch
+1 Total:       -1651941660            0
+  Time:17-SEP-22 08:27              None
+2 Base:          705224568            0
+  Time:17-SEP-22 08:27              None
+3 Pos./Speed:  -1197446763            0
+  Time:12-SEP-22 22:54              None
+4 I/O connect:  1515755871            0
+  Time:12-SEP-22 22:54              None
+

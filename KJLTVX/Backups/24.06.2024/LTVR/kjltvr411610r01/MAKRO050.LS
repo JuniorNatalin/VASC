@@ -1,0 +1,112 @@
+/PROG  MAKRO050
+/ATTR
+OWNER		= MNEDITOR;
+COMMENT		= "Merkerbildung";
+PROG_SIZE	= 2236;
+CREATE		= DATE 21-10-27  TIME 14:46:20;
+MODIFIED	= DATE 23-11-17  TIME 05:50:32;
+FILE_NAME	= ;
+VERSION		= 0;
+LINE_COUNT	= 89;
+MEMORY_SIZE	= 2532;
+PROTECT		= READ_WRITE;
+TCD:  STACK_SIZE	= 0,
+      TASK_PRIORITY	= 50,
+      TIME_SLICE	= 0,
+      BUSY_LAMP_OFF	= 0,
+      ABORT_REQUEST	= 0,
+      PAUSE_REQUEST	= 0;
+DEFAULT_GROUP	= *,*,*,*,*;
+CONTROL_CODE	= 00000000 00000000;
+/MN
+   1:  !Merker-Init ;
+   2:  !Roboter mit Greifer. ;
+   3:  !Sta. EZ ohne KW. ;
+   4:  ! ;
+   5:  !Abfrage Bauteilkontrollen ;
+   6:  M[1]=((DI[606] AND DI[607]) OR DI[15]) ;
+   7:  M[2]=(!DI[606] AND !DI[607]) ;
+   8:  ! ;
+   9:  !Abfrage Spanngruppen ;
+  10:  M[31]=(!DI[579] AND DI[580] AND !DI[581] AND DI[582]) ;
+  11:  M[32]=(DI[579] AND !DI[580] AND DI[581] AND !DI[582]) ;
+  12:  M[33]=(DI[583] AND !DI[584] AND DI[585] AND !DI[586] AND DI[587] AND !DI[588] AND DI[589] AND !DI[590] AND DI[591] AND !DI[592]) ;
+  13:  M[34]=(!DI[583] AND DI[584] AND !DI[585] AND DI[586] AND !DI[587] AND DI[588] AND !DI[589] AND DI[590] AND !DI[591] AND DI[592]) ;
+  14:  M[35]=(OFF) ;
+  15:  M[36]=(OFF) ;
+  16:  M[37]=(OFF) ;
+  17:  M[38]=(OFF) ;
+  18:  M[39]=(OFF) ;
+  19:  M[40]=(OFF) ;
+  20:  M[41]=(OFF) ;
+  21:  M[42]=(OFF) ;
+  22:  M[43]=(OFF) ;
+  23:  M[44]=(OFF) ;
+  24:  M[45]=(OFF) ;
+  25:  M[46]=(OFF) ;
+  26:  M[47]=(OFF) ;
+  27:  M[48]=(OFF) ;
+  28:  M[49]=(OFF) ;
+  29:  M[50]=(OFF) ;
+  30:  M[51]=(OFF) ;
+  31:  M[52]=(OFF) ;
+  32:  M[53]=(OFF) ;
+  33:  M[54]=(OFF) ;
+  34:  M[55]=(OFF) ;
+  35:  M[56]=(OFF) ;
+  36:  M[57]=(OFF) ;
+  37:  M[58]=(OFF) ;
+  38:  M[59]=(OFF) ;
+  39:  M[60]=(OFF) ;
+  40:  M[61]=(OFF) ;
+  41:  M[62]=(OFF) ;
+  42:  M[63]=(OFF) ;
+  43:  M[64]=(OFF) ;
+  44:  M[65]=(OFF) ;
+  45:  M[66]=(OFF) ;
+  46:  M[67]=(OFF) ;
+  47:  M[68]=(OFF) ;
+  48:  ! ;
+  49:  !Marcas de Usuario: ;
+  50:  !Marca 1 Sum. Anticol. 3&7 ;
+  51:  M[25]=(DI[43] AND DI[47]) ;
+  52:  ! ;
+  53:  !Maschinelle Sicherheiten ;
+  54:  !mit Niederdruck ueberwachung ;
+  55:  M[30]=(DI[14] AND DI[24] AND DI[516]) ;
+  56:  ! ;
+  57:  !Widerstandspunktschweissen ;
+  58:  !Sicherheiten EZ1/SP1 ;
+  59:  M[95]=(DI[705] AND !DI[706] AND DI[713] AND DI[714] AND ((!DI[715] AND DI[719]) OR DO[715]) AND !DI[773] AND !DI[779] AND DO[716]) ;
+  60:  !Grundstellung KS1 ;
+  61:  M[96]=(DI[842] AND !DI[844] AND !DI[843] AND DI[845] AND !DO[715] AND (F[321] OR (DO[875] AND F[148]) OR (DO[1035] AND F[184]))) ;
+  62:  !Flankenausw.der Fraeserumd.KF1 ;
+  63:  M[97]=((DI[718] AND DO[718] OR F[312]) AND DI[834] AND DO[834] AND !F[72] AND !F[73] AND (F[90] OR F[92])) ;
+  64:  ! ;
+  65:  !EZ1/SP1/SZ1 Umdrehungen Startfr ;
+  66:  R[2]=4    ;
+  67:  !Umdrehungen Startfraesen Teil 2 ;
+  68:  R[3]=4    ;
+  69:  !Umdrehungen Nomalfraesen ;
+  70:  R[4]=3    ;
+  71:  !min. Oeffnung stat. EZ/SP ;
+  72:  !beim Fraesen ;
+  73:  R[60]=600    ;
+  74:  ! ;
+  75:  !;Ausgleichswert EZ1/SP1 ;
+  76:  R[197]=134    ;
+  77:  !Kappenverschl. Verhaeltnis ;
+  78:  !feste EK in % (Stat-EZ1) ;
+  79:  R[411]=65    ;
+  80:   ;
+  81:  !Kappenkompenstion bei ;
+  82:  !stationaerer EZ1/SP1 ;
+  83:  CALL MOTN004    ;
+  84:  ! ;
+  85:  !Aufruf Makro57 ;
+  86:  CALL MAKRO057    ;
+  87:  ! ;
+  88:  !Docking ;
+  89:  CALL MAKRO058    ;
+/POS
+/END

@@ -1,0 +1,86 @@
+<?xml version='1.0'?>
+<CONFIG>
+  <MQB n="1"/>
+  <NumIO n="4096"/>
+  <UTOOLS n="32"/>
+  <UFRAMES n="20"/>
+  <DRYRUNFILE n="MC:\DRYPORTS.TXT"/>
+  <UPDATEFILE n="MC:\VAGUPDT.TXT"/>
+  <pinchange  n="1"/>
+  <vaglogos   n="0"/>
+  <vagmenu    n="DUAL"/>
+  <ASBN_CMNTS n="0"/>
+  <IODEFNUM   n="20"/>
+  <SNTPSERV   n=""/>
+</CONFIG>
+<SCHRITTKETTE>
+  <currstep n="41"/>
+  <laststep n="42"/>
+</SCHRITTKETTE>
+<TIMER>
+  <STARTFLAG n="961"/>
+  <ANZAHL n="32"/>
+  <FLAGS n="19"/>
+</TIMER>
+<PROFINET>
+  <softver n="fw16xx-2.5.0.0.19.fwl"/>
+  <numIO n= "4096"/>
+  <device n="1"/>
+  <controller n="0"/>
+  <pwr_down  n="4089"/>
+  <pwq_ackl  n="30"/>
+  <BACK_XDB  n=""/>
+  <BACK_FIRM n=""/>
+</PROFINET>
+<INTERBUS>
+  <numIO n= "4096"/>
+  <CMD   n= "1"/>
+  <ANALOG   n="25"/>
+  <statreg  n="0"/>
+  <autoquit n="0"/>
+  <BYTESWAP n="1"/>
+</INTERBUS>
+<AUTOEXT>
+  <f_1_aus_n    n="0"/>
+  <I_PRNO_Start n="1"/>
+  <O_PRNO_Start n="1"/>
+  <I_SRB        n="9"/>
+  <I_ANTR_EIN   n="10"/>
+  <O_BEREIT     n="9"/>
+  <O_SINGLE_STP n="11"/>
+  <O_AUTOMATIK  n="12"/>
+  <O_FREI_STELL n="10"/>
+  <O_LAST_PKT   n="14"/>
+  <O_PF0        n="15"/>
+  <O_SAK        n="16"/>
+  <O_wproz      n="4057"/>
+  <O_wslave     n="4058"/>
+  <O_run_bit    n="27"/>
+  <O_qual_bit   n="26"/>
+  <O_warn_bit   n="26"/>
+  <o_group      n="44"/>
+  <i_group      n="44"/>
+</AUTOEXT>
+<VIRTUAL>
+    <ANZAHL    n="3" VIRT1="0" VIRT2="0" VIRT3="0"/>
+    <EMZ_1     n="705"/>
+    <EMZ_2     n="865"/>
+    <EMZ_3     n="1025"/>
+    <Nieten_1  n="1185"/>
+    <Nieten_2  n="1265"/>
+    <Fuegen_1  n="1345"/>
+    <Fuegen_2  n="1425"/>
+</VIRTUAL>
+<EMZ>
+   <emz_1 iostart= "113" group="2"/>
+   <emz_2 iostart= "241" group="3"/>
+   <emz_3 iostart=   "0" group="4"/>
+   <JPOS1 GIO= "31"/>
+   <JPOS2 GIO= "32"/>
+   <JPOS3 GIO= "33"/>
+</EMZ>
+<DRYRUN>
+    <ANZAHL n="99"/>
+    <PORT n="1" TYP="34" first="16" last="36" static="0"/>
+    <PORT n="2" TYP="23" first="1" last="55" static="0"/>
+</DRYRUN>

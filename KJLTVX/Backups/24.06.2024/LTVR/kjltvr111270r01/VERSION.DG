@@ -1,0 +1,281 @@
+F Number: F173336
+VERSION : HandlingTool         
+$VERSION: V8.2306       4/24/2014
+DATE:     23-JUN-24 00:34 
+
+VERSION INFORMATION::
+SOFTWARE:              ID:
+HandlingTool          7DE3/A2
+S/W Serial No.      : 88150     
+Controller ID       : 3348966   
+Default Personality (from FD) 
+R-2000iB/210F         V8.20P/A2 
+Servo Code          : V06.10    
+Cart. Mot. Parameter: V3.00
+JNT. Mot. Parameter : V3.00
+DCS                 : V3.3.2
+Stop pattern        : C
+Software Edition No.: V8.20P/A2 
+Update Version      : KS_24
+Customization Ver.  : 4.015
+Root Version        : V8.2306   
+Boot MONITOR        : V8.20P/14
+Teach Pendant       : 7D0A/01N
+Browser Plugins     : V8.2320
+TP Core Firmware    : V8.23P/04
+Media from FRL        06/23/2014
+
+CONFIG::
+FEATURE:              ORD NO:
+HandlingTool          H552
+English Dictionary    H521
+Multi Language (GRMN) H532
+4D Standard           R782
+Analog I/O            H550
+Angle Shift           J614
+Auto Software Update  ATUP
+Automatic Backup      J545
+Background Editing    J616
+Camera I/F            VCAM
+CnrRndImp             CRIM
+Common calib UIF      CUIF
+Condition Monitor     J628
+Control Reliable      CNRE
+Data Acquisition      R631
+Diagnostic log        RSCH
+Document Viewer       DOCV
+Dual Check Safety UIF DCSU
+Enhanced User Frame   J604
+Ext. DIO Config       EIOC
+Extended Error Log    R542
+Extended User Frames  R696
+External DI BWD       ESET
+FCTN Menu Save        J516
+FTP Interface         J716
+Group Mask Exchange   MASK
+HTTP Proxy Svr        PRXY
+High-Speed Skip       J627
+Host Communications   HOCO
+Hour Meter            J513
+I/O Interconnect 2    J542
+Incr Instruction      J510
+KAREL Cmd. Language   J650
+KAREL Run-Time Env    J539
+Kernel + Basic S/W    H510
+License Checker       LCHK
+LogBook(System)       OPLG
+MACROs, Skip/Offset   J503
+MH Core               MHCR
+MechStop Protection   MCSP
+Mirror Shift          J506
+Mixed logic           J554
+Mode Switch           MDSW
+Motion Diag. Core     MDCO
+Motion Optm. Core     OPCO
+Motion Profiler       MPRO
+Motion logger         R637
+Multi-Tasking         J600
+PCM function          PCMF
+Position Registers    J514
+Print Function        J507
+Prog Num Selection    J515
+Program Adjust        J517
+Program Shift         J505
+Program Status        PRST
+Program Viewer        J697
+RDM Robot Discovery   FRDM
+Remote Conn Standard  RMCN
+Robot Servo Code      H930
+SNPX basic            SNBA
+Shift Library         SHLB
+Shift and Mirror Lib  SMLB
+Socket Messaging      R636
+TCP Auto Set          J520
+TCP/IP Interface      HTCP
+TMILIB Interface      TMIL
+TP Firmware           R789
+TP Menu Accounting    TPAC
+TPTX                  TPTX
+Telnet Interface      TELN
+Tool Offset           J509
+Torque Simulator I/F  J882
+Touch Panel           R781
+Trouble Diag. & Prev. J958
+USB port on iPendant  J957
+Unexcepted motn Check UECK
+User Frame            UFRM
+VCalibration Common   VCCM
+Vision Core           VCOR
+Vision Library        VIPL
+Vision SP CSUI        CSUI
+Vision SP CSXC        CSXC
+Web Plus              WEBP
+Web Server            HTTP
+Web Svr Enhancements  R626
+iPendant              CGTP
+iPendant Grid Display IGUI
+iPendant Setup        IPGS
+iRCalib. Standard     IRCL
+iRCalibration AAVM    J888
+Independent Axes      H895
+Independent Axes      H895
+Independent Axes      H895
+R-2000iB/210F         H601
+Ascii Program Loader  R796
+Ascii Upload          R507
+AutoMode TP operation J698
+Basic Remote TCP      R657
+CE Mark               J618
+CPRUT                 J858
+CRT/Keyboard Manager  J535
+Cntrl stop by E-Stop  J570
+Collision Guard       R534
+Collision Guard Pack  J684
+Constant Path         R663
+CornerDistance        R748
+Cycle Time Priority   J523
+DCS Joint Speed check J555
+DCS Safe I/O connect  J568
+DHCP                  R526
+Domain Name Serv.     J755
+Dyn Path Modifier     R739
+Enhanced Dry Run      J985
+Error Code Output     J527
+Ext Path Optimization J829
+Extended Axis Control J518
+External mode select  J569
+FRL Params            R651
+HMI Device (SNPX)     R553
+Integrated PMC        J760
+Internet Conn/Custo   R558
+Jnt Position output   J966
+KAREL                 R632
+Multi-Group Motion    J601
+Operation logbook     J695
+PC Interface          R641
+PROFINET I/O          J930
+PROFINET Safety       J931
+PROGRAM/JOG Override  J579
+Password Protection   J541
+PathSwitch            J693
+SNTP Client           R610
+TCP SPEED OUTPUT      J694
+User Function         J986
+User Socket Msg       R648
+VAG Package           J658
+VAG servogun setup    J653
+VAG setup 3           J656
+Weaving               J504
+iRCalibration VAxis   J996
+64MB DRAM             D064
+64MB FROM             F064
+Arc Advisor           R666
+Aux Servo Code        SVMO
+Cell I/O              CLIO
+Common shell          R645
+Common shell core     CMSC
+Common softpanel      CMSP
+Common style select   STYL
+Corner Region         R654
+Cycle time Opt.       CTOP
+DCS Pos./speed common DCSC
+Disp 2nd analog port  R528
+EMAIL Enhancements    JNN8
+Email Client          JNN7
+Enhanced Rob Serv Req ORSR
+Enhanced T1 Mode      R680
+Ext weave sch         J881
+Extended Axis Speed   EXTS
+Func stup             FCSP
+OPT TP Ins            OPIS
+PC Send Macros        SEND
+Real Simple Syn.(RSS) R679
+Requires CP           CPRQ
+Robot Library Setup   RLCM
+Robot Service Request SRSR
+SMB Client            R677
+SSPC error text       ETSS
+Soft Limit            SLMT
+Space Check           J609
+TCP Speed Prediction  J524
+TCPP Extention        TCPE
+Track Instruction     TOAW
+Tracking Softpart     TRAK
+VAG Software          FVAG
+istdpnl               IPNL
+VAG V8.x Customizatio VAG1
+VAG EMZ & EQ Tools    EZEQ
+  FREU late Updates   UPD3
+  Update VAG PMC      PMC3
+Ascii Upload when arg P137
+Profinet and CD Setti E001
+*.pc protection and u E002
+ DryR.Skip PWF,VAGBCK E003
+  Activate CD Setting E004
+  VAG Menu to Page 1  E005
+Implement Feedb.Tig/T E006
+Fix upper limit of GO P170
+  To fix skip problem P171
+  Files Updated       E007
+  Activate CD-PS-Impr RT22
+Diff.a.DryS.PN:FW-CHK E008
+Diff.a.DryS.PN:FW-CHK E009
+ CD:Fix SSTEP and BWD P208
+Fix.Er.after 8xVag_C. E010
+Update several Issues E011
+ Enh.Alloc.Mem.CD-Mot RT23
+To fix skip problem I P213
+Fix Err.Karel Var.Scr P225
+ Fix DCS FB_CMP alarm P230
+Fix overwr.VAG FUNC-M P231
+Restore Optimizations E013
+Fix.Karel User n.save P238
+ZIP cmd.er.handl.impr P244
+Restore Optimization  E014
+VAG Sign Off Function P246
+ATSHELL Heartbeat Opt S300
+No Outp.On/Off w.SRVO P275
+Fix-PS strt move away P276
+GunM.DO.Prot.Gen.Opt. E015
+Fix iPend.scrn freeze P381
+  P381+Investig.Patch P477
+  Fix ABC Over Run    P501
+Over.disp.unexp.clear P525
+ Inv.probl.about PGPX P537
+Res.TCPspdoutVar E-St P333
+ Fix ABC Ov.load MSTP E016
+Modification of iRCal P307
+  Unzip Inst+Improv.  P576
+Fix PGPX OX-144 probl P604
+ Enh.DryRunP.Canc/Res E018
+Fix OS144 Motn-UserCa P623
+  Improve VAG-Backup  F001
+  Improve VAG-Backup  F002
+
+CONFIG2::
+DEMO. FEATURE:        ORD NO:
+
+MOTOR::
+    GR: AX:     MOTOR ID AND INFO:
+     1   1   ACaiSR30/3000 80A H1 DSP1-S1
+     1   2   ACaiSR30/3000 80A H2 DSP1-S2
+     1   3   ACaiSR30/3000 80A H3 DSP1-S3
+     1   4    ACa12/4000iS 40A H4 DSP1-S4
+     1   5    ACa12/4000iS 40A H5 DSP1-S5
+     1   6    ACa12/4000iS 40A H6 DSP1-S6
+     2   1       aiS4/5000 40A   H  DSP -
+     3   1       aiS4/5000 40A   H  DSP -
+     4   1       aiS4/5000 40A   H  DSP -
+
+SERVO::
+GROUP: AXIS:  SERVO PARAM ID:
+     1   1    P01.05
+     1   2    P01.05
+     1   3    P01.05
+     1   4    P01.05
+     1   5    P01.05
+     1   6    P01.05
+     2   1    P00.39
+     3   1    P00.39
+     4   1    P00.39
+

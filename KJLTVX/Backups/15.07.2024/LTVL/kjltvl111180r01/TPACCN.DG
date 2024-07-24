@@ -1,0 +1,86 @@
+                       TP Accounting
+
+F Number: F173328
+VERSION : HandlingTool         
+$VERSION: V8.2306       4/24/2014
+DATE:     15-JUL-24 17:32 
+
+Menu                         Elapsed Time         #Sel       #Keys
+                     (YY-MM-DD HH:MM:SS)
+Id:  962, 1                       21:06           18         113
+PROFINET                    03 02:48:42           41         623
+File                     01-28 07:37:08         6974       15913
+Top Menu                    02 06:53:38           28          31
+DCS                         03 02:05:58           40         680
+USER                  05-07-01 21:28:44       920967      113840
+Alarm Log                   22 20:53:56          734        1379
+Clock                       01 19:38:02         2289         166
+Variables                      05:24:34           30        3843
+Hints                    01-17 05:19:54        23382        1492
+Flag                        06 12:33:48          255        2313
+Custom                               58           11          67
+General                              18            4          11
+Id:  381, 5                 10 17:36:38          727         366
+Browser                     23 01:09:54         3679        7713
+Id:  936, 1                       15:50            5          72
+Prog Select                          22            7          55
+USER2                       07 17:36:22          668       10225
+Master/Cal                           14            3          24
+Axis                              06:24           14         110
+Version ID                        09:56            7          50
+Registers                      06:17:24           50         719
+SELECT                      27 11:47:42        13408       20779
+KAREL Vars                           38            3          78
+Digital                  01-14 11:07:30         1850       20123
+Position Display         04-13 09:06:24           76        1836
+Position Reg                01 08:10:22           59        1864
+Motion                         14:07:40           53         964
+Passwords                01-27 17:29:56          729        3358
+Frames                      04 21:22:10           63        9248
+Host Comm                      20:08:26           19         233
+Program Shift                        18            2          21
+Macro                                20            2           3
+BG Logic                          04:16           14         435
+EDIT                  01-09-04 02:41:02       861081       86414
+Id:  1110, 1                10 07:15:44        14151       12583
+Group                       01 17:04:20           56        1540
+iPendant Setup                       04            1          35
+Analog                               16            2          35
+Marker                      01 03:15:04           38         791
+Axis Limits                       06:38            4         124
+Config                            11:42           17         396
+Group Exchg                       07:28            2           1
+Memory                               02            1           0
+Motion Log                           22            2          34
+System Log                           20            1           1
+TC_ONLINE                            06            2           8
+Macros                               02            1           1
+Tool Offset                       03:30            2         362
+Log Book                          07:38           10        1148
+Prg Timer                            46            4           2
+Cfg Pwd                              08            1           3
+Appl Log                             04            1           4
+Sys Timer                            46            2           2
+Coll Guard                           04            1           0
+Password Log                   08:20:38            2         919
+
+Full Menus:           08-07-17 10:16:22 
+Quick Menus:                         00 
+
+MENU Popup:                                     1607
+[ TYPE ] Pullup:                                 170
+
+Functions at COLD start
+F 0                                              252
+F 1                                              884
+CHANGE GROUP                                       3
+F 5                                              285
+F 6                                                1
+TOGGLE REMOTE TCP                                 45
+PRINT                                              1
+UNSIM ALL I/O                                    100
+F16                                              114
+F17                                                2
+
+Functions at CTRL start
+START (COLD)                                      12

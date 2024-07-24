@@ -1,0 +1,79 @@
+                       TP Accounting
+
+F Number: F173337
+VERSION : HandlingTool         
+$VERSION: V8.2306       4/24/2014
+DATE:     23-JUN-24 00:33 
+
+Menu                         Elapsed Time         #Sel       #Keys
+                     (YY-MM-DD HH:MM:SS)
+Id:  962, 1                       33:42           20          98
+PROFINET                          26:28           35         506
+File                     01-23 00:06:30          295        5664
+Top Menu                          01:16           28          13
+DCS                         02 16:02:58           27         345
+USER                  05-09-18 20:05:08       675422      761504
+Alarm Log                      20:30:38           45         547
+Clock                       06 17:37:54         5994         173
+Variables                   01 23:17:18           26        1135
+Hints                    05-29 06:12:00        14724         872
+Flag                        12 05:53:52          189        2361
+Custom                         02:58:06           22          77
+General                              14            3          11
+Id:  381, 5                 13 11:01:14          649         221
+Browser                  01-21 05:07:42        26970       29368
+Id:  936, 1                       15:30            4          68
+Prog Select                          26            7          54
+USER2                       11 11:02:08         1127       10340
+Master/Cal                           32            4          28
+Axis                        01 05:40:32           60          44
+Version ID                        19:14            3          46
+Registers                      20:29:10          531         761
+SELECT                      12 14:55:58        12152       26455
+KAREL Vars                        09:22            3         107
+Digital                  01-17 14:05:54         2471       12232
+Position Display            07 17:03:46          152         733
+Frames                      04 21:28:40           48        2933
+Motion                         03:32:06           20         966
+Host Comm                      21:15:04           22         307
+Position Reg                01 18:57:42         1264        1040
+Passwords                02-02 19:05:16         1454        3556
+EDIT                  01-05-02 17:59:36       617299      207717
+BG Logic                       09:19:34           18         183
+Config                            27:20           12         389
+Id:  1110, 1                01 10:16:24          721        9633
+Group                          02:26:28           33         170
+Axis Limits                          44            2          14
+Motion Log                           52            5         192
+System Log                        02:08            4          88
+Marker                      17 13:54:22           12         480
+Tool Offset                       01:16            1         163
+Cfg Pwd                              12            2           6
+Interconnect                         02            1           0
+File Memory                          12            1           9
+Comm Log                             08            1           0
+Log Book                          08:22           11         309
+Appl Log                             14            2          68
+Prog Adjust                       21:20            5          43
+Sys Timer                            04            1           0
+Coll Guard                           10            1           1
+UOP                               01:22            1           1
+
+Full Menus:           08-06-24 17:17:10 
+Quick Menus:                         00 
+
+MENU Popup:                                     1537
+[ TYPE ] Pullup:                                 151
+
+Functions at COLD start
+F 0                                              115
+F 1                                             1777
+F 5                                              498
+TOGGLE REMOTE TCP                                 39
+CHANGE RTCP FRAME                                  3
+UNSIM ALL I/O                                     52
+F16                                               88
+F17                                                1
+
+Functions at CTRL start
+START (COLD)                                      12

@@ -1,0 +1,41 @@
+/PROG  MOTN023
+/ATTR
+EIGN.		= MNEDITOR;
+KOMMENTAR	= "EQ EZSP2 AUF POS";
+PROG_GRÖßE	= 753;
+ERSTELL		= TAG 11-08-17  ZEIT 15:56:14;
+GEÄNDERT	= TAG 16-05-25  ZEIT 22:57:50;
+DATEI_NAME	= ;
+VERSION		= 0;
+ZEILEN		= 13;
+SPEICHERGR.	= 1121;
+SCHUTZ		= LESEN_SCHREIB;
+TCD:  STACK_GRÖßE	= 0,
+      TASK_PRIORITY	= 50,
+      ZEITSCHEIBE	= 0,
+      BUSY_LAMP_AUS	= 0,
+      ABORT_ANFRAGE	= 0,
+      HALT_ANFRAGE	= 0;
+DEFAULT_GRUP	= *,*,1,*,*;
+KONTROLLCODE	= 00000000 00000000;
+/MN
+   1:  !EQ EZSP2 AUF POS ;
+   2:  !letzte  Aenderung  31.08.2011 ;
+   3:  !Ausschalten Ausgleich ;
+   4:  i[820]=($MCR.$GENOVERRIDE) ;
+   5:  OVERRIDE=100% ;
+   6:  $SSR.$SINGLESTEP=0 ;
+   7:  AUFRUF EQGUNOPN    ;
+   8:  AUFRUF EQEND    ;
+   9:  ! Open movable electrode ;
+  10:  //J P[1] 100% CNT10 ACC200    ;
+  11:  OVERRIDE=i[820] ;
+  12:  i[819]=A[22902]    ;
+  13:  $SSR.$SINGLESTEP=i[819] ;
+/POS
+P[1]{
+   GP3:
+	UF : 1, UT : 2,	
+	J1=    50.000  mm
+};
+/END

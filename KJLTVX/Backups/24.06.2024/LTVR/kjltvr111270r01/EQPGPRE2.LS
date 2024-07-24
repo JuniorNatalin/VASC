@@ -1,0 +1,40 @@
+/PROG  EQPGPRE2
+/ATTR
+OWNER		= MNEDITOR;
+COMMENT		= "Eqlz2 prog prep";
+PROG_SIZE	= 588;
+CREATE		= DATE 10-07-09  TIME 19:00:42;
+MODIFIED	= DATE 16-05-27  TIME 06:55:04;
+FILE_NAME	= ;
+VERSION		= 0;
+LINE_COUNT	= 17;
+MEMORY_SIZE	= 1048;
+PROTECT		= READ_WRITE;
+TCD:  STACK_SIZE	= 0,
+      TASK_PRIORITY	= 50,
+      TIME_SLICE	= 0,
+      BUSY_LAMP_OFF	= 0,
+      ABORT_REQUEST	= 0,
+      PAUSE_REQUEST	= 0;
+DEFAULT_GROUP	= 1,*,1,*,*;
+CONTROL_CODE	= 00000000 00000000;
+/MN
+   1:  UNLOCK PREG ;
+   2:  CALL EQEXTTYP(2) ;
+   3:  $EQZ.$EQ_GUN_MNT=2 ;
+   4:  IF GO[6]<=97,JMP LBL[1] ;
+   5:  ! Set pos for gun closing motion ;
+   6:  CALL EQGSTRUN(0) ;
+   7:  CALL EQTCHPOS('MOTN021',1,1,15) ;
+   8:  JMP LBL[2] ;
+   9:  LBL[1] ;
+  10:  CALL EQGSTRUN(1) ;
+  11:  CALL EQTCHPOS('MOTN021',1,1,0) ;
+  12:  LBL[2] ;
+  13:  ! Set pos for gun opening motion ;
+  14:  CALL EQTCHPOS('MOTN022',1,1,0) ;
+  15:  CALL EQTCHPOS('MOTN023',3,1,15) ;
+  16:   ;
+  17:  PR[48]=LPOS    ;
+/POS
+/END

@@ -1,0 +1,80 @@
+                       TP Accounting
+
+F Number: F173327
+VERSION : HandlingTool         
+$VERSION: V8.2306       4/24/2014
+DATE:     15-JUL-24 17:31 
+
+Menu                         Elapsed Time         #Sel       #Keys
+                     (YY-MM-DD HH:MM:SS)
+Id:  962, 1                       21:24           16         112
+PROFINET                    04 02:38:16           29         502
+File                     01-23 17:21:50         6879        6434
+Top Menu                          01:16           27          13
+DCS                         03 02:52:14           39         579
+USER                  06-04-29 17:55:38       972259       52508
+Alarm Log                   09 19:00:30          527        1434
+Clock                          06:53:20           20         157
+Variables                   01 06:13:28           22         915
+Hints                    06-05 09:47:20        82426        1596
+Flag                        03 15:45:32          119        2355
+Custom                            01:26           17          67
+General                        02:22:54            4          16
+Id:  381, 5                 05 04:08:50          465         216
+Browser                  02-02 10:17:30        37978       41505
+Id:  936, 1                       14:58            4          76
+Prog Select                          44            9          52
+USER2                       01 11:21:18          115        1259
+Master/Cal                           26            5          43
+Axis                        14 11:10:24        39479         287
+Version ID                        09:32            5          48
+Registers                         08:02           36         614
+SELECT                      21 04:19:32        16231        7743
+KAREL Vars                           38            3          76
+Digital                  01-07 08:53:32          980        8736
+Position Display            11 06:44:44           67        2983
+Position Reg                02 20:59:14           44        1347
+Host Comm                      13:17:32           18         241
+Passwords                01-08 04:34:36          473        1976
+Frames                      04 16:46:56           25        1441
+BG Logic                          09:32          111         245
+iRCalibration                        04            1           5
+EDIT                     11-09 18:26:04       789701       37092
+Group                          22:26:34           12         359
+Motion                         10:37:36           19        1563
+Id:  1110, 1                04 02:15:24          290        7559
+Motion Log                           30            3          66
+Marker                               52            1          40
+Analog                            01:32            2         239
+Axis Limits                       05:56            1         177
+Config                            01:00            6          68
+Setup                                06            1           1
+Tool Offset                       01:36            1         194
+Log Book                          09:54            3        2116
+Comm Log                             04            1          16
+System Log                     15:59:20            1          10
+Prg Timer                      08:30:18           12           9
+4D Display                        01:16            2          69
+Robot                             01:06            1          12
+Cfg Pwd                        11:22:02            1           2
+Appl Log                             04            1           4
+Sys Timer                         01:38            6          23
+File Memory                          04            1           1
+Coll Guard                           06            1           0
+
+Full Menus:           08-07-17 10:15:56 
+Quick Menus:                         00 
+
+MENU Popup:                                     1001
+[ TYPE ] Pullup:                                 123
+
+Functions at COLD start
+F 0                                              154
+F 1                                              384
+F 5                                               38
+UNSIM ALL I/O                                     49
+F16                                               80
+F17                                                1
+
+Functions at CTRL start
+START (COLD)                                      10

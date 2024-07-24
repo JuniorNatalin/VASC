@@ -1,0 +1,137 @@
+F Number: F173336
+VERSION : HandlingTool         
+$VERSION: V8.2306       4/24/2014
+DATE:     23-JUN-24 00:31 
+
+ETHERNET CONFIGURATION::
+
+$HOSTNAME   :KJLTVR111270R01RS--KU1
+TMI_ROUTER  :ROUTER
+TMI_ETHERAD :00:e0:e4:33:13:2e
+Subnet mask :255.255.255.0
+Host Table [17]:      QUICC0 addr:172.26.30.90
+Host Table [18]:      QUICC1
+Host Table [19]:      QUICC2
+Host Table [20]:      ROUTER addr: 172.26.30.1
+Host Table [21]:       PCJOG addr:192.168.0.100
+Host Table [22]:      CAMPRT addr:192.168.1.10
+Host Table [23]:      CAMRTR addr:192.168.1.10
+Client [1]:         FTP: state 3 remote 172.26.30.230
+Server [1]:         FTP state: 3
+Server [2]:         FTP state: 3
+Server [3]:          SM state: 3
+
+ETHERNET STATISTICS:
+-Interrupt count:     686259         
+-RX count:            0              
+-RX dequeue:          839824         
+-TX start:            127369         
+-TX count:            127369         
+-TX complete:         127369         
+-Busy count :         82932          
+-TX error count:      0              
+-RX deliver:          839824         
+-RX length violation: 0              
+-RX alignment error:  0              
+-RX short frame:      0              
+-RX crc error:        0              
+-RX overrun:          0              
+-RX collision:        0              
+-TX wait:             0              
+-TX defer:            0              
+-TX late collision:   0              
+-Retransmission limit:0              
+-TX underrun:         0              
+-TX carrier lost:     0              
+-Full Duplex:         1              
+-Speed Mbps:          100            
+-Bucket Misses:       0              
+-link:                UP
+-High network traffic:0              
+-watermark:           7              
+-max bds:             16             
+-intr pkt defer:      0              
+
+ETHERNET STATISTICS:
+-Interrupt count:     0              
+-RX count:            0              
+-RX dequeue:          0              
+-TX start:            0              
+-TX count:            0              
+-TX complete:         0              
+-Busy count :         0              
+-TX error count:      0              
+-RX deliver:          0              
+-RX length violation: 0              
+-RX alignment error:  0              
+-RX short frame:      0              
+-RX crc error:        0              
+-RX overrun:          0              
+-RX collision:        0              
+-TX wait:             0              
+-TX defer:            0              
+-TX late collision:   0              
+-Retransmission limit:0              
+-TX underrun:         0              
+-TX carrier lost:     0              
+-Full Duplex:         1              
+-Speed Mbps:          100            
+-Bucket Misses:       0              
+-link:                DOWN
+-High network traffic:0              
+-watermark:           0              
+-max bds:             0              
+-intr pkt defer:      270560392      
+
+Fusion Route Table
+Network              Gateway            Flags  Ref_count  Interface
+172.26.30.90         Direct Connect      1485      4       Quicc0         
+0.0.0.0              172.26.30.1           c1      0       Quicc0         
+224.0.0.1            Direct Connect      3485      0       Quicc0         
+1.1.0.10             Direct Connect      1485      1       necd           
+172.19.254.153       172.26.30.1            1      0       Quicc0         
+
+
+
+Fusion Socket Table
+ID  Prot  Local IP,port     Foreign IP,port      Sndwind    Rcvwnd    State
+ 1 UDP    127.0.0.1,49153     127.0.0.1,49152          0        0     CLOSED         
+ 2 TCP    0.0.0.0,3080        0.0.0.0,0                0        0     LISTEN         
+ 3 TCP    0.0.0.0,3002        0.0.0.0,0                0        0     LISTEN         
+ 5 UDP    0.0.0.0,49152       0.0.0.0,0                0        0     CLOSED         
+ 6 TCP    0.0.0.0,23          0.0.0.0,0                0        0     LISTEN         
+ 7 TCP    0.0.0.0,8080        0.0.0.0,0                0        0     LISTEN         
+ 8 UDP    1.1.0.10,60012      0.0.0.0,0                0        0     CLOSED         
+ 9 UDP    0.0.0.0,60007       0.0.0.0,0                0        0     CLOSED         
+10 TCP    0.0.0.0,60005       0.0.0.0,0                0        0     LISTEN         
+12 TCP    0.0.0.0,60009       0.0.0.0,0                0        0     LISTEN         
+13 UDP    224.0.1.1,123       0.0.0.0,0                0        0     CLOSED         
+15 UDP    0.0.0.0,60004       0.0.0.0,0                0        0     CLOSED         
+16 TCP    0.0.0.0,60011       0.0.0.0,0                0        0     LISTEN         
+17 TCP    0.0.0.0,8193        0.0.0.0,0                0        0     LISTEN         
+18 TCP    1.1.0.10,60011      1.1.0.11,49152       64874     8192     ESTAB          
+21 TCP    0.0.0.0,80          0.0.0.0,0                0        0     LISTEN         
+26 TCP    1.1.0.10,39528      1.1.0.11,60005       64582     8192     ESTAB          
+34 TCP    1.1.0.10,3002       1.1.0.11,49165       63514     8192     ESTAB          
+50 TCP    0.0.0.0,21          0.0.0.0,0                0        0     LISTEN         
+52 TCP    0.0.0.0,5001        0.0.0.0,0                0        0     LISTEN         
+53 TCP    0.0.0.0,18245       0.0.0.0,0                0        0     LISTEN         
+54 TCP    0.0.0.0,60008       0.0.0.0,0                0        0     LISTEN         
+58 TCP    172.26.30.90,47726  172.26.30.230,21     65338     8192     ESTAB          
+
+
+Fusion Arp Table 1
+IP address            Ethernet address                Countdown
+172.26.30.90           Direct Connect                    4
+1.1.0.11,2048          00 e0 e4 33 79 26                15
+
+Fusion Arp Table 2
+IP address            Ethernet address                Countdown
+
+TCP/IP Heap 
+Total: 1200000
+Avail: 814040
+Used : 385960
+Low water: 512
+Base @ 0x11699af0
+

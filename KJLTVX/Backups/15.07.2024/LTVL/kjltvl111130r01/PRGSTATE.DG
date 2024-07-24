@@ -1,0 +1,3505 @@
+F Number: F173415
+VERSION : HandlingTool         
+$VERSION: V8.2306       4/24/2014
+DATE:     15-JUL-24 17:32 
+
+TASK STATES:
+
+1      ATSHELL RUNNING @ 1037 in ATSHELL of ATSHELL
+
+******  History Data  ******
+Routine depth: 0  Routine: ATSHELL                             
+Line:  1037       Program: ATSHELL                               Type: PC    
+
+2     FOLGE011 RUNNING @ 5 in FOLGE011........................0006 of FOLGE011........................0006
+
+******  History Data  ******
+Routine depth: 1  Routine: FOLGE011........................0006
+Line:     5       Program: FOLGE011........................0006  Type: TP    
+
+Routine depth: 0  Routine: FOLGE011                            
+Line:    31       Program: FOLGE011                              Type: TP    
+
+3      VWUSEMZ RUNNING @ 2361 in VWUSEMZ of VWUSEMZ
+
+******  History Data  ******
+Routine depth: 0  Routine: VWUSEMZ                             
+Line:  2361       Program: VWUSEMZ                               Type: PC    
+
+4     MAKROSTP RUNNING @ 208 in MAKROSTP of MAKROSTP
+
+******  History Data  ******
+Routine depth: 0  Routine: MAKROSTP                            
+Line:   208       Program: MAKROSTP                              Type: TP    
+
+5     VAGBCKUP RUNNING @ 653 in KCL_COPYFILE of VAGBCKUP
+
+******  History Data  ******
+Routine depth: 3  Routine: KCL_COPYFILE                        
+Line:   653       Program: VAGBCKUP                              Type: PC    
+
+Routine depth: 2  Routine: SAVE_ALL                            
+Line:  1207       Program: VAGBCKUP                              Type: PC    
+
+Routine depth: 1  Routine: SAVEFILES                           
+Line:  2415       Program: VAGBCKUP                              Type: PC    
+
+Routine depth: 0  Routine: VAGBCKUP                            
+Line:  3142       Program: VAGBCKUP                              Type: PC    
+
+6     TPE_STAT RUNNING @ 2067 in DISP_ANW_LS of TPE_STAT
+
+******  History Data  ******
+Routine depth: 2  Routine: DISP_ANW_LS                         
+Line:  1086       Program: TPE_STAT                              Type: PC    
+
+Routine depth: 1  Routine: TEST_WAIT                           
+Line:  1194       Program: TPE_STAT                              Type: PC    
+
+Routine depth: 0  Routine: TPE_STAT                            
+Line:  2098       Program: TPE_STAT                              Type: PC    
+
+7        SHELL RUNNING @ 3352 in SHELL of SHELL
+
+******  History Data  ******
+Routine depth: 0  Routine: SHELL                               
+Line:  3352       Program: SHELL                                 Type: PC    
+
+8     IBSOCKSV RUNNING @ 330 in INIT_ETHERN of IBSOCKSV
+
+******  History Data  ******
+Routine depth: 1  Routine: INIT_ETHERN                         
+Line:   330       Program: IBSOCKSV                              Type: PC    
+
+Routine depth: 0  Routine: IBSOCKSV                            
+Line:  1047       Program: IBSOCKSV                              Type: PC    
+
+9     PNIO2BIT RUNNING @ 1908 in ACTMODULDATA of PNIO2BIT
+
+******  History Data  ******
+Routine depth: 2  Routine: ACTMODULDATA                        
+Line:  1908       Program: PNIO2BIT                              Type: PC    
+
+Routine depth: 1  Routine: PNIO_STATBIT                        
+Line:  2336       Program: PNIO2BIT                              Type: PC    
+
+Routine depth: 0  Routine: PNIO2BIT                            
+Line:  2430       Program: PNIO2BIT                              Type: PC    
+
+10      VWUSERS RUNNING @ 2174 in KS_FUNKTION of USER_S
+
+******  History Data  ******
+Routine depth: 2  Routine: KS_FUNKTION                         
+Line:  2174       Program: USER_S                                Type: PC    
+
+Routine depth: 1  Routine: USR_LOOP                            
+Line:  2494       Program: USER_S                                Type: PC    
+
+Routine depth: 0  Routine: VWUSERS                             
+Line:  1091       Program: VWUSERS                               Type: PC    
+
+11     MSK_STAT status = ABORTED
+
+******  History Data  ******
+Routine depth: 0  Routine: MSK_STAT                            
+Line:  1382       Program: MSK_STAT                              Type: PC    
+
+12     VAGTPINI status = ABORTED
+
+******  History Data  ******
+Routine depth: 0  Routine: VAGTPINI                            
+Line:   140       Program: VAGTPINI                              Type: PC    
+
+13     SYRSRUTL status = ABORTED
+
+******  History Data  ******
+Routine depth: 0  Routine: SYRSRUTL                            
+Line:    63       Program: SYRSRUTL                              Type: PC    
+
+
+PROGRAM STATES:
+-BCKED2-      TP    
+Task: no   
+Size:  132  
+Lines:    0  
+Program name:    -BCKED2-  
+Comment:         
+Program size:    132 bytes
+Created time:    27-JAN-24 10:35 
+Last modified:   27-JAN-24 10:35 
+Allocated size:  376 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+-BCKED8-      TP    
+Task: no   
+Size:  132  
+Lines:    0  
+Program name:    -BCKED8-  
+Comment:         
+Program size:    132 bytes
+Created time:    03-DEC-15 07:16 
+Last modified:   03-DEC-15 07:16 
+Allocated size:  376 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+-BCKED9-      TP    
+Task: no   
+Size:  132  
+Lines:    0  
+Program name:    -BCKED9-  
+Comment:         
+Program size:    132 bytes
+Created time:    03-DEC-15 07:16 
+Last modified:   03-DEC-15 07:16 
+Allocated size:  376 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+-BCKEDT-      TP    
+Task: no   
+Size:  132  
+Lines:    0  
+Program name:    -BCKEDT-  
+Comment:         
+Program size:    132 bytes
+Created time:    26-JUL-23 11:19 
+Last modified:   26-JUL-23 11:19 
+Allocated size:  376 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+ATERRJOB      VR    
+Task: no   
+Size:    0  
+Vars:     1  
+Types:     0  
+Program name:    ATERRJOB  
+Comment:         
+Program size:    0 bytes
+Created time:    00-0-80 00:00   
+Last modified:   00-0-80 00:00   
+Allocated size:  308 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        0
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+BICSETUP      VR    
+Task: no   
+Size:    0  
+Vars:     1  
+Types:     0  
+Program name:    BICSETUP  
+Comment:         
+Program size:    0 bytes
+Created time:    00-0-80 00:00   
+Last modified:   00-0-80 00:00   
+Allocated size:  244 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        0
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+EQPGPRE1      TP    
+Task: no   
+Size:  588  
+Lines:   17  
+Program name:    EQPGPRE1  
+Comment:         Eqlz1 prog prep
+Program size:    588 bytes
+Created time:    09-JUL-10 19:00 
+Last modified:   25-MAY-16 22:29 
+Allocated size:  1048 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+EQPGPRE2      TP    
+Task: no   
+Size:  588  
+Lines:   17  
+Program name:    EQPGPRE2  
+Comment:         Eqlz2 prog prep
+Program size:    588 bytes
+Created time:    09-JUL-10 19:00 
+Last modified:   25-MAY-16 22:29 
+Allocated size:  1048 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+EQPGPRE3      TP    
+Task: no   
+Size:  588  
+Lines:   17  
+Program name:    EQPGPRE3  
+Comment:         Eqlz3 prog prep
+Program size:    588 bytes
+Created time:    09-JUL-10 19:00 
+Last modified:   25-MAY-16 22:29 
+Allocated size:  1048 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+EQTEACH       MACRO 
+Task: no   
+Size: 1320  
+Lines:   50  
+Program name:    EQTEACH  
+Comment:         Eqlz teach mode
+Program size:    1320 bytes
+Created time:    08-JUL-10 19:47 
+Last modified:   25-MAY-16 22:29 
+Allocated size:  1848 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    7
+
+FLTUNE1       PC    
+Task: no   
+Size: 1329  
+Vars:    16  
+Types:     0  
+Program name:    FLTUNE1  
+Comment:         FLTUNE V720.1
+Program size:    1329 bytes
+Created time:    03-DEC-15 07:07 
+Last modified:   03-DEC-15 07:07 
+Source file:     PRODUCT\J653\FLTUNE1.PC
+Allocated size:  1880 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        88
+Time slice:      64
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    7
+Checksum:        34568
+
+FOLGE011      TP    
+Task: yes  
+Size: 6592  
+Lines:   38  
+Program name:    FOLGE011  
+Comment:         VW326
+Program size:    6592 bytes
+Created time:    02-JUN-96 17:15 
+Last modified:   08-FEB-23 07:21 
+Source file:     FOLGE011
+Allocated size:  10352 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+FOLGE020      TP    
+Task: no   
+Size: 6592  
+Lines:   38  
+Program name:    FOLGE020  
+Comment:         VW336
+Program size:    6592 bytes
+Created time:    02-JUN-96 17:15 
+Last modified:   29-JUN-23 01:54 
+Source file:     FOLGE020
+Allocated size:  10352 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+FOLGE123      TP    
+Task: no   
+Size: 1878  
+Lines:    8  
+Program name:    FOLGE123  
+Comment:         Pos. de Ajuste
+Program size:    1878 bytes
+Created time:    00-15-03 13:36  
+Last modified:   11-FEB-17 03:08 
+Allocated size:  3670 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+FOLGE124      TP    
+Task: no   
+Size: 3956  
+Lines:   23  
+Program name:    FOLGE124  
+Comment:         Mantenimiento
+Program size:    3956 bytes
+Created time:    00-15-03 13:37  
+Last modified:   29-MAR-21 13:29 
+Allocated size:  6040 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+FOLGE125      TP    
+Task: no   
+Size: 1140  
+Lines:    6  
+Program name:    FOLGE125  
+Comment:         Pos. de Inicio
+Program size:    1140 bytes
+Created time:    00-15-03 13:37  
+Last modified:   08-AUG-19 13:51 
+Allocated size:  2228 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+GEMDATA       PC    
+Task: no   
+Size:   12  
+Vars:     4  
+Types:     0  
+Program name:    GEMDATA  
+Comment:         GEM Vars
+Program size:    12 bytes
+Created time:    03-DEC-15 07:07 
+Last modified:   03-DEC-15 07:07 
+Source file:     PRODUCT\PCSEND\GEMDATA.PC
+Allocated size:  293 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        50
+Time slice:      256
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+Checksum:        59922
+
+GETDATA       MACRO 
+Task: no   
+Size:  286  
+Lines:    2  
+Program name:    GETDATA  
+Comment:         Get PC Data
+Program size:    286 bytes
+Created time:    14-OCT-10 11:38 
+Last modified:   01-JUN-99 14:21 
+Source file:     SENDDATA
+Allocated size:  658 bytes
+Protection:      ON
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+GET_HOME      PC    
+Task: no   
+Size: 1767  
+Vars:    17  
+Types:     0  
+Program name:    GET_HOME  
+Comment:         Get Home Pos
+Program size:    1767 bytes
+Created time:    03-DEC-15 07:08 
+Last modified:   03-DEC-15 07:08 
+Source file:     PRODUCT\CMSHCORE\GET_HOME.PC
+Allocated size:  2316 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        50
+Time slice:      256
+Busy lamp:       1
+Ignore abort:    3
+Ignore pause:    7
+Checksum:        37861
+
+HTCOLREC      VR    
+Task: no   
+Size:    0  
+Vars:     4  
+Types:     0  
+Program name:    HTCOLREC  
+Comment:         
+Program size:    0 bytes
+Created time:    00-0-80 00:00   
+Last modified:   00-0-80 00:00   
+Allocated size:  244 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        0
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+HTTPKCL       VR    
+Task: no   
+Size:    0  
+Vars:     8  
+Types:     0  
+Program name:    HTTPKCL  
+Comment:         
+Program size:    0 bytes
+Created time:    00-0-80 00:00   
+Last modified:   00-0-80 00:00   
+Allocated size:  244 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        0
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+IBGDAT        PC    
+Task: no   
+Size:   12  
+Vars:     5  
+Types:     0  
+Program name:    IBGDAT  
+Comment:         
+Program size:    12 bytes
+Created time:    03-DEC-15 07:08 
+Last modified:   03-DEC-15 07:08 
+Source file:     PRODUCT\J829\IBGDAT.PC
+Allocated size:  291 bytes
+Protection:      OFF
+Stack size:      4000 words
+Priority:        50
+Time slice:      256
+Busy lamp:       0
+Ignore abort:    3
+Ignore pause:    7
+Checksum:        10574
+
+IBSCMANE      PC    
+Task: no   
+Size:  974  
+Vars:     7  
+Types:     0  
+Program name:    IBSCMANE  
+Comment:         
+Program size:    974 bytes
+Created time:    03-DEC-15 07:08 
+Last modified:   03-DEC-15 07:08 
+Source file:     PRODUCT\J829\IBSCMANE.PC
+Allocated size:  1311 bytes
+Protection:      OFF
+Stack size:      4000 words
+Priority:        50
+Time slice:      256
+Busy lamp:       1
+Ignore abort:    1
+Ignore pause:    7
+Checksum:        38538
+
+IBSCMANS      PC    
+Task: no   
+Size:  629  
+Vars:     7  
+Types:     0  
+Program name:    IBSCMANS  
+Comment:         
+Program size:    629 bytes
+Created time:    03-DEC-15 07:08 
+Last modified:   03-DEC-15 07:08 
+Source file:     PRODUCT\J829\IBSCMANS.PC
+Allocated size:  966 bytes
+Protection:      OFF
+Stack size:      4000 words
+Priority:        50
+Time slice:      256
+Busy lamp:       1
+Ignore abort:    1
+Ignore pause:    7
+Checksum:        38586
+
+IBSCRECE      PC    
+Task: no   
+Size: 1136  
+Vars:    16  
+Types:     0  
+Program name:    IBSCRECE  
+Comment:         
+Program size:    1136 bytes
+Created time:    03-DEC-15 07:08 
+Last modified:   03-DEC-15 07:08 
+Source file:     PRODUCT\J829\IBSCRECE.PC
+Allocated size:  1489 bytes
+Protection:      OFF
+Stack size:      4000 words
+Priority:        50
+Time slice:      256
+Busy lamp:       1
+Ignore abort:    1
+Ignore pause:    7
+Checksum:        43283
+
+IBSCRECS      PC    
+Task: no   
+Size: 2010  
+Vars:    19  
+Types:     0  
+Program name:    IBSCRECS  
+Comment:         
+Program size:    2010 bytes
+Created time:    03-DEC-15 07:08 
+Last modified:   03-DEC-15 07:08 
+Source file:     PRODUCT\J829\IBSCRECS.PC
+Allocated size:  2483 bytes
+Protection:      OFF
+Stack size:      4000 words
+Priority:        50
+Time slice:      256
+Busy lamp:       1
+Ignore abort:    1
+Ignore pause:    7
+Checksum:        57236
+
+IBSCROUT      PC    
+Task: no   
+Size: 6974  
+Vars:    23  
+Types:     0  
+Program name:    IBSCROUT  
+Comment:         
+Program size:    6974 bytes
+Created time:    03-DEC-15 07:08 
+Last modified:   03-DEC-15 07:08 
+Source file:     PRODUCT\J829\IBSCROUT.PC
+Allocated size:  8348 bytes
+Protection:      OFF
+Stack size:      4000 words
+Priority:        50
+Time slice:      256
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    7
+Checksum:        37398
+
+IBSOCKSV      PC    
+Task: yes  
+Size: 12377  
+Vars:    50  
+Types:     0  
+Program name:    IBSOCKSV  
+Comment:         
+Program size:    12377 bytes
+Created time:    03-DEC-15 07:08 
+Last modified:   03-DEC-15 07:08 
+Source file:     PRODUCT\J829\IBSOCKSV.PC
+Allocated size:  14099 bytes
+Protection:      OFF
+Stack size:      4000 words
+Priority:        80
+Time slice:      200
+Busy lamp:       1
+Ignore abort:    3
+Ignore pause:    7
+Checksum:        37639
+
+IO_CMT        PC    
+Task: no   
+Size: 20161  
+Vars:    72  
+Types:     2  
+Program name:    IO_CMT  
+Comment:         E/A-Komm. 760.1
+Program size:    20161 bytes
+Created time:    03-DEC-15 09:56 
+Last modified:   03-DEC-15 09:56 
+Source file:     FRS:IO_CMT.PC
+Allocated size:  24045 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        88
+Time slice:      256
+Busy lamp:       1
+Ignore abort:    1
+Ignore pause:    7
+Checksum:        47036
+
+IRC_COUNTER   PC    
+Task: no   
+Size: 2164  
+Vars:    14  
+Types:     0  
+Program name:    IRC_COUNTER  
+Comment:         Send Custom Mess
+Program size:    2164 bytes
+Created time:    03-DEC-15 07:08 
+Last modified:   03-DEC-15 07:08 
+Source file:     PRODUCT\RMCNSTD\IRC_COUNTER.PC
+Allocated size:  3044 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        50
+Time slice:      256
+Busy lamp:       0
+Ignore abort:    5
+Ignore pause:    7
+Checksum:        53835
+
+IRC_MSG       PC    
+Task: no   
+Size: 1934  
+Vars:    13  
+Types:     0  
+Program name:    IRC_MSG  
+Comment:         Send Custom Mess
+Program size:    1934 bytes
+Created time:    03-DEC-15 07:08 
+Last modified:   03-DEC-15 07:08 
+Source file:     PRODUCT\RMCNSTD\IRC_MSG.PC
+Allocated size:  2804 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        50
+Time slice:      256
+Busy lamp:       0
+Ignore abort:    5
+Ignore pause:    7
+Checksum:        30517
+
+IRC_STATUS    PC    
+Task: no   
+Size: 2257  
+Vars:    13  
+Types:     0  
+Program name:    IRC_STATUS  
+Comment:         Send Status Mess
+Program size:    2257 bytes
+Created time:    03-DEC-15 07:08 
+Last modified:   03-DEC-15 07:08 
+Source file:     PRODUCT\RMCNSTD\IRC_STATUS.PC
+Allocated size:  3127 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        50
+Time slice:      256
+Busy lamp:       0
+Ignore abort:    5
+Ignore pause:    7
+Checksum:        65270
+
+IRC_STLABEL   PC    
+Task: no   
+Size: 2921  
+Vars:    13  
+Types:     0  
+Program name:    IRC_STLABEL  
+Comment:         Send Status Mess
+Program size:    2921 bytes
+Created time:    03-DEC-15 07:08 
+Last modified:   03-DEC-15 07:08 
+Source file:     PRODUCT\RMCNSTD\IRC_STLABEL.PC
+Allocated size:  3797 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        50
+Time slice:      256
+Busy lamp:       0
+Ignore abort:    5
+Ignore pause:    7
+Checksum:        55201
+
+KLACTION      PC    
+Task: no   
+Size:  329  
+Vars:     6  
+Types:     0  
+Program name:    KLACTION  
+Comment:         Interface to exe
+Program size:    329 bytes
+Created time:    03-DEC-15 07:07 
+Last modified:   03-DEC-15 07:07 
+Source file:     PRODUCT\SMTPPLUS\KLACTION.PC
+Allocated size:  755 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        50
+Time slice:      256
+Busy lamp:       1
+Ignore abort:    3
+Ignore pause:    7
+Checksum:        35504
+
+MAKRO000      TP    
+Task: no   
+Size: 1968  
+Lines:  102  
+Program name:    MAKRO000  
+Comment:         A/F_RUECKSETZEN
+Program size:    1968 bytes
+Created time:    14-JUN-10 12:00 
+Last modified:   27-MAR-17 16:58 
+Allocated size:  2316 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKRO001      TP    
+Task: no   
+Size:  512  
+Lines:   14  
+Program name:    MAKRO001  
+Comment:         TEIL-ARBEITSF.1
+Program size:    512 bytes
+Created time:    14-JUN-10 12:00 
+Last modified:   27-MAR-17 16:58 
+Allocated size:  828 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKRO002      TP    
+Task: no   
+Size:  512  
+Lines:   14  
+Program name:    MAKRO002  
+Comment:         TEIL-ARBEITSF.2
+Program size:    512 bytes
+Created time:    14-JUN-10 12:00 
+Last modified:   27-MAR-17 16:58 
+Allocated size:  828 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKRO003      TP    
+Task: no   
+Size:  512  
+Lines:   14  
+Program name:    MAKRO003  
+Comment:         TEIL-ARBEITSF.3
+Program size:    512 bytes
+Created time:    14-JUN-10 12:00 
+Last modified:   27-MAR-17 16:58 
+Allocated size:  828 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKRO004      TP    
+Task: no   
+Size:  512  
+Lines:   14  
+Program name:    MAKRO004  
+Comment:         TEIL-ARBEITSF.4
+Program size:    512 bytes
+Created time:    14-JUN-10 12:00 
+Last modified:   27-MAR-17 16:58 
+Allocated size:  828 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKRO005      TP    
+Task: no   
+Size:  512  
+Lines:   14  
+Program name:    MAKRO005  
+Comment:         TEIL-ARBEITSF.5
+Program size:    512 bytes
+Created time:    14-JUN-10 12:00 
+Last modified:   27-MAR-17 16:58 
+Allocated size:  828 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKRO006      TP    
+Task: no   
+Size:  512  
+Lines:   14  
+Program name:    MAKRO006  
+Comment:         TEIL-ARBEITSF.6
+Program size:    512 bytes
+Created time:    14-JUN-10 12:00 
+Last modified:   27-MAR-17 16:58 
+Allocated size:  828 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKRO007      TP    
+Task: no   
+Size:  514  
+Lines:   14  
+Program name:    MAKRO007  
+Comment:         TEIL-ARBEITSF.7
+Program size:    514 bytes
+Created time:    14-JUN-10 12:00 
+Last modified:   27-MAR-17 16:58 
+Allocated size:  830 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKRO008      TP    
+Task: no   
+Size:  512  
+Lines:   14  
+Program name:    MAKRO008  
+Comment:         TEIL-ARBEITSF.8
+Program size:    512 bytes
+Created time:    14-JUN-10 12:00 
+Last modified:   27-MAR-17 16:58 
+Allocated size:  828 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKRO009      TP    
+Task: no   
+Size:  512  
+Lines:   14  
+Program name:    MAKRO009  
+Comment:         TEIL-ARBEITSF.9
+Program size:    512 bytes
+Created time:    14-JUN-10 12:00 
+Last modified:   27-MAR-17 16:58 
+Allocated size:  828 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKRO010      TP    
+Task: no   
+Size:  512  
+Lines:   14  
+Program name:    MAKRO010  
+Comment:         TEIL-ARBEITSF.10
+Program size:    512 bytes
+Created time:    14-JUN-10 12:00 
+Last modified:   27-MAR-17 16:58 
+Allocated size:  828 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKRO011      TP    
+Task: no   
+Size:  512  
+Lines:   14  
+Program name:    MAKRO011  
+Comment:         TEIL-ARBEITSF.11
+Program size:    512 bytes
+Created time:    14-JUN-10 12:00 
+Last modified:   27-MAR-17 16:58 
+Allocated size:  828 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKRO012      TP    
+Task: no   
+Size:  514  
+Lines:   14  
+Program name:    MAKRO012  
+Comment:         TEIL-ARBEITSF.12
+Program size:    514 bytes
+Created time:    14-JUN-10 12:00 
+Last modified:   27-MAR-17 16:58 
+Allocated size:  830 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKRO013      TP    
+Task: no   
+Size:  512  
+Lines:   14  
+Program name:    MAKRO013  
+Comment:         TEIL-ARBEITSF.13
+Program size:    512 bytes
+Created time:    14-JUN-10 12:00 
+Last modified:   27-MAR-17 16:58 
+Allocated size:  828 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKRO014      TP    
+Task: no   
+Size:  512  
+Lines:   14  
+Program name:    MAKRO014  
+Comment:         TEIL-ARBEITSF.14
+Program size:    512 bytes
+Created time:    14-JUN-10 12:00 
+Last modified:   27-MAR-17 16:58 
+Allocated size:  828 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKRO015      TP    
+Task: no   
+Size:  510  
+Lines:   14  
+Program name:    MAKRO015  
+Comment:         GES.-ARBEITSF.15
+Program size:    510 bytes
+Created time:    14-JUN-10 12:00 
+Last modified:   27-MAR-17 16:58 
+Allocated size:  826 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKRO020      TP    
+Task: no   
+Size: 1768  
+Lines:   61  
+Program name:    MAKRO020  
+Comment:         ROB_VERRIEGELUNG
+Program size:    1768 bytes
+Created time:    14-JUN-10 12:00 
+Last modified:   27-MAR-17 16:58 
+Allocated size:  2024 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKRO050      TP    
+Task: no   
+Size: 3394  
+Lines:  120  
+Program name:    MAKRO050  
+Comment:         Inic. Marcas
+Program size:    3394 bytes
+Created time:    26-JUL-23 11:19 
+Last modified:   20-JUN-24 19:11 
+Allocated size:  3694 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKRO057      TP    
+Task: no   
+Size: 2280  
+Lines:   85  
+Program name:    MAKRO057  
+Comment:         FLAG-Init
+Program size:    2280 bytes
+Created time:    13-MAR-00 16:56 
+Last modified:   15-OCT-16 00:03 
+Allocated size:  2568 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKRO058      TP    
+Task: no   
+Size:  702  
+Lines:   22  
+Program name:    MAKRO058  
+Comment:         Inic. Docking
+Program size:    702 bytes
+Created time:    14-JUN-10 12:00 
+Last modified:   04-OCT-16 01:50 
+Allocated size:  986 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKRO072      TP    
+Task: no   
+Size: 1000  
+Lines:   36  
+Program name:    MAKRO072  
+Comment:         KS1_RUHEST
+Program size:    1000 bytes
+Created time:    14-JUN-10 12:00 
+Last modified:   27-MAR-17 16:58 
+Allocated size:  1356 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKRO073      TP    
+Task: no   
+Size: 1320  
+Lines:   53  
+Program name:    MAKRO073  
+Comment:         KS1_ARBEITSST
+Program size:    1320 bytes
+Created time:    14-JUN-10 12:00 
+Last modified:   27-MAR-17 16:58 
+Allocated size:  1740 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKRO080      TP    
+Task: no   
+Size: 5154  
+Lines:  196  
+Program name:    MAKRO080  
+Comment:         EZ1SP1_WPS
+Program size:    5154 bytes
+Created time:    03-JUN-15 13:15 
+Last modified:   27-MAR-17 16:58 
+Allocated size:  5674 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKRO081      TP    
+Task: no   
+Size: 2656  
+Lines:  118  
+Program name:    MAKRO081  
+Comment:         EZ1SP1_KAPPENW.
+Program size:    2656 bytes
+Created time:    14-JUN-10 12:00 
+Last modified:   27-MAR-17 16:58 
+Allocated size:  2940 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKRO084      TP    
+Task: no   
+Size: 3348  
+Lines:  140  
+Program name:    MAKRO084  
+Comment:         EZ1SP1_KF_END_ST
+Program size:    3348 bytes
+Created time:    14-JUN-10 12:00 
+Last modified:   27-MAR-17 16:58 
+Allocated size:  3804 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKRO085      TP    
+Task: no   
+Size: 2080  
+Lines:   88  
+Program name:    MAKRO085  
+Comment:         EZ1SP1_KF_STA_ST
+Program size:    2080 bytes
+Created time:    14-JUN-10 12:00 
+Last modified:   27-MAR-17 16:58 
+Allocated size:  2356 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKRO086      TP    
+Task: no   
+Size:  762  
+Lines:   30  
+Program name:    MAKRO086  
+Comment:         EZ1_RESET_REF
+Program size:    762 bytes
+Created time:    14-JUN-10 12:00 
+Last modified:   27-MAR-17 16:58 
+Allocated size:  1014 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKRO089      TP    
+Task: no   
+Size: 1196  
+Lines:   43  
+Program name:    MAKRO089  
+Comment:         SP1_Diagnosefunk
+Program size:    1196 bytes
+Created time:    14-JUN-10 12:00 
+Last modified:   04-JUL-17 12:23 
+Allocated size:  1524 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKRO340      TP    
+Task: no   
+Size:  710  
+Lines:   32  
+Program name:    MAKRO340  
+Comment:         G_INIT
+Program size:    710 bytes
+Created time:    16-SEP-10 12:00 
+Last modified:   27-MAR-17 16:58 
+Allocated size:  1082 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKRO341      TP    
+Task: no   
+Size:  472  
+Lines:   11  
+Program name:    MAKRO341  
+Comment:         G_STATUS
+Program size:    472 bytes
+Created time:    17-SEP-10 16:56 
+Last modified:   25-MAY-16 22:29 
+Allocated size:  800 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKRO342      TP    
+Task: no   
+Size: 6700  
+Lines:  269  
+Program name:    MAKRO342  
+Comment:         G_AUF/SAUGER_AUS
+Program size:    6700 bytes
+Created time:    17-SEP-10 16:56 
+Last modified:   26-AUG-19 01:21 
+Allocated size:  7328 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKRO343      TP    
+Task: no   
+Size: 5760  
+Lines:  235  
+Program name:    MAKRO343  
+Comment:         G_ZU/SAUGER_EIN
+Program size:    5760 bytes
+Created time:    17-SEP-10 16:56 
+Last modified:   27-MAR-17 16:58 
+Allocated size:  6396 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKRO344      TP    
+Task: no   
+Size:  360  
+Lines:   10  
+Program name:    MAKRO344  
+Comment:         SPANNG.1_AUF/ZU
+Program size:    360 bytes
+Created time:    17-SEP-10 16:56 
+Last modified:   27-MAR-17 16:58 
+Allocated size:  692 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKRO346      TP    
+Task: no   
+Size:  360  
+Lines:   10  
+Program name:    MAKRO346  
+Comment:         SPANNG.3_AUF/ZU
+Program size:    360 bytes
+Created time:    17-SEP-10 16:56 
+Last modified:   27-MAR-17 16:58 
+Allocated size:  692 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKRO347      TP    
+Task: no   
+Size:  360  
+Lines:   10  
+Program name:    MAKRO347  
+Comment:         SPANNG.4_AUF/ZU
+Program size:    360 bytes
+Created time:    17-SEP-10 16:56 
+Last modified:   27-MAR-17 16:58 
+Allocated size:  692 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKRO348      TP    
+Task: no   
+Size:  360  
+Lines:   10  
+Program name:    MAKRO348  
+Comment:         SPANNG.5_AUF/ZU
+Program size:    360 bytes
+Created time:    17-SEP-10 16:56 
+Last modified:   27-MAR-17 16:58 
+Allocated size:  692 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKRO349      TP    
+Task: no   
+Size:  360  
+Lines:   10  
+Program name:    MAKRO349  
+Comment:         SPANNG.6_AUF/ZU
+Program size:    360 bytes
+Created time:    17-SEP-10 16:56 
+Last modified:   27-MAR-17 16:58 
+Allocated size:  692 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKRO350      TP    
+Task: no   
+Size:  360  
+Lines:   10  
+Program name:    MAKRO350  
+Comment:         SPANNG.7_AUF/ZU
+Program size:    360 bytes
+Created time:    17-SEP-10 16:56 
+Last modified:   27-MAR-17 16:58 
+Allocated size:  692 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKRO360      TP    
+Task: no   
+Size:  488  
+Lines:   16  
+Program name:    MAKRO360  
+Comment:         SAUGK.1_EIN/AUS
+Program size:    488 bytes
+Created time:    17-SEP-10 16:56 
+Last modified:   27-MAR-17 16:58 
+Allocated size:  928 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKRO911      TP    
+Task: no   
+Size: 1658  
+Lines:   52  
+Program name:    MAKRO911  
+Comment:         Para.EZ1 Zange 1
+Program size:    1658 bytes
+Created time:    13-MAR-08 19:29 
+Last modified:   05-JUL-16 05:05 
+Allocated size:  1958 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKRO980      TP    
+Task: no   
+Size: 1910  
+Lines:   50  
+Program name:    MAKRO980  
+Comment:         ParChange:EZX/G
+Program size:    1910 bytes
+Created time:    04-APR-06 19:25 
+Last modified:   28-APR-09 08:43 
+Allocated size:  2534 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKRO998      PC    
+Task: no   
+Size:  264  
+Vars:     7  
+Types:     0  
+Program name:    MAKRO998  
+Comment:         Unsim I/O V720.1
+Program size:    264 bytes
+Created time:    03-DEC-15 09:57 
+Last modified:   03-DEC-15 09:57 
+Source file:     FRS:MAKRO998.PC
+Allocated size:  599 bytes
+Protection:      ON
+Stack size:      500 words
+Priority:        88
+Time slice:      256
+Busy lamp:       1
+Ignore abort:    1
+Ignore pause:    7
+Checksum:        14557
+
+MAKRO999      PC    
+Task: no   
+Size:   12  
+Vars:     8  
+Types:     0  
+Program name:    MAKRO999  
+Comment:         V720.1
+Program size:    12 bytes
+Created time:    03-DEC-15 09:57 
+Last modified:   03-DEC-15 09:57 
+Source file:     FRS:MAKRO999.PC
+Allocated size:  283 bytes
+Protection:      ON
+Stack size:      500 words
+Priority:        88
+Time slice:      256
+Busy lamp:       1
+Ignore abort:    1
+Ignore pause:    7
+Checksum:        49629
+
+MAKROSP1      TP    
+Task: no   
+Size: 4192  
+Lines:  119  
+Program name:    MAKROSP1  
+Comment:         MAKROSP1_BASIC
+Program size:    4192 bytes
+Created time:    15-JUN-10 12:00 
+Last modified:   27-MAR-17 16:59 
+Allocated size:  4604 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKROSP2      TP    
+Task: no   
+Size: 1230  
+Lines:   37  
+Program name:    MAKROSP2  
+Comment:         MAKROSP2_BASIC
+Program size:    1230 bytes
+Created time:    11-JAN-11 07:00 
+Last modified:   27-MAR-17 16:59 
+Allocated size:  1582 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKROSP3      TP    
+Task: no   
+Size:  258  
+Lines:    5  
+Program name:    MAKROSP3  
+Comment:         MAKROSP3_RESERVE
+Program size:    258 bytes
+Created time:    15-JUN-10 12:00 
+Last modified:   25-MAY-16 22:30 
+Allocated size:  610 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKROSP4      TP    
+Task: no   
+Size:  414  
+Lines:   10  
+Program name:    MAKROSP4  
+Comment:         MAKROSP4_BMS
+Program size:    414 bytes
+Created time:    15-JUN-10 12:00 
+Last modified:   25-MAY-16 22:30 
+Allocated size:  878 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKROSP5      TP    
+Task: no   
+Size:  258  
+Lines:    5  
+Program name:    MAKROSP5  
+Comment:         MAKROSP5_RESERVE
+Program size:    258 bytes
+Created time:    15-JUN-10 12:00 
+Last modified:   25-MAY-16 22:30 
+Allocated size:  610 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKROSP6      TP    
+Task: no   
+Size:  258  
+Lines:    5  
+Program name:    MAKROSP6  
+Comment:         MAKROSP6_RESERVE
+Program size:    258 bytes
+Created time:    15-JUN-10 12:00 
+Last modified:   25-MAY-16 22:30 
+Allocated size:  610 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKROSP7      TP    
+Task: no   
+Size:  258  
+Lines:    5  
+Program name:    MAKROSP7  
+Comment:         MAKROSP7_RESERVE
+Program size:    258 bytes
+Created time:    15-JUN-10 12:00 
+Last modified:   25-MAY-16 22:30 
+Allocated size:  610 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKROSP8      TP    
+Task: no   
+Size:  380  
+Lines:   10  
+Program name:    MAKROSP8  
+Comment:         MAKROSP8_ProfiNe
+Program size:    380 bytes
+Created time:    15-JUN-10 12:00 
+Last modified:   27-MAR-17 16:59 
+Allocated size:  712 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MAKROSTP      TP    
+Task: yes  
+Size: 100704  
+Lines: 4405  
+Program name:    MAKROSTP  
+Comment:         MAKRO_SCHRITT
+Program size:    100704 bytes
+Created time:    11-JAN-11 07:00 
+Last modified:   28-DEC-18 09:17 
+Allocated size:  103104 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        100
+Time slice:      0
+Busy lamp:       1
+Ignore abort:    7
+Ignore pause:    3
+
+MNUZVHF       PC    
+Task: no   
+Size: 21906  
+Vars:    98  
+Types:     0  
+Program name:    MNUZVHF  
+Comment:         Repere ZERO VH
+Program size:    21906 bytes
+Created time:    03-DEC-15 07:08 
+Last modified:   03-DEC-15 07:08 
+Source file:     PRODUCT\J858\MNUZVHF.PC
+Allocated size:  25494 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        50
+Time slice:      256
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    7
+Checksum:        80
+
+MOTN003       TP    
+Task: no   
+Size:  588  
+Lines:   17  
+Program name:    MOTN003  
+Comment:         PR_ROB_EZ1/SP1
+Program size:    588 bytes
+Created time:    14-JUN-10 12:00 
+Last modified:   27-MAR-17 16:59 
+Allocated size:  900 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MOTN004       TP    
+Task: no   
+Size:  516  
+Lines:   14  
+Program name:    MOTN004  
+Comment:         PR_STAT_EZ1/SP1
+Program size:    516 bytes
+Created time:    14-JUN-10 12:00 
+Last modified:   28-MAR-17 12:14 
+Allocated size:  840 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MOTN005       TP    
+Task: no   
+Size:  516  
+Lines:   14  
+Program name:    MOTN005  
+Comment:         PR_STAT_EZ2/SP2
+Program size:    516 bytes
+Created time:    14-JUN-10 12:00 
+Last modified:   27-MAR-17 16:59 
+Allocated size:  840 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MOTN006       TP    
+Task: no   
+Size:  516  
+Lines:   14  
+Program name:    MOTN006  
+Comment:         PR_STAT_EZ3/SP3
+Program size:    516 bytes
+Created time:    14-JUN-10 12:00 
+Last modified:   27-MAR-17 16:59 
+Allocated size:  840 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MOTN009       TP    
+Task: no   
+Size:  502  
+Lines:   15  
+Program name:    MOTN009  
+Comment:         WEG STAT EZSP
+Program size:    502 bytes
+Created time:    14-JUN-10 12:00 
+Last modified:   27-MAR-17 16:59 
+Allocated size:  854 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MOTN010       TP    
+Task: no   
+Size:  502  
+Lines:   15  
+Program name:    MOTN010  
+Comment:         WEG ROB EZSP
+Program size:    502 bytes
+Created time:    14-JUN-10 12:00 
+Last modified:   27-MAR-17 16:59 
+Allocated size:  854 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MOTN011       TP    
+Task: no   
+Size:  780  
+Lines:   15  
+Program name:    MOTN011  
+Comment:         EQ EZSP1 ZU
+Program size:    780 bytes
+Created time:    17-AUG-11 15:56 
+Last modified:   27-MAR-17 16:59 
+Allocated size:  1264 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MOTN012       TP    
+Task: no   
+Size:  714  
+Lines:   10  
+Program name:    MOTN012  
+Comment:         EQ EZSP1 AUF
+Program size:    714 bytes
+Created time:    09-JUL-10 16:38 
+Last modified:   27-MAR-17 16:59 
+Source file:     EQPRGAPC
+Allocated size:  1078 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MOTN013       TP    
+Task: no   
+Size:  738  
+Lines:   13  
+Program name:    MOTN013  
+Comment:         EQ EZSP1 AUF POS
+Program size:    738 bytes
+Created time:    17-AUG-11 15:56 
+Last modified:   27-MAR-17 16:59 
+Allocated size:  1106 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MOTN014       TP    
+Task: no   
+Size: 1074  
+Lines:   30  
+Program name:    MOTN014  
+Comment:         EQ EZSP1 TIN
+Program size:    1074 bytes
+Created time:    09-JUL-10 16:38 
+Last modified:   27-MAR-17 16:59 
+Allocated size:  1522 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MOTN015       TP    
+Task: no   
+Size:  652  
+Lines:    7  
+Program name:    MOTN015  
+Comment:         EQ EZSP1 TIN AUF
+Program size:    652 bytes
+Created time:    09-JUL-10 16:38 
+Last modified:   27-MAR-17 16:59 
+Source file:     EQPRGAPC
+Allocated size:  1028 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MOTN021       TP    
+Task: no   
+Size:  779  
+Lines:   15  
+Program name:    MOTN021  
+Comment:         EQ EZSP2 ZU
+Program size:    779 bytes
+Created time:    09-JUL-10 16:38 
+Last modified:   25-MAY-16 22:30 
+Allocated size:  1263 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MOTN022       TP    
+Task: no   
+Size:  743  
+Lines:   10  
+Program name:    MOTN022  
+Comment:         EQ EZSP2 AUF
+Program size:    743 bytes
+Created time:    09-JUL-10 16:38 
+Last modified:   25-MAY-16 22:30 
+Source file:     EQPRGAPC
+Allocated size:  1107 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MOTN023       TP    
+Task: no   
+Size:  753  
+Lines:   13  
+Program name:    MOTN023  
+Comment:         EQ EZSP2 AUF POS
+Program size:    753 bytes
+Created time:    17-AUG-11 15:56 
+Last modified:   25-MAY-16 22:30 
+Allocated size:  1121 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MOTN024       TP    
+Task: no   
+Size: 1101  
+Lines:   30  
+Program name:    MOTN024  
+Comment:         EQ EZSP2 TIN
+Program size:    1101 bytes
+Created time:    09-JUL-10 16:38 
+Last modified:   25-MAY-16 22:30 
+Allocated size:  1549 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MOTN025       TP    
+Task: no   
+Size:  687  
+Lines:    7  
+Program name:    MOTN025  
+Comment:         EQ EZSP2 TIN AUF
+Program size:    687 bytes
+Created time:    09-JUL-10 16:38 
+Last modified:   25-MAY-16 22:30 
+Source file:     EQPRGAPC
+Allocated size:  1063 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MOTN031       TP    
+Task: no   
+Size:  779  
+Lines:   15  
+Program name:    MOTN031  
+Comment:         EQ EZSP3 ZU
+Program size:    779 bytes
+Created time:    09-JUL-10 16:38 
+Last modified:   25-MAY-16 22:30 
+Allocated size:  1263 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MOTN032       TP    
+Task: no   
+Size:  743  
+Lines:   10  
+Program name:    MOTN032  
+Comment:         EQ EZSP3 AUF
+Program size:    743 bytes
+Created time:    09-JUL-10 16:38 
+Last modified:   25-MAY-16 22:30 
+Source file:     EQPRGAPC
+Allocated size:  1107 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MOTN033       TP    
+Task: no   
+Size:  753  
+Lines:   13  
+Program name:    MOTN033  
+Comment:         EQ EZSP3 AUF POS
+Program size:    753 bytes
+Created time:    17-AUG-11 15:56 
+Last modified:   25-MAY-16 22:30 
+Allocated size:  1121 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MOTN034       TP    
+Task: no   
+Size: 1101  
+Lines:   30  
+Program name:    MOTN034  
+Comment:         EQ EZSP3 TIN
+Program size:    1101 bytes
+Created time:    17-AUG-11 09:38 
+Last modified:   25-MAY-16 22:30 
+Allocated size:  1549 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MOTN035       TP    
+Task: no   
+Size:  673  
+Lines:    7  
+Program name:    MOTN035  
+Comment:         EQ EZSP3 TIN AUF
+Program size:    673 bytes
+Created time:    17-AUG-11 09:38 
+Last modified:   25-MAY-16 22:30 
+Source file:     EQPRGAPC
+Allocated size:  1049 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MOTN101       TP    
+Task: no   
+Size: 15842  
+Lines:  717  
+Program name:    MOTN101  
+Comment:         Teilesp.Stapel01
+Program size:    15842 bytes
+Created time:    14-JUN-10 12:00 
+Last modified:   27-MAR-17 16:59 
+Allocated size:  16170 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MOTN102       TP    
+Task: no   
+Size: 15842  
+Lines:  717  
+Program name:    MOTN102  
+Comment:         Teilesp.Stapel02
+Program size:    15842 bytes
+Created time:    14-JUN-10 12:00 
+Last modified:   27-MAR-17 16:59 
+Allocated size:  16170 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MOTN103       TP    
+Task: no   
+Size: 15842  
+Lines:  717  
+Program name:    MOTN103  
+Comment:         Teilesp.Stapel03
+Program size:    15842 bytes
+Created time:    14-JUN-10 12:00 
+Last modified:   27-MAR-17 16:59 
+Allocated size:  16170 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MOTN104       TP    
+Task: no   
+Size: 15842  
+Lines:  717  
+Program name:    MOTN104  
+Comment:         Teilesp.Stapel04
+Program size:    15842 bytes
+Created time:    14-JUN-10 12:00 
+Last modified:   27-MAR-17 16:59 
+Allocated size:  16170 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MOTN105       TP    
+Task: no   
+Size: 15842  
+Lines:  717  
+Program name:    MOTN105  
+Comment:         Teilesp.Stapel05
+Program size:    15842 bytes
+Created time:    14-JUN-10 12:00 
+Last modified:   27-MAR-17 16:59 
+Allocated size:  16170 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MOTN106       TP    
+Task: no   
+Size: 15842  
+Lines:  717  
+Program name:    MOTN106  
+Comment:         Teilesp.Stapel06
+Program size:    15842 bytes
+Created time:    14-JUN-10 12:00 
+Last modified:   27-MAR-17 16:59 
+Allocated size:  16170 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MOTN107       TP    
+Task: no   
+Size: 15842  
+Lines:  717  
+Program name:    MOTN107  
+Comment:         Teilesp.Stapel07
+Program size:    15842 bytes
+Created time:    14-JUN-10 12:00 
+Last modified:   27-MAR-17 16:59 
+Allocated size:  16170 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MOTN108       TP    
+Task: no   
+Size: 15842  
+Lines:  717  
+Program name:    MOTN108  
+Comment:         Teilesp.Stapel08
+Program size:    15842 bytes
+Created time:    14-JUN-10 12:00 
+Last modified:   27-MAR-17 16:59 
+Allocated size:  16170 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MOTN109       TP    
+Task: no   
+Size: 15842  
+Lines:  717  
+Program name:    MOTN109  
+Comment:         Teilesp.Stapel09
+Program size:    15842 bytes
+Created time:    14-JUN-10 12:00 
+Last modified:   27-MAR-17 16:59 
+Allocated size:  16170 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+MOTN110       TP    
+Task: no   
+Size: 15842  
+Lines:  717  
+Program name:    MOTN110  
+Comment:         Teilesp.Stapel10
+Program size:    15842 bytes
+Created time:    14-JUN-10 12:00 
+Last modified:   27-MAR-17 16:59 
+Allocated size:  16170 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+PNIO_ALM      VR    
+Task: no   
+Size:    0  
+Vars:    16  
+Types:     0  
+Program name:    PNIO_ALM  
+Comment:         
+Program size:    0 bytes
+Created time:    00-0-80 00:00   
+Last modified:   00-0-80 00:00   
+Allocated size:  244 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        0
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+PNIO_MAP      PC    
+Task: no   
+Size: 6044  
+Vars:    25  
+Types:     1  
+Program name:    PNIO_MAP  
+Comment:         VAG8$Rev: 19 $
+Program size:    6044 bytes
+Created time:    03-DEC-15 07:07 
+Last modified:   03-DEC-15 07:07 
+Source file:     PRODUCT\J656\PNIO_MAP.PC
+Allocated size:  7382 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        100
+Time slice:      256
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    7
+Checksum:        11661
+
+PNIO_REC      VR    
+Task: no   
+Size:    0  
+Vars:    13  
+Types:     0  
+Program name:    PNIO_REC  
+Comment:         
+Program size:    0 bytes
+Created time:    00-0-80 00:00   
+Last modified:   00-0-80 00:00   
+Allocated size:  244 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        0
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+PRNULL        PC    
+Task: no   
+Size: 1230  
+Vars:    14  
+Types:     0  
+Program name:    PRNULL  
+Comment:         PRSET
+Program size:    1230 bytes
+Created time:    03-DEC-15 07:08 
+Last modified:   03-DEC-15 07:08 
+Source file:     PRODUCT\FVAG\PRNULL.PC
+Allocated size:  1878 bytes
+Protection:      ON
+Stack size:      500 words
+Priority:        50
+Time slice:      256
+Busy lamp:       1
+Ignore abort:    3
+Ignore pause:    7
+Checksum:        22435
+
+REQMENU       MACRO 
+Task: no   
+Size:  262  
+Lines:    2  
+Program name:    REQMENU  
+Comment:         Request PC Menu
+Program size:    262 bytes
+Created time:    14-OCT-10 11:46 
+Last modified:   01-JUN-99 14:22 
+Source file:     SENDDATA
+Allocated size:  634 bytes
+Protection:      ON
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+RLSVRLUT      VR    
+Task: no   
+Size:    0  
+Vars:     1  
+Types:     0  
+Program name:    RLSVRLUT  
+Comment:         
+Program size:    0 bytes
+Created time:    00-0-80 00:00   
+Last modified:   00-0-80 00:00   
+Allocated size:  244 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        0
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+SENDDATA      MACRO 
+Task: no   
+Size:  288  
+Lines:    2  
+Program name:    SENDDATA  
+Comment:         Send PC Data
+Program size:    288 bytes
+Created time:    09-OCT-10 13:30 
+Last modified:   01-JUN-99 14:22 
+Source file:     SENDEVNT
+Allocated size:  660 bytes
+Protection:      ON
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+SENDEVNT      MACRO 
+Task: no   
+Size:  224  
+Lines:    2  
+Program name:    SENDEVNT  
+Comment:         Send PC Event
+Program size:    224 bytes
+Created time:    09-OCT-10 12:23 
+Last modified:   01-JUN-99 14:22 
+Allocated size:  596 bytes
+Protection:      ON
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+SENDSYSV      MACRO 
+Task: no   
+Size:  274  
+Lines:    2  
+Program name:    SENDSYSV  
+Comment:         Send PC SysVar
+Program size:    274 bytes
+Created time:    14-OCT-10 11:56 
+Last modified:   01-JUN-99 14:23 
+Source file:     SENDDATA
+Allocated size:  646 bytes
+Protection:      ON
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+SHELL         PC    
+Task: yes  
+Size: 31158  
+Vars:   288  
+Types:     2  
+Program name:    SHELL  
+Comment:         V8$Rev: 712 $
+Program size:    31158 bytes
+Created time:    28-DEC-18 09:19 
+Last modified:   28-DEC-18 09:19 
+Source file:     FRS:SHELLMQB.PC
+Allocated size:  36053 bytes
+Protection:      OFF
+Stack size:      2000 words
+Priority:        66
+Time slice:      256
+Busy lamp:       1
+Ignore abort:    3
+Ignore pause:    7
+Checksum:        65305
+
+TBSWRB21      PC    
+Task: no   
+Size: 24108  
+Vars:     3  
+Types:     7  
+Program name:    TBSWRB21  
+Comment:         
+Program size:    24108 bytes
+Created time:    03-DEC-15 07:07 
+Last modified:   03-DEC-15 07:07 
+Source file:     PRODUCT\H601\TBSWRB21.PC
+Allocated size:  24405 bytes
+Protection:      ON
+Stack size:      500 words
+Priority:        50
+Time slice:      256
+Busy lamp:       1
+Ignore abort:    3
+Ignore pause:    7
+Checksum:        31451
+
+TCP_2PNT      PC    
+Task: no   
+Size: 14772  
+Vars:    58  
+Types:     0  
+Program name:    TCP_2PNT  
+Comment:         WKZ-Verm. V720.1
+Program size:    14772 bytes
+Created time:    03-DEC-15 07:08 
+Last modified:   03-DEC-15 07:08 
+Source file:     PRODUCT\FVAG\TCP_2PNT.PC
+Allocated size:  16292 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        88
+Time slice:      256
+Busy lamp:       1
+Ignore abort:    0
+Ignore pause:    7
+Checksum:        5618
+
+UP001         TP    
+Task: no   
+Size: 4054  
+Lines:   20  
+Program name:    UP001  
+Comment:         Toma en ST1125
+Program size:    4054 bytes
+Created time:    02-JUN-96 17:15 
+Last modified:   29-JUL-17 19:10 
+Source file:     UP001
+Allocated size:  6886 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+UP002         TP    
+Task: no   
+Size: 4108  
+Lines:   15  
+Program name:    UP002  
+Comment:         Toma ST1140-1
+Program size:    4108 bytes
+Created time:    29-SEP-17 06:32 
+Last modified:   14-JAN-21 08:37 
+Source file:     UP002
+Allocated size:  6932 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+UP003         TP    
+Task: no   
+Size: 4016  
+Lines:   15  
+Program name:    UP003  
+Comment:         Toma ST1140-2
+Program size:    4016 bytes
+Created time:    29-SEP-17 06:33 
+Last modified:   22-DEC-18 02:28 
+Source file:     UP002
+Allocated size:  6852 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+UP004         TP    
+Task: no   
+Size: 7124  
+Lines:   30  
+Program name:    UP004  
+Comment:         Soldadura Est.
+Program size:    7124 bytes
+Created time:    02-JUN-96 17:17 
+Last modified:   30-APR-21 07:29 
+Source file:     UP004
+Allocated size:  12496 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+UP005         TP    
+Task: no   
+Size: 11530  
+Lines:   39  
+Program name:    UP005  
+Comment:         Depositar ST1150
+Program size:    11530 bytes
+Created time:    03-SEP-17 04:08 
+Last modified:   20-MAR-22 05:53 
+Source file:     UP005
+Allocated size:  20238 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+UP022         TP    
+Task: no   
+Size: 3992  
+Lines:   15  
+Program name:    UP022  
+Comment:         Toma ST1140-1
+Program size:    3992 bytes
+Created time:    03-SEP-17 00:20 
+Last modified:   29-JUN-23 02:26 
+Source file:     UP002
+Allocated size:  6832 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+UP023         TP    
+Task: no   
+Size: 4054  
+Lines:   20  
+Program name:    UP023  
+Comment:         Toma en ST1125
+Program size:    4054 bytes
+Created time:    02-JUN-96 17:15 
+Last modified:   29-JUN-23 01:55 
+Source file:     UP023
+Allocated size:  6886 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+UP024         TP    
+Task: no   
+Size: 4300  
+Lines:   16  
+Program name:    UP024  
+Comment:         Toma ST1140-1
+Program size:    4300 bytes
+Created time:    03-SEP-17 00:20 
+Last modified:   23-JUL-23 17:16 
+Source file:     UP024
+Allocated size:  7512 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+UP025         TP    
+Task: no   
+Size: 4016  
+Lines:   15  
+Program name:    UP025  
+Comment:         Toma ST1140-2
+Program size:    4016 bytes
+Created time:    29-SEP-17 06:33 
+Last modified:   29-JUN-23 01:55 
+Source file:     UP025
+Allocated size:  6852 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+UP026         TP    
+Task: no   
+Size: 7136  
+Lines:   30  
+Program name:    UP026  
+Comment:         Soldadura Est.
+Program size:    7136 bytes
+Created time:    02-JUN-96 17:17 
+Last modified:   08-JUL-23 12:00 
+Source file:     UP026
+Allocated size:  12508 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+UP027         TP    
+Task: no   
+Size: 11530  
+Lines:   39  
+Program name:    UP027  
+Comment:         Depositar ST1150
+Program size:    11530 bytes
+Created time:    03-SEP-17 04:08 
+Last modified:   09-JUL-23 12:36 
+Source file:     UP027
+Allocated size:  20238 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+UP030         TP    
+Task: no   
+Size: 3996  
+Lines:   15  
+Program name:    UP030  
+Comment:         Toma ST1140-2
+Program size:    3996 bytes
+Created time:    16-DEC-18 00:52 
+Last modified:   16-DEC-18 00:52 
+Source file:     UP003
+Allocated size:  6836 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+UP033         TP    
+Task: no   
+Size: 3996  
+Lines:   15  
+Program name:    UP033  
+Comment:         Toma ST1140-2
+Program size:    3996 bytes
+Created time:    03-SEP-17 00:21 
+Last modified:   03-SEP-17 00:21 
+Source file:     UP003
+Allocated size:  6836 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+UP050         TP    
+Task: no   
+Size: 11530  
+Lines:   39  
+Program name:    UP050  
+Comment:         Depositar ST1150
+Program size:    11530 bytes
+Created time:    03-SEP-17 04:07 
+Last modified:   03-SEP-17 04:07 
+Source file:     UP005
+Allocated size:  20238 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+UP055         TP    
+Task: no   
+Size: 11530  
+Lines:   39  
+Program name:    UP055  
+Comment:         Depositar ST1150
+Program size:    11530 bytes
+Created time:    15-MAY-21 08:25 
+Last modified:   15-MAY-21 08:25 
+Source file:     UP005
+Allocated size:  20238 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+UP106         TP    
+Task: no   
+Size: 2576  
+Lines:    8  
+Program name:    UP106  
+Comment:         Calibracion SP1
+Program size:    2576 bytes
+Created time:    15-MAR-96 09:24 
+Last modified:   24-FEB-17 04:54 
+Source file:     UP101
+Allocated size:  3844 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+UP112         TP    
+Task: no   
+Size: 2740  
+Lines:    9  
+Program name:    UP112  
+Comment:         Mant. G1
+Program size:    2740 bytes
+Created time:    00-15-03 13:37  
+Last modified:   24-FEB-17 04:54 
+Allocated size:  4800 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+UP113         TP    
+Task: no   
+Size: 2790  
+Lines:    8  
+Program name:    UP113  
+Comment:         Mant. SP1
+Program size:    2790 bytes
+Created time:    04-JUL-17 12:24 
+Last modified:   04-JUL-17 12:24 
+Allocated size:  4170 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+UP201         TP    
+Task: no   
+Size: 2740  
+Lines:    9  
+Program name:    UP201  
+Comment:         Camb. Herr. G1
+Program size:    2740 bytes
+Created time:    00-15-03 13:37  
+Last modified:   24-FEB-17 04:55 
+Allocated size:  4800 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+UP202         TP    
+Task: no   
+Size: 2088  
+Lines:    7  
+Program name:    UP202  
+Comment:         Camb. Herr. SP1
+Program size:    2088 bytes
+Created time:    00-15-03 13:37  
+Last modified:   24-FEB-17 04:55 
+Allocated size:  3404 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+UP206         TP    
+Task: no   
+Size: 3886  
+Lines:   16  
+Program name:    UP206  
+Comment:         Prueba TCP SP1
+Program size:    3886 bytes
+Created time:    11-OCT-16 00:31 
+Last modified:   11-FEB-17 03:08 
+Source file:     UP210
+Allocated size:  7494 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+UP910         TP    
+Task: no   
+Size: 1404  
+Lines:   19  
+Program name:    UP910  
+Comment:         Mes.Deadtime E1
+Program size:    1404 bytes
+Created time:    03-DEC-15 09:55 
+Last modified:   03-DEC-15 09:55 
+Allocated size:  3100 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+UP911         TP    
+Task: no   
+Size: 1306  
+Lines:   16  
+Program name:    UP911  
+Comment:         Tst Deadtime E1 
+Program size:    1306 bytes
+Created time:    03-DEC-15 09:55 
+Last modified:   03-DEC-15 09:55 
+Allocated size:  3022 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+USER          PC    
+Task: no   
+Size: 1939  
+Vars:     2  
+Types:     0  
+Program name:    USER  
+Comment:         
+Program size:    1939 bytes
+Created time:    27-MAR-17 16:58 
+Last modified:   27-MAR-17 16:58 
+Source file:     UD1:\VWUS\BASIC\30IB\USER.PC
+Allocated size:  2475 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        88
+Time slice:      256
+Busy lamp:       1
+Ignore abort:    1
+Ignore pause:    7
+Checksum:        7658
+
+USER2_S       PC    
+Task: no   
+Size: 32380  
+Vars:     9  
+Types:     0  
+Program name:    USER2_S  
+Comment:         KS24_03_003-VW
+Program size:    32380 bytes
+Created time:    27-MAR-17 16:58 
+Last modified:   27-MAR-17 16:58 
+Source file:     UD1:\VWUS\BASIC\30IB\USER2_S.PC
+Allocated size:  36555 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        100
+Time slice:      256
+Busy lamp:       1
+Ignore abort:    3
+Ignore pause:    7
+Checksum:        63383
+
+USER3_S       PC    
+Task: no   
+Size: 12735  
+Vars:     9  
+Types:     0  
+Program name:    USER3_S  
+Comment:         KS24_03_002-VW
+Program size:    12735 bytes
+Created time:    27-MAR-17 16:58 
+Last modified:   27-MAR-17 16:58 
+Source file:     UD1:\VWUS\BASIC\30IB\USER3_S.PC
+Allocated size:  14099 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        100
+Time slice:      256
+Busy lamp:       1
+Ignore abort:    3
+Ignore pause:    7
+Checksum:        2949
+
+USERSDAT      VR    
+Task: no   
+Size:    0  
+Vars:   685  
+Types:     0  
+Program name:    USERSDAT  
+Comment:         
+Program size:    0 bytes
+Created time:    00-0-80 00:00   
+Last modified:   00-0-80 00:00   
+Allocated size:  244 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        0
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+USER_ADV      PC    
+Task: no   
+Size: 16339  
+Vars:    21  
+Types:     0  
+Program name:    USER_ADV  
+Comment:         KS24_04_000-VW
+Program size:    16339 bytes
+Created time:    27-MAR-17 16:58 
+Last modified:   27-MAR-17 16:58 
+Source file:     UD1:\VWUS\BASIC\30IB\USER_ADV.PC
+Allocated size:  17595 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        88
+Time slice:      256
+Busy lamp:       1
+Ignore abort:    1
+Ignore pause:    7
+Checksum:        20964
+
+USER_ERR      PC    
+Task: no   
+Size: 2377  
+Vars:     0  
+Types:     0  
+Program name:    USER_ERR  
+Comment:         VW Fehler V1.4
+Program size:    2377 bytes
+Created time:    27-MAR-17 16:58 
+Last modified:   27-MAR-17 16:58 
+Source file:     UD1:\VWUS\BASIC\30IB\USER_ERR.PC
+Allocated size:  2869 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        100
+Time slice:      256
+Busy lamp:       1
+Ignore abort:    3
+Ignore pause:    7
+Checksum:        236
+
+USER_INIT     PC    
+Task: no   
+Size: 15599  
+Vars:     3  
+Types:     0  
+Program name:    USER_INIT  
+Comment:         KS24_06_203-VW
+Program size:    15599 bytes
+Created time:    12-SEP-20 09:23 
+Last modified:   12-SEP-20 09:23 
+Source file:     UD1:\3 ABC_OVERRUN_FIX\30IB\USER_INIT.PC
+Allocated size:  19294 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        100
+Time slice:      256
+Busy lamp:       1
+Ignore abort:    3
+Ignore pause:    7
+Checksum:        59184
+
+USER_IS1      PC    
+Task: no   
+Size: 31680  
+Vars:   166  
+Types:     1  
+Program name:    USER_IS1  
+Comment:         Version 33
+Program size:    31680 bytes
+Created time:    27-MAR-17 16:58 
+Last modified:   27-MAR-17 16:58 
+Source file:     UD1:\VWUS\BASIC\30IB\USER_IS1.PC
+Allocated size:  36768 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        100
+Time slice:      256
+Busy lamp:       1
+Ignore abort:    3
+Ignore pause:    7
+Checksum:        64947
+
+USER_IS2      PC    
+Task: no   
+Size: 21190  
+Vars:     6  
+Types:     0  
+Program name:    USER_IS2  
+Comment:         Version 33
+Program size:    21190 bytes
+Created time:    27-MAR-17 16:58 
+Last modified:   27-MAR-17 16:58 
+Source file:     UD1:\VWUS\BASIC\30IB\USER_IS2.PC
+Allocated size:  23263 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        100
+Time slice:      256
+Busy lamp:       1
+Ignore abort:    3
+Ignore pause:    7
+Checksum:        11161
+
+USER_IS3      PC    
+Task: no   
+Size: 26572  
+Vars:     6  
+Types:     0  
+Program name:    USER_IS3  
+Comment:         Version 33
+Program size:    26572 bytes
+Created time:    27-MAR-17 16:58 
+Last modified:   27-MAR-17 16:58 
+Source file:     UD1:\VWUS\BASIC\30IB\USER_IS3.PC
+Allocated size:  29684 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        100
+Time slice:      256
+Busy lamp:       1
+Ignore abort:    3
+Ignore pause:    7
+Checksum:        56246
+
+USER_IS4      PC    
+Task: no   
+Size: 31696  
+Vars:     6  
+Types:     0  
+Program name:    USER_IS4  
+Comment:         Version 33
+Program size:    31696 bytes
+Created time:    27-MAR-17 16:58 
+Last modified:   27-MAR-17 16:58 
+Source file:     UD1:\VWUS\BASIC\30IB\USER_IS4.PC
+Allocated size:  32997 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        100
+Time slice:      256
+Busy lamp:       1
+Ignore abort:    3
+Ignore pause:    7
+Checksum:        30028
+
+USER_IS5      PC    
+Task: no   
+Size: 30275  
+Vars:     6  
+Types:     0  
+Program name:    USER_IS5  
+Comment:         Version 33
+Program size:    30275 bytes
+Created time:    27-MAR-17 16:58 
+Last modified:   27-MAR-17 16:58 
+Source file:     UD1:\VWUS\BASIC\30IB\USER_IS5.PC
+Allocated size:  33096 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        100
+Time slice:      256
+Busy lamp:       1
+Ignore abort:    3
+Ignore pause:    7
+Checksum:        47914
+
+USER_MAN      PC    
+Task: no   
+Size: 9879  
+Vars:    15  
+Types:     0  
+Program name:    USER_MAN  
+Comment:         KS24_06_000-VW
+Program size:    9879 bytes
+Created time:    27-MAR-17 16:58 
+Last modified:   27-MAR-17 16:58 
+Source file:     UD1:\VWUS\BASIC\30IB\USER_MAN.PC
+Allocated size:  10974 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        88
+Time slice:      256
+Busy lamp:       1
+Ignore abort:    1
+Ignore pause:    7
+Checksum:        43750
+
+USER_PR1      PC    
+Task: no   
+Size: 7129  
+Vars:     0  
+Types:     0  
+Program name:    USER_PR1  
+Comment:         Perceptron V2.30
+Program size:    7129 bytes
+Created time:    27-MAR-17 16:58 
+Last modified:   27-MAR-17 16:58 
+Source file:     UD1:\VWUS\BASIC\30IB\USER_PR1.PC
+Allocated size:  7642 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        75
+Time slice:      256
+Busy lamp:       1
+Ignore abort:    1
+Ignore pause:    7
+Checksum:        1594
+
+USER_PR2      PC    
+Task: no   
+Size: 12576  
+Vars:     0  
+Types:     0  
+Program name:    USER_PR2  
+Comment:         Perceptron V2.30
+Program size:    12576 bytes
+Created time:    27-MAR-17 16:58 
+Last modified:   27-MAR-17 16:58 
+Source file:     UD1:\VWUS\BASIC\30IB\USER_PR2.PC
+Allocated size:  13173 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        75
+Time slice:      256
+Busy lamp:       1
+Ignore abort:    1
+Ignore pause:    7
+Checksum:        54423
+
+USER_PR3      PC    
+Task: no   
+Size: 25735  
+Vars:     0  
+Types:     0  
+Program name:    USER_PR3  
+Comment:         Perceptron V2.30
+Program size:    25735 bytes
+Created time:    27-MAR-17 16:58 
+Last modified:   27-MAR-17 16:58 
+Source file:     UD1:\VWUS\BASIC\30IB\USER_PR3.PC
+Allocated size:  26099 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        75
+Time slice:      256
+Busy lamp:       1
+Ignore abort:    1
+Ignore pause:    7
+Checksum:        55591
+
+USER_PRC      PC    
+Task: no   
+Size: 31761  
+Vars:     6  
+Types:     0  
+Program name:    USER_PRC  
+Comment:         Perceptron V2.30
+Program size:    31761 bytes
+Created time:    27-MAR-17 16:58 
+Last modified:   27-MAR-17 16:58 
+Source file:     UD1:\VWUS\BASIC\30IB\USER_PRC.PC
+Allocated size:  34827 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        75
+Time slice:      256
+Busy lamp:       1
+Ignore abort:    1
+Ignore pause:    7
+Checksum:        53823
+
+USER_S        PC    
+Task: no   
+Size: 30174  
+Vars:    17  
+Types:     0  
+Program name:    USER_S  
+Comment:         KS24_06_203-VW
+Program size:    30174 bytes
+Created time:    12-SEP-20 09:23 
+Last modified:   12-SEP-20 09:23 
+Source file:     UD1:\3 ABC_OVERRUN_FIX\30IB\USER_S.PC
+Allocated size:  34899 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        100
+Time slice:      256
+Busy lamp:       1
+Ignore abort:    3
+Ignore pause:    7
+Checksum:        20420
+
+USER_WAS      PC    
+Task: no   
+Size: 2680  
+Vars:     0  
+Types:     0  
+Program name:    USER_WAS  
+Comment:         VW Wasser V1.1
+Program size:    2680 bytes
+Created time:    27-MAR-17 16:58 
+Last modified:   27-MAR-17 16:58 
+Source file:     UD1:\VWUS\BASIC\30IB\USER_WAS.PC
+Allocated size:  3338 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        100
+Time slice:      256
+Busy lamp:       1
+Ignore abort:    3
+Ignore pause:    7
+Checksum:        16368
+
+USR_PRJ1      PC    
+Task: no   
+Size: 4817  
+Vars:     0  
+Types:     0  
+Program name:    USR_PRJ1  
+Comment:         VW_PRJ_1_V1.2
+Program size:    4817 bytes
+Created time:    27-MAR-17 16:58 
+Last modified:   27-MAR-17 16:58 
+Source file:     UD1:\VWUS\BASIC\30IB\USR_PRJ1.PC
+Allocated size:  5341 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        100
+Time slice:      256
+Busy lamp:       1
+Ignore abort:    3
+Ignore pause:    7
+Checksum:        47327
+
+USR_PRJ2      PC    
+Task: no   
+Size:   22  
+Vars:     0  
+Types:     0  
+Program name:    USR_PRJ2  
+Comment:         VW_PRJ_2_V1.0
+Program size:    22 bytes
+Created time:    27-MAR-17 16:58 
+Last modified:   27-MAR-17 16:58 
+Source file:     UD1:\VWUS\BASIC\30IB\USR_PRJ2.PC
+Allocated size:  418 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        100
+Time slice:      256
+Busy lamp:       1
+Ignore abort:    3
+Ignore pause:    7
+Checksum:        51257
+
+VAKLEBEN      PC    
+Task: no   
+Size: 1286  
+Vars:     3  
+Types:     0  
+Program name:    VAKLEBEN  
+Comment:          
+Program size:    1286 bytes
+Created time:    27-MAR-17 16:58 
+Last modified:   27-MAR-17 16:58 
+Source file:     UD1:\VWUS\BASIC\30IB\VAKLEBEN.PC
+Allocated size:  1733 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        50
+Time slice:      256
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+Checksum:        45370
+
+VERSION       PC    
+Task: no   
+Size: 1220  
+Vars:     9  
+Types:     0  
+Program name:    VERSION  
+Comment:         V8$Rev: 704 $
+Program size:    1220 bytes
+Created time:    28-DEC-18 09:19 
+Last modified:   28-DEC-18 09:19 
+Source file:     FRS:VAVERS.PC
+Allocated size:  1821 bytes
+Protection:      ON
+Stack size:      500 words
+Priority:        100
+Time slice:      256
+Busy lamp:       1
+Ignore abort:    3
+Ignore pause:    7
+Checksum:        9893
+
+VWUSEMZ       PC    
+Task: yes  
+Size: 32263  
+Vars:   117  
+Types:     5  
+Program name:    VWUSEMZ  
+Comment:         VAG8 $Rev: 181 $
+Program size:    32263 bytes
+Created time:    03-DEC-15 09:59 
+Last modified:   03-DEC-15 09:59 
+Source file:     FRS:VWUSEXT.PC
+Allocated size:  35477 bytes
+Protection:      OFF
+Stack size:      2048 words
+Priority:        72
+Time slice:      256
+Busy lamp:       1
+Ignore abort:    3
+Ignore pause:    7
+Checksum:        45640
+
+VW_USER       PC    
+Task: no   
+Size: 31337  
+Vars:    27  
+Types:     0  
+Program name:    VW_USER  
+Comment:         KS24_03_003-VW
+Program size:    31337 bytes
+Created time:    27-MAR-17 16:58 
+Last modified:   27-MAR-17 16:58 
+Source file:     UD1:\VWUS\BASIC\30IB\VW_USER.PC
+Allocated size:  33570 bytes
+Protection:      OFF
+Stack size:      500 words
+Priority:        88
+Time slice:      256
+Busy lamp:       1
+Ignore abort:    1
+Ignore pause:    7
+Checksum:        10611
+
