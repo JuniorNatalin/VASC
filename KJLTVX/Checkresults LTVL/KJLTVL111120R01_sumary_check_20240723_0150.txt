@@ -1,0 +1,676 @@
+Intern | Internal
+
+
+ --- ###
+			Results from checktool 'V-RobDiag' (Version: 0.4.50)
+ --- ###
+                	Licensed for: Wolfsburg (Volkswagen AG, Deutschland) - V@SC
+
+                         Date: Tuesday, July 23, 2024 1:51 AM
+                    Checkfile: Regeldatei_Kuka-24-21-004_Fanuc-24_06_003HF2_Rev_00.xml
+             Standard Version: RS 24.21.004
+                     Checksum: C548A1ECED7C55FD1F261D76E4B6E829
+
+        Date Archive / Backup: 2024-07-15 17:33:00
+       Date Modell Generation: Datum Modellgenerierung: 2024-07-17 19:05:55
+Bemidefintiondateiname: bemidefinition24.bc
+        Build ModellGenerator: 2022-05-25 13:31:22
+
+
+ --- ###
+
+
+	------------------------------------------------------------------------------------
+	Results of seperate checks:
+	------------------------------------------------------------------------------------
+	    |                                     |Amount  |Amount  |Amount  |Total:           |
+	 Nr.|Name of check:                       |Error   |Warn.   |i.O.    |Checklist        |
+	------------------------------------------------------------------------------------
+MS: 3
+	   1|MS 3.1 Punktkoordinaten          (1)|       0|       0|       5|         100/100%|
+	   2|MS 3.2 Konfigurations Vergleich  (1)|       0|       0|       1|         100/100%|
+	   3|MS 3.3 Programmiersyntax         (1)|      68|       1|     281|          80/100%|
+	   4|MS 3.3.1 Fahrbedingungen         (1)|       0|       0|      18|         100/100%|
+	   5|MS 3.3.2 Fuegedatenbezeichnungen (1)|       0|       0|       1|         100/100%|
+-----
+MS: 1
+	   6|MS 1.1 Robotername               (1)|       0|       0|       1|         100/100%|
+	   7|MS 1.2 Softwareversionen         (1)|       0|       0|       3|         100/100%|
+	   8|MS 1.3 Maschinengrunddaten       (1)|       0|       0|       0|         100/100%|
+-----
+MS: 2
+	   9|MS 2.1 Profinet                  (1)|       0|       0|       0|         100/100%|
+	  10|MS 2.2 Trockenlauf Vergleich     (1)|       0|       0|       1|         100/100%|
+	  11|MS 2.3 MakroVergleich            (1)|      22|       0|      86|          80/100%|
+	  12|MS 2.4 VW_User Vergleich         (1)|      22|       0|       0|           0/100%|
+	  13|MS 2.5 Up Folge Makro verwendet  (1)|       0|      28|      53|          65/100%|
+	  14|MS 2.6 Tool Base Loaddata        (1)|       1|       0|      58|          98/100%|
+-----
+MS: 0
+	  15|Modellgenerator                  (1)|       0|      17|       0|           0/100%|
+-----
+	------------------------------------------------------------------------------------
+	    |Gesamt Ergebnis IO-Prüfungen (13/15 relevant):|                    IO: 9, NIO: 4 => 69/100%|
+	    | Hinweis: - Eine Prüfung gilt dann als IO, wenn keine Fehler enthalten sind.
+	    |            Dennoch sollten Warnungen kontrolliert werden.
+	    |          - Prüfungen können unterschiedlich gewichtet sein.
+
+	    | Nicht durchgeführte Prüfungen:
+
+	    | Nicht relevante Prüfungen:
+	    |    - MS 1.3 Maschinengrunddaten
+	    |    - MS 2.1 Profinet
+	------------------------------------------------------------------------------------
+
+
+	------------------------------------------------------------------------------------
+Error and warn messages
+	------------------------------------------------------------------------------------
+
+MS 2.3 MakroVergleich  (37): 
+   KJLTVL111120R01  (37): 
+      MAKRO020	-> Error; 04 Difference in/from line 22. 
+              	           Real: '22:  WAIT ((DI[81] OR !DO[81]) AND (DI[82] OR !DO[82]) AND (DI[83] OR !DO[83]) AND (DI[84] OR !
+              	               :  DO[84]) AND (DI[85] OR !DO[85]))' 
+              	           Target: 'WAIT((DI[81]OR!DO[81])AND(DI[82]OR!DO[82])AND(DI[83]OR!DO[83])AND(DI[84]OR!DO[84])AND(DI[85]OR!DO[85]))' 
+              	           Adjusted Real: 'WAIT((DI[81]OR!DO[81])AND(DI[82]OR!DO[82])AND(DI[83]OR!DO[83])AND(DI[84]OR!
+              	           :DO[84])AND(DI[85]OR!DO[85]))' 
+              	           Adjusted Target: 'WAIT((DI[81]OR!DO[81])AND(DI[82]OR!DO[82])AND(DI[83]OR!DO[83])AND(DI[84]OR!DO[84])AND(DI[85]OR!DO[85]))'
+      MAKRO080	-> Error; 04 Difference in/from line 39. 
+              	           Real: '39:  WAIT (F[127] AND !DI[785] AND DI[792] AND DI[802] AND !F[80] OR !DI[792] AND DI[802] AND (
+              	               :  DI[145] OR F[525]) OR (TIMER[10]>=0))' 
+              	           Target: 'WAIT(F[127]AND!DI[785]ANDDI[792]ANDDI[802]AND!F[80]OR!DI[792]ANDDI[802]AND(DI[145]ORF[525])OR(TIMER[10]>=0))' 
+              	           Adjusted Real: 'WAIT(F[127]AND!DI[785]ANDDI[792]ANDDI[802]AND!F[80]OR!DI[792]ANDDI[802]AND(
+              	           :DI[145]ORF[525])OR(TIMER[10]>=0))' 
+              	           Adjusted Target: 'WAIT(F[127]AND!DI[785]ANDDI[792]ANDDI[802]AND!F[80]OR!DI[792]ANDDI[802]AND(DI[145]ORF[525])OR(TIMER[10]>=0))'
+      MAKRO081	-> Error; 01 Different version identifiers. (Projected: '24-01-003 / 08.11.2016 LZ', Standard macro: '24-01-004 / 
+              	           24.08.2017 LZ')
+      MAKRO083	-> Error; 01 Different version identifiers. (Projected: '24-02-002 / 11.03.2015 DB', Standard macro: '24-02-003 / 
+              	           31.05.2017 LE')
+      MAKRO089	-> Error; 01 Different version identifiers. (Projected: '24-02-000 / 19.01.2017 LZ', Standard macro: '24-02-003 / 
+              	           19.06.2017 LZ')
+      MAKRO110	-> Error; 04 Difference in/from line 38. 
+              	           Real: '38:  WAIT ((DI[865] AND DI[873] AND DI[874] AND (!DI[944] OR ((DI[929] OR DI[937]) AND DI[944]
+              	               :  ))) OR (TIMER[10]>=0))' 
+              	           Target: 'WAIT((DI[865]ANDDI[873]ANDDI[874]AND(!DI[944]OR((DI[929]ORDI[937])ANDDI[944])))OR(TIMER[10]>=0))' 
+              	           Adjusted Real: 'WAIT((DI[865]ANDDI[873]ANDDI[874]AND(!DI[944]OR((DI[929]ORDI[937])ANDDI[944]
+              	           :)))OR(TIMER[10]>=0))' 
+              	           Adjusted Target: 'WAIT((DI[865]ANDDI[873]ANDDI[874]AND(!DI[944]OR((DI[929]ORDI[937])ANDDI[944])))OR(TIMER[10]>=0))'
+      MAKRO111	-> Error; 01 Different version identifiers. (Projected: '24-01-002 / 08.11.2016 LZ', Standard macro: '24-01-002 / 
+              	           30.08.2017 LZ')
+      MAKRO114	-> Error; 04 Difference in/from line 38. 
+              	           Real: '38:  WAIT ((((F[321] AND F[148] AND F[149]) OR (F[321] AND !F[149])) AND (F[138] OR F[139])) OR (
+              	               :  TIMER[10]>=0))' 
+              	           Target: 'WAIT((((F[321]ANDF[148]ANDF[149])OR(F[321]AND!F[149]))AND(F[138]ORF[139]))OR(TIMER[10]>=0))' 
+              	           Adjusted Real: 'WAIT((((F[321]ANDF[148]ANDF[149])OR(F[321]AND!F[149]))AND(F[138]ORF[139]))OR(
+              	           :TIMER[10]>=0))' 
+              	           Adjusted Target: 'WAIT((((F[321]ANDF[148]ANDF[149])OR(F[321]AND!F[149]))AND(F[138]ORF[139]))OR(TIMER[10]>=0))'
+      MAKRO119	-> Error; 01 Different version identifiers. (Projected: '24-02-000 / 19.01.2017 LZ', Standard macro: '24-02-002 / 
+              	           19.06.2017 LZ')
+      MAKRO342	-> Error; 04 Difference in/from line 31. 
+              	           Real: '31:  WAIT ((F[523] AND (DI[703] OR !F[56])) OR (F[524] AND (!DI[704] OR !F[56])) OR (TIMER[10]>=0))
+              	               :' 
+              	           Target: 'WAIT((F[523]AND(DI[703]OR!F[56]))OR(F[524]AND(!DI[704]OR!F[56]))OR(TIMER[10]>=0))' 
+              	           Adjusted Real: 'WAIT((F[523]AND(DI[703]OR!F[56]))OR(F[524]AND(!DI[704]OR!F[56]))OR(TIMER[10]>=0))
+              	           :' 
+              	           Adjusted Target: 'WAIT((F[523]AND(DI[703]OR!F[56]))OR(F[524]AND(!DI[704]OR!F[56]))OR(TIMER[10]>=0))'
+      MAKRO343	-> Error; 04 Difference in/from line 31. 
+              	           Real: '31:  WAIT ((F[523] AND (DI[703] OR !F[56])) OR (F[524] AND (!DI[704] OR !F[56])) OR (TIMER[10]>=0))
+              	               :' 
+              	           Target: 'WAIT((F[523]AND(DI[703]OR!F[56]))OR(F[524]AND(!DI[704]OR!F[56]))OR(TIMER[10]>=0))' 
+              	           Adjusted Real: 'WAIT((F[523]AND(DI[703]OR!F[56]))OR(F[524]AND(!DI[704]OR!F[56]))OR(TIMER[10]>=0))
+              	           :' 
+              	           Adjusted Target: 'WAIT((F[523]AND(DI[703]OR!F[56]))OR(F[524]AND(!DI[704]OR!F[56]))OR(TIMER[10]>=0))'
+      MAKROSP1	-> Error; 04 Difference in/from line 42. 
+              	           Real: '42:  F[80]=((DI[804] AND !DI[806] AND !DI[775] AND DI[785]) OR (DI[785] AND DI[15]) OR (
+              	               :  F[80] AND DO[785]))' 
+              	           Target: 'F[80]=((DI[804]AND!DI[806]AND!DI[775]ANDDI[785])OR(DI[785]ANDDI[15])OR(F[80]ANDDO[785]))' 
+              	           Adjusted Real: 'F[80]=((DI[804]AND!DI[806]AND!DI[775]ANDDI[785])OR(DI[785]ANDDI[15])OR(
+              	           :F[80]ANDDO[785]))' 
+              	           Adjusted Target: 'F[80]=((DI[804]AND!DI[806]AND!DI[775]ANDDI[785])OR(DI[785]ANDDI[15])OR(F[80]ANDDO[785]))'
+      MAKROSP3	-> Note; 00 No macro template available.
+      MAKROSP4	-> Note; 00 No macro template available.
+      MAKROSP5	-> Note; 00 No macro template available.
+      MAKROSP6	-> Note; 00 No macro template available.
+      MAKROSP7	-> Note; 00 No macro template available.
+      MAKROSTP	-> Error; 01 Different version identifiers. (Projected: '24-02-??? / 30.07.2015 DB', Standard macro: '24-02-011 / 
+              	           01.06.2017 KN')
+      MOTN003	-> Error; 06 The projected macro does not correspond to the Template (Src comparison)
+      MOTN004	-> Error; 06 The projected macro does not correspond to the Template (Src comparison)
+      MOTN005	-> Error; 06 The projected macro does not correspond to the Template (Src comparison)
+      MOTN006	-> Error; 06 The projected macro does not correspond to the Template (Src comparison)
+      MOTN011	-> Error; 06 The projected macro does not correspond to the Template (Src comparison)
+      MOTN012	-> Error; 06 The projected macro does not correspond to the Template (Src comparison)
+      MOTN013	-> Error; 06 The projected macro does not correspond to the Template (Src comparison)
+      MOTN014	-> Error; 06 The projected macro does not correspond to the Template (Src comparison)
+      MOTN015	-> Error; 06 The projected macro does not correspond to the Template (Src comparison)
+      MOTN021	-> Note; 00 No macro template available.
+      MOTN022	-> Note; 00 No macro template available.
+      MOTN023	-> Note; 00 No macro template available.
+      MOTN024	-> Note; 00 No macro template available.
+      MOTN025	-> Note; 00 No macro template available.
+      MOTN031	-> Note; 00 No macro template available.
+      MOTN032	-> Note; 00 No macro template available.
+      MOTN033	-> Note; 00 No macro template available.
+      MOTN034	-> Note; 00 No macro template available.
+      MOTN035	-> Note; 00 No macro template available.
+
+
+Milestone 1   (1): 
+   KJLTVL111120R01	-> Note; Folgende Flags sind im Makro57 aktiviert: F292, F318, F330, F522, F523, F530, F556, F560, F561, F710, F819
+
+Modellgenerator  (17): 
+   KJLTVL111120R01  (17): 
+         *	-> Warning; The stored file(s) 'english/MAKRO912.LS' is not included in the robot archive
+         *	-> Warning; The stored file(s) 'english/MAKRO935.LS' is not included in the robot archive
+         *	-> Warning; The stored file(s) 'english/MAKRO934.LS' is not included in the robot archive
+         *	-> Warning; The stored file(s) 'english/MAKRO933.LS' is not included in the robot archive
+         *	-> Warning; The stored file(s) 'english/MAKRO932.LS' is not included in the robot archive
+         *	-> Warning; The stored file(s) 'english/MAKRO931.LS' is not included in the robot archive
+         *	-> Warning; The stored file(s) 'english/MAKRO926.LS' is not included in the robot archive
+         *	-> Warning; The stored file(s) 'english/MAKRO936.LS' is not included in the robot archive
+         *	-> Warning; The stored file(s) 'english/MAKRO925.LS' is not included in the robot archive
+         *	-> Warning; The stored file(s) 'english/MAKRO923.LS' is not included in the robot archive
+         *	-> Warning; The stored file(s) 'english/MAKRO922.LS' is not included in the robot archive
+         *	-> Warning; The stored file(s) 'english/MAKRO916.LS' is not included in the robot archive
+         *	-> Warning; The stored file(s) 'english/MAKRO915.LS' is not included in the robot archive
+         *	-> Warning; The stored file(s) 'english/MAKRO914.LS' is not included in the robot archive
+         *	-> Warning; The stored file(s) 'english/MAKRO913.LS' is not included in the robot archive
+         *	-> Warning; The stored file(s) 'english/MAKRO924.LS' is not included in the robot archive
+         *	-> Warning; The stored file(s) 'SUMMARY.DG' is not included in the robot archive
+
+
+S02 Templatecomparisation  (94): 
+   KJLTVL111120R01  (94): 
+         *	-> Note; Folgende Flags sind im Makro57 aktiviert: F292, F318, F330, F522, F523, F530, F556, F560, F561, F710, F819
+         *	-> Note; Following requirements affect this robot (  24 recognized /  42 total): Alle (Alle), G (G_Greifer), KF1 
+          	          (KF_Kappenfraesen), RP1 (RP_RoboterInstallationsPlatte), SZ1 (SZ_Schweißzange), SZ2 (SZ_Schweißzange)
+         *	-> Note; The proecess device (Betriebsmittel) 'KF2 (KF_Kappenfraesen/ Ohne )' will not be part of the check as it could 
+          	          not be sufficiently identified as existing
+      Alle (Alle)  (50): 
+         2.K00a.0003.1: Rob UP  Aufruf Makro 50  (18): 
+            UP001, Punkt   1	-> Error; #2,406 Motion parameters not according to requirement: (see: Programmierrichtline Grundlagen)
+                            	           Programmed: 4:J P[1] 100% CNT0 ACC100 TB    .10sec,P-SPS ({Act_P0=1,Act_P1=1, Tool=1, Basis=1, LastDaten=1})
+                            	           TimeBefore wrong. Expected:: 0 (TB in 1/100 Sekunden)
+            UP002, Punkt   1	-> Error; #2,406 Motion parameters not according to requirement: (see: Programmierrichtline Grundlagen)
+                            	           Programmed: 5:J P[1] 100% CNT0 ACC100 TB    .10sec,P-SPS ({Act_P0=1,Act_P1=1, Tool=2, Basis=0, LastDaten=1})
+                            	           TimeBefore wrong. Expected:: 0 (TB in 1/100 Sekunden)
+            UP003, Punkt   1	-> Error; #2,406 Motion parameters not according to requirement: (see: Programmierrichtline Grundlagen)
+                            	           Programmed: 4:J P[1] 100% CNT0 ACC100 TB    .10sec,P-SPS ({Act_P0=1,Act_P1=1, Tool=3, Basis=2, LastDaten=1})
+                            	           TimeBefore wrong. Expected:: 0 (TB in 1/100 Sekunden)
+            UP004, Punkt   1	-> Error; #2,406 Motion parameters not according to requirement: (see: Programmierrichtline Grundlagen)
+                            	           Programmed: 4:J P[1] 100% CNT0 ACC100 TB    .10sec,P-SPS ({Act_P0=1,Act_P1=1, Tool=2, Basis=0, LastDaten=1})
+                            	           TimeBefore wrong. Expected:: 0 (TB in 1/100 Sekunden)
+            UP021, Punkt   1	-> Error; #2,406 Motion parameters not according to requirement: (see: Programmierrichtline Grundlagen)
+                            	           Programmed: 4:J P[1] 100% CNT0 ACC100 TB    .10sec,P-SPS ({Act_P0=1,Act_P1=1, Tool=1, Basis=1, LastDaten=1})
+                            	           TimeBefore wrong. Expected:: 0 (TB in 1/100 Sekunden)
+            UP022, Punkt   1	-> Error; #2,406 Motion parameters not according to requirement: (see: Programmierrichtline Grundlagen)
+                            	           Programmed: 5:J P[1] 100% CNT0 ACC100 TB    .10sec,P-SPS ({Act_P0=1,Act_P1=1, Tool=2, Basis=0, LastDaten=1})
+                            	           TimeBefore wrong. Expected:: 0 (TB in 1/100 Sekunden)
+            UP023, Punkt   1	-> Error; #2,406 Motion parameters not according to requirement: (see: Programmierrichtline Grundlagen)
+                            	           Programmed: 4:J P[1] 100% CNT0 ACC100 TB    .10sec,P-SPS ({Act_P0=1,Act_P1=1, Tool=3, Basis=2, LastDaten=1})
+                            	           TimeBefore wrong. Expected:: 0 (TB in 1/100 Sekunden)
+            UP024, Punkt   1	-> Error; #2,406 Motion parameters not according to requirement: (see: Programmierrichtline Grundlagen)
+                            	           Programmed: 4:J P[1] 100% CNT0 ACC100 TB    .10sec,P-SPS ({Act_P0=1,Act_P1=1, Tool=2, Basis=0, LastDaten=1})
+                            	           TimeBefore wrong. Expected:: 0 (TB in 1/100 Sekunden)
+            UP101, Punkt   1	-> Error; #2,406 Motion parameters not according to requirement: (see: Programmierrichtline Grundlagen)
+                            	           Programmed: 4:J P[1] 100% CNT0 ACC100 TB    .10sec,P-SPS ({Act_P0=1,Act_P1=1, Tool=1, Basis=0, LastDaten=1})
+                            	           TimeBefore wrong. Expected:: 0 (TB in 1/100 Sekunden)
+            UP107, Punkt   1	-> Error; #2,406 Motion parameters not according to requirement: (see: Programmierrichtline Grundlagen)
+                            	           Programmed: 6:J P[1] 100% CNT0 ACC100 TB    .10sec,P-SPS ({Act_P0=1,Act_P1=1, Tool=1, Basis=0, LastDaten=1})
+                            	           TimeBefore wrong. Expected:: 0 (TB in 1/100 Sekunden)
+            UP112, Punkt   1	-> Error; #2,406 Motion parameters not according to requirement: (see: Programmierrichtline Grundlagen)
+                            	           Programmed: 4:J P[1] 100% CNT0 ACC100 TB    .10sec,P-SPS ({Act_P0=1,Act_P1=1, Tool=1, Basis=0, LastDaten=1})
+                            	           TimeBefore wrong. Expected:: 0 (TB in 1/100 Sekunden)
+            UP113, Punkt   1	-> Error; #2,406 Motion parameters not according to requirement: (see: Programmierrichtline Grundlagen)
+                            	           Programmed: 4:J P[1] 100% CNT0 ACC100 TB    .10sec,P-SPS ({Act_P0=1,Act_P1=1, Tool=1, Basis=0, LastDaten=1})
+                            	           TimeBefore wrong. Expected:: 0 (TB in 1/100 Sekunden)
+            UP114, Punkt   1	-> Error; #2,406 Motion parameters not according to requirement: (see: Programmierrichtline Grundlagen)
+                            	           Programmed: 4:J P[1] 100% CNT0 ACC100 TB    .10sec,P-SPS ({Act_P0=1,Act_P1=1, Tool=1, Basis=0, LastDaten=1})
+                            	           TimeBefore wrong. Expected:: 0 (TB in 1/100 Sekunden)
+            UP201, Punkt   1	-> Error; #2,406 Motion parameters not according to requirement: (see: Programmierrichtline Grundlagen)
+                            	           Programmed: 4:J P[1] 100% CNT0 ACC100 TB    .10sec,P-SPS ({Act_P0=1,Act_P1=1, Tool=1, Basis=0, LastDaten=1})
+                            	           TimeBefore wrong. Expected:: 0 (TB in 1/100 Sekunden)
+            UP202, Punkt   1	-> Error; #2,406 Motion parameters not according to requirement: (see: Programmierrichtline Grundlagen)
+                            	           Programmed: 4:J P[1] 100% CNT0 ACC100 TB    .10sec,P-SPS ({Act_P0=1,Act_P1=1, Tool=1, Basis=0, LastDaten=1})
+                            	           TimeBefore wrong. Expected:: 0 (TB in 1/100 Sekunden)
+            UP203, Punkt   1	-> Error; #2,406 Motion parameters not according to requirement: (see: Programmierrichtline Grundlagen)
+                            	           Programmed: 4:J P[1] 100% CNT0 ACC100 TB    .10sec,P-SPS ({Act_P0=1,Act_P1=1, Tool=1, Basis=0, LastDaten=1})
+                            	           TimeBefore wrong. Expected:: 0 (TB in 1/100 Sekunden)
+            UP206, Punkt   1	-> Error; #2,406 Motion parameters not according to requirement: (see: Programmierrichtline Grundlagen)
+                            	           Programmed: 4:J P[1] 100% CNT0 ACC100 TB    .10sec,P-SPS ({Act_P0=1,Act_P1=1, Tool=24, Basis=0, LastDaten=1})
+                            	           TimeBefore wrong. Expected:: 0 (TB in 1/100 Sekunden)
+            UP207, Punkt   1	-> Error; #2,406 Motion parameters not according to requirement: (see: Programmierrichtline Grundlagen)
+                            	           Programmed: 4:J P[1] 100% CNT0 ACC100 TB    .10sec,P-SPS ({Act_P0=1,Act_P1=1, Tool=24, Basis=0, LastDaten=1})
+                            	           TimeBefore wrong. Expected:: 0 (TB in 1/100 Sekunden)
+
+         2.K00a.0005.1: Teil_Arbeitsfertigmeldungen   (8): 
+            UP001, Punkt  39	-> Error; #2,408 Motion parameters not according to requirement: (see: Programmierrichtline Grundlagen)
+                            	           Programmed: 53:J P[39] 100% CNT0 ACC100 TB    .10sec,P-SPS Tool_Offset,PR[11] Offset,PR[12] 
+                            	           ({Act_P0=39,Act_P1=39, Tool=1, Basis=1, LastDaten=1})
+                            	           TimeBefore wrong. Expected:: 0 (TB in 1/100 Sekunden)
+            UP002, Punkt   3	-> Error; #2,408 Motion parameters not according to requirement: (see: Programmierrichtline Grundlagen)
+                            	           Programmed: 9:L P[3] 1500mm/sec CNT0 ACC100 TB    .10sec,P-SPS ({Act_P0=3,Act_P1=3, Tool=2, Basis=0, 
+                            	           LastDaten=1})
+                            	           TimeBefore wrong. Expected:: 0 (TB in 1/100 Sekunden)
+            UP003, Punkt   9	-> Error; #2,408 Motion parameters not according to requirement: (see: Programmierrichtline Grundlagen)
+                            	           Programmed: 21:J P[9] 100% CNT0 ACC100 TB    .10sec,P-SPS Offset,PR[21] ({Act_P0=9,Act_P1=9, Tool=3, Basis=2, 
+                            	           LastDaten=1})
+                            	           TimeBefore wrong. Expected:: 0 (TB in 1/100 Sekunden)
+            UP004, Punkt   4	-> Error; #2,408 Motion parameters not according to requirement: (see: Programmierrichtline Grundlagen)
+                            	           Programmed: 10:L P[4] 2000mm/sec CNT0 ACC100 TB    .10sec,P-SPS ({Act_P0=4,Act_P1=4, Tool=2, Basis=0, 
+                            	           LastDaten=1})
+                            	           TimeBefore wrong. Expected:: 0 (TB in 1/100 Sekunden)
+            UP021, Punkt  39	-> Error; #2,408 Motion parameters not according to requirement: (see: Programmierrichtline Grundlagen)
+                            	           Programmed: 53:J P[39] 100% CNT0 ACC100 TB    .10sec,P-SPS Tool_Offset,PR[11] Offset,PR[12] 
+                            	           ({Act_P0=39,Act_P1=39, Tool=1, Basis=1, LastDaten=1})
+                            	           TimeBefore wrong. Expected:: 0 (TB in 1/100 Sekunden)
+            UP022, Punkt   4	-> Error; #2,408 Motion parameters not according to requirement: (see: Programmierrichtline Grundlagen)
+                            	           Programmed: 10:L P[4] 1500mm/sec CNT0 ACC100 TB    .10sec,P-SPS ({Act_P0=4,Act_P1=4, Tool=2, Basis=0, 
+                            	           LastDaten=1})
+                            	           TimeBefore wrong. Expected:: 0 (TB in 1/100 Sekunden)
+            UP023, Punkt   9	-> Error; #2,408 Motion parameters not according to requirement: (see: Programmierrichtline Grundlagen)
+                            	           Programmed: 21:J P[9] 100% CNT0 ACC100 TB    .10sec,P-SPS Offset,PR[21] ({Act_P0=9,Act_P1=9, Tool=3, Basis=2, 
+                            	           LastDaten=1})
+                            	           TimeBefore wrong. Expected:: 0 (TB in 1/100 Sekunden)
+            UP024, Punkt   4	-> Error; #2,408 Motion parameters not according to requirement: (see: Programmierrichtline Grundlagen)
+                            	           Programmed: 10:L P[4] 2000mm/sec CNT0 ACC100 TB    .10sec,P-SPS ({Act_P0=4,Act_P1=4, Tool=2, Basis=0, 
+                            	           LastDaten=1})
+                            	           TimeBefore wrong. Expected:: 0 (TB in 1/100 Sekunden)
+
+         2.K00a.0006.1: Arbeitsfertigmeldungen_Gesamt   (2): 
+            FOLGE011, Punkt   8	-> Error; #2,437 Motion parameters not according to requirement: (see: Programmierrichtline Grundlagen)
+                               	           Programmed: 46:J P[8] 100% CNT0 ACC100 TB    .10sec,P-SPS ({Act_P0=8,Act_P1=8, Tool=1, Basis=0, LastDaten=1})
+                               	           TimeBefore wrong. Expected:: 0 (TB in 1/100 Sekunden)
+            FOLGE020, Punkt   8	-> Error; #2,437 Motion parameters not according to requirement: (see: Programmierrichtline Grundlagen)
+                               	           Programmed: 46:J P[8] 100% CNT0 ACC100 TB    .10sec,P-SPS ({Act_P0=8,Act_P1=8, Tool=1, Basis=0, LastDaten=1})
+                               	           TimeBefore wrong. Expected:: 0 (TB in 1/100 Sekunden)
+
+         2.K00a.0010.1: Verriegelungscheck_Rob_Ein   (2): 
+            UP004, Punkt   1	-> Error; #2,412 Motion parameters not according to requirement: (see: Programmierrichtline Grundlagen)
+                            	           Programmed: 4:J P[1] 100% CNT0 ACC100 TB    .10sec,P-SPS ({Act_P0=1,Act_P1=1, Tool=2, Basis=0, LastDaten=1})
+                            	           TimeBefore wrong. Expected:: 0 (TB in 1/100 Sekunden)
+            UP024, Punkt   1	-> Error; #2,412 Motion parameters not according to requirement: (see: Programmierrichtline Grundlagen)
+                            	           Programmed: 4:J P[1] 100% CNT0 ACC100 TB    .10sec,P-SPS ({Act_P0=1,Act_P1=1, Tool=2, Basis=0, LastDaten=1})
+                            	           TimeBefore wrong. Expected:: 0 (TB in 1/100 Sekunden)
+
+         2.K00a.0013.1: Verriegelungscheck_Rob zu Vorrichtung in Folgen/UPs  (20): 
+            FOLGE011, Punkt   2	-> Note; 409 Alle (Alle): There were several entry points found: 9:  DO[78]=OFF, 10:  DO[77]=OFF, 12:  DO[74]=OFF
+            FOLGE020, Punkt   2	-> Note; 409 Alle (Alle): There were several entry points found: 9:  DO[78]=OFF, 10:  DO[77]=OFF, 12:  DO[74]=OFF
+            FOLGE124, Punkt   2	-> Note; 409 Alle (Alle): There were several entry points found: 7:  DO[78]=OFF, 8:  DO[77]=OFF, 10:  DO[74]=OFF
+            UP001, Punkt   1	-> Note; 409 Alle (Alle): There were several entry points found: 9:  DO[78]=OFF, 10:  DO[77]=OFF, 12:  DO[74]=OFF, 22:  
+                            	          DO[80]=OFF, 23:  DO[79]=OFF, 24:  DO[57]=OFF
+            UP002, Punkt   1	-> Note; 409 Alle (Alle): There were several entry points found: 7:  DO[80]=OFF, 8:  DO[79]=OFF, 10:  DO[77]=OFF, 12:  
+                            	          DO[74]=OFF, 13:  DO[57]=OFF, 22:  DO[78]=OFF
+            UP003, Punkt   1	-> Note; 409 Alle (Alle): There were several entry points found: 9:  DO[78]=OFF, 10:  DO[77]=OFF, 12:  DO[74]=OFF
+            UP004, Punkt   1	-> Note; 409 Alle (Alle): There were several entry points found: 9:  DO[78]=OFF, 10:  DO[77]=OFF, 12:  DO[74]=OFF, 22:  
+                            	          DO[76]=OFF
+            UP021, Punkt   1	-> Note; 409 Alle (Alle): There were several entry points found: 9:  DO[78]=OFF, 10:  DO[77]=OFF, 12:  DO[74]=OFF, 21:  
+                            	          DO[80]=OFF, 22:  DO[79]=OFF
+            UP022, Punkt   1	-> Note; 409 Alle (Alle): There were several entry points found: 7:  DO[80]=OFF, 8:  DO[79]=OFF, 10:  DO[77]=OFF, 12:  
+                            	          DO[74]=OFF, 21:  DO[78]=OFF
+            UP023, Punkt   1	-> Note; 409 Alle (Alle): There were several entry points found: 9:  DO[78]=OFF, 10:  DO[77]=OFF, 12:  DO[74]=OFF
+            UP024, Punkt   1	-> Note; 409 Alle (Alle): There were several entry points found: 9:  DO[78]=OFF, 10:  DO[77]=OFF, 12:  DO[74]=OFF, 21:  
+                            	          DO[76]=OFF
+            UP101, Punkt   1	-> Note; 409 Alle (Alle): There were several entry points found: 7:  DO[78]=OFF, 8:  DO[77]=OFF, 10:  DO[74]=OFF
+            UP106, Punkt   1	-> Note; 409 Alle (Alle): There were several entry points found: 7:  DO[78]=OFF, 8:  DO[77]=OFF, 10:  DO[74]=OFF
+            UP107, Punkt   1	-> Note; 409 Alle (Alle): There were several entry points found: 7:  DO[78]=OFF, 8:  DO[77]=OFF, 10:  DO[74]=OFF
+            UP112, Punkt   1	-> Note; 409 Alle (Alle): There were several entry points found: 7:  DO[78]=OFF, 8:  DO[77]=OFF, 10:  DO[74]=OFF
+            UP113, Punkt   1	-> Note; 409 Alle (Alle): There were several entry points found: 7:  DO[78]=OFF, 8:  DO[77]=OFF, 10:  DO[74]=OFF
+            UP114, Punkt   1	-> Note; 409 Alle (Alle): There were several entry points found: 7:  DO[78]=OFF, 8:  DO[77]=OFF, 10:  DO[74]=OFF
+            UP201, Punkt   1	-> Note; 409 Alle (Alle): There were several entry points found: 7:  DO[78]=OFF, 8:  DO[77]=OFF, 10:  DO[74]=OFF
+            UP202, Punkt   1	-> Note; 409 Alle (Alle): There were several entry points found: 7:  DO[78]=OFF, 8:  DO[77]=OFF, 10:  DO[74]=OFF
+            UP203, Punkt   1	-> Note; 409 Alle (Alle): There were several entry points found: 7:  DO[78]=OFF, 8:  DO[77]=OFF, 10:  DO[74]=OFF
+
+
+      G (G_Greifer)   (6): 
+         2.K10a.1003.1: Handling_Auf_im_2_Punkt   (2): 
+            FOLGE011, Punkt   2	-> Note; 359 G (G_Greifer): There were several entry points found: 21:  F[1]=(ON), 22:  F[2]=(ON)
+            FOLGE020, Punkt   2	-> Note; 359 G (G_Greifer): There were several entry points found: 20:  F[1]=(ON), 21:  F[2]=(ON)
+
+         2.K10a.1004.1: Handling_Auf_in_der_Station   (2): 
+            UP004, Punkt   4	-> Error; #2,360 Motion parameters not according to requirement: (see: Programmierrichtline Handling)
+                            	           Programmed: 10:L P[4] 2000mm/sec CNT0 ACC100 TB    .10sec,P-SPS ({Act_P0=4,Act_P1=4, Tool=2, Basis=0, 
+                            	           LastDaten=1})
+                            	           TimeBefore wrong. Expected:: 0 (TB in 1/100 Sekunden)
+            UP024, Punkt   4	-> Error; #2,360 Motion parameters not according to requirement: (see: Programmierrichtline Handling)
+                            	           Programmed: 10:L P[4] 2000mm/sec CNT0 ACC100 TB    .10sec,P-SPS ({Act_P0=4,Act_P1=4, Tool=2, Basis=0, 
+                            	           LastDaten=1})
+                            	           TimeBefore wrong. Expected:: 0 (TB in 1/100 Sekunden)
+
+         2.K10a.1005.1: Handling_Zu   (2): 
+            UP002, Punkt   3	-> Error; #2,434 Motion parameters not according to requirement: (see: Programmierrichtline Handling)
+                            	           Programmed: 9:L P[3] 1500mm/sec CNT0 ACC100 TB    .10sec,P-SPS ({Act_P0=3,Act_P1=3, Tool=2, Basis=0, 
+                            	           LastDaten=1})
+                            	           TimeBefore wrong. Expected:: 0 (TB in 1/100 Sekunden)
+            UP022, Punkt   4	-> Error; #2,434 Motion parameters not according to requirement: (see: Programmierrichtline Handling)
+                            	           Programmed: 10:L P[4] 1500mm/sec CNT0 ACC100 TB    .10sec,P-SPS ({Act_P0=4,Act_P1=4, Tool=2, Basis=0, 
+                            	           LastDaten=1})
+                            	           TimeBefore wrong. Expected:: 0 (TB in 1/100 Sekunden)
+
+
+      KF1 (KF_Kappenfraesen)  (10): 
+            *	-> Warning; KF1 (KF_Kappenfraesen) is not activated through a flag  ( F805, F806, F807, F808 )  in Macro57
+         2.K01a.1001.1: WPS - EZ_1_SP_1_Messen_nach_Fraesen_Aus, UP101, Punkt   1	-> Error; #2,362 Motion parameters not according to requirement: (see: Programmierrichtline WPS_EZSP-SK)
+                                                                                 	           Programmed: 4:J P[1] 100% CNT0 ACC100 TB    .10sec,P-SPS ({Act_P0=1,Act_P1=1, Tool=1, Basis=0, LastDaten=1})
+                                                                                 	           TimeBefore wrong. Expected:: 0 (TB in 1/100 Sekunden)
+         2.K01a.1002.1: WPS - EZ_1_SP_1_Messen_vor_Fraesen_Aus, UP101, Punkt   1	-> Error; #2,363 Motion parameters not according to requirement: (see: Programmierrichtline WPS_EZSP-SK)
+                                                                                	           Programmed: 4:J P[1] 100% CNT0 ACC100 TB    .10sec,P-SPS ({Act_P0=1,Act_P1=1, Tool=1, Basis=0, LastDaten=1})
+                                                                                	           TimeBefore wrong. Expected:: 0 (TB in 1/100 Sekunden)
+         2.K01a.1003.1: WPS - EZ_1_SP_1_Fraesen_Starten, UP101, Punkt   5	-> Error; #2,834 Motion parameters not according to requirement: (see: Programmierrichtline WPS_EZSP-SK (s.S.47))
+                                                                         	           Programmed: 9:L P[5] 100mm/sec CNT0 ACC100 TB    .10sec,P-SPS ({Act_P0=5,Act_P1=5, Tool=1, Basis=0, 
+                                                                         	           LastDaten=1})
+                                                                         	           Movementwrong. Expected:: Achsgef. Bew. (PTP / J)
+                                                                         	           TimeBefore wrong. Expected:: 0 (TB in 1/100 Sekunden)
+         2.K01a.1008.1: WPS - EZ_1_SP_1_Kappenfraesen_Roboter_im_UP_Anfang	-> Error; #4,361 KF1 (KF_Kappenfraesen): WPS - EZ_1_SP_1_Kappenfraesen_Roboter_im_UP_Anfang. 
+                                                                          	           EZ_1_SP_1_Kappenfraesen_Roboter_im_UP_Anfang ist nicht angewählt (Siehe: Programmierrichtline WPS_EZSP-SK) 
+                                                                          	           (Reason: Not found or programmed differently. (e.g. Conditional macro call instead of direct)
+                                                                          	           Expected: 'Kuka:Tech_.EZSP P1= 11; P2= 31; P3= 0; P4= 0; P5= [*]; P6= [*]; P7= EIN; P8= [*];' und 
+                                                                          	           'Fanuc:Basic1.EZSP P1=11; P2=31; P3= 0; P4=0; P5=31; P6=[*]; P7=EIN; P8=[*];'
+         2.K01a.1009.1: WPS - EZ_1_SP_1_Kappenfraesen_Roboter_im_UP_in_Fraespos   (2): 
+            UP101   (2): 
+               Punkt   5   (2): 
+                     *	-> Error; #1,375 KF1 (KF_Kappenfraesen): Syntax error (Entry point '11:  IF (F[78] OR F[79]),CALL MAKRO [...]'): 
+                      	           'EZ_1_SP_1_Kappenfraesen_Roboter_im_UP_in_Fraespos ist nicht angewählt (Siehe: Programmierrichtline 
+                      	           WPS_EZSP-SK)' 
+                      	             Error before    11:  IF (F[78] OR F[79]),CALL MAKRO082
+                      	             Expected           GO[2] (ON) = R[97] - [*]Orbin2 (ON) = R[97] OR [*]
+                      	             Programmed: 10:  GO[2]=(R[197]+5)
+                     *	-> Error; #2,375 Motion parameters not according to requirement: (see: Programmierrichtline WPS_EZSP-SK)
+                      	           Programmed: 9:L P[5] 100mm/sec CNT0 ACC100 TB    .10sec,P-SPS ({Act_P0=5,Act_P1=5, Tool=1, Basis=0, 
+                      	           LastDaten=1})
+                      	           Movementwrong. Expected:: Achsgef. Bew. (PTP / J)
+                      	           TimeBefore wrong. Expected:: 0 (TB in 1/100 Sekunden)
+
+
+
+         2.K01a.1010.1: WPS - EZ_1_SP_1_Kappenfraesen_Roboter_im_UP_in_Grundst   (2): 
+            UP101   (2): 
+               Punkt   9   (2): 
+                     *	-> Error; #1,376 KF1 (KF_Kappenfraesen): Syntax error (Entry point '5:  CALL VW_USER(Basic1,EZSP,Nr1 Se [...]'): 
+                      	           'EZ_1_SP_1_Kappenfraesen_Roboter_im_UP_in_Grundst ist nicht angewählt (Siehe: Programmierrichtline 
+                      	           WPS_EZSP-SK)' 
+                      	             Error after     7:  IF (!F[85] AND !F[86]),CALL MAKRO080
+                      	             Expected          Fanuc:WAIT (!F[298] OR DI[777] OR F[298] OR DI[26] OR (F[298] AND F[749]))
+                      	             Programmed: 8:  WAIT (!F[298] OR (DI[777] AND F[298]) OR DI[26] OR (F[298] AND F[749]))
+                     *	-> Error; #2,376 Motion parameters not according to requirement: (see: Programmierrichtline WPS_EZSP-SK)
+                      	           Programmed: 15:J P[9] 100% CNT0 ACC100 TB    .10sec,P-SPS ({Act_P0=9,Act_P1=9, Tool=1, Basis=0, LastDaten=1})
+                      	           TimeBefore wrong. Expected:: 0 (TB in 1/100 Sekunden)
+
+
+
+         2.K01a.1012.1: WPS - EZ_1_SP_1_Kappenfraesen_Stationaer_Start	-> Error; #4,378 KF1 (KF_Kappenfraesen): WPS - EZ_1_SP_1_Kappenfraesen_Stationaer_Start. 
+                                                                      	           EZ_1_SP_1_Kappenfraesen_Stationaer ist nicht nach Standard (Siehe: Programmierrichtline WPS_EZSP-SK) (Reason: 
+                                                                      	           Not found or programmed differently. (e.g. Conditional macro call instead of direct)
+                                                                      	           Expected: 'MAKRO85 = F78 + F79'
+
+      SZ1 (SZ_Schweißzange)  (23): 
+         2.K01a.1005.1: WPS - EZ_1_SP_1_Schweisspunkt  (20): 
+            UP001  (10): 
+               Punkt   9   (2): 
+                     *	-> Error; #1,379 SZ1 (SZ_Schweißzange): Syntax error (Entry point '7:  CALL MAKRO080'): '#2.K01a.1005.1#_WPS - 
+                      	           EZ_1_SP_1_Schweisspunkt (Siehe: KS_Teil_3_2_01a_ROB-KUKA/FANUC_WPS_EZSP-SK)' 
+                      	             Error before    6:  WAIT (!DI[129] OR DI[26])
+                      	             Expected          Fanuc:GO[2] ( ON ) = i[197]OrFanuc:GO[2] ( ON ) = i[197] - [*]OrFanuc:GO[2] ( ON ) = 
+                      	             i[197] OR [*]
+                      	             Programmed: 5:  GO[2]=(R[197])
+                     *	-> Error; #2,379 Motion parameters not according to requirement: (see: KS_Teil_3_2_01a_ROB-KUKA/FANUC_WPS_EZSP-SK)
+                      	           Programmed: 14:J P[9] 100% CNT0 ACC100 TB    .10sec,P-SPS Tool_Offset,PR[11] Offset,PR[12] 
+                      	           ({Act_P0=9,Act_P1=9, Tool=1, Basis=1, LastDaten=1})
+                      	           TimeBefore wrong. Expected:: 1 (TB in 1/100 Sekunden)
+
+               Punkt  20   (2): 
+                     *	-> Error; #1,379 SZ1 (SZ_Schweißzange): Syntax error (Entry point '7:  CALL MAKRO080'): '#2.K01a.1005.1#_WPS - 
+                      	           EZ_1_SP_1_Schweisspunkt (Siehe: KS_Teil_3_2_01a_ROB-KUKA/FANUC_WPS_EZSP-SK)' 
+                      	             Error before    6:  WAIT (!DI[129] OR DI[26])
+                      	             Expected          Fanuc:GO[2] ( ON ) = i[197]OrFanuc:GO[2] ( ON ) = i[197] - [*]OrFanuc:GO[2] ( ON ) = 
+                      	             i[197] OR [*]
+                      	             Programmed: 5:  GO[2]=(R[197]+1)
+                     *	-> Error; #2,379 Motion parameters not according to requirement: (see: KS_Teil_3_2_01a_ROB-KUKA/FANUC_WPS_EZSP-SK)
+                      	           Programmed: 27:J P[20] 100% CNT0 ACC100 TB    .10sec,P-SPS Tool_Offset,PR[11] Offset,PR[12] 
+                      	           ({Act_P0=20,Act_P1=20, Tool=1, Basis=1, LastDaten=1})
+                      	           TimeBefore wrong. Expected:: 1 (TB in 1/100 Sekunden)
+
+               Punkt  25   (2): 
+                     *	-> Error; #1,379 SZ1 (SZ_Schweißzange): Syntax error (Entry point '7:  CALL MAKRO080'): '#2.K01a.1005.1#_WPS - 
+                      	           EZ_1_SP_1_Schweisspunkt (Siehe: KS_Teil_3_2_01a_ROB-KUKA/FANUC_WPS_EZSP-SK)' 
+                      	             Error before    6:  WAIT (!DI[129] OR DI[26])
+                      	             Expected          Fanuc:GO[2] ( ON ) = i[197]OrFanuc:GO[2] ( ON ) = i[197] - [*]OrFanuc:GO[2] ( ON ) = 
+                      	             i[197] OR [*]
+                      	             Programmed: 5:  GO[2]=(R[197])
+                     *	-> Error; #2,379 Motion parameters not according to requirement: (see: KS_Teil_3_2_01a_ROB-KUKA/FANUC_WPS_EZSP-SK)
+                      	           Programmed: 34:J P[25] 100% CNT0 ACC100 TB    .10sec,P-SPS Tool_Offset,PR[11] Offset,PR[12] 
+                      	           ({Act_P0=25,Act_P1=25, Tool=1, Basis=1, LastDaten=1})
+                      	           TimeBefore wrong. Expected:: 1 (TB in 1/100 Sekunden)
+
+               Punkt  37   (2): 
+                     *	-> Error; #1,379 SZ1 (SZ_Schweißzange): Syntax error (Entry point '7:  CALL MAKRO080'): '#2.K01a.1005.1#_WPS - 
+                      	           EZ_1_SP_1_Schweisspunkt (Siehe: KS_Teil_3_2_01a_ROB-KUKA/FANUC_WPS_EZSP-SK)' 
+                      	             Error before    6:  WAIT (!DI[129] OR DI[26])
+                      	             Expected          Fanuc:GO[2] ( ON ) = i[197]OrFanuc:GO[2] ( ON ) = i[197] - [*]OrFanuc:GO[2] ( ON ) = 
+                      	             i[197] OR [*]
+                      	             Programmed: 5:  GO[2]=(R[197])
+                     *	-> Error; #2,379 Motion parameters not according to requirement: (see: KS_Teil_3_2_01a_ROB-KUKA/FANUC_WPS_EZSP-SK)
+                      	           Programmed: 48:J P[37] 100% CNT0 ACC100 TB    .10sec,P-SPS Tool_Offset,PR[11] Offset,PR[12] 
+                      	           ({Act_P0=37,Act_P1=37, Tool=1, Basis=1, LastDaten=1})
+                      	           TimeBefore wrong. Expected:: 1 (TB in 1/100 Sekunden)
+
+               Punkt  39   (2): 
+                     *	-> Error; #1,379 SZ1 (SZ_Schweißzange): Syntax error (Entry point '7:  CALL MAKRO080'): '#2.K01a.1005.1#_WPS - 
+                      	           EZ_1_SP_1_Schweisspunkt (Siehe: KS_Teil_3_2_01a_ROB-KUKA/FANUC_WPS_EZSP-SK)' 
+                      	             Error before    6:  WAIT (!DI[129] OR DI[26])
+                      	             Expected          Fanuc:GO[2] ( ON ) = i[197]OrFanuc:GO[2] ( ON ) = i[197] - [*]OrFanuc:GO[2] ( ON ) = 
+                      	             i[197] OR [*]
+                      	             Programmed: 5:  GO[2]=(R[197])
+                     *	-> Error; #2,379 Motion parameters not according to requirement: (see: KS_Teil_3_2_01a_ROB-KUKA/FANUC_WPS_EZSP-SK)
+                      	           Programmed: 53:J P[39] 100% CNT0 ACC100 TB    .10sec,P-SPS Tool_Offset,PR[11] Offset,PR[12] 
+                      	           ({Act_P0=39,Act_P1=39, Tool=1, Basis=1, LastDaten=1})
+                      	           TimeBefore wrong. Expected:: 1 (TB in 1/100 Sekunden)
+
+
+            UP021  (10): 
+               Punkt   9   (2): 
+                     *	-> Error; #1,379 SZ1 (SZ_Schweißzange): Syntax error (Entry point '7:  CALL MAKRO080'): '#2.K01a.1005.1#_WPS - 
+                      	           EZ_1_SP_1_Schweisspunkt (Siehe: KS_Teil_3_2_01a_ROB-KUKA/FANUC_WPS_EZSP-SK)' 
+                      	             Error before    6:  WAIT (!DI[129] OR DI[26])
+                      	             Expected          Fanuc:GO[2] ( ON ) = i[197]OrFanuc:GO[2] ( ON ) = i[197] - [*]OrFanuc:GO[2] ( ON ) = 
+                      	             i[197] OR [*]
+                      	             Programmed: 5:  GO[2]=(R[197])
+                     *	-> Error; #2,379 Motion parameters not according to requirement: (see: KS_Teil_3_2_01a_ROB-KUKA/FANUC_WPS_EZSP-SK)
+                      	           Programmed: 14:J P[9] 100% CNT0 ACC100 TB    .10sec,P-SPS Tool_Offset,PR[11] Offset,PR[12] 
+                      	           ({Act_P0=9,Act_P1=9, Tool=1, Basis=1, LastDaten=1})
+                      	           TimeBefore wrong. Expected:: 1 (TB in 1/100 Sekunden)
+
+               Punkt  20   (2): 
+                     *	-> Error; #1,379 SZ1 (SZ_Schweißzange): Syntax error (Entry point '7:  CALL MAKRO080'): '#2.K01a.1005.1#_WPS - 
+                      	           EZ_1_SP_1_Schweisspunkt (Siehe: KS_Teil_3_2_01a_ROB-KUKA/FANUC_WPS_EZSP-SK)' 
+                      	             Error before    6:  WAIT (!DI[129] OR DI[26])
+                      	             Expected          Fanuc:GO[2] ( ON ) = i[197]OrFanuc:GO[2] ( ON ) = i[197] - [*]OrFanuc:GO[2] ( ON ) = 
+                      	             i[197] OR [*]
+                      	             Programmed: 5:  GO[2]=(R[197]+1)
+                     *	-> Error; #2,379 Motion parameters not according to requirement: (see: KS_Teil_3_2_01a_ROB-KUKA/FANUC_WPS_EZSP-SK)
+                      	           Programmed: 27:J P[20] 100% CNT0 ACC100 TB    .10sec,P-SPS Tool_Offset,PR[11] Offset,PR[12] 
+                      	           ({Act_P0=20,Act_P1=20, Tool=1, Basis=1, LastDaten=1})
+                      	           TimeBefore wrong. Expected:: 1 (TB in 1/100 Sekunden)
+
+               Punkt  25   (2): 
+                     *	-> Error; #1,379 SZ1 (SZ_Schweißzange): Syntax error (Entry point '7:  CALL MAKRO080'): '#2.K01a.1005.1#_WPS - 
+                      	           EZ_1_SP_1_Schweisspunkt (Siehe: KS_Teil_3_2_01a_ROB-KUKA/FANUC_WPS_EZSP-SK)' 
+                      	             Error before    6:  WAIT (!DI[129] OR DI[26])
+                      	             Expected          Fanuc:GO[2] ( ON ) = i[197]OrFanuc:GO[2] ( ON ) = i[197] - [*]OrFanuc:GO[2] ( ON ) = 
+                      	             i[197] OR [*]
+                      	             Programmed: 5:  GO[2]=(R[197])
+                     *	-> Error; #2,379 Motion parameters not according to requirement: (see: KS_Teil_3_2_01a_ROB-KUKA/FANUC_WPS_EZSP-SK)
+                      	           Programmed: 34:J P[25] 100% CNT0 ACC100 TB    .10sec,P-SPS Tool_Offset,PR[11] Offset,PR[12] 
+                      	           ({Act_P0=25,Act_P1=25, Tool=1, Basis=1, LastDaten=1})
+                      	           TimeBefore wrong. Expected:: 1 (TB in 1/100 Sekunden)
+
+               Punkt  37   (2): 
+                     *	-> Error; #1,379 SZ1 (SZ_Schweißzange): Syntax error (Entry point '7:  CALL MAKRO080'): '#2.K01a.1005.1#_WPS - 
+                      	           EZ_1_SP_1_Schweisspunkt (Siehe: KS_Teil_3_2_01a_ROB-KUKA/FANUC_WPS_EZSP-SK)' 
+                      	             Error before    6:  WAIT (!DI[129] OR DI[26])
+                      	             Expected          Fanuc:GO[2] ( ON ) = i[197]OrFanuc:GO[2] ( ON ) = i[197] - [*]OrFanuc:GO[2] ( ON ) = 
+                      	             i[197] OR [*]
+                      	             Programmed: 5:  GO[2]=(R[197])
+                     *	-> Error; #2,379 Motion parameters not according to requirement: (see: KS_Teil_3_2_01a_ROB-KUKA/FANUC_WPS_EZSP-SK)
+                      	           Programmed: 48:J P[37] 100% CNT0 ACC100 TB    .10sec,P-SPS Tool_Offset,PR[11] Offset,PR[12] 
+                      	           ({Act_P0=37,Act_P1=37, Tool=1, Basis=1, LastDaten=1})
+                      	           TimeBefore wrong. Expected:: 1 (TB in 1/100 Sekunden)
+
+               Punkt  39   (2): 
+                     *	-> Error; #1,379 SZ1 (SZ_Schweißzange): Syntax error (Entry point '7:  CALL MAKRO080'): '#2.K01a.1005.1#_WPS - 
+                      	           EZ_1_SP_1_Schweisspunkt (Siehe: KS_Teil_3_2_01a_ROB-KUKA/FANUC_WPS_EZSP-SK)' 
+                      	             Error before    6:  WAIT (!DI[129] OR DI[26])
+                      	             Expected          Fanuc:GO[2] ( ON ) = i[197]OrFanuc:GO[2] ( ON ) = i[197] - [*]OrFanuc:GO[2] ( ON ) = 
+                      	             i[197] OR [*]
+                      	             Programmed: 5:  GO[2]=(R[197])
+                     *	-> Error; #2,379 Motion parameters not according to requirement: (see: KS_Teil_3_2_01a_ROB-KUKA/FANUC_WPS_EZSP-SK)
+                      	           Programmed: 53:J P[39] 100% CNT0 ACC100 TB    .10sec,P-SPS Tool_Offset,PR[11] Offset,PR[12] 
+                      	           ({Act_P0=39,Act_P1=39, Tool=1, Basis=1, LastDaten=1})
+                      	           TimeBefore wrong. Expected:: 1 (TB in 1/100 Sekunden)
+
+
+
+         2.K01a.1014.1: WPS - EZ_1_SP_1_UP106_Kraftskalieren   (2): 
+            UP106   (2): 
+               Punkt   3   (2): 
+                     *	-> Error; #1,381 SZ1 (SZ_Schweißzange): Syntax error (Entry point '4:  CALL VW_USER(Basic1,EZSP,Nr1,Pr [...]'): 
+                      	           'EZ_1_SP_1_UP106_Kraftskalieren nicht nach Standard programmiert (Siehe: Programmierrichtline WPS_EZSP-SK)' 
+                      	             Error after     7:  DO[718]=(F[293])
+                      	             Expected          TIMER[10] = -30
+                      	             Programmed: 8:  TIMER[10]=((-3))
+                     *	-> Error; #2,381 Motion parameters not according to requirement: (see: Programmierrichtline WPS_EZSP-SK)
+                      	           Programmed: 8:J P[3] 100% CNT0 ACC100 TB    .10sec,P-SPS ({Act_P0=3,Act_P1=3, Tool=1, Basis=0, LastDaten=1})
+                      	           TimeBefore wrong. Expected:: 0 (TB in 1/100 Sekunden)
+
+
+
+         2.K01a.1015.1: WPS - EZ_1_SP_1_UP106_Stromskalieren, UP106, Punkt   3	-> Error; #2,382 Motion parameters not according to requirement: (see: Programmierrichtline WPS_EZSP-SK)
+                                                                              	           Programmed: 8:J P[3] 100% CNT0 ACC100 TB    .10sec,P-SPS ({Act_P0=3,Act_P1=3, Tool=1, Basis=0, LastDaten=1})
+                                                                              	           TimeBefore wrong. Expected:: 0 (TB in 1/100 Sekunden)
+
+      SZ2 (SZ_Schweißzange)   (2): 
+         2.K01a.2014.1: WPS - EZ_2_SP_2_UP107_Kraftskalieren	-> Error; #4,384 SZ2 (SZ_Schweißzange): WPS - EZ_2_SP_2_UP107_Kraftskalieren. WPS - EZ_2_SP_2_UP107_Kraftskalieren nicht 
+                                                            	           nach Standard (Siehe: Programmierrichtline WPS_EZSP-SK) (Reason: Not found or programmed differently. (e.g. 
+                                                            	           Conditional macro call instead of direct)
+                                                            	           Expected: 'Kuka:Tech_.EZSP P1=21; P2= 11; P3= 0; P4= 0; P5= 21; P6= 0; P7=F293; P8=101;' oder 
+                                                            	           'Fanuc:Basic1.EZSP P1=20; P2=11; P3=0; P4=0; P5=21; P6=0; P7=F293; P8=[];'
+         2.K01a.2015.1: WPS - EZ_2_SP_2_UP107_Stromskalieren, UP107, Punkt   2	-> Error; #2,385 Motion parameters not according to requirement: (see: Programmierrichtline WPS_EZSP-SK)
+                                                                              	           Programmed: 7:J P[2] 100% CNT0 ACC100 TB    .10sec,P-SPS ({Act_P0=2,Act_P1=2, Tool=1, Basis=0, LastDaten=1})
+                                                                              	           TimeBefore wrong. Expected:: 0 (TB in 1/100 Sekunden)
+
+
+
+S04 Up Folge Makro verwendet  (58): 
+   KJLTVL111120R01  (58): 
+      FOLGE011	-> Note; DEBUG: ruft auf: MAKRO000, MAKRO050, MAKRO340, UP001, UP002, UP003, MAKRO119, UP004, MAKRO015, MAKRO998, 
+              	          MAKRO342, MAKRO115, MAKRO114, UP101, MAKRO081, MAKRO111
+      FOLGE020	-> Note; DEBUG: ruft auf: MAKRO000, MAKRO050, MAKRO340, UP021, UP022, UP023, MAKRO119, UP024, MAKRO015, MAKRO998, 
+              	          MAKRO342, MAKRO115, MAKRO114, UP101, MAKRO081, MAKRO111
+      FOLGE123	-> Note; DEBUG: ruft auf: MAKRO000, MAKRO050, MAKRO998
+      FOLGE124	-> Note; DEBUG: ruft auf: MAKRO000, MAKRO050, MAKRO340, MAKRO998, MAKRO342, MAKRO115, MAKRO114, UP101, UP112, UP113, 
+              	          UP114, UP201, UP202, UP203, UP206, UP207
+      FOLGE125	-> Note; DEBUG: ruft auf: MAKRO000, MAKRO998
+      MAKRO005	-> Warning; Makro is not used
+      MAKRO006	-> Warning; Makro is not used
+      MAKRO007	-> Warning; Makro is not used
+      MAKRO008	-> Warning; Makro is not used
+      MAKRO009	-> Warning; Makro is not used
+      MAKRO010	-> Warning; Makro is not used
+      MAKRO011	-> Warning; Makro is not used
+      MAKRO012	-> Warning; Makro is not used
+      MAKRO013	-> Warning; Makro is not used
+      MAKRO014	-> Warning; Makro is not used
+      MAKRO050	-> Note; DEBUG: ruft auf: MAKRO057, MAKRO058
+      MAKRO086	-> Warning; Makro is only used on unsed elements: 'UP106'
+      MAKRO116	-> Warning; Makro is only used on unsed elements: 'UP107'
+      MAKRO341	-> Warning; Makro is not used
+      MAKRO342	-> Note; DEBUG: ruft auf: MAKRO344, MAKRO345, MAKRO346, MAKRO347, MAKRO348, MAKRO349, MAKRO350, MAKRO351, MAKRO352, 
+              	          MAKRO353, MAKRO354, MAKRO355, MAKRO356, MAKRO357, MAKRO358, MAKRO359, MAKRO360, MAKRO361, MAKRO362, MAKRO363, 
+              	          MAKRO364, MAKRO365
+      MAKRO343	-> Note; DEBUG: ruft auf: MAKRO344, MAKRO345, MAKRO346, MAKRO347, MAKRO348, MAKRO349, MAKRO350, MAKRO351, MAKRO352, 
+              	          MAKRO353, MAKRO354, MAKRO355, MAKRO356, MAKRO357, MAKRO358, MAKRO359, MAKRO360, MAKRO361, MAKRO362, MAKRO363, 
+              	          MAKRO364, MAKRO365
+      MAKRO900	-> Warning; Makro is not used
+      MAKRO910	-> Warning; Makro is only used on unsed elements: 'MAKRO911'
+      MAKRO911   (2): 
+            *	-> Note; DEBUG: ruft auf: MAKRO910
+            *	-> Warning; Makro is only used on unsed elements: 'MAKRO980'
+
+      MAKRO920	-> Warning; Makro is only used on unsed elements: 'MAKRO921'
+      MAKRO921   (2): 
+            *	-> Note; DEBUG: ruft auf: MAKRO920
+            *	-> Warning; Makro is only used on unsed elements: 'MAKRO980'
+
+      MAKRO930	-> Warning; Makro is not used
+      MAKRO980   (2): 
+            *	-> Note; DEBUG: ruft auf: MAKRO941, MAKRO942, MAKRO943, MAKRO944, MAKRO945, MAKRO946, MAKRO931, MAKRO932, MAKRO933, 
+             	          MAKRO934, MAKRO935, MAKRO936, MAKRO921, MAKRO922, MAKRO923, MAKRO924, MAKRO925, MAKRO926, MAKRO911, MAKRO912, 
+             	          MAKRO913, MAKRO914, MAKRO915, MAKRO916
+            *	-> Warning; Makro is not used
+
+      MAKROSP1	-> Warning; Makro is not used
+      MAKROSP2	-> Warning; Makro is not used
+      MAKROSP3	-> Warning; Makro is not used
+      MAKROSP4	-> Warning; Makro is not used
+      MAKROSP5	-> Warning; Makro is not used
+      MAKROSP6	-> Warning; Makro is not used
+      MAKROSP7	-> Warning; Makro is not used
+      MAKROSP8	-> Warning; Makro is not used
+      UP001	-> Note; DEBUG: ruft auf: MAKRO050, MAKRO080, MAKRO001
+      UP002	-> Note; DEBUG: ruft auf: MAKRO050, MAKRO343, MAKRO002
+      UP003	-> Note; DEBUG: ruft auf: MAKRO050, MAKRO110, MAKRO102, MAKRO003
+      UP004	-> Note; DEBUG: ruft auf: MAKRO050, MAKRO020, MAKRO342, MAKRO340, MAKRO004
+      UP021	-> Note; DEBUG: ruft auf: MAKRO050, MAKRO080, MAKRO001
+      UP022	-> Note; DEBUG: ruft auf: MAKRO050, MAKRO343, MAKRO002
+      UP023	-> Note; DEBUG: ruft auf: MAKRO050, MAKRO110, MAKRO102, MAKRO003
+      UP024	-> Note; DEBUG: ruft auf: MAKRO050, MAKRO020, MAKRO342, MAKRO340, MAKRO004
+      UP101	-> Note; DEBUG: ruft auf: MAKRO050, MAKRO083, MAKRO082, MAKRO087, MAKRO080
+      UP106	-> Note; DEBUG: ruft auf: MAKRO050, MAKRO086, MAKRO080
+      UP107	-> Note; DEBUG: ruft auf: MAKRO050, MAKRO116, MAKRO110
+      UP112	-> Note; DEBUG: ruft auf: MAKRO050
+      UP113	-> Note; DEBUG: ruft auf: MAKRO050, MAKRO089, MAKRO081
+      UP114	-> Note; DEBUG: ruft auf: MAKRO050, MAKRO119, MAKRO103, MAKRO102, MAKRO111, MAKRO115, MAKRO114
+      UP201	-> Note; DEBUG: ruft auf: MAKRO050
+      UP202	-> Note; DEBUG: ruft auf: MAKRO050
+      UP203	-> Note; DEBUG: ruft auf: MAKRO050
+      UP206	-> Note; DEBUG: ruft auf: MAKRO050
+      UP207	-> Note; DEBUG: ruft auf: MAKRO050
+
+
+S06 Werkzeuge Basen Lastdaten   (1): 
+   KJLTVL111120R01, Tool24: 24	-> Error; 26x01 Is used in FOLGE123,UP206,UP207, but there is a standard name / standard coordinates used.: 
+
+S07 VwUser Vergleich  (22): 
+   KJLTVL111120R01  (22): 
+      USER.PC	-> Error; Does not match with requirement. Reason:Checksum differs
+      USER2_S.PC	-> Error; Does not match with requirement. Reason:Checksum differs
+      USER3_S.PC	-> Error; Does not match with requirement. Reason:Checksum differs
+      USER_ADV.PC	-> Error; Does not match with requirement. Reason:Checksum differs
+      USER_ERR.PC	-> Error; Does not match with requirement. Reason:Checksum differs
+      USER_INIT.PC	-> Error; Does not match with requirement. Reason:Checksum differs
+      USER_IS1.PC	-> Error; Does not match with requirement. Reason:Checksum differs
+      USER_IS2.PC	-> Error; Does not match with requirement. Reason:Checksum differs
+      USER_IS3.PC	-> Error; Does not match with requirement. Reason:Checksum differs
+      USER_IS4.PC	-> Error; Does not match with requirement. Reason:Checksum differs
+      USER_IS5.PC	-> Error; Does not match with requirement. Reason:Checksum differs
+      USER_MAN.PC	-> Error; Does not match with requirement. Reason:Checksum differs
+      USER_PR1.PC	-> Error; Does not match with requirement. Reason:Checksum differs
+      USER_PR2.PC	-> Error; Does not match with requirement. Reason:Checksum differs
+      USER_PR3.PC	-> Error; Does not match with requirement. Reason:Checksum differs
+      USER_PRC.PC	-> Error; Does not match with requirement. Reason:Checksum differs
+      USER_S.PC	-> Error; Does not match with requirement. Reason:Checksum differs
+      USER_WAS.PC	-> Error; Does not match with requirement. Reason:Checksum differs
+      USR_PRJ1.PC	-> Error; Does not match with requirement. Reason:Checksum differs
+      USR_PRJ2.PC	-> Error; Does not match with requirement. Reason:Checksum differs
+      VAKLEBEN.PC	-> Error; Does not match with requirement. Reason:Checksum differs
+      VW_USER.PC	-> Error; Does not match with requirement. Reason:Checksum differs
+
+
+S09 Profinet   (1): 
+   KJLTVL111120R01	-> Note; This check is currently (still) not supported by FANUC robots
+
+S11 Konfigurations Vergleich   (1): 
+   KJLTVL111120R01	-> Note; Folgende Flags sind im Makro57 aktiviert: F292, F318, F330, F522, F523, F530, F556, F560, F561, F710, F819
+
+
