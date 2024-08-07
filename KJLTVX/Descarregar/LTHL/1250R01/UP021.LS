@@ -274,9 +274,7 @@ CONTROL_CODE	= 00000000 00000000;
        ------ ;
   72:  !Encender Perfil Lib 79 vs ST1250 ;
   73:J P[46] 100% CNT100 ACC100 TB   0.00sec,P-SPS    ;
-      1:  TC_ONLINE (ON) ;
-      2:  DO[79]=ON ;
-      3:  TC_ONLINE (DI[41] AND DI[43] AND DI[80] AND M[95]) ;
+      1:  TC_ONLINE (DI[41] AND DI[43] AND DI[79] AND DI[80] AND M[30] AND M[95]) ;
        ------ ;
   74:  !Encender Perfil Lib 80 vs ST1250 ;
   75:  !Apagar Anticolision 1 vs 1220R01 ;
@@ -288,9 +286,10 @@ CONTROL_CODE	= 00000000 00000000;
       4:  DO[41]=ON ;
       5:  DO[43]=ON ;
       6:  DO[80]=ON ;
-      7:  WAIT (DI[23])    ;
-      8:  DO[23]=ON ;
-      9:  TC_ONLINE (M[30] AND M[95]) ;
+      7:  DO[79]=ON ;
+      8:  WAIT (DI[23])    ;
+      9:  DO[23]=ON ;
+     10:  TC_ONLINE (M[30] AND M[95]) ;
        ------ ;
 /POS
 P[1]{
