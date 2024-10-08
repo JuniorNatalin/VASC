@@ -1,0 +1,27 @@
+F Number: F174606
+VERSION : HandlingTool         
+$VERSION: V8.2306       4/24/2014
+DATE:     10-AUG-24 08:53 
+
+MEMORY USAGE::
+
+MEMORY DETAIL (MAIN):
+Pools        TOTAL     AVAILABLE      LARGEST
+TPP         1000.0KB      97.8KB      96.3KB
+PERM        3002.0KB     370.7KB     369.4KB
+SYSTEM      8616.9KB        .1KB        .1KB
+SHADOW      6430.4KB    5650.4KB      32.0KB
+TEMP      115886.0KB   88521.5KB   63801.9KB
+FROM       63481.0KB   19530.0KB        .0KB
+HARDWARE
+FROM      64MB
+DRAM     128MB
+SRAM       3MB
+
+MEMORY DETAIL (COMM):
+Pools        TOTAL     AVAILABLE      LARGEST
+TPP            0.0KB       0.0KB       0.0KB
+PERM          48.0KB      47.8KB      47.8KB
+SYSTEM      6144.0KB    4924.5KB    4924.5KB
+SHADOW      6430.4KB    5650.4KB      32.0KB
+TEMP        9761.6KB    7074.0KB    7026.0KB

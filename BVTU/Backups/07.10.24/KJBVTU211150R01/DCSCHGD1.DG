@@ -1,0 +1,31 @@
+F Number: F174606
+VERSION : HandlingTool         
+$VERSION: V8.2306       4/24/2014
+DATE:     10-FEB-24 01:00 
+DCS Version: V3.3.2
+
+
+--- Mastering parameter ----------------
+    Axis  Position  Master count  Status
+---------- Group 1 ----------       
+J1       1.502 deg      300926      CHGD
+J2     -57.155 deg     -202920      CHGD
+J3       -.127 deg     -119179      CHGD
+J4      -1.419 deg    29570327      CHGD
+J5     102.982 deg     -265567      CHGD
+J6       3.261 deg     9407510      CHGD
+---------- Group 2 ----------       
+---------- Group 3 ----------       
+---------- Group 4 ----------       
+
+--- Signature number (Dec) -------------
+                Current        Latch
+1 Total:        1982959060            0
+  Time:10-FEB-24 01:00              None
+2 Base:        -1281819165            0
+  Time:10-FEB-24 01:00              None
+3 Pos./Speed:  -1197446763            0
+  Time:12-SEP-16 22:31              None
+4 I/O connect:  1515755871            0
+  Time:14-JUN-16 01:30              None
+

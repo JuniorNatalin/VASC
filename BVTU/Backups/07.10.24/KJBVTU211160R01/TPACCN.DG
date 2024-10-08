@@ -1,0 +1,90 @@
+                       TP Accounting
+
+F Number: F174694
+VERSION : HandlingTool         
+$VERSION: V8.2306       4/24/2014
+DATE:     10-AUG-24 08:56 
+
+Menu                         Elapsed Time         #Sel       #Keys
+                     (YY-MM-DD HH:MM:SS)
+Id:  962, 1                       21:28           11         102
+PROFINET                       05:47:06           47         593
+File                     03-02 04:58:10          677        5460
+Top Menu                          01:16           26          13
+DCS                         02 03:13:26           21         217
+USER                  05-04-23 04:13:04      1682445       62118
+Alarm Log                   07 17:40:48         1439         557
+Clock                       06 21:44:08           36         247
+Variables                      19:01:00           30        1577
+Hints                    02-00 08:00:38        75238        1058
+Flag                           17:14:20          163        2376
+Custom                               52           19          92
+General                              22            5          11
+Id:  381, 5              01-27 19:07:46          517         199
+Browser                     25 16:46:28        48089       50684
+Id:  936, 1                       10:58            3          51
+Prog Select                          30            9          52
+USER2                       02 00:46:48          273       47885
+Master/Cal                           26            3          33
+Axis                              01:38           26          41
+Version ID                     04:26:38           10          90
+Registers                04-00 03:34:56           39         421
+SELECT                   01-05 08:01:46        30841       13254
+KAREL Vars                           32            2          72
+Digital                  03-07 15:43:18          571        8323
+Position Display            03 11:26:16          468        3758
+Position Reg                05 09:40:30          157        1285
+EDIT                  01-08-24 04:37:00      1526246       79593
+Frames                      02 18:04:44           44        3241
+Config                            05:02            8         142
+Motion                         15:39:32           18         625
+BG Logic                       02:06:00           12         307
+Group                       02 18:00:42           25         253
+PROFINET                             52            1          65
+Host Comm                   04 01:26:22           29         604
+Passwords                01-05 08:44:56          597        4353
+Id:  1110, 1                02 01:57:36          239        9382
+Marker                            06:10           20         319
+Macro                                02            1           1
+Analog                               04            1           0
+Program Shift                     01:20            1          60
+PMC                                  06            1           5
+Setup                                30            3          27
+Panel setup                          08            2          17
+Robot Info                           10            3          24
+File Memory                          10            3           3
+Auto Backup                          08            2          17
+TC_ONLINE                            04            1           1
+Macros                            34:40            1           0
+Frame Offset                   21:56:32            3          75
+Id:  381, 2                          28            6           8
+Prg Timer                   01 15:32:50            8           2
+Sys Timer                            26            2           0
+Motion Log                     06:26:32          426         132
+System Log                           28            3          22
+Tool Offset                       01:24            1         168
+Log Book                    03 09:46:18         3085        8397
+Cfg Pwd                              58            5          20
+Comm Log                             24            2          10
+4D Display                  02 02:50:40           20          34
+Id:  381, 4                          06            1           3
+Coll Guard                           02            1           1
+
+Full Menus:           08-08-12 01:40:36 
+Quick Menus:                         00 
+
+MENU Popup:                                     1506
+[ TYPE ] Pullup:                                 155
+
+Functions at COLD start
+F 0                                              104
+F 1                                              879
+F 5                                               83
+F 6                                                5
+TOGGLE REMOTE TCP                                  2
+PRINT                                             10
+UNSIM ALL I/O                                     72
+F16                                               71
+
+Functions at CTRL start
+START (COLD)                                       8
