@@ -1,0 +1,10 @@
+F Number: F173256
+VERSION : HandlingTool         
+$VERSION: V8.2306       4/24/2014
+DATE:     07-OCT-24 10:04 
+Columns: Date, (U)pload/(D)ownload, File, Status, IPaddress
+
+SEP 25 2024 15:22:46 U LOGBOOK.LS   226 Binary Transfer complete. 172.19.254.121                                               
+SEP 25 2024 15:22:46 U ERRORAPP.LS  550 File not found            172.19.254.121                                               
+SEP 25 2024 15:22:46 U ERRPWD.LS    226 Binary Transfer complete. 172.19.254.121                                               
+SEP 25 2024 15:27:50 U SUMMARY.DG   226 Binary Transfer complete. 172.19.254.121                                               

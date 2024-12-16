@@ -1,0 +1,22 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR"content="Microsoft FrontPage 6.0">
+<title>robot Mapping</title>
+</head>
+<body bgcolor="#C0C0C0">
+<form action="../karel/arc" method="GET"name="arc">
+</form>
+<p align="center">
+<object classid="clsid:BEC06F36-B6DE-4903-838C-5B110F58550E"id="FRIPExecution1">
+	<param name="FastLoad" value="1">
+	<param name="Name" value="PNIO_MAP">
+	<param name="ClickEvents"value="1">
+	<param name="ChangeEvents"value="1">
+	<param name="FocusEvents"value="1">
+</object>
+</p>
+</body>
+</html>
